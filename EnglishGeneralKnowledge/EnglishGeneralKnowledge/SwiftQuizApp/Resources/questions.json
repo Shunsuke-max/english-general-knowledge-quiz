@@ -1,0 +1,3350 @@
+[
+  {
+    "question": "What causes the seasons on Earth?",
+    "questionJapanese": "地球の季節を引き起こすものは何ですか？",
+    "options": [
+      "The tilt of Earth's axis",
+      "The distance from the Sun",
+      "Solar flares",
+      "Ocean currents"
+    ],
+    "answer": "The tilt of Earth's axis",
+    "explanation": "The tilt of Earth's axis causes different parts of the planet to receive more or less sunlight during the year, creating seasons.",
+    "explanationJapanese": "地球の軸の傾きによって、年間を通じて地球の各地域が受ける日光の量が変わり、季節が生まれます。",
+    "vocabulary": [
+      {
+        "word": "tilt",
+        "meaning": "傾き"
+      },
+      {
+        "word": "receive",
+        "meaning": "受ける"
+      },
+      {
+        "word": "sunlight",
+        "meaning": "日光"
+      }
+    ],
+    "category": "Geography",
+    "difficulty": "Medium",
+    "knowledgeInsight": "This question highlights Earth's axial tilt; knowing when solstices occur helps you predict the seasons.",
+    "englishExpression": "Phrase to try: \"I link The tilt of Earth's axis to this question highlights earth's axial tilt; knowing when solstices occur helps you predict the seasons.\""
+  },
+  {
+    "question": "Which gas do plants release as a byproduct of photosynthesis?",
+    "questionJapanese": "植物が光合成の副産物として放出する気体は何ですか？",
+    "options": [
+      "Carbon dioxide",
+      "Oxygen",
+      "Nitrogen",
+      "Methane"
+    ],
+    "answer": "Oxygen",
+    "explanation": "Plants take in carbon dioxide and release oxygen while they make their own food through photosynthesis.",
+    "explanationJapanese": "植物は光合成で自分の食べ物を作る際、二酸化炭素を取り込み、酸素を放出します。",
+    "vocabulary": [
+      {
+        "word": "photosynthesis",
+        "meaning": "光合成"
+      },
+      {
+        "word": "byproduct",
+        "meaning": "副産物"
+      },
+      {
+        "word": "release",
+        "meaning": "放出する"
+      }
+    ],
+    "category": "Science",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Oxygen is released during photosynthesis, balancing the carbon dioxide animals exhale.",
+    "englishExpression": "Phrase to try: \"I link Oxygen to oxygen is released during photosynthesis, balancing the carbon dioxide animals exhale.\""
+  },
+  {
+    "question": "What is the capital city of Canada?",
+    "questionJapanese": "カナダの首都はどこですか？",
+    "options": [
+      "Toronto",
+      "Vancouver",
+      "Ottawa",
+      "Montreal"
+    ],
+    "answer": "Ottawa",
+    "explanation": "Ottawa is the capital of Canada and is located in the province of Ontario near the border with Quebec.",
+    "explanationJapanese": "オタワはカナダの首都で、オンタリオ州にありケベック州との境界近くに位置しています。",
+    "vocabulary": [
+      {
+        "word": "capital",
+        "meaning": "首都"
+      },
+      {
+        "word": "province",
+        "meaning": "州"
+      },
+      {
+        "word": "border",
+        "meaning": "境界"
+      }
+    ],
+    "category": "Geography",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Ottawa was chosen to ease rivalries between English and French regions and sits near Ontario-Quebec.",
+    "englishExpression": "Phrase to try: \"I link Ottawa to ottawa was chosen to ease rivalries between english and french regions and sits near ontario-quebec.\""
+  },
+  {
+    "question": "Which invention allowed people to share information instantly across long distances in the 19th century?",
+    "questionJapanese": "19世紀に人々が遠く離れた場所で即座に情報を共有できるようにした発明は何ですか？",
+    "options": [
+      "Telephone",
+      "Printing press",
+      "Telegraph",
+      "Radio"
+    ],
+    "answer": "Telegraph",
+    "explanation": "The telegraph sent electrical signals over wires, letting people exchange messages quickly across continents before the telephone was widely used.",
+    "explanationJapanese": "電信は電線を通して電気信号を送り、電話が広く使われる前に大陸を越えて迅速にメッセージを交換することを可能にしました。",
+    "vocabulary": [
+      {
+        "word": "telegraph",
+        "meaning": "電信"
+      },
+      {
+        "word": "signal",
+        "meaning": "信号"
+      },
+      {
+        "word": "continent",
+        "meaning": "大陸"
+      }
+    ],
+    "category": "Technology",
+    "difficulty": "Medium",
+    "knowledgeInsight": "The telegraph used Morse code over wires before the telephone became common.",
+    "englishExpression": "Phrase to try: \"I link Telegraph to the telegraph used morse code over wires before the telephone became common.\""
+  },
+  {
+    "question": "Why does sound travel faster in water than in air?",
+    "questionJapanese": "なぜ音は空気より水の中を速く伝わるのですか？",
+    "options": [
+      "Water is denser",
+      "Water is colder",
+      "Water has more oxygen",
+      "Water moves faster"
+    ],
+    "answer": "Water is denser",
+    "explanation": "Sound waves move faster through denser materials because particles are closer together, so vibrations pass energy more quickly.",
+    "explanationJapanese": "音波は粒子が密集しているほど速く進むので、粒子間の距離が短い水の方が空気より音の速度が速くなります。",
+    "vocabulary": [
+      {
+        "word": "denser",
+        "meaning": "より密度が高い"
+      },
+      {
+        "word": "vibration",
+        "meaning": "振動"
+      },
+      {
+        "word": "pass energy",
+        "meaning": "エネルギーを伝える"
+      }
+    ],
+    "category": "Science",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Water’s density lets vibrations carry energy faster, which matters for sonar and marine communication.",
+    "englishExpression": "Phrase to try: \"I link Water is denser to water’s density lets vibrations carry energy faster, which matters for sonar and marine communication.\""
+  },
+  {
+    "question": "Which process breaks down food into nutrients that the body can absorb?",
+    "questionJapanese": "どの過程が食べ物を体が吸収できる栄養に分解しますか？",
+    "options": [
+      "Digestion",
+      "Respiration",
+      "Evaporation",
+      "Combustion"
+    ],
+    "answer": "Digestion",
+    "explanation": "Digestion is the process in which the digestive system breaks food into smaller molecules so the body can absorb them into the bloodstream.",
+    "explanationJapanese": "消化は消化器系が食べ物をより小さな分子に分解し、体が血流に吸収できるようにする過程です。",
+    "vocabulary": [
+      {
+        "word": "digestive system",
+        "meaning": "消化器系"
+      },
+      {
+        "word": "absorb",
+        "meaning": "吸収する"
+      },
+      {
+        "word": "molecule",
+        "meaning": "分子"
+      }
+    ],
+    "category": "Science",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Digestion uses acids and enzymes to break food into molecules that enter the bloodstream.",
+    "englishExpression": "Phrase to try: \"I link Digestion to digestion uses acids and enzymes to break food into molecules that enter the bloodstream.\""
+  },
+  {
+    "question": "Which planet is famous for its extensive ring system?",
+    "questionJapanese": "幅広い環を持つことで有名な惑星は何ですか？",
+    "options": [
+      "Jupiter",
+      "Saturn",
+      "Mars",
+      "Venus"
+    ],
+    "answer": "Saturn",
+    "explanation": "Saturn is known for the bright rings made of ice and rock particles that orbit the planet.",
+    "explanationJapanese": "土星は氷や岩の粒子でできた輝く環を持つことで知られています。",
+    "vocabulary": [
+      {
+        "word": "orbit",
+        "meaning": "軌道を回る"
+      },
+      {
+        "word": "particle",
+        "meaning": "粒子"
+      },
+      {
+        "word": "system",
+        "meaning": "系"
+      }
+    ],
+    "category": "Science",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Saturn’s rings are mostly ice and dust, and their brightness helps astronomers study particle dynamics.",
+    "englishExpression": "Phrase to try: \"I link Saturn to saturn’s rings are mostly ice and dust, and their brightness helps astronomers study particle dynamics.\""
+  },
+  {
+    "question": "Which part of a plant carries water from the roots to the leaves?",
+    "questionJapanese": "植物のどの部分が根から葉に水を運びますか？",
+    "options": [
+      "Xylem",
+      "Phloem",
+      "Stem",
+      "Petal"
+    ],
+    "answer": "Xylem",
+    "explanation": "Xylem vessels transport water and minerals upward through the plant from the roots.",
+    "explanationJapanese": "木部（キシレム）は根から植物全体に水とミネラルを運ぶ管です。",
+    "vocabulary": [
+      {
+        "word": "vessel",
+        "meaning": "管"
+      },
+      {
+        "word": "transport",
+        "meaning": "輸送する"
+      },
+      {
+        "word": "mineral",
+        "meaning": "ミネラル"
+      }
+    ],
+    "category": "Nature & Animals",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Xylem vessels act like tiny straws, enabling transpiration to pull water upward.",
+    "englishExpression": "Phrase to try: \"I link Xylem to xylem vessels act like tiny straws, enabling transpiration to pull water upward.\""
+  },
+  {
+    "question": "What language is primarily spoken in Brazil?",
+    "questionJapanese": "ブラジルで主に話されている言語は何ですか？",
+    "options": [
+      "Spanish",
+      "Portuguese",
+      "English",
+      "French"
+    ],
+    "answer": "Portuguese",
+    "explanation": "Portuguese became Brazil's official language during colonial times when Portugal ruled the country.",
+    "explanationJapanese": "ポルトガル語はかつてポルトガルが支配していた時代にブラジルの公用語となりました。",
+    "vocabulary": [
+      {
+        "word": "colonial",
+        "meaning": "植民地の"
+      },
+      {
+        "word": "official",
+        "meaning": "公式の"
+      },
+      {
+        "word": "rule",
+        "meaning": "支配"
+      }
+    ],
+    "category": "Geography",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Brazil kept Portuguese because it was colonized by Portugal, unlike its Spanish-speaking neighbors.",
+    "englishExpression": "Phrase to try: \"I link Portuguese to brazil kept portuguese because it was colonized by portugal, unlike its spanish-speaking neighbors.\""
+  },
+  {
+    "question": "In electronics, what does LED stand for?",
+    "questionJapanese": "電子工学において、LEDは何の略ですか？",
+    "options": [
+      "Light Emitting Diode",
+      "Low Energy Device",
+      "Light Energy Distributor",
+      "Laser Emission Detector"
+    ],
+    "answer": "Light Emitting Diode",
+    "explanation": "An LED is a semiconductor light source that emits light when current flows through it.",
+    "explanationJapanese": "LEDは電流が流れると光を放つ半導体の光源です。",
+    "vocabulary": [
+      {
+        "word": "semiconductor",
+        "meaning": "半導体"
+      },
+      {
+        "word": "emit",
+        "meaning": "放つ"
+      },
+      {
+        "word": "current",
+        "meaning": "電流"
+      }
+    ],
+    "category": "Technology",
+    "difficulty": "Medium",
+    "knowledgeInsight": "LEDs are Light-Emitting Diodes—efficient lights used in displays and signals.",
+    "englishExpression": "Phrase to try: \"I link Light Emitting Diode to leds are light-emitting diodes—efficient lights used in displays and signals.\""
+  },
+  {
+    "question": "Which ocean is the largest by surface area?",
+    "questionJapanese": "表面積が最も大きい海洋はどれですか？",
+    "options": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Pacific Ocean",
+      "Arctic Ocean"
+    ],
+    "answer": "Pacific Ocean",
+    "explanation": "The Pacific Ocean covers more than 30% of the Earth's surface, making it the largest ocean.",
+    "explanationJapanese": "太平洋は地球の表面の30%以上を覆っており、最大の海洋です。",
+    "vocabulary": [
+      {
+        "word": "surface area",
+        "meaning": "表面積"
+      },
+      {
+        "word": "cover",
+        "meaning": "覆う"
+      },
+      {
+        "word": "largest",
+        "meaning": "最大の"
+      }
+    ],
+    "category": "Geography",
+    "difficulty": "Medium",
+    "knowledgeInsight": "The Pacific Ocean covers more than 30% of Earth's surface, dwarfing other seas.",
+    "englishExpression": "Phrase to try: \"I link Pacific Ocean to the pacific ocean covers more than 30% of earth's surface, dwarfing other seas.\""
+  },
+  {
+    "question": "Which organ filters waste products out of the bloodstream?",
+    "questionJapanese": "血液から老廃物をろ過する器官はどれですか？",
+    "options": [
+      "Heart",
+      "Lungs",
+      "Kidneys",
+      "Liver"
+    ],
+    "answer": "Kidneys",
+    "explanation": "The kidneys remove waste and balance salts in the blood, producing urine to expel toxins.",
+    "explanationJapanese": "腎臓は血液中の老廃物と塩分を調整し、毒素を排出する尿を作ります。",
+    "vocabulary": [
+      {
+        "word": "filter",
+        "meaning": "ろ過する"
+      },
+      {
+        "word": "waste",
+        "meaning": "老廃物"
+      },
+      {
+        "word": "toxins",
+        "meaning": "毒素"
+      }
+    ],
+    "category": "Science",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Kidneys contain nephrons that filter plasma and balance minerals.",
+    "englishExpression": "Phrase to try: \"I link Kidneys to kidneys contain nephrons that filter plasma and balance minerals.\""
+  },
+  {
+    "question": "What is the fastest land animal?",
+    "questionJapanese": "陸上で最も速い動物は何ですか？",
+    "options": [
+      "Lion",
+      "Gazelle",
+      "Cheetah",
+      "Ostrich"
+    ],
+    "answer": "Cheetah",
+    "explanation": "Cheetahs can sprint up to 70 mph in short bursts, using their flexible spine and long legs.",
+    "explanationJapanese": "チーターは柔軟な背骨と長い脚を使って最大時速約112キロで走ることができます。",
+    "vocabulary": [
+      {
+        "word": "sprint",
+        "meaning": "全力疾走"
+      },
+      {
+        "word": "burst",
+        "meaning": "短時間"
+      },
+      {
+        "word": "flexible",
+        "meaning": "柔軟な"
+      }
+    ],
+    "category": "Nature & Animals",
+    "difficulty": "Medium",
+    "knowledgeInsight": "The cheetah accelerates to 60–70 mph using a flexible spine and lightweight frame.",
+    "englishExpression": "Phrase to try: \"I link Cheetah to the cheetah accelerates to 60–70 mph using a flexible spine and lightweight frame.\""
+  },
+  {
+    "question": "What is the main ingredient in traditional Japanese miso soup?",
+    "questionJapanese": "伝統的な味噌汁の主な材料は何ですか？",
+    "options": [
+      "Tofu",
+      "Dashi stock",
+      "Miso paste",
+      "Seaweed"
+    ],
+    "answer": "Miso paste",
+    "explanation": "Miso paste, made from fermented soybeans, dissolves into dashi to create the soup's base flavor.",
+    "explanationJapanese": "味噌は発酵した大豆から作られ、出汁に溶けて味噌汁の基本的な味を作ります。",
+    "vocabulary": [
+      {
+        "word": "ingredient",
+        "meaning": "材料"
+      },
+      {
+        "word": "fermented",
+        "meaning": "発酵した"
+      },
+      {
+        "word": "dissolve",
+        "meaning": "溶ける"
+      }
+    ],
+    "category": "Pop Culture",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Miso paste is fermented soybeans, a deep umami base for many dishes.",
+    "englishExpression": "Phrase to try: \"I link Miso paste to miso paste is fermented soybeans, a deep umami base for many dishes.\""
+  },
+  {
+    "question": "Which planet is nicknamed the Red Planet?",
+    "questionJapanese": "赤い惑星と呼ばれるのはどの惑星ですか？",
+    "options": [
+      "Mars",
+      "Venus",
+      "Mercury",
+      "Jupiter"
+    ],
+    "answer": "Mars",
+    "explanation": "Mars appears red because of iron oxide, or rust, covering much of its surface.",
+    "explanationJapanese": "火星は表面の多くが酸化鉄（錆）で覆われているため赤く見えます。",
+    "vocabulary": [
+      {
+        "word": "oxide",
+        "meaning": "酸化物"
+      },
+      {
+        "word": "cover",
+        "meaning": "覆う"
+      },
+      {
+        "word": "surface",
+        "meaning": "表面"
+      }
+    ],
+    "category": "Science",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Mars has oxidized iron dust on its surface, giving it a red-orange color.",
+    "englishExpression": "Phrase to try: \"I link Mars to mars has oxidized iron dust on its surface, giving it a red-orange color.\""
+  },
+  {
+    "question": "What wireless technology is commonly used for short-range data transfer between devices?",
+    "questionJapanese": "短距離でデバイス間のデータ転送に使われることの多い無線技術は何ですか？",
+    "options": [
+      "Wi-Fi",
+      "Bluetooth",
+      "NFC",
+      "Infrared"
+    ],
+    "answer": "Bluetooth",
+    "explanation": "Bluetooth creates a secure, low-energy link that can share audio or data between phones, speakers, and accessories.",
+    "explanationJapanese": "Bluetoothは電話やスピーカー、アクセサリー間で音声やデータを共有する、低消費電力の安全な通信を提供します。",
+    "vocabulary": [
+      {
+        "word": "secure",
+        "meaning": "安全な"
+      },
+      {
+        "word": "accessory",
+        "meaning": "付属品"
+      },
+      {
+        "word": "link",
+        "meaning": "接続"
+      }
+    ],
+    "category": "Technology",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Bluetooth uses the 2.4 GHz band to sync phones, speakers, and wearables.",
+    "englishExpression": "Phrase to try: \"I link Bluetooth to bluetooth uses the 2.\""
+  },
+  {
+    "question": "Which vitamin does the skin produce after being exposed to sunlight?",
+    "questionJapanese": "皮膚が日光に当たると生成されるビタミンは何ですか？",
+    "options": [
+      "Vitamin C",
+      "Vitamin A",
+      "Vitamin D",
+      "Vitamin B12"
+    ],
+    "answer": "Vitamin D",
+    "explanation": "When UVB rays hit the skin, the body converts cholesterol into vitamin D, which supports bone health.",
+    "explanationJapanese": "UVBが皮膚に当たると、体はコレステロールをビタミンDに変えて骨の健康を支えます。",
+    "vocabulary": [
+      {
+        "word": "convert",
+        "meaning": "変換する"
+      },
+      {
+        "word": "cholesterol",
+        "meaning": "コレステロール"
+      },
+      {
+        "word": "support",
+        "meaning": "支える"
+      }
+    ],
+    "category": "Science",
+    "difficulty": "Medium",
+    "knowledgeInsight": "UVB converts cholesterol into vitamin D, vital for strong bones.",
+    "englishExpression": "Phrase to try: \"I link Vitamin D to uvb converts cholesterol into vitamin d, vital for strong bones.\""
+  },
+  {
+    "question": "What percentage of Earth's atmosphere is nitrogen?",
+    "questionJapanese": "地球の大気の何パーセントが窒素ですか？",
+    "options": [
+      "21%",
+      "50%",
+      "78%",
+      "92%"
+    ],
+    "answer": "78%",
+    "explanation": "Nitrogen makes up about 78% of the air, with oxygen being the second most common gas.",
+    "explanationJapanese": "窒素は空気の約78％を占め、酸素が2番目に多い気体です。",
+    "vocabulary": [
+      {
+        "word": "make up",
+        "meaning": "占める"
+      },
+      {
+        "word": "about",
+        "meaning": "約"
+      },
+      {
+        "word": "oxygen",
+        "meaning": "酸素"
+      }
+    ],
+    "category": "Science",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Nitrogen makes up about 78% of air; it's mostly inert but important for fertilizers.",
+    "englishExpression": "Phrase to try: \"I link 78% to nitrogen makes up about 78% of air; it's mostly inert but important for fertilizers.\""
+  },
+  {
+    "question": "Which instrument is used to measure air pressure?",
+    "questionJapanese": "気圧を測るために使用される計器は何ですか？",
+    "options": [
+      "Thermometer",
+      "Barometer",
+      "Anemometer",
+      "Hygrometer"
+    ],
+    "answer": "Barometer",
+    "explanation": "A barometer measures atmospheric pressure and helps meteorologists predict weather changes.",
+    "explanationJapanese": "バロメーターは大気圧を測定し、気象予報士が天候の変化を予測するのに役立ちます。",
+    "vocabulary": [
+      {
+        "word": "atmospheric",
+        "meaning": "大気の"
+      },
+      {
+        "word": "predict",
+        "meaning": "予測する"
+      },
+      {
+        "word": "weather",
+        "meaning": "天候"
+      }
+    ],
+    "category": "Science",
+    "difficulty": "Medium",
+    "knowledgeInsight": "A barometer senses atmospheric pressure shifts, helping meteorologists forecast weather.",
+    "englishExpression": "Phrase to try: \"I link Barometer to a barometer senses atmospheric pressure shifts, helping meteorologists forecast weather.\""
+  },
+  {
+    "question": "What does DNA stand for?",
+    "questionJapanese": "DNAは何の略ですか？",
+    "options": [
+      "Deoxyribonucleic Acid",
+      "Dynamic Neural Activity",
+      "Dual Nucleic Acid",
+      "Digital NA"
+    ],
+    "answer": "Deoxyribonucleic Acid",
+    "explanation": "DNA carries genetic instructions for all living organisms and is short for deoxyribonucleic acid.",
+    "explanationJapanese": "DNAはすべての生物に遺伝情報を伝え、デオキシリボ核酸の略です。",
+    "vocabulary": [
+      {
+        "word": "carry",
+        "meaning": "運ぶ"
+      },
+      {
+        "word": "genetic",
+        "meaning": "遺伝の"
+      },
+      {
+        "word": "organism",
+        "meaning": "生物"
+      }
+    ],
+    "category": "Science",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Deoxyribonucleic Acid stores the genetic instructions in every cell.",
+    "englishExpression": "Phrase to try: \"I link Deoxyribonucleic Acid to deoxyribonucleic acid stores the genetic instructions in every cell.\""
+  },
+  {
+    "question": "Which country hosted the 2020 Summer Olympics?",
+    "questionJapanese": "2020年の夏季オリンピックを開催した国はどこですか？",
+    "options": [
+      "China",
+      "Japan",
+      "South Korea",
+      "Brazil"
+    ],
+    "answer": "Japan",
+    "explanation": "Tokyo, Japan hosted the 2020 Summer Olympics in 2021 after the Games were postponed by the pandemic.",
+    "explanationJapanese": "東京（日本）はパンデミックのため延長された2020年夏季オリンピックを2021年に開催しました。",
+    "vocabulary": [
+      {
+        "word": "postpone",
+        "meaning": "延期する"
+      },
+      {
+        "word": "pandemic",
+        "meaning": "パンデミック"
+      },
+      {
+        "word": "host",
+        "meaning": "開催する"
+      }
+    ],
+    "category": "Sports",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Japan hosted Tokyo 2020 (held in 2021) after the pandemic postponed the Games.",
+    "englishExpression": "Phrase to try: \"I link Japan to japan hosted tokyo 2020 (held in 2021) after the pandemic postponed the games.\""
+  },
+  {
+    "question": "Which mathematical branch deals with shapes and their properties?",
+    "questionJapanese": "図形やその性質を扱う数学の分野は何ですか？",
+    "options": [
+      "Algebra",
+      "Geometry",
+      "Calculus",
+      "Statistics"
+    ],
+    "answer": "Geometry",
+    "explanation": "Geometry studies points, lines, angles, and surfaces to understand spatial relationships.",
+    "explanationJapanese": "幾何学は点・線・角・面を研究して空間関係を理解する学問です。",
+    "vocabulary": [
+      {
+        "word": "spatial",
+        "meaning": "空間の"
+      },
+      {
+        "word": "relationship",
+        "meaning": "関係"
+      },
+      {
+        "word": "angle",
+        "meaning": "角度"
+      }
+    ],
+    "category": "Science",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Geometry studies points, lines, and angles—fundamentals of design and engineering.",
+    "englishExpression": "Phrase to try: \"I link Geometry to geometry studies points, lines, and angles—fundamentals of design and engineering.\""
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "questionJapanese": "オーストラリアの首都はどこですか？",
+    "options": [
+      "Sydney",
+      "Melbourne",
+      "Brisbane",
+      "Canberra"
+    ],
+    "answer": "Canberra",
+    "explanation": "Canberra was chosen as the capital of Australia to settle rivalry between Sydney and Melbourne.",
+    "explanationJapanese": "キャンベラはシドニーとメルボルンの対立を解決するためにオーストラリアの首都に選ばれました。",
+    "vocabulary": [
+      {
+        "word": "rivalry",
+        "meaning": "競争"
+      },
+      {
+        "word": "settle",
+        "meaning": "解決する"
+      },
+      {
+        "word": "capital",
+        "meaning": "首都"
+      }
+    ],
+    "category": "Geography",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Canberra was built to settle the rivalry between Sydney and Melbourne.",
+    "englishExpression": "Phrase to try: \"I link Canberra to canberra was built to settle the rivalry between sydney and melbourne.\""
+  },
+  {
+    "question": "Which food group provides the body with the most energy per gram?",
+    "questionJapanese": "1グラムあたり最も多くのエネルギーを体に与える食品群はどれですか？",
+    "options": [
+      "Proteins",
+      "Carbohydrates",
+      "Fats",
+      "Vitamins"
+    ],
+    "answer": "Fats",
+    "explanation": "Fats provide 9 calories per gram, making them the most energy-dense macronutrient.",
+    "explanationJapanese": "脂肪は1グラムあたり9キロカロリーを提供し、最もエネルギー密度が高い栄養素です。",
+    "vocabulary": [
+      {
+        "word": "energy-dense",
+        "meaning": "エネルギー密度の高い"
+      },
+      {
+        "word": "macronutrient",
+        "meaning": "三大栄養素"
+      },
+      {
+        "word": "calorie",
+        "meaning": "カロリー"
+      }
+    ],
+    "category": "Science",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Fats give about 9 kcal per gram, double that of carbs or protein.",
+    "englishExpression": "Phrase to try: \"I link Fats to fats give about 9 kcal per gram, double that of carbs or protein.\""
+  },
+  {
+    "question": "What is the hardest natural substance found on Earth?",
+    "questionJapanese": "地球上で見つかる最も硬い天然物質は何ですか？",
+    "options": [
+      "Quartz",
+      "Diamond",
+      "Graphite",
+      "Obsidian"
+    ],
+    "answer": "Diamond",
+    "explanation": "Diamond has the strongest atomic bonds of any natural material, making it extremely hard.",
+    "explanationJapanese": "ダイヤモンドは天然の中で最も強い原子結合を持ち、非常に硬いです。",
+    "vocabulary": [
+      {
+        "word": "atomic",
+        "meaning": "原子の"
+      },
+      {
+        "word": "bond",
+        "meaning": "結合"
+      },
+      {
+        "word": "hard",
+        "meaning": "硬い"
+      }
+    ],
+    "category": "Science",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Diamond’s carbon atoms form a strong lattice, giving it unmatched hardness.",
+    "englishExpression": "Phrase to try: \"I link Diamond to diamond’s carbon atoms form a strong lattice, giving it unmatched hardness.\""
+  },
+  {
+    "question": "Which ocean current warms the western coasts of Europe?",
+    "questionJapanese": "ヨーロッパ西岸を暖める海流はどれですか？",
+    "options": [
+      "California Current",
+      "Gulf Stream",
+      "Labrador Current",
+      "Canary Current"
+    ],
+    "answer": "Gulf Stream",
+    "explanation": "The Gulf Stream carries warm water from the Gulf of Mexico across the Atlantic to Europe.",
+    "explanationJapanese": "メキシコ湾流は暖かい水をメキシコ湾から大西洋を越えてヨーロッパへ運びます。",
+    "vocabulary": [
+      {
+        "word": "carry",
+        "meaning": "運ぶ"
+      },
+      {
+        "word": "warm",
+        "meaning": "暖かい"
+      },
+      {
+        "word": "current",
+        "meaning": "海流"
+      }
+    ],
+    "category": "Geography",
+    "difficulty": "Medium",
+    "knowledgeInsight": "The Gulf Stream carries warm water from the Gulf of Mexico, moderating European winters.",
+    "englishExpression": "Phrase to try: \"I link Gulf Stream to the gulf stream carries warm water from the gulf of mexico, moderating european winters.\""
+  },
+  {
+    "question": "What is the main gas that causes the greenhouse effect?",
+    "questionJapanese": "温室効果を引き起こす主要な気体は何ですか？",
+    "options": [
+      "Hydrogen",
+      "Carbon dioxide",
+      "Oxygen",
+      "Neon"
+    ],
+    "answer": "Carbon dioxide",
+    "explanation": "Carbon dioxide traps heat in the atmosphere, contributing to the greenhouse effect.",
+    "explanationJapanese": "二酸化炭素は大気中に熱を閉じ込め、温室効果に寄与します。",
+    "vocabulary": [
+      {
+        "word": "trap",
+        "meaning": "閉じ込める"
+      },
+      {
+        "word": "contribute",
+        "meaning": "寄与する"
+      },
+      {
+        "word": "atmosphere",
+        "meaning": "大気"
+      }
+    ],
+    "category": "Science",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Carbon dioxide traps heat in the atmosphere, and its levels rise with fossil fuel use.",
+    "englishExpression": "Phrase to try: \"I link Carbon dioxide to carbon dioxide traps heat in the atmosphere, and its levels rise with fossil fuel use.\""
+  },
+  {
+    "question": "Which composer is famous for the Fifth Symphony with the short-short-short-long motif?",
+    "questionJapanese": "短短短長の動機で有名な交響曲 第5番の作曲家は誰ですか？",
+    "options": [
+      "Mozart",
+      "Beethoven",
+      "Brahms",
+      "Bach"
+    ],
+    "answer": "Beethoven",
+    "explanation": "Ludwig van Beethoven composed the Fifth Symphony, one of the best-known pieces of classical music.",
+    "explanationJapanese": "ルートヴィヒ・ヴァン・ベートーヴェンは、クラシック音楽の代表作のひとつである交響曲第5番を作曲しました。",
+    "vocabulary": [
+      {
+        "word": "motif",
+        "meaning": "動機"
+      },
+      {
+        "word": "classical",
+        "meaning": "クラシックの"
+      },
+      {
+        "word": "composer",
+        "meaning": "作曲家"
+      }
+    ],
+    "category": "Pop Culture",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Beethoven’s Fifth links music to struggle and triumph, plus its motif is instantly recognizable.",
+    "englishExpression": "Phrase to try: \"I link Beethoven to beethoven’s fifth links music to struggle and triumph, plus its motif is instantly recognizable.\""
+  },
+  {
+    "question": "What is the longest river in Africa?",
+    "questionJapanese": "アフリカで最も長い川はどれですか？",
+    "options": [
+      "Nile",
+      "Congo",
+      "Zambezi",
+      "Niger"
+    ],
+    "answer": "Nile",
+    "explanation": "The Nile River flows northward through several countries and is the longest river on the African continent.",
+    "explanationJapanese": "ナイル川は北へ流れ、アフリカ大陸で最も長い川です。",
+    "vocabulary": [
+      {
+        "word": "flows",
+        "meaning": "流れる"
+      },
+      {
+        "word": "continent",
+        "meaning": "大陸"
+      },
+      {
+        "word": "several",
+        "meaning": "いくつかの"
+      }
+    ],
+    "category": "Geography",
+    "difficulty": "Medium",
+    "knowledgeInsight": "The Nile flows north into the Mediterranean and has supported civilizations for millennia.",
+    "englishExpression": "Phrase to try: \"I link Nile to the nile flows north into the mediterranean and has supported civilizations for millennia.\""
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "questionJapanese": "金の元素記号は何ですか？",
+    "options": [
+      "Au",
+      "Ag",
+      "Fe",
+      "Pb"
+    ],
+    "answer": "Au",
+    "explanation": "The chemical symbol Au comes from 'aurum,' the Latin word for gold.",
+    "explanationJapanese": "元素記号Auはラテン語で金を意味する『aurum』に由来します。",
+    "vocabulary": [
+      {
+        "word": "symbol",
+        "meaning": "記号"
+      },
+      {
+        "word": "Latin",
+        "meaning": "ラテン語"
+      },
+      {
+        "word": "word",
+        "meaning": "単語"
+      }
+    ],
+    "category": "Science",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Au comes from the Latin aurum, reflecting gold’s long history in jewelry and coinage.",
+    "englishExpression": "Phrase to try: \"I link Au to au comes from the latin aurum, reflecting gold’s long history in jewelry and coinage.\""
+  },
+  {
+    "question": "Which physical state has particles packed most closely together?",
+    "questionJapanese": "粒子が最も密に詰まっている物質の状態は何ですか？",
+    "options": [
+      "Solid",
+      "Liquid",
+      "Gas",
+      "Plasma"
+    ],
+    "answer": "Solid",
+    "explanation": "Solids have tightly packed particles that vibrate in place, giving them a fixed shape.",
+    "explanationJapanese": "固体は粒子が密に詰まっていて、その場所で振動するため一定の形を保ちます。",
+    "vocabulary": [
+      {
+        "word": "tightly",
+        "meaning": "ぎっしりと"
+      },
+      {
+        "word": "vibrate",
+        "meaning": "振動する"
+      },
+      {
+        "word": "fixed",
+        "meaning": "固定された"
+      }
+    ],
+    "category": "Science",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Solids have tightly bound particles, giving them fixed shape and volume.",
+    "englishExpression": "Phrase to try: \"I link Solid to solids have tightly bound particles, giving them fixed shape and volume.\""
+  },
+  {
+    "question": "Which empire built the Colosseum in Rome?",
+    "questionJapanese": "ローマのコロッセオを建設した帝国はどこですか？",
+    "options": [
+      "Greek Empire",
+      "Roman Empire",
+      "Persian Empire",
+      "Ottoman Empire"
+    ],
+    "answer": "Roman Empire",
+    "explanation": "The Roman Empire constructed the Colosseum in the 1st century AD as a stadium for gladiators.",
+    "explanationJapanese": "ローマ帝国は1世紀に剣闘士の競技場としてコロッセオを建設しました。",
+    "vocabulary": [
+      {
+        "word": "gladiator",
+        "meaning": "剣闘士"
+      },
+      {
+        "word": "stadium",
+        "meaning": "競技場"
+      },
+      {
+        "word": "construct",
+        "meaning": "建設する"
+      }
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "knowledgeInsight": "The Roman Empire erected the Colosseum for gladiators and public spectacles.",
+    "englishExpression": "Phrase to try: \"I link Roman Empire to the roman empire erected the colosseum for gladiators and public spectacles.\""
+  },
+  {
+    "question": "Which pop culture franchise features a wizarding school called Hogwarts?",
+    "questionJapanese": "ホグワーツという魔法学校を登場させるポップカルチャーフランチャイズは何ですか？",
+    "options": [
+      "Harry Potter",
+      "Lord of the Rings",
+      "Percy Jackson",
+      "Star Wars"
+    ],
+    "answer": "Harry Potter",
+    "explanation": "The Harry Potter series centers on students at Hogwarts School of Witchcraft and Wizardry.",
+    "explanationJapanese": "ハリー・ポッターシリーズはホグワーツ魔法魔術学校の生徒たちを描いています。",
+    "vocabulary": [
+      {
+        "word": "series",
+        "meaning": "シリーズ"
+      },
+      {
+        "word": "center",
+        "meaning": "中心とする"
+      },
+      {
+        "word": "witchcraft",
+        "meaning": "魔術"
+      }
+    ],
+    "category": "Pop Culture",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Harry Potter’s Hogwarts mixes British boarding-school tropes with magical adventures.",
+    "englishExpression": "Phrase to try: \"I link Harry Potter to harry potter’s hogwarts mixes british boarding-school tropes with magical adventures.\""
+  },
+  {
+    "question": "In which sport do players aim to score 'goals' and cannot touch the ball with their hands?",
+    "questionJapanese": "選手は『ゴール』を目指し、手でボールに触れてはいけないスポーツは何ですか？",
+    "options": [
+      "Basketball",
+      "Baseball",
+      "Football (Soccer)",
+      "Volleyball"
+    ],
+    "answer": "Football (Soccer)",
+    "explanation": "In soccer, players (except the goalkeeper) cannot use their hands and must score by shooting into the opponent's goal.",
+    "explanationJapanese": "サッカーではゴールキーパー以外の選手が手を使えず、相手ゴールにシュートして得点します。",
+    "vocabulary": [
+      {
+        "word": "goalkeeper",
+        "meaning": "ゴールキーパー"
+      },
+      {
+        "word": "shoot",
+        "meaning": "シュートする"
+      },
+      {
+        "word": "opponent",
+        "meaning": "相手"
+      }
+    ],
+    "category": "Sports",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Soccer (football) spans the globe, emphasizing foot skills and teamwork.",
+    "englishExpression": "Phrase to try: \"I link Football (Soccer) to soccer (football) spans the globe, emphasizing foot skills and teamwork.\""
+  },
+  {
+    "question": "What is the largest mammal currently living on Earth?",
+    "questionJapanese": "現在地球上で生きている最大の哺乳類は何ですか？",
+    "options": [
+      "Elephant",
+      "Blue Whale",
+      "Giraffe",
+      "Hippopotamus"
+    ],
+    "answer": "Blue Whale",
+    "explanation": "The blue whale is the largest mammal ever recorded, reaching lengths over 100 feet.",
+    "explanationJapanese": "シロナガスクジラは記録された中で最大の哺乳類で、全長は30メートルを超えます。",
+    "vocabulary": [
+      {
+        "word": "mammal",
+        "meaning": "哺乳類"
+      },
+      {
+        "word": "length",
+        "meaning": "長さ"
+      },
+      {
+        "word": "record",
+        "meaning": "記録"
+      }
+    ],
+    "category": "Nature & Animals",
+    "difficulty": "Medium",
+    "knowledgeInsight": "The blue whale weighs up to 200 tons and feeds by filtering krill.",
+    "englishExpression": "Phrase to try: \"I link Blue Whale to the blue whale weighs up to 200 tons and feeds by filtering krill.\""
+  },
+  {
+    "question": "Which star in our galaxy is closest to Earth?",
+    "questionJapanese": "私たちの銀河で地球に最も近い恒星はどれですか？",
+    "options": [
+      "Sirius",
+      "Proxima Centauri",
+      "Alpha Centauri A",
+      "Vega"
+    ],
+    "answer": "Proxima Centauri",
+    "explanation": "Proxima Centauri is part of the Alpha Centauri star system and is about 4.24 light-years from Earth.",
+    "explanationJapanese": "プロキシマ・ケンタウリはアルファ・ケンタウリ星系の一部で、地球から約4.24光年離れています。",
+    "vocabulary": [
+      {
+        "word": "system",
+        "meaning": "系"
+      },
+      {
+        "word": "light-year",
+        "meaning": "光年"
+      },
+      {
+        "word": "part",
+        "meaning": "一部"
+      }
+    ],
+    "category": "Science",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Proxima Centauri, part of Alpha Centauri, is just over 4 light-years away.",
+    "englishExpression": "Phrase to try: \"I link Proxima Centauri to proxima centauri, part of alpha centauri, is just over 4 light-years away.\""
+  },
+  {
+    "question": "Which ancient document limited royal power and influenced modern constitutions?",
+    "questionJapanese": "王権を制限し現代の憲法に影響を与えた古い文書はどれですか？",
+    "options": [
+      "Magna Carta",
+      "Declaration of Independence",
+      "Treaty of Versailles",
+      "Code of Hammurabi"
+    ],
+    "answer": "Magna Carta",
+    "explanation": "Signed in 1215, Magna Carta forced King John of England to accept that his power was not absolute.",
+    "explanationJapanese": "1215年に署名されたマグナ・カルタは、イングランドのジョン王に権力が絶対ではないことを認めさせました。",
+    "vocabulary": [
+      {
+        "word": "sign",
+        "meaning": "署名する"
+      },
+      {
+        "word": "accept",
+        "meaning": "受け入れる"
+      },
+      {
+        "word": "absolute",
+        "meaning": "絶対的な"
+      }
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Magna Carta (1215) forced English kings to respect barons’ rights and inspired constitutional law.",
+    "englishExpression": "Phrase to try: \"I link Magna Carta to magna carta (1215) forced english kings to respect barons’ rights and inspired constitutional law.\""
+  },
+  {
+    "question": "In what year did the RMS Titanic sink after striking an iceberg?",
+    "questionJapanese": "RMSタイタニック号は氷山に衝突して何年に沈没しましたか？",
+    "options": [
+      "1912",
+      "1905",
+      "1923",
+      "1898"
+    ],
+    "answer": "1912",
+    "explanation": "The Titanic struck an iceberg during its maiden voyage and sank on April 15, 1912, leading to stricter maritime safety laws.",
+    "explanationJapanese": "タイタニック号は処女航海中に氷山に衝突し、1912年4月15日に沈没しました。その後、海事安全法が強化されました。",
+    "vocabulary": [
+      {
+        "word": "maiden voyage",
+        "meaning": "処女航海"
+      },
+      {
+        "word": "maritime",
+        "meaning": "海事の"
+      },
+      {
+        "word": "iceberg",
+        "meaning": "氷山"
+      }
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "knowledgeInsight": "The Titanic disaster led to the International Ice Patrol so ships avoid known hazards at sea.",
+    "englishExpression": "Phrase to try: \"I link 1912 to the titanic disaster led to the international ice patrol so ships avoid known hazards at sea.\""
+  },
+  {
+    "question": "Which city hosted the first modern Olympic Games in 1896?",
+    "questionJapanese": "1896年に最初の近代オリンピックを開催した都市はどこですか？",
+    "options": [
+      "Athens",
+      "Paris",
+      "London",
+      "Rome"
+    ],
+    "answer": "Athens",
+    "explanation": "Baron Pierre de Coubertin revived the Olympics in Athens to honor the ancient Greek competitions.",
+    "explanationJapanese": "ピエール・ド・クーベルタン男爵は古代ギリシャの競技をたたえてアテネでオリンピックを復活させました。",
+    "vocabulary": [
+      {
+        "word": "revive",
+        "meaning": "復活させる"
+      },
+      {
+        "word": "ancient",
+        "meaning": "古代の"
+      },
+      {
+        "word": "honor",
+        "meaning": "称える"
+      }
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "knowledgeInsight": "The first modern Games linked nations through athletic competition and honored Greek heritage.",
+    "englishExpression": "Phrase to try: \"I link Athens to the first modern games linked nations through athletic competition and honored greek heritage.\""
+  },
+  {
+    "question": "Who was the principal author of the United States Declaration of Independence?",
+    "questionJapanese": "アメリカ独立宣言の主要な起草者は誰ですか？",
+    "options": [
+      "Benjamin Franklin",
+      "George Washington",
+      "Thomas Jefferson",
+      "John Adams"
+    ],
+    "answer": "Thomas Jefferson",
+    "explanation": "Thomas Jefferson wrote most of the declaration in 1776 before it was adopted by the Continental Congress.",
+    "explanationJapanese": "トーマス・ジェファーソンは1776年に宣言の大部分を書き、大陸会議が採択しました。",
+    "vocabulary": [
+      {
+        "word": "principal",
+        "meaning": "主要な"
+      },
+      {
+        "word": "adopt",
+        "meaning": "採択する"
+      },
+      {
+        "word": "Continental",
+        "meaning": "大陸の"
+      }
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Jefferson’s writing captured Enlightenment ideals that justified independence.",
+    "englishExpression": "Phrase to try: \"I link Thomas Jefferson to jefferson’s writing captured enlightenment ideals that justified independence.\""
+  },
+  {
+    "question": "The assassination of Archduke Franz Ferdinand in 1914 helped start which major conflict?",
+    "questionJapanese": "1914年にフランツ・フェルディナント大公が暗殺されたことがきっかけで始まったのはどの大きな戦争ですか？",
+    "options": [
+      "World War Ⅰ",
+      "World War Ⅱ",
+      "The Cold War",
+      "Franco-Prussian War"
+    ],
+    "answer": "World War I",
+    "explanation": "The killing in Sarajevo triggered alliances and mobilizations that escalated into World War I.",
+    "explanationJapanese": "サラエボでの暗殺が同盟関係と動員を引き起こし、第一次世界大戦へとエスカレートしました。",
+    "vocabulary": [
+      {
+        "word": "trigger",
+        "meaning": "引き起こす"
+      },
+      {
+        "word": "alliance",
+        "meaning": "同盟"
+      },
+      {
+        "word": "mobilize",
+        "meaning": "動員する"
+      }
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "knowledgeInsight": "It shows how localized tensions in the Balkans could ignite a global war.",
+    "englishExpression": "Phrase to try: \"I link World War I to it shows how localized tensions in the balkans could ignite a global war.\""
+  },
+  {
+    "question": "Which 1919 treaty officially ended World War I?",
+    "questionJapanese": "1919年のどの条約が第一次世界大戦を公式に終結させましたか？",
+    "options": [
+      "Treaty of Paris",
+      "Treaty of Versailles",
+      "Treaty of Utrecht",
+      "Treaty of Lisbon"
+    ],
+    "answer": "Treaty of Versailles",
+    "explanation": "The Treaty of Versailles imposed terms on Germany and set up the League of Nations after the war.",
+    "explanationJapanese": "ベルサイユ条約はドイツに条件を課し、戦後に国際連盟を設立しました。",
+    "vocabulary": [
+      {
+        "word": "impose",
+        "meaning": "課す"
+      },
+      {
+        "word": "term",
+        "meaning": "条件"
+      },
+      {
+        "word": "league",
+        "meaning": "連盟"
+      }
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Its settlement aimed for peace but also sowed grievances that led to later conflict.",
+    "englishExpression": "Phrase to try: \"I link Treaty of Versailles to its settlement aimed for peace but also sowed grievances that led to later conflict.\""
+  },
+  {
+    "question": "Which Portuguese explorer first reached India by sea in 1498?",
+    "questionJapanese": "1498年に最初に海路でインドに到達したポルトガルの探検家は誰ですか？",
+    "options": [
+      "Christopher Columbus",
+      "Ferdinand Magellan",
+      "Vasco da Gama",
+      "Bartolomeu Dias"
+    ],
+    "answer": "Vasco da Gama",
+    "explanation": "Da Gama sailed around Africa’s Cape of Good Hope and reached India’s Calicut port.",
+    "explanationJapanese": "ダ・ガマはアフリカの喜望峰を回ってインドのカリカットに到着しました。",
+    "vocabulary": [
+      {
+        "word": "sail",
+        "meaning": "航行する"
+      },
+      {
+        "word": "cape",
+        "meaning": "岬"
+      },
+      {
+        "word": "reach",
+        "meaning": "到達する"
+      }
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "knowledgeInsight": "His route opened direct trade between Europe and the Indian Ocean, bypassing Ottoman middlemen.",
+    "englishExpression": "Phrase to try: \"I link Vasco da Gama to his route opened direct trade between europe and the indian ocean, bypassing ottoman middlemen.\""
+  },
+  {
+    "question": "What writing system did the ancient Egyptians use for carved monuments?",
+    "questionJapanese": "古代エジプト人が石碑に刻んだ書記体系は何ですか？",
+    "options": [
+      "Cuneiform",
+      "Hieroglyphics",
+      "Sanskrit",
+      "Cyrillic"
+    ],
+    "answer": "Hieroglyphics",
+    "explanation": "Hieroglyphics combined pictures and symbols to record rituals and royal names on temples.",
+    "explanationJapanese": "ヒエログリフは絵と記号を組み合わせて、神殿の儀礼や王の名前を記録しました。",
+    "vocabulary": [
+      {
+        "word": "ritual",
+        "meaning": "儀礼"
+      },
+      {
+        "word": "royal",
+        "meaning": "王族の"
+      },
+      {
+        "word": "symbol",
+        "meaning": "記号"
+      }
+    ],
+    "category": "History",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Deciphering hieroglyphics via the Rosetta Stone unlocked ancient Egyptian history.",
+    "englishExpression": "Phrase to try: \"I link Hieroglyphics to deciphering hieroglyphics via the rosetta stone unlocked ancient egyptian history.\""
+  },
+  {
+    "question": "In which year did the Berlin Wall fall, symbolizing the end of Cold War divisions?",
+    "questionJapanese": "冷戦時代の分断の終わりを象徴するベルリンの壁が崩壊したのは何年ですか？",
+    "options": [
+      "1987",
+      "1989",
+      "1991",
+      "1993"
+    ],
+    "answer": "1989",
+    "explanation": "The Berlin Wall fell in 1989 when East Germans were allowed to cross, paving the way for reunification.",
+    "explanationJapanese": "東ドイツ市民が通行を許され、1989年に壁が解体され再統一への道が開きました。",
+    "vocabulary": [
+      {
+        "word": "pave",
+        "meaning": "道を開く"
+      },
+      {
+        "word": "reunification",
+        "meaning": "再統一"
+      },
+      {
+        "word": "cross",
+        "meaning": "越える"
+      }
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "knowledgeInsight": "It helped end the Iron Curtain and allowed travel between East and West Germany.",
+    "englishExpression": "Phrase to try: \"I link 1989 to it helped end the iron curtain and allowed travel between east and west germany.\""
+  },
+  {
+    "question": "Who became India's first prime minister when it gained independence in 1947?",
+    "questionJapanese": "1947年に独立した際、インドで初代首相になったのは誰ですか？",
+    "options": [
+      "Mohandas Gandhi",
+      "Indira Gandhi",
+      "Jawaharlal Nehru",
+      "Rajendra Prasad"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "explanation": "Nehru worked with Gandhi, led the Congress Party, and became India’s first prime minister.",
+    "explanationJapanese": "ネルーはガンジーとともに費やし、国民会議派を率いて初代首相になりました。",
+    "vocabulary": [
+      {
+        "word": "independence",
+        "meaning": "独立"
+      },
+      {
+        "word": "prime minister",
+        "meaning": "首相"
+      },
+      {
+        "word": "party",
+        "meaning": "政党"
+      }
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "knowledgeInsight": "He promoted democracy, secularism, and scientific progress in new India.",
+    "englishExpression": "Phrase to try: \"I link Jawaharlal Nehru to he promoted democracy, secularism, and scientific progress in new india.\""
+  },
+  {
+    "question": "What was the name of the ship that carried Pilgrims to North America in 1620?",
+    "questionJapanese": "1620年にピルグリムたちを北アメリカに運んだ船の名前は何ですか？",
+    "options": [
+      "Santa Maria",
+      "Mayflower",
+      "Endeavour",
+      "Discovery"
+    ],
+    "answer": "Mayflower",
+    "explanation": "The Mayflower brought Pilgrims to Plymouth Colony, where they drafted the Mayflower Compact.",
+    "explanationJapanese": "メイフラワー号はピルグリムをプリマス植民地に運び、メイフラワー誓約を策定しました。",
+    "vocabulary": [
+      {
+        "word": "compact",
+        "meaning": "協約"
+      },
+      {
+        "word": "colony",
+        "meaning": "植民地"
+      },
+      {
+        "word": "draft",
+        "meaning": "草案を書く"
+      }
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "knowledgeInsight": "The Compact is seen as an early example of self-government in North America.",
+    "englishExpression": "Phrase to try: \"I link Mayflower to the compact is seen as an early example of self-government in north america.\""
+  },
+  {
+    "question": "Who became the first Roman emperor in 27 BCE?",
+    "questionJapanese": "紀元前27年にローマ帝国の初代皇帝となったのは誰ですか？",
+    "options": [
+      "Nero",
+      "Augustus",
+      "Julius Caesar",
+      "Caligula"
+    ],
+    "answer": "Augustus",
+    "explanation": "Octavian took the title Augustus and ruled Rome after the Republic’s collapse.",
+    "explanationJapanese": "オクタウィアヌスはアウグストゥスの称号を名乗り、共和政の崩壊後にローマを統治しました。",
+    "vocabulary": [
+      {
+        "word": "collapse",
+        "meaning": "崩壊"
+      },
+      {
+        "word": "rule",
+        "meaning": "統治する"
+      },
+      {
+        "word": "title",
+        "meaning": "称号"
+      }
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "knowledgeInsight": "He established the Pax Romana, a long peace period for the empire.",
+    "englishExpression": "Phrase to try: \"I link Augustus to he established the pax romana, a long peace period for the empire.\""
+  },
+  {
+    "question": "What was the capital of the Aztec Empire before the Spanish conquest?",
+    "questionJapanese": "スペインによる征服前、アステカ帝国の首都はどこでしたか？",
+    "options": [
+      "Tikal",
+      "Tenochtitlan",
+      "Cusco",
+      "Chichen Itza"
+    ],
+    "answer": "Tenochtitlan",
+    "explanation": "Built on an island in Lake Texcoco, Tenochtitlan was the Aztec political center.",
+    "explanationJapanese": "テノチティトランはテスココ湖の島に築かれ、アステカの政治中心地でした。",
+    "vocabulary": [
+      {
+        "word": "island",
+        "meaning": "島"
+      },
+      {
+        "word": "lake",
+        "meaning": "湖"
+      },
+      {
+        "word": "center",
+        "meaning": "中心"
+      }
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Its canals and causeways became the foundation for Mexico City.",
+    "englishExpression": "Phrase to try: \"I link Tenochtitlan to its canals and causeways became the foundation for mexico city.\""
+  },
+  {
+    "question": "Which Soviet leader guided the USSR through World War II?",
+    "questionJapanese": "第二次世界大戦中にソ連を指導した人物は誰ですか？",
+    "options": [
+      "Leon Trotsky",
+      "Joseph Stalin",
+      "Nikita Khrushchev",
+      "Vladimir Lenin"
+    ],
+    "answer": "Joseph Stalin",
+    "explanation": "Stalin directed the Soviet war effort and oversaw industrial mobilization for the Red Army.",
+    "explanationJapanese": "スターリンはソ連の戦争努力を指揮し、赤軍のために工業を動員しました。",
+    "vocabulary": [
+      {
+        "word": "mobilize",
+        "meaning": "動員する"
+      },
+      {
+        "word": "effort",
+        "meaning": "努力"
+      },
+      {
+        "word": "industrial",
+        "meaning": "産業の"
+      }
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "knowledgeInsight": "His harsh policies are debated, but the USSR bore the brunt of the Eastern Front.",
+    "englishExpression": "Phrase to try: \"I link Joseph Stalin to his harsh policies are debated, but the ussr bore the brunt of the eastern front.\""
+  },
+  {
+    "question": "Which river flows through Paris and empties into the English Channel?",
+    "questionJapanese": "パリを流れ、イギリス海峡に注ぐ川は何ですか？",
+    "options": [
+      "Seine",
+      "Thames",
+      "Danube",
+      "Rhine"
+    ],
+    "answer": "Seine",
+    "explanation": "The Seine runs from Burgundy through Paris and reaches the English Channel near Le Havre.",
+    "explanationJapanese": "セーヌ川はブルゴーニュからパリを通り、ル・アーブル近くでイギリス海峡に注ぎます。",
+    "vocabulary": [
+      {
+        "word": "flow",
+        "meaning": "流れる"
+      },
+      {
+        "word": "reach",
+        "meaning": "到達する"
+      },
+      {
+        "word": "channel",
+        "meaning": "海峡"
+      }
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Paris developed along the Seine, with bridges fueling commerce and culture.",
+    "englishExpression": "Phrase to try: \"I link Seine to paris developed along the seine, with bridges fueling commerce and culture.\""
+  },
+  {
+    "question": "What is the highest mountain in South America?",
+    "questionJapanese": "南アメリカで最も高い山は何ですか？",
+    "options": [
+      "Aconcagua",
+      "Mount Everest",
+      "Chimborazo",
+      "Mount Kilimanjaro"
+    ],
+    "answer": "Aconcagua",
+    "explanation": "Aconcagua in the Andes stands about 6,960 meters above sea level.",
+    "explanationJapanese": "アンデス山脈のアコンカグアは海抜約6960メートルに達します。",
+    "vocabulary": [
+      {
+        "word": "stand",
+        "meaning": "そびえる"
+      },
+      {
+        "word": "Andes",
+        "meaning": "アンデス山脈"
+      },
+      {
+        "word": "meter",
+        "meaning": "メートル"
+      }
+    ],
+    "category": "Geography",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Climbers choose the easier route but the altitude still poses a challenge.",
+    "englishExpression": "Phrase to try: \"I link Aconcagua to climbers choose the easier route but the altitude still poses a challenge.\""
+  },
+  {
+    "question": "Which strait separates Europe and Asia through Istanbul?",
+    "questionJapanese": "ヨーロッパとアジアを分ける、イスタンブールを通る海峡は何ですか？",
+    "options": [
+      "Bosphorus",
+      "Dardanelles",
+      "Strait of Gibraltar",
+      "Suez Canal"
+    ],
+    "answer": "Bosphorus",
+    "explanation": "The Bosphorus links the Black Sea to the Sea of Marmara and splits Istanbul into two continents.",
+    "explanationJapanese": "ボスポラス海峡は黒海とマルマラ海を結び、イスタンブールを2大陸に分けます。",
+    "vocabulary": [
+      {
+        "word": "link",
+        "meaning": "つなぐ"
+      },
+      {
+        "word": "split",
+        "meaning": "分ける"
+      },
+      {
+        "word": "continental",
+        "meaning": "大陸の"
+      }
+    ],
+    "category": "Geography",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Control of the Bosphorus has always been a strategic goal for empires.",
+    "englishExpression": "Phrase to try: \"I link Bosphorus to control of the bosphorus has always been a strategic goal for empires.\""
+  },
+  {
+    "question": "Which desert stretches across most of northern Africa?",
+    "questionJapanese": "アフリカ北部の大部分に広がる砂漠はどれですか？",
+    "options": [
+      "Sahara",
+      "Gobi",
+      "Kalahari",
+      "Patagonian"
+    ],
+    "answer": "Sahara",
+    "explanation": "The Sahara is the world’s largest hot desert and extends from the Atlantic to the Red Sea.",
+    "explanationJapanese": "サハラ砂漠は世界最大の熱砂漠で、アトランティックから紅海まで広がります。",
+    "vocabulary": [
+      {
+        "word": "extend",
+        "meaning": "広がる"
+      },
+      {
+        "word": "hot",
+        "meaning": "熱い"
+      },
+      {
+        "word": "desert",
+        "meaning": "砂漠"
+      }
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Nomads traverse oases along its edges to sustain trade routes.",
+    "englishExpression": "Phrase to try: \"I link Sahara to nomads traverse oases along its edges to sustain trade routes.\""
+  },
+  {
+    "question": "Which sea sits between Saudi Arabia and northeastern Africa?",
+    "questionJapanese": "サウジアラビアと北東アフリカの間にある海はどれですか？",
+    "options": [
+      "Red Sea",
+      "Mediterranean Sea",
+      "Arabian Sea",
+      "Caspian Sea"
+    ],
+    "answer": "Red Sea",
+    "explanation": "The Red Sea opens into the Gulf of Aden and serves as a key passage to the Suez Canal.",
+    "explanationJapanese": "紅海はアデン湾に通じ、スエズ運河への重要な航路です。",
+    "vocabulary": [
+      {
+        "word": "passage",
+        "meaning": "航路"
+      },
+      {
+        "word": "key",
+        "meaning": "重要な"
+      },
+      {
+        "word": "serve",
+        "meaning": "役立つ"
+      }
+    ],
+    "category": "Geography",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Its narrow width means ships must navigate carefully to avoid collisions.",
+    "englishExpression": "Phrase to try: \"I link Red Sea to its narrow width means ships must navigate carefully to avoid collisions.\""
+  },
+  {
+    "question": "Which mountain range includes Mount Kilimanjaro?",
+    "questionJapanese": "キリマンジャロ山が含まれる山脈はどこですか？",
+    "options": [
+      "Andes",
+      "Himalayas",
+      "Eastern Rift",
+      "Rockies"
+    ],
+    "answer": "Eastern Rift",
+    "explanation": "Kilimanjaro rises near the Eastern Rift, part of the East African Rift system.",
+    "explanationJapanese": "キリマンジャロは東部リフト、東アフリカ大地溝帯の一部にそびえます。",
+    "vocabulary": [
+      {
+        "word": "rise",
+        "meaning": "そびえる"
+      },
+      {
+        "word": "part",
+        "meaning": "一部"
+      },
+      {
+        "word": "rift",
+        "meaning": "割れ目"
+      }
+    ],
+    "category": "Geography",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Its snow-capped summit near the equator illustrates how altitude shapes climate.",
+    "englishExpression": "Phrase to try: \"I link Eastern Rift to its snow-capped summit near the equator illustrates how altitude shapes climate.\""
+  },
+  {
+    "question": "Which gulf borders Florida to the east and Mexico to the west?",
+    "questionJapanese": "フロリダの東、メキシコの西に面している湾はどれですか？",
+    "options": [
+      "Gulf of Mexico",
+      "Gulf of Aden",
+      "Persian Gulf",
+      "Gulf of Alaska"
+    ],
+    "answer": "Gulf of Mexico",
+    "explanation": "The Gulf of Mexico connects to the Caribbean Sea and touches the U.S., Mexico, and Cuba.",
+    "explanationJapanese": "メキシコ湾はカリブ海につながり、アメリカとメキシコ、キューバに接します。",
+    "vocabulary": [
+      {
+        "word": "connect",
+        "meaning": "つながる"
+      },
+      {
+        "word": "touch",
+        "meaning": "接する"
+      },
+      {
+        "word": "Caribbean",
+        "meaning": "カリブ海"
+      }
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Its warm waters fuel Gulf Stream currents that moderate climate along the eastern U.S.",
+    "englishExpression": "Phrase to try: \"I link Gulf of Mexico to its warm waters fuel gulf stream currents that moderate climate along the eastern u.\""
+  },
+  {
+    "question": "Which country contains both the Alps and the Po River plain?",
+    "questionJapanese": "アルプスとポー川の平野の両方を含む国はどこですか？",
+    "options": [
+      "Switzerland",
+      "Italy",
+      "Austria",
+      "France"
+    ],
+    "answer": "Italy",
+    "explanation": "Italy stretches from Alpine peaks to the fertile Po Valley in the northeast.",
+    "explanationJapanese": "イタリアはアルプスの山々から北東部の肥沃なポー谷まで広がっています。",
+    "vocabulary": [
+      {
+        "word": "stretch",
+        "meaning": "広がる"
+      },
+      {
+        "word": "fertile",
+        "meaning": "肥沃な"
+      },
+      {
+        "word": "Valley",
+        "meaning": "谷"
+      }
+    ],
+    "category": "Geography",
+    "difficulty": "Medium",
+    "knowledgeInsight": "The Po Valley supplies much of Italy’s food because of its rich soil.",
+    "englishExpression": "Phrase to try: \"I link Italy to the po valley supplies much of italy’s food because of its rich soil.\""
+  },
+  {
+    "question": "What does CPU stand for in computer hardware?",
+    "questionJapanese": "コンピュータのハードウェアにおけるCPUとは何の略ですか？",
+    "options": [
+      "Central Processing Unit",
+      "Computer Power Unit",
+      "Control Panel Utility",
+      "Core Processor Unit"
+    ],
+    "answer": "Central Processing Unit",
+    "explanation": "The CPU executes instructions and is often called the brain of the computer.",
+    "explanationJapanese": "CPUは命令を実行し、コンピュータの頭脳と呼ばれます。",
+    "vocabulary": [
+      {
+        "word": "execute",
+        "meaning": "実行する"
+      },
+      {
+        "word": "instruction",
+        "meaning": "命令"
+      },
+      {
+        "word": "brain",
+        "meaning": "脳"
+      }
+    ],
+    "category": "Technology",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Every task on a computer is processed through the CPU, even when you stream videos.",
+    "englishExpression": "Phrase to try: \"I link Central Processing Unit to every task on a computer is processed through the cpu, even when you stream videos.\""
+  },
+  {
+    "question": "What protocol do browsers use to load web pages?",
+    "questionJapanese": "ブラウザがウェブページを読み込むのに使うプロトコルは何ですか？",
+    "options": [
+      "HTTP",
+      "FTP",
+      "SMTP",
+      "SSH"
+    ],
+    "answer": "HTTP",
+    "explanation": "HTTP stands for Hypertext Transfer Protocol and defines how web pages are fetched.",
+    "explanationJapanese": "HTTPはハイパーテキスト転送プロトコルで、ウェブページの取得方法を定義します。",
+    "vocabulary": [
+      {
+        "word": "fetch",
+        "meaning": "取得する"
+      },
+      {
+        "word": "web",
+        "meaning": "ウェブ"
+      },
+      {
+        "word": "protocol",
+        "meaning": "プロトコル"
+      }
+    ],
+    "category": "Technology",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Secure sites use HTTPS, a secure version of HTTP that encrypts data.",
+    "englishExpression": "Phrase to try: \"I link HTTP to secure sites use https, a secure version of http that encrypts data.\""
+  },
+  {
+    "question": "Which company released the first iPhone in 2007?",
+    "questionJapanese": "2007年に最初のiPhoneを発売した企業はどこですか？",
+    "options": [
+      "Apple",
+      "Microsoft",
+      "BlackBerry",
+      "Sony"
+    ],
+    "answer": "Apple",
+    "explanation": "Apple introduced the iPhone, combining phone, music, and internet features in one device.",
+    "explanationJapanese": "アップルは電話、音楽、インターネット機能を一台にまとめたiPhoneを導入しました。",
+    "vocabulary": [
+      {
+        "word": "combine",
+        "meaning": "組み合わせる"
+      },
+      {
+        "word": "feature",
+        "meaning": "機能"
+      },
+      {
+        "word": "device",
+        "meaning": "端末"
+      }
+    ],
+    "category": "Technology",
+    "difficulty": "Easy",
+    "knowledgeInsight": "It sparked the smartphone era and popularized touchscreens.",
+    "englishExpression": "Phrase to try: \"I link Apple to it sparked the smartphone era and popularized touchscreens.\""
+  },
+  {
+    "question": "What does HDMI stand for?",
+    "questionJapanese": "HDMIは何の略ですか？",
+    "options": [
+      "High Definition Multimedia Interface",
+      "High Data Media Input",
+      "Hybrid Digital Media Inc",
+      "High Density Multi Interface"
+    ],
+    "answer": "High Definition Multimedia Interface",
+    "explanation": "HDMI carries digital audio and video signals between devices.",
+    "explanationJapanese": "HDMIは機器間でデジタル音声と映像を送ります。",
+    "vocabulary": [
+      {
+        "word": "carry",
+        "meaning": "運ぶ"
+      },
+      {
+        "word": "signal",
+        "meaning": "信号"
+      },
+      {
+        "word": "digital",
+        "meaning": "デジタル"
+      }
+    ],
+    "category": "Technology",
+    "difficulty": "Medium",
+    "knowledgeInsight": "It replaced analog cables and keeps data losses low on TVs.",
+    "englishExpression": "Phrase to try: \"I link High Definition Multimedia Interface to it replaced analog cables and keeps data losses low on tvs.\""
+  },
+  {
+    "question": "Which company makes Snapdragon mobile processors?",
+    "questionJapanese": "Snapdragonモバイルプロセッサを製造する企業はどこですか？",
+    "options": [
+      "Qualcomm",
+      "Samsung",
+      "Intel",
+      "Nvidia"
+    ],
+    "answer": "Qualcomm",
+    "explanation": "Qualcomm develops Snapdragon chips that power many Android phones.",
+    "explanationJapanese": "クアルコムは多くのAndroidスマホ向けにSnapdragonチップを開発しています。",
+    "vocabulary": [
+      {
+        "word": "develop",
+        "meaning": "開発する"
+      },
+      {
+        "word": "chip",
+        "meaning": "チップ"
+      },
+      {
+        "word": "power",
+        "meaning": "動かす"
+      }
+    ],
+    "category": "Technology",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Speed, graphics, and modem performance all depend on these chips.",
+    "englishExpression": "Phrase to try: \"I link Qualcomm to speed, graphics, and modem performance all depend on these chips.\""
+  },
+  {
+    "question": "What does USB stand for?",
+    "questionJapanese": "USBは何の略ですか？",
+    "options": [
+      "Universal Serial Bus",
+      "Uniform System Bridge",
+      "User Subnet Block",
+      "Ultra Speed Bus"
+    ],
+    "answer": "Universal Serial Bus",
+    "explanation": "USB is the standard connector for data and power between devices.",
+    "explanationJapanese": "USBは機器間でデータと電力をやり取りする標準的なコネクタです。",
+    "vocabulary": [
+      {
+        "word": "standard",
+        "meaning": "標準"
+      },
+      {
+        "word": "connector",
+        "meaning": "コネクタ"
+      },
+      {
+        "word": "power",
+        "meaning": "電力"
+      }
+    ],
+    "category": "Technology",
+    "difficulty": "Easy",
+    "knowledgeInsight": "It unified laptops, cameras, and phones on a single plug type.",
+    "englishExpression": "Phrase to try: \"I link Universal Serial Bus to it unified laptops, cameras, and phones on a single plug type.\""
+  },
+  {
+    "question": "Which storage technology uses spinning magnetic platters?",
+    "questionJapanese": "回転する磁気プラッターを使う記憶装置技術は何ですか？",
+    "options": [
+      "Hard disk drive",
+      "Solid-state drive",
+      "Flash memory",
+      "Optical disc"
+    ],
+    "answer": "Hard disk drive",
+    "explanation": "Hard disk drives spin platters while heads magnetically read and write data.",
+    "explanationJapanese": "HDDはプラッターを回転させ、ヘッドが磁気でデータを読み書きします。",
+    "vocabulary": [
+      {
+        "word": "spin",
+        "meaning": "回転する"
+      },
+      {
+        "word": "head",
+        "meaning": "ヘッド"
+      },
+      {
+        "word": "magnetic",
+        "meaning": "磁気の"
+      }
+    ],
+    "category": "Technology",
+    "difficulty": "Medium",
+    "knowledgeInsight": "They offer large storage but slower access times than SSDs.",
+    "englishExpression": "Phrase to try: \"I link Hard disk drive to they offer large storage but slower access times than ssds.\""
+  },
+  {
+    "question": "Which company teams up with Linux with enterprise distributions?",
+    "questionJapanese": "Linuxのエンタープライズ版を提供している企業はどこですか？",
+    "options": [
+      "Red Hat",
+      "Microsoft",
+      "Apple",
+      "IBM"
+    ],
+    "answer": "Red Hat",
+    "explanation": "Red Hat contributes to open-source projects and ships supported Linux versions.",
+    "explanationJapanese": "Red Hatはオープンソースに貢献し、サポート付きLinuxを提供しています。",
+    "vocabulary": [
+      {
+        "word": "contribute",
+        "meaning": "貢献する"
+      },
+      {
+        "word": "ship",
+        "meaning": "出荷する"
+      },
+      {
+        "word": "supported",
+        "meaning": "サポート付き"
+      }
+    ],
+    "category": "Technology",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Companies rely on its distributions for servers and cloud infrastructure.",
+    "englishExpression": "Phrase to try: \"I link Red Hat to companies rely on its distributions for servers and cloud infrastructure.\""
+  },
+  {
+    "question": "What protocol secures web traffic with certificates?",
+    "questionJapanese": "証明書でウェブトラフィックを保護するプロトコルは何ですか？",
+    "options": [
+      "HTTP",
+      "FTP",
+      "SMTP",
+      "HTTPS"
+    ],
+    "answer": "HTTPS",
+    "explanation": "HTTPS adds SSL/TLS on top of HTTP to encrypt data between browsers and servers.",
+    "explanationJapanese": "HTTPSはHTTPにSSL/TLSを追加して、ブラウザとサーバー間のデータを暗号化します。",
+    "vocabulary": [
+      {
+        "word": "encrypt",
+        "meaning": "暗号化する"
+      },
+      {
+        "word": "certificate",
+        "meaning": "証明書"
+      },
+      {
+        "word": "server",
+        "meaning": "サーバー"
+      }
+    ],
+    "category": "Technology",
+    "difficulty": "Easy",
+    "knowledgeInsight": "HTTPS is indicated by a padlock icon in the browser bar.",
+    "englishExpression": "Phrase to try: \"I link HTTPS to https is indicated by a padlock icon in the browser bar.\""
+  },
+  {
+    "question": "Which field studies user interactions with software interfaces?",
+    "questionJapanese": "ソフトウェアインターフェースとユーザーのやり取りを研究する分野は何ですか？",
+    "options": [
+      "UX design",
+      "AI engineering",
+      "Database theory",
+      "Network security"
+    ],
+    "answer": "UX design",
+    "explanation": "UX designers focus on making apps intuitive and reducing frustration.",
+    "explanationJapanese": "UXデザイナーはアプリを直感的にし、不満を減らすことに注力します。",
+    "vocabulary": [
+      {
+        "word": "intuitive",
+        "meaning": "直感的な"
+      },
+      {
+        "word": "frustration",
+        "meaning": "欲求不満"
+      },
+      {
+        "word": "focus",
+        "meaning": "焦点を当てる"
+      }
+    ],
+    "category": "Technology",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Better UX means faster onboarding and happier users.",
+    "englishExpression": "Phrase to try: \"I link UX design to better ux means faster onboarding and happier users.\""
+  },
+  {
+    "question": "Which programming language uses indentation to define code blocks instead of braces?",
+    "questionJapanese": "コードブロックを中括弧ではなくインデントで定義するプログラミング言語はどれですか？",
+    "options": [
+      "Python",
+      "Java",
+      "C++",
+      "Ruby"
+    ],
+    "answer": "Python",
+    "explanation": "Python emphasizes readability by requiring consistent indentation for blocks.",
+    "explanationJapanese": "Pythonは読みやすさを重視し、ブロックに一定のインデントを必要とします。",
+    "vocabulary": [
+      {
+        "word": "readability",
+        "meaning": "可読性"
+      },
+      {
+        "word": "indentation",
+        "meaning": "インデント"
+      },
+      {
+        "word": "consistent",
+        "meaning": "一貫した"
+      }
+    ],
+    "category": "Technology",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Its clean syntax attracts beginners and experts alike.",
+    "englishExpression": "Phrase to try: \"I link Python to its clean syntax attracts beginners and experts alike.\""
+  },
+  {
+    "question": "Which technology helps smartphones connect wirelessly over short distances?",
+    "questionJapanese": "スマホが短距離で無線接続するのに使う技術は何ですか？",
+    "options": [
+      "Bluetooth",
+      "Wi-Fi",
+      "NFC",
+      "Infrared"
+    ],
+    "answer": "Bluetooth",
+    "explanation": "Bluetooth links devices like headphones and watches using radio waves.",
+    "explanationJapanese": "Bluetoothはヘッドフォンや時計などを電波で接続します。",
+    "vocabulary": [
+      {
+        "word": "link",
+        "meaning": "つなぐ"
+      },
+      {
+        "word": "radio",
+        "meaning": "ラジオ"
+      },
+      {
+        "word": "device",
+        "meaning": "機器"
+      }
+    ],
+    "category": "Technology",
+    "difficulty": "Easy",
+    "knowledgeInsight": "It trades off speed for low energy suitable for wearables.",
+    "englishExpression": "Phrase to try: \"I link Bluetooth to it trades off speed for low energy suitable for wearables.\""
+  },
+  {
+    "question": "Which bird is known for hovering in mid-air to feed on nectar?",
+    "questionJapanese": "空中でホバリングして蜜を吸うことで知られる鳥は何ですか？",
+    "options": [
+      "Hummingbird",
+      "Penguin",
+      "Falcon",
+      "Flamingo"
+    ],
+    "answer": "Hummingbird",
+    "explanation": "Hummingbirds flap their wings rapidly and can hover while sipping nectar.",
+    "explanationJapanese": "ハチドリは羽を素早く羽ばたかせ、蜜を吸うときもホバリングできます。",
+    "vocabulary": [
+      {
+        "word": "hover",
+        "meaning": "ホバリングする"
+      },
+      {
+        "word": "nectar",
+        "meaning": "花の蜜"
+      },
+      {
+        "word": "rapidly",
+        "meaning": "素早く"
+      }
+    ],
+    "category": "Nature & Animals",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Their high metabolism requires constant feeding on nectar during daylight.",
+    "englishExpression": "Phrase to try: \"I link Hummingbird to their high metabolism requires constant feeding on nectar during daylight.\""
+  },
+  {
+    "question": "Which mammal can fly?",
+    "questionJapanese": "飛ぶことができる哺乳類はどれですか？",
+    "options": [
+      "Bat",
+      "Sparrow",
+      "Falcon",
+      "Squirrel"
+    ],
+    "answer": "Bat",
+    "explanation": "Bats are the only mammals that achieve powered flight using flexible-wing membranes.",
+    "explanationJapanese": "コウモリは柔軟な翼膜を使って動力飛行できる唯一の哺乳類です。",
+    "vocabulary": [
+      {
+        "word": "membrane",
+        "meaning": "膜"
+      },
+      {
+        "word": "powered",
+        "meaning": "動力付きの"
+      },
+      {
+        "word": "achieve",
+        "meaning": "達成する"
+      }
+    ],
+    "category": "Nature & Animals",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Many species hunt insects at night using echolocation.",
+    "englishExpression": "Phrase to try: \"I link Bat to many species hunt insects at night using echolocation.\""
+  },
+  {
+    "question": "What is the main food of giant pandas?",
+    "questionJapanese": "ジャイアントパンダの主食は何ですか？",
+    "options": [
+      "Bamboo",
+      "Fruits",
+      "Insects",
+      "Fish"
+    ],
+    "answer": "Bamboo",
+    "explanation": "Although pandas are bears, they eat bamboo almost exclusively and have strong molars to chew it.",
+    "explanationJapanese": "パンダは熊ですが、ほとんど竹だけを食べるため、それを噛む強い臼歯を持っています。",
+    "vocabulary": [
+      {
+        "word": "molars",
+        "meaning": "臼歯"
+      },
+      {
+        "word": "exclusively",
+        "meaning": "専ら"
+      },
+      {
+        "word": "chew",
+        "meaning": "噛む"
+      }
+    ],
+    "category": "Nature & Animals",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Protecting bamboo forests is crucial because pandas rely on it almost entirely.",
+    "englishExpression": "Phrase to try: \"I link Bamboo to protecting bamboo forests is crucial because pandas rely on it almost entirely.\""
+  },
+  {
+    "question": "Which fish uses electric shocks to stun prey?",
+    "questionJapanese": "電気ショックで獲物を気絶させる魚はどれですか？",
+    "options": [
+      "Electric eel",
+      "Clownfish",
+      "Piranha",
+      "Catfish"
+    ],
+    "answer": "Electric eel",
+    "explanation": "Electric eels generate electricity with organs along their body to navigate and capture prey.",
+    "explanationJapanese": "電気ウナギは体に沿った器官で電気を作り、獲物を捕らえます。",
+    "vocabulary": [
+      {
+        "word": "organ",
+        "meaning": "器官"
+      },
+      {
+        "word": "generate",
+        "meaning": "発生させる"
+      },
+      {
+        "word": "capture",
+        "meaning": "捕らえる"
+      }
+    ],
+    "category": "Nature & Animals",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Its powerful shocks help both hunting and defending against predators.",
+    "englishExpression": "Phrase to try: \"I link Electric eel to its powerful shocks help both hunting and defending against predators.\""
+  },
+  {
+    "question": "Which desert animal has two humps and stores fat in them?",
+    "questionJapanese": "2つのこぶを持ち、その中に脂肪を蓄える砂漠の動物は何ですか？",
+    "options": [
+      "Dromedary camel",
+      "Bactrian camel",
+      "Llama",
+      "Alpaca"
+    ],
+    "answer": "Bactrian camel",
+    "explanation": "Bactrian camels have two humps that store fat and water, enabling them to survive harsh deserts.",
+    "explanationJapanese": "バクトリアンキャメルは脂肪と水を蓄える2つのこぶがあり、過酷な砂漠でも生き残れます。",
+    "vocabulary": [
+      {
+        "word": "harsh",
+        "meaning": "厳しい"
+      },
+      {
+        "word": "enable",
+        "meaning": "可能にする"
+      },
+      {
+        "word": "survive",
+        "meaning": "生き残る"
+      }
+    ],
+    "category": "Nature & Animals",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Nomads in Central Asia still rely on camels for transport across deserts.",
+    "englishExpression": "Phrase to try: \"I link Bactrian camel to nomads in central asia still rely on camels for transport across deserts.\""
+  },
+  {
+    "question": "Which tree produces cones and keeps its needles year-round?",
+    "questionJapanese": "球果をつけ、葉を一年中保つ樹木はどれですか？",
+    "options": [
+      "Pine",
+      "Maple",
+      "Birch",
+      "Oak"
+    ],
+    "answer": "Pine",
+    "explanation": "Pine trees keep their needles and release seeds from cones, thriving in cold climates.",
+    "explanationJapanese": "松の木は針葉を一年中維持し、球果から種を放出し寒冷気候でも育ちます。",
+    "vocabulary": [
+      {
+        "word": "release",
+        "meaning": "放出する"
+      },
+      {
+        "word": "seed",
+        "meaning": "種"
+      },
+      {
+        "word": "climate",
+        "meaning": "気候"
+      }
+    ],
+    "category": "Nature & Animals",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Needles lose less water than broad leaves, helping survival in winter.",
+    "englishExpression": "Phrase to try: \"I link Pine to needles lose less water than broad leaves, helping survival in winter.\""
+  },
+  {
+    "question": "Which land carnivore is the largest in Africa?",
+    "questionJapanese": "アフリカで最大の陸上肉食動物はどれですか？",
+    "options": [
+      "Spotted hyena",
+      "Lion",
+      "Cheetah",
+      "Leopard"
+    ],
+    "answer": "Spotted hyena",
+    "explanation": "Spotted hyenas have powerful jaws and hunt or scavenge in clans ruled by females.",
+    "explanationJapanese": "ブチハイエナは強靭な顎を持ち、メスが統率する群れで狩りや死骸狩りをします。",
+    "vocabulary": [
+      {
+        "word": "clan",
+        "meaning": "群れ"
+      },
+      {
+        "word": "scavenge",
+        "meaning": "死骸をあさる"
+      },
+      {
+        "word": "female",
+        "meaning": "雌"
+      }
+    ],
+    "category": "Nature & Animals",
+    "difficulty": "Medium",
+    "knowledgeInsight": "They work together and have a matriarchal society, unlike lions.",
+    "englishExpression": "Phrase to try: \"I link Spotted hyena to they work together and have a matriarchal society, unlike lions.\""
+  },
+  {
+    "question": "Which marine animal uses eight arms and is highly intelligent?",
+    "questionJapanese": "8本の腕を使い、非常に知能が高い海の生き物は何ですか？",
+    "options": [
+      "Octopus",
+      "Squid",
+      "Seal",
+      "Dolphin"
+    ],
+    "answer": "Octopus",
+    "explanation": "Octopuses solve puzzles, use tools, and escape enclosures, showing advanced cognition.",
+    "explanationJapanese": "タコはパズルを解き、道具を使い、隙間から逃げるほど高度な知能を持ちます。",
+    "vocabulary": [
+      {
+        "word": "cognition",
+        "meaning": "認知"
+      },
+      {
+        "word": "escape",
+        "meaning": "逃げる"
+      },
+      {
+        "word": "tool",
+        "meaning": "道具"
+      }
+    ],
+    "category": "Nature & Animals",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Scientists study their color changes to learn about brain function.",
+    "englishExpression": "Phrase to try: \"I link Octopus to scientists study their color changes to learn about brain function.\""
+  },
+  {
+    "question": "Which bird migrates from the Arctic to the Antarctic each year?",
+    "questionJapanese": "北極から南極まで毎年移動する鳥はどれですか？",
+    "options": [
+      "Arctic tern",
+      "Albatross",
+      "Wandering albatross",
+      "Canada goose"
+    ],
+    "answer": "Arctic tern",
+    "explanation": "The Arctic tern travels about 44,000 miles between polar regions, the longest migration of any bird.",
+    "explanationJapanese": "アラスカオオトウゾクカモメは北極と南極の間を約44,000マイル移動し、鳥類で最も長い渡りをします。",
+    "vocabulary": [
+      {
+        "word": "migrate",
+        "meaning": "移動する"
+      },
+      {
+        "word": "polar",
+        "meaning": "極地の"
+      },
+      {
+        "word": "region",
+        "meaning": "地域"
+      }
+    ],
+    "category": "Nature & Animals",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Its long journey helps scientists study climate patterns across oceans.",
+    "englishExpression": "Phrase to try: \"I link Arctic tern to its long journey helps scientists study climate patterns across oceans.\""
+  },
+  {
+    "question": "Which reptile changes color to blend into its surroundings?",
+    "questionJapanese": "周囲に溶け込むために体色を変える爬虫類はどれですか？",
+    "options": [
+      "Chameleon",
+      "Anole",
+      "Iguana",
+      "Gecko"
+    ],
+    "answer": "Chameleon",
+    "explanation": "Chameleons adjust pigment cells to hide from predators and signal mates.",
+    "explanationJapanese": "カメレオンは色素細胞を変えて捕食者から隠れたり仲間に合図を送ったりします。",
+    "vocabulary": [
+      {
+        "word": "predator",
+        "meaning": "捕食者"
+      },
+      {
+        "word": "signal",
+        "meaning": "合図"
+      },
+      {
+        "word": "adapt",
+        "meaning": "適応する"
+      }
+    ],
+    "category": "Nature & Animals",
+    "difficulty": "Easy",
+    "knowledgeInsight": "They also move their eyes independently, surveying a large area.",
+    "englishExpression": "Phrase to try: \"I link Chameleon to they also move their eyes independently, surveying a large area.\""
+  },
+  {
+    "question": "Which aquatic animal uses echolocation to find prey at night?",
+    "questionJapanese": "夜にエコーロケーションで獲物を探す水生動物はどれですか？",
+    "options": [
+      "Dolphin",
+      "Whale",
+      "Seal",
+      "Shark"
+    ],
+    "answer": "Dolphin",
+    "explanation": "Dolphins emit clicks that bounce off objects, letting them locate fish and obstacles.",
+    "explanationJapanese": "イルカはクリック音を出し、それが反射して魚や障害物の位置を知ることができます。",
+    "vocabulary": [
+      {
+        "word": "click",
+        "meaning": "クリック音"
+      },
+      {
+        "word": "bounce",
+        "meaning": "跳ね返る"
+      },
+      {
+        "word": "object",
+        "meaning": "対象"
+      }
+    ],
+    "category": "Nature & Animals",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Their sonar can track prey and friends even in murky water.",
+    "englishExpression": "Phrase to try: \"I link Dolphin to their sonar can track prey and friends even in murky water.\""
+  },
+  {
+    "question": "Which mammal is known for carrying its young in a pouch?",
+    "questionJapanese": "幼獣を袋の中で育てることで知られている哺乳類は何ですか？",
+    "options": [
+      "Kangaroo",
+      "Koala",
+      "Opossum",
+      "All of the above"
+    ],
+    "answer": "All of the above",
+    "explanation": "Kangaroos, koalas, and opossums are marsupials that carry joeys in pouches.",
+    "explanationJapanese": "カンガルー、コアラ、オポッサムはいずれも袋から幼獣を育てる有袋類です。",
+    "vocabulary": [
+      {
+        "word": "marsupial",
+        "meaning": "有袋類"
+      },
+      {
+        "word": "joey",
+        "meaning": "幼獣"
+      },
+      {
+        "word": "pouch",
+        "meaning": "袋"
+      }
+    ],
+    "category": "Nature & Animals",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Marsupials evolved in isolation in Australia and the Americas.",
+    "englishExpression": "Phrase to try: \"I link All of the above to marsupials evolved in isolation in australia and the americas.\""
+  },
+  {
+    "question": "Which animal is famed for swimming with a distinctive black-and-white stripe pattern and a panda-like face?",
+    "questionJapanese": "白黒のストライプ模様とパンダのような顔で知られる泳ぎの得意な動物は何ですか？",
+    "options": [
+      "Orca",
+      "Dolphin",
+      "Seal",
+      "Penguin"
+    ],
+    "answer": "Orca",
+    "explanation": "Orcas, or killer whales, are toothed whales that live in pods around the world.",
+    "explanationJapanese": "シャチは歯を持つクジラで、世界中の群れで暮らしています。",
+    "vocabulary": [
+      {
+        "word": "pod",
+        "meaning": "群れ"
+      },
+      {
+        "word": "toothed",
+        "meaning": "歯を持つ"
+      },
+      {
+        "word": "killer whale",
+        "meaning": "シャチ"
+      }
+    ],
+    "category": "Nature & Animals",
+    "difficulty": "Medium",
+    "knowledgeInsight": "They cooperate when hunting and are top predators in seas.",
+    "englishExpression": "Phrase to try: \"I link Orca to they cooperate when hunting and are top predators in seas.\""
+  },
+  {
+    "question": "Which wizarding school appears in the Harry Potter series?",
+    "questionJapanese": "ハリー・ポッターシリーズに登場する魔法学校の名前は？",
+    "options": [
+      "Hogwarts",
+      "Beauxbatons",
+      "Durmstrang",
+      "Ilvermorny"
+    ],
+    "answer": "Hogwarts",
+    "explanation": "Hogwarts School of Witchcraft and Wizardry trains young wizards in Britain.",
+    "explanationJapanese": "ホグワーツ魔法魔術学校はイギリスで若い魔法使いを育てます。",
+    "vocabulary": [
+      {
+        "word": "witchcraft",
+        "meaning": "魔法術"
+      },
+      {
+        "word": "wizardry",
+        "meaning": "魔法"
+      },
+      {
+        "word": "train",
+        "meaning": "育てる"
+      }
+    ],
+    "category": "Pop Culture",
+    "difficulty": "Easy",
+    "knowledgeInsight": "The houses at Hogwarts highlight virtues like bravery and learning.",
+    "englishExpression": "Phrase to try: \"I link Hogwarts to the houses at hogwarts highlight virtues like bravery and learning.\""
+  },
+  {
+    "question": "What film features the song 'Let It Go'?",
+    "questionJapanese": "『Let It Go』という曲が登場する映画は？",
+    "options": [
+      "Frozen",
+      "Moana",
+      "Tangled",
+      "Coco"
+    ],
+    "answer": "Frozen",
+    "explanation": "Frozen is a Disney film where Elsa sings 'Let It Go' to accept her powers.",
+    "explanationJapanese": "『アナと雪の女王』でエルサは力を受け入れるため『Let It Go』を歌います。",
+    "vocabulary": [
+      {
+        "word": "accept",
+        "meaning": "受け入れる"
+      },
+      {
+        "word": "power",
+        "meaning": "力"
+      },
+      {
+        "word": "sing",
+        "meaning": "歌う"
+      }
+    ],
+    "category": "Pop Culture",
+    "difficulty": "Easy",
+    "knowledgeInsight": "The song became a global anthem for self-expression.",
+    "englishExpression": "Phrase to try: \"I link Frozen to the song became a global anthem for self-expression.\""
+  },
+  {
+    "question": "Which superhero uses a shield made of vibranium?",
+    "questionJapanese": "ビブラニウムでできた盾を使うスーパーヒーローは？",
+    "options": [
+      "Captain America",
+      "Iron Man",
+      "Thor",
+      "Black Panther"
+    ],
+    "answer": "Captain America",
+    "explanation": "Captain America's shield is nearly indestructible and returns like a boomerang.",
+    "explanationJapanese": "キャプテン・アメリカの盾はほぼ破壊できず、ブーメランのように戻ります。",
+    "vocabulary": [
+      {
+        "word": "indestructible",
+        "meaning": "破壊できない"
+      },
+      {
+        "word": "return",
+        "meaning": "戻る"
+      },
+      {
+        "word": "boomerang",
+        "meaning": "ブーメラン"
+      }
+    ],
+    "category": "Pop Culture",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Vibranium is a fictional metal from Wakanda, giving special properties.",
+    "englishExpression": "Phrase to try: \"I link Captain America to vibranium is a fictional metal from wakanda, giving special properties.\""
+  },
+  {
+    "question": "Which singer is known as the 'King of Pop'?",
+    "questionJapanese": "『キング・オブ・ポップ』として知られる歌手は誰ですか？",
+    "options": [
+      "Michael Jackson",
+      "Prince",
+      "Madonna",
+      "Elvis Presley"
+    ],
+    "answer": "Michael Jackson",
+    "explanation": "Michael Jackson popularized dance moves like the moonwalk and albums like Thriller.",
+    "explanationJapanese": "マイケル・ジャクソンはムーンウォークや『スリラー』などで大衆文化に影響を与えました。",
+    "vocabulary": [
+      {
+        "word": "popularize",
+        "meaning": "普及させる"
+      },
+      {
+        "word": "dance",
+        "meaning": "ダンス"
+      },
+      {
+        "word": "album",
+        "meaning": "アルバム"
+      }
+    ],
+    "category": "Pop Culture",
+    "difficulty": "Medium",
+    "knowledgeInsight": "He redefined music videos with cinematic storytelling approaches.",
+    "englishExpression": "Phrase to try: \"I link Michael Jackson to he redefined music videos with cinematic storytelling approaches.\""
+  },
+  {
+    "question": "Which sitcom centers around friends meeting at Central Perk coffee shop?",
+    "questionJapanese": "セントラルパークのコーヒーショップで友人たちが集まるシットコムは？",
+    "options": [
+      "Friends",
+      "Seinfeld",
+      "How I Met Your Mother",
+      "The Big Bang Theory"
+    ],
+    "answer": "Friends",
+    "explanation": "Friends focuses on six New Yorkers who share life and coffees at Central Perk.",
+    "explanationJapanese": "『フレンズ』は中央パークで人生とコーヒーを共有する6人のニューヨーカーの物語です。",
+    "vocabulary": [
+      {
+        "word": "focus",
+        "meaning": "焦点"
+      },
+      {
+        "word": "share",
+        "meaning": "共有する"
+      },
+      {
+        "word": "coffee",
+        "meaning": "コーヒー"
+      }
+    ],
+    "category": "Pop Culture",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Its humor inspired ensemble comedies around the world.",
+    "englishExpression": "Phrase to try: \"I link Friends to its humor inspired ensemble comedies around the world.\""
+  },
+  {
+    "question": "Which superhero film follows a hero from Wakanda?",
+    "questionJapanese": "ワカンダ出身のヒーローを描く映画は？",
+    "options": [
+      "Black Panther",
+      "Guardians of the Galaxy",
+      "Doctor Strange",
+      "Ant-Man"
+    ],
+    "answer": "Black Panther",
+    "explanation": "Black Panther highlights Wakanda's advanced technology and vibranium resources.",
+    "explanationJapanese": "『ブラックパンサー』はワカンダの高度な技術とビブラニウムを描きます。",
+    "vocabulary": [
+      {
+        "word": "highlight",
+        "meaning": "強調する"
+      },
+      {
+        "word": "advanced",
+        "meaning": "進んだ"
+      },
+      {
+        "word": "resource",
+        "meaning": "資源"
+      }
+    ],
+    "category": "Pop Culture",
+    "difficulty": "Medium",
+    "knowledgeInsight": "It celebrated African culture while expanding the Marvel universe.",
+    "englishExpression": "Phrase to try: \"I link Black Panther to it celebrated african culture while expanding the marvel universe.\""
+  },
+  {
+    "question": "Which studio produced 'My Neighbor Totoro'?",
+    "questionJapanese": "『となりのトトロ』を制作したスタジオは？",
+    "options": [
+      "Studio Ghibli",
+      "Toei Animation",
+      "Sunrise",
+      "Madhouse"
+    ],
+    "answer": "Studio Ghibli",
+    "explanation": "Studio Ghibli is famous for Hayao Miyazaki's imaginative storytelling.",
+    "explanationJapanese": "スタジオジブリは宮崎駿の想像力豊かな物語で知られています。",
+    "vocabulary": [
+      {
+        "word": "imaginative",
+        "meaning": "想像力豊かな"
+      },
+      {
+        "word": "storytelling",
+        "meaning": "物語ること"
+      },
+      {
+        "word": "famous",
+        "meaning": "有名な"
+      }
+    ],
+    "category": "Pop Culture",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Their films blend folklore, nature, and strong heroines.",
+    "englishExpression": "Phrase to try: \"I link Studio Ghibli to their films blend folklore, nature, and strong heroines.\""
+  },
+  {
+    "question": "Which platform debuted 'Stranger Things'?",
+    "questionJapanese": "『ストレンジャー・シングス』を配信したプラットフォームは？",
+    "options": [
+      "Netflix",
+      "Disney+",
+      "HBO Max",
+      "Amazon Prime"
+    ],
+    "answer": "Netflix",
+    "explanation": "Netflix released Stranger Things with a nostalgic 1980s sci-fi vibe.",
+    "explanationJapanese": "Netflixは1980年代風のSFで『ストレンジャー・シングス』を配信しました。",
+    "vocabulary": [
+      {
+        "word": "nostalgic",
+        "meaning": "懐かしい"
+      },
+      {
+        "word": "vibe",
+        "meaning": "雰囲気"
+      },
+      {
+        "word": "sci-fi",
+        "meaning": "SF"
+      }
+    ],
+    "category": "Pop Culture",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Its retro aesthetic boosted global interest in 80s pop culture.",
+    "englishExpression": "Phrase to try: \"I link Netflix to its retro aesthetic boosted global interest in 80s pop culture.\""
+  },
+  {
+    "question": "Which British singer recorded 'Rehab' and 'Back to Black'?",
+    "questionJapanese": "『Rehab』『Back to Black』を歌ったイギリスの歌手は？",
+    "options": [
+      "Amy Winehouse",
+      "Adele",
+      "Ellie Goulding",
+      "Dua Lipa"
+    ],
+    "answer": "Amy Winehouse",
+    "explanation": "Amy Winehouse combined jazz, soul, and personal lyrics to leave a lasting legacy.",
+    "explanationJapanese": "エイミー・ワインハウスはジャズとソウルを融合し、個人的な歌詞で強い印象を残しました。",
+    "vocabulary": [
+      {
+        "word": "personal",
+        "meaning": "個人的な"
+      },
+      {
+        "word": "lyrics",
+        "meaning": "歌詞"
+      },
+      {
+        "word": "legacy",
+        "meaning": "遺産"
+      }
+    ],
+    "category": "Pop Culture",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Her voice and style influence many modern soul artists.",
+    "englishExpression": "Phrase to try: \"I link Amy Winehouse to her voice and style influence many modern soul artists.\""
+  },
+  {
+    "question": "Which book series inspired the TV show Game of Thrones?",
+    "questionJapanese": "『ゲーム・オブ・スローンズ』の原作となった本のシリーズは？",
+    "options": [
+      "A Song of Ice and Fire",
+      "The Lord of the Rings",
+      "Harry Potter",
+      "The Wheel of Time"
+    ],
+    "answer": "A Song of Ice and Fire",
+    "explanation": "George R. R. Martin's saga features dragons and political intrigue for HBO's show.",
+    "explanationJapanese": "ジョージ・R・R・マーティンの『氷と炎の歌』はドラゴンと政治的陰謀を描き、HBOのドラマになりました。",
+    "vocabulary": [
+      {
+        "word": "saga",
+        "meaning": "叙事詩"
+      },
+      {
+        "word": "intrigue",
+        "meaning": "陰謀"
+      },
+      {
+        "word": "dragon",
+        "meaning": "ドラゴン"
+      }
+    ],
+    "category": "Pop Culture",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Its complex characters and unpredictable twists redefined fantasy TV.",
+    "englishExpression": "Phrase to try: \"I link A Song of Ice and Fire to its complex characters and unpredictable twists redefined fantasy tv.\""
+  },
+  {
+    "question": "Which artist painted the Mona Lisa?",
+    "questionJapanese": "モナ・リザを描いた画家は？",
+    "options": [
+      "Leonardo da Vinci",
+      "Michelangelo",
+      "Raphael",
+      "Sandro Botticelli"
+    ],
+    "answer": "Leonardo da Vinci",
+    "explanation": "Leonardo painted the Mona Lisa during the Renaissance, famous for her smile.",
+    "explanationJapanese": "レオナルド・ダ・ヴィンチはルネサンス期に微笑みで有名なモナ・リザを描きました。",
+    "vocabulary": [
+      {
+        "word": "Renaissance",
+        "meaning": "ルネサンス"
+      },
+      {
+        "word": "famous",
+        "meaning": "有名"
+      },
+      {
+        "word": "smile",
+        "meaning": "微笑み"
+      }
+    ],
+    "category": "Pop Culture",
+    "difficulty": "Easy",
+    "knowledgeInsight": "It hangs in the Louvre and draws crowds every day.",
+    "englishExpression": "Phrase to try: \"I link Leonardo da Vinci to it hangs in the louvre and draws crowds every day.\""
+  },
+  {
+    "question": "Which streaming service releases Marvel shows like 'WandaVision'?",
+    "questionJapanese": "『ワンダヴィジョン』のようなマーベル作品を配信するサービスは？",
+    "options": [
+      "Disney+",
+      "Netflix",
+      "HBO Max",
+      "Amazon Prime"
+    ],
+    "answer": "Disney+",
+    "explanation": "Disney+ hosts Marvel series that connect to the larger movie universe.",
+    "explanationJapanese": "Disney+では映画の宇宙とつながるマーベルのシリーズを提供しています。",
+    "vocabulary": [
+      {
+        "word": "host",
+        "meaning": "配信する"
+      },
+      {
+        "word": "connect",
+        "meaning": "つながる"
+      },
+      {
+        "word": "universe",
+        "meaning": "宇宙"
+      }
+    ],
+    "category": "Pop Culture",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Its shows expand stories between blockbuster films.",
+    "englishExpression": "Phrase to try: \"I link Disney+ to its shows expand stories between blockbuster films.\""
+  },
+  {
+    "question": "Which sport is played on a diamond-shaped field with bases?",
+    "questionJapanese": "ダイヤモンド形のフィールドと塁を使うスポーツは何ですか？",
+    "options": [
+      "Baseball",
+      "Cricket",
+      "Golf",
+      "Rugby"
+    ],
+    "answer": "Baseball",
+    "explanation": "Baseball uses four bases arranged in a diamond, and teams alternate batting and fielding.",
+    "explanationJapanese": "野球は4つの塁をダイヤモンド型に並べて、打撃と守備を交互に行います。",
+    "vocabulary": [
+      {
+        "word": "arrange",
+        "meaning": "並べる"
+      },
+      {
+        "word": "alternate",
+        "meaning": "交互に"
+      },
+      {
+        "word": "bat",
+        "meaning": "打つ"
+      }
+    ],
+    "category": "Sports",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Baseball remains a beloved sport in America and Japan.",
+    "englishExpression": "Phrase to try: \"I link Baseball to baseball remains a beloved sport in america and japan.\""
+  },
+  {
+    "question": "How many players are on a soccer team on the field?",
+    "questionJapanese": "サッカーのチームはフィールドに何人立ちますか？",
+    "options": [
+      "11",
+      "9",
+      "7",
+      "5"
+    ],
+    "answer": "11",
+    "explanation": "Soccer teams have 11 players, including one goalkeeper.",
+    "explanationJapanese": "サッカーではキーパーを含め11人がプレーします。",
+    "vocabulary": [
+      {
+        "word": "include",
+        "meaning": "含む"
+      },
+      {
+        "word": "goalkeeper",
+        "meaning": "ゴールキーパー"
+      },
+      {
+        "word": "player",
+        "meaning": "選手"
+      }
+    ],
+    "category": "Sports",
+    "difficulty": "Easy",
+    "knowledgeInsight": "FIFA organizes tournaments for national teams of eleven players.",
+    "englishExpression": "Phrase to try: \"I link 11 to fifa organizes tournaments for national teams of eleven players.\""
+  },
+  {
+    "question": "What score term describes both players at 40 points in tennis?",
+    "questionJapanese": "テニスで両プレーヤーが40点のときに使う用語は？",
+    "options": [
+      "Deuce",
+      "Advantage",
+      "Love",
+      "Set"
+    ],
+    "answer": "Deuce",
+    "explanation": "At deuce, a player must win two consecutive points to take the game.",
+    "explanationJapanese": "デュースでは2ポイント連続で取らないとゲームに勝てません。",
+    "vocabulary": [
+      {
+        "word": "consecutive",
+        "meaning": "連続した"
+      },
+      {
+        "word": "point",
+        "meaning": "ポイント"
+      },
+      {
+        "word": "game",
+        "meaning": "ゲーム"
+      }
+    ],
+    "category": "Sports",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Long deuce battles test both skill and nerves.",
+    "englishExpression": "Phrase to try: \"I link Deuce to long deuce battles test both skill and nerves.\""
+  },
+  {
+    "question": "Where were the 2016 Summer Olympics held?",
+    "questionJapanese": "2016年夏季オリンピックはどこで開催されましたか？",
+    "options": [
+      "Rio de Janeiro",
+      "Tokyo",
+      "London",
+      "Beijing"
+    ],
+    "answer": "Rio de Janeiro",
+    "explanation": "Rio became the first South American city to host the Summer Olympics.",
+    "explanationJapanese": "リオは南米初の夏季オリンピック開催都市になりました。",
+    "vocabulary": [
+      {
+        "word": "host",
+        "meaning": "開催する"
+      },
+      {
+        "word": "city",
+        "meaning": "都市"
+      },
+      {
+        "word": "Summer",
+        "meaning": "夏"
+      }
+    ],
+    "category": "Sports",
+    "difficulty": "Medium",
+    "knowledgeInsight": "The Games highlighted Brazil’s culture but faced infrastructure hurdles.",
+    "englishExpression": "Phrase to try: \"I link Rio de Janeiro to the games highlighted brazil’s culture but faced infrastructure hurdles.\""
+  },
+  {
+    "question": "How many players are on the court for each basketball team?",
+    "questionJapanese": "バスケットボールではチームごとに何人がコートに立ちますか？",
+    "options": [
+      "5",
+      "6",
+      "4",
+      "7"
+    ],
+    "answer": "5",
+    "explanation": "Basketball uses five players: two guards, two forwards, and a center.",
+    "explanationJapanese": "バスケットボールはガード2人、フォワード2人、センター1人の計5人です。",
+    "vocabulary": [
+      {
+        "word": "guard",
+        "meaning": "ガード"
+      },
+      {
+        "word": "forward",
+        "meaning": "フォワード"
+      },
+      {
+        "word": "center",
+        "meaning": "センター"
+      }
+    ],
+    "category": "Sports",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Positions shift between offense and defense, but five players stay on court.",
+    "englishExpression": "Phrase to try: \"I link 5 to positions shift between offense and defense, but five players stay on court.\""
+  },
+  {
+    "question": "Which country won the 2018 FIFA World Cup?",
+    "questionJapanese": "2018年FIFAワールドカップを優勝した国は？",
+    "options": [
+      "France",
+      "Brazil",
+      "Germany",
+      "Argentina"
+    ],
+    "answer": "France",
+    "explanation": "France defeated Croatia 4-2 in the final held in Russia.",
+    "explanationJapanese": "フランスはロシアの決勝でクロアチアを4-2で破りました。",
+    "vocabulary": [
+      {
+        "word": "defeat",
+        "meaning": "打ち負かす"
+      },
+      {
+        "word": "final",
+        "meaning": "決勝"
+      },
+      {
+        "word": "hold",
+        "meaning": "開催する"
+      }
+    ],
+    "category": "Sports",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Young stars like Mbappé shone in France’s victory.",
+    "englishExpression": "Phrase to try: \"I link France to young stars like mbappé shone in france’s victory.\""
+  },
+  {
+    "question": "Which sport sends a puck instead of a ball?",
+    "questionJapanese": "ボールの代わりにパックを使うスポーツは何ですか？",
+    "options": [
+      "Ice hockey",
+      "Field hockey",
+      "Baseball",
+      "Cricket"
+    ],
+    "answer": "Ice hockey",
+    "explanation": "Ice hockey players skate on ice while moving a rubber puck with sticks.",
+    "explanationJapanese": "アイスホッケーは氷上をスケートし、スティックでラバーパックを扱います。",
+    "vocabulary": [
+      {
+        "word": "puck",
+        "meaning": "パック"
+      },
+      {
+        "word": "stick",
+        "meaning": "スティック"
+      },
+      {
+        "word": "skate",
+        "meaning": "スケート"
+      }
+    ],
+    "category": "Sports",
+    "difficulty": "Medium",
+    "knowledgeInsight": "It is a fast, physical sport popular in cold climates.",
+    "englishExpression": "Phrase to try: \"I link Ice hockey to it is a fast, physical sport popular in cold climates.\""
+  },
+  {
+    "question": "Which Grand Slam tennis tournament is played on clay courts?",
+    "questionJapanese": "クレーコートで行われるグランドスラム大会は？",
+    "options": [
+      "French Open",
+      "Wimbledon",
+      "US Open",
+      "Australian Open"
+    ],
+    "answer": "French Open",
+    "explanation": "The French Open uses clay courts that slow the ball and favor endurance.",
+    "explanationJapanese": "フレンチオープンはボールが遅くなり持久力が試されるクレーコートです。",
+    "vocabulary": [
+      {
+        "word": "endurance",
+        "meaning": "持久力"
+      },
+      {
+        "word": "slow",
+        "meaning": "遅い"
+      },
+      {
+        "word": "favor",
+        "meaning": "有利にする"
+      }
+    ],
+    "category": "Sports",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Players slide and rally longer points on clay.",
+    "englishExpression": "Phrase to try: \"I link French Open to players slide and rally longer points on clay.\""
+  },
+  {
+    "question": "Which event gathers track and field athletes worldwide every four years?",
+    "questionJapanese": "4年ごとに陸上競技選手を世界から集める大会は？",
+    "options": [
+      "Olympic Games",
+      "Commonwealth Games",
+      "Asian Games",
+      "World Championships"
+    ],
+    "answer": "Olympic Games",
+    "explanation": "The Olympic Games showcase track, field, and other sports with nations competing peacefully.",
+    "explanationJapanese": "オリンピックは陸上やさまざまな競技を平和的に行う国際大会です。",
+    "vocabulary": [
+      {
+        "word": "showcase",
+        "meaning": "披露する"
+      },
+      {
+        "word": "compete",
+        "meaning": "競う"
+      },
+      {
+        "word": "peacefully",
+        "meaning": "平和的に"
+      }
+    ],
+    "category": "Sports",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Since 1896, the Games promote international goodwill.",
+    "englishExpression": "Phrase to try: \"I link Olympic Games to since 1896, the games promote international goodwill.\""
+  },
+  {
+    "question": "Which martial art from Japan emphasizes throws and pins?",
+    "questionJapanese": "投げ技と抑え込みを重視する日本発祥の武道は？",
+    "options": [
+      "Judo",
+      "Karate",
+      "Taekwondo",
+      "Aikido"
+    ],
+    "answer": "Judo",
+    "explanation": "Judo uses an opponent's force against them and has been an Olympic sport since 1964.",
+    "explanationJapanese": "柔道は敵の力を利用し、1964年からオリンピック種目です。",
+    "vocabulary": [
+      {
+        "word": "force",
+        "meaning": "力"
+      },
+      {
+        "word": "against",
+        "meaning": "〜に対して"
+      },
+      {
+        "word": "Olympic",
+        "meaning": "オリンピックの"
+      }
+    ],
+    "category": "Sports",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Its motto is 'maximum efficiency with minimum effort'.",
+    "englishExpression": "Phrase to try: \"I link Judo to its motto is 'maximum efficiency with minimum effort'.\""
+  },
+  {
+    "question": "Who broke the four-minute mile barrier?",
+    "questionJapanese": "4分の1マイルの壁を破った選手は？",
+    "options": [
+      "Roger Bannister",
+      "Usain Bolt",
+      "Mo Farah",
+      "Hicham El Guerrouj"
+    ],
+    "answer": "Roger Bannister",
+    "explanation": "Bannister ran 3 minutes 59.4 seconds in 1954, becoming the first to run under four minutes.",
+    "explanationJapanese": "バニスターは1954年に3分59秒4を記録し、4分以内でマイルを走った最初の人になりました。",
+    "vocabulary": [
+      {
+        "word": "barrier",
+        "meaning": "障壁"
+      },
+      {
+        "word": "record",
+        "meaning": "記録"
+      },
+      {
+        "word": "run",
+        "meaning": "走る"
+      }
+    ],
+    "category": "Sports",
+    "difficulty": "Medium",
+    "knowledgeInsight": "His achievement inspired a new era of middle-distance runners.",
+    "englishExpression": "Phrase to try: \"I link Roger Bannister to his achievement inspired a new era of middle-distance runners.\""
+  },
+  {
+    "question": "Which Spanish city hosts the Barcelona Open tennis tournament?",
+    "questionJapanese": "バルセロナオープンを開催するスペインの都市は？",
+    "options": [
+      "Barcelona",
+      "Madrid",
+      "Valencia",
+      "Seville"
+    ],
+    "answer": "Barcelona",
+    "explanation": "Barcelona hosts the clay-court Barcelona Open every spring as part of the ATP Tour.",
+    "explanationJapanese": "バルセロナは春にATPツアーのクレー大会バルセロナオープンを開催します。",
+    "vocabulary": [
+      {
+        "word": "host",
+        "meaning": "開催する"
+      },
+      {
+        "word": "clay",
+        "meaning": "クレー"
+      },
+      {
+        "word": "tour",
+        "meaning": "ツアー"
+      }
+    ],
+    "category": "Sports",
+    "difficulty": "Medium",
+    "knowledgeInsight": "It serves as a warm-up event before the French Open.",
+    "englishExpression": "Phrase to try: \"I link Barcelona to it serves as a warm-up event before the french open.\""
+  },
+  {
+    "question": "Which sport uses a puck and ice skates?",
+    "questionJapanese": "パックとアイススケートを使うスポーツは？",
+    "options": [
+      "Ice hockey",
+      "Field hockey",
+      "Skating",
+      "Curling"
+    ],
+    "answer": "Ice hockey",
+    "explanation": "In ice hockey, players skate on ice and use sticks to pass a puck.",
+    "explanationJapanese": "アイスホッケーでは選手が氷上をスケートし、スティックでパックを扱います。",
+    "vocabulary": [
+      {
+        "word": "stick",
+        "meaning": "スティック"
+      },
+      {
+        "word": "puck",
+        "meaning": "パック"
+      },
+      {
+        "word": "pass",
+        "meaning": "パスする"
+      }
+    ],
+    "category": "Sports",
+    "difficulty": "Easy",
+    "knowledgeInsight": "It combines speed, teamwork, and physicality.",
+    "englishExpression": "Phrase to try: \"I link Ice hockey to it combines speed, teamwork, and physicality.\""
+  }
+]
