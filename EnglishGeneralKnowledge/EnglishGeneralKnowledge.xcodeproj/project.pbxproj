@@ -31,9 +31,12 @@
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		BEE0C1F82EC737E300112C71 /* EnglishGeneralKnowledge */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = EnglishGeneralKnowledge;
-			sourceTree = "<group>";
+exceptions = (
+BEE0C2332EC737E300112C71 /* Exceptions for "EnglishGeneralKnowledge" */,
+);
+isa = PBXFileSystemSynchronizedRootGroup;
+path = EnglishGeneralKnowledge;
+sourceTree = "<group>";
 		};
 		BEE0C2082EC737E500112C71 /* EnglishGeneralKnowledgeTests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
@@ -46,6 +49,16 @@
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+BEE0C2332EC737E300112C71 /* Exceptions for "EnglishGeneralKnowledge" */ = {
+isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+membershipExceptions = (
+Info.plist,
+);
+target = BEE0C1F52EC737E300112C71 /* EnglishGeneralKnowledge */;
+};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFrameworksBuildPhase section */
 		BEE0C1F32EC737E300112C71 /* Frameworks */ = {
