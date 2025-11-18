@@ -1,10 +1,3 @@
-//
-//  EnglishGeneralKnowledgeApp.swift
-//  EnglishGeneralKnowledge
-//
-//  Created by あさいしゅんすけ on 2025/11/14.
-//
-
 import SwiftUI
 import SwiftData
 import GoogleMobileAds
@@ -14,7 +7,7 @@ import AppTrackingTransparency
 struct EnglishGeneralKnowledgeApp: App {
     
     init() {
-        GADMobileAds.sharedInstance().start(completionHandler: nil)
+        MobileAds.shared.start { _ in }
     }
     var sharedModelContainer: ModelContainer = {
         let schema = Schema([

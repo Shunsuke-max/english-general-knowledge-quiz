@@ -1,5 +1,6 @@
 import Foundation
 import Combine
+import UIKit
 
 @MainActor
 final class QuizViewModel: ObservableObject {
@@ -22,6 +23,7 @@ final class QuizViewModel: ObservableObject {
 
     private let service = AIQuizService.shared
     private let historyKey = "quizHistory"
+    private let interstitialAdManager = InterstitialAdManager.shared
 
     init() {
         loadHistory()
@@ -99,18 +101,16 @@ final class QuizViewModel: ObservableObject {
     func finishQuiz() {
         guard !isShowingAd else { return }
         isShowingAd = true
-        Task {
-            try? await Task.sleep(nanoseconds: 1_500_000_000)
-            let newResult = QuizResult(
-                score: correctCount,
-                totalQuestions: quizQuestions.count,
-                category: selectedCategory
-            )
-            quizHistory.insert(newResult, at: 0)
-            persistHistory()
-            await loadFeedback()
-            gameState = .finished
-            isShowingAd = false
+        let complete = { [weak self] in
+            Task { await self?.finalizeQuiz() }
+        }
+
+        if interstitialAdManager.isAdReady, let rootVC = topViewController() {
+            interstitialAdManager.present(from: rootVC) {
+                complete()
+            }
+        } else {
+            complete()
         }
     }
 
@@ -168,6 +168,27 @@ final class QuizViewModel: ObservableObject {
         if let decoded = try? JSONDecoder().decode([QuizResult].self, from: data) {
             quizHistory = decoded
         }
+    }
+
+    private func topViewController() -> UIViewController? {
+        UIApplication.shared.connectedScenes
+            .compactMap { $0 as? UIWindowScene }
+            .flatMap { $0.windows }
+            .first { $0.isKeyWindow }?
+            .rootViewController
+    }
+
+    private func finalizeQuiz() async {
+        let newResult = QuizResult(
+            score: correctCount,
+            totalQuestions: quizQuestions.count,
+            category: selectedCategory
+        )
+        quizHistory.insert(newResult, at: 0)
+        persistHistory()
+        await loadFeedback()
+        gameState = .finished
+        isShowingAd = false
     }
 
     private func persistHistory() {
