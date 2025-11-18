@@ -133,9 +133,3 @@ struct QuizResult: Codable, Identifiable, Hashable {
         self.date = date
     }
 }
-
-struct StockProgress: Equatable {
-    let completed: Int
-    let total: Int
-    let message: String
-}

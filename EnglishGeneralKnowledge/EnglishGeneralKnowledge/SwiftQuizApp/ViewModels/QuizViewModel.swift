@@ -15,8 +15,6 @@ final class QuizViewModel: ObservableObject {
     @Published var numberOfQuestions: Int = 5
     @Published var selectedCategory: String = "Random"
     @Published var selectedDifficulty: String = "Medium"
-    @Published var stockingProgress: StockProgress? = nil
-    @Published var isStocking: Bool = false
     @Published var feedback: Feedback? = nil
     @Published var isFeedbackLoading: Bool = false
     @Published private(set) var correctCount: Int = 0
@@ -46,7 +44,7 @@ final class QuizViewModel: ObservableObject {
     }
 
     func startQuiz() {
-        guard !isLoading && !isStocking else { return }
+        guard !isLoading else { return }
         isLoading = true
         errorMessage = nil
         selectedAnswer = nil
@@ -163,26 +161,6 @@ final class QuizViewModel: ObservableObject {
     func clearHistory() {
         quizHistory.removeAll()
         persistHistory()
-    }
-
-    func stockQuestions() {
-        guard !isStocking else { return }
-        isStocking = true
-        stockingProgress = StockProgress(completed: 0, total: 0, message: "Preparing...")
-        Task {
-            await service.stockQuestions { progress in
-                DispatchQueue.main.async {
-                    self.stockingProgress = StockProgress(
-                        completed: progress.completed,
-                        total: progress.total,
-                        message: progress.message
-                    )
-                }
-            }
-            try? await Task.sleep(nanoseconds: 500_000_000)
-            isStocking = false
-            stockingProgress = nil
-        }
     }
 
     private func loadHistory() {

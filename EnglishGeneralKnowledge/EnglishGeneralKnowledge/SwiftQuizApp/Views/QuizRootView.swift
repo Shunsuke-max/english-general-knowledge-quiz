@@ -140,13 +140,10 @@ struct QuizRootView: View {
     }
 
     private var bannerPlaceholder: some View {
-        RoundedRectangle(cornerRadius: 18)
-            .fill(Color.white.opacity(0.05))
-            .frame(height: 70)
-            .overlay(
-                Text("Banner Ad Placeholder")
-                    .foregroundColor(.secondary)
-            )
+        BannerAdView(adUnitID: "ca-app-pub-9982720117568146/6131906499")
+            .frame(height: 50)
+            .background(Color.white.opacity(0.05))
+            .cornerRadius(18)
             .padding(.horizontal)
     }
 

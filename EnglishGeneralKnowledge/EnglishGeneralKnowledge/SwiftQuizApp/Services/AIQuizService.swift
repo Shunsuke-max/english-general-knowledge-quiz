@@ -9,9 +9,6 @@ final class AIQuizService {
     private let cacheURL: URL
     private var cache: [String: [QuizQuestion]] = [:]
     private let session = URLSession.shared
-    private let stockCategories = ["History", "Science", "Geography", "Technology", "Pop Culture", "Sports", "Nature & Animals"]
-    private let stockDifficulties = ["Easy", "Medium", "Hard"]
-    private let targetStockPerCategory = 15
 
     private init() {
         self.apiKey = Bundle.main.object(forInfoDictionaryKey: "GEMINI_API_KEY") as? String
@@ -32,37 +29,6 @@ final class AIQuizService {
         }
 
         return try await generateRandomDifficultyQuiz(count: count, category: category)
-    }
-
-    func stockQuestions(onProgress: @escaping (StockProgress) -> Void) async {
-        var tasks: [(category: String, difficulty: String)] = []
-        let existingCache = loadCache()
-        cache = existingCache
-        for category in stockCategories {
-            for difficulty in stockDifficulties {
-                let key = cacheKey(category: category, difficulty: difficulty)
-                let current = existingCache[key]?.count ?? 0
-                let needed = max(0, targetStockPerCategory - current)
-                for _ in 0..<needed {
-                    tasks.append((category, difficulty))
-                }
-            }
-        }
-
-        guard !tasks.isEmpty else {
-            onProgress(StockProgress(completed: 1, total: 1, message: "Cache already full"))
-            return
-        }
-
-        onProgress(StockProgress(completed: 0, total: tasks.count, message: "Starting to stock questions..."))
-
-        for (index, task) in tasks.enumerated() {
-            let question = (try? await generateQuizQuestion(category: task.category, difficulty: task.difficulty)) ?? Self.fallbackQuestion(category: task.category, difficulty: task.difficulty)
-            let key = cacheKey(category: task.category, difficulty: task.difficulty)
-            cache[key, default: []].append(question)
-            saveCache()
-            onProgress(StockProgress(completed: index + 1, total: tasks.count, message: "Fetched question for \(task.category) (\(task.difficulty))"))
-        }
     }
 
     func generateDetailedFeedback(score: Int, total: Int, incorrectAnswers: [QuizQuestion]) async throws -> Feedback {

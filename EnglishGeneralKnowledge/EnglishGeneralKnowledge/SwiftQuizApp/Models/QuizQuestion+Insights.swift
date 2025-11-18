@@ -5,11 +5,14 @@ extension QuizQuestion {
         if let raw = englishExpressionRaw, !raw.isEmpty {
             return raw
         }
-        let sentences = explanation.components(separatedBy: ".")
-        let trimmed = sentences.first?.trimmingCharacters(in: .whitespacesAndNewlines)
-        guard let snippet = trimmed, !snippet.isEmpty else { return nil }
-        let baseReason = snippet.lowercased().hasSuffix("?") ? String(snippet.dropLast()) : snippet
-        return "\(baseReason.lowercased())."
+        let otherOptions = options.filter { $0 != answer }
+        guard !otherOptions.isEmpty else {
+            return "Try turning the explanation into a sentence you can say aloud."
+        }
+
+        let otherList = humanReadableList(otherOptions)
+        let basePrompt = question.trimmingCharacters(in: .whitespacesAndNewlines)
+        return "The other choices—\(otherList)—are decoys, so keep \(answer) in mind whenever you see \"\(basePrompt)\"."
     }
 
     var knowledgeInsight: String {
@@ -18,5 +21,19 @@ extension QuizQuestion {
         }
         let trimmed = question.trimmingCharacters(in: .punctuationCharacters).trimmingCharacters(in: .whitespaces)
         return "Remember that \(answer) answers \"\(trimmed)\"—that link helps you retain both the fact and why it matters."
+    }
+}
+
+private func humanReadableList(_ items: [String]) -> String {
+    switch items.count {
+    case 0:
+        return ""
+    case 1:
+        return items[0]
+    case 2:
+        return "\(items[0]) and \(items[1])"
+    default:
+        let allButLast = items.dropLast().joined(separator: ", ")
+        return "\(allButLast), and \(items.last!)"
     }
 }

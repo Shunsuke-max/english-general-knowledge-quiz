@@ -83,6 +83,7 @@ struct ResultsView: View {
                 }
             }
             .padding()
+            .foregroundColor(.white)
         }
         .background(
             LinearGradient(
@@ -107,7 +108,7 @@ struct ResultsView: View {
                     .font(.headline)
                     .foregroundColor(.white)
                 Text(performanceHint)
-                    .foregroundColor(.secondary)
+                    .foregroundColor(.subtleText)
                     .font(.subheadline)
                 HStack(spacing: 12) {
                     statView(title: "Correct", value: "\(score)")
@@ -189,10 +190,11 @@ struct ResultsView: View {
                     .frame(width: 6, height: 6)
                 Text("Review what you missed")
                     .font(.headline)
+                    .foregroundColor(.white)
             }
             if incorrectAnswers.isEmpty {
                 Text("All answers were correct! Feel free to take another round or try a harder difficulty.")
-                    .foregroundColor(.secondary)
+                    .foregroundColor(.subtleText)
             } else {
                 LazyVStack(spacing: 12) {
                     ForEach(incorrectAnswers) { question in
@@ -222,6 +224,7 @@ struct ResultsView: View {
                             .frame(width: 6, height: 6)
                         Text("Vocabulary to revisit")
                             .font(.headline)
+                            .foregroundColor(.white)
                     }
                     ForEach(aggregatedVocabulary, id: \.word) { entry in
                         HStack {
@@ -268,7 +271,7 @@ struct ResultsView: View {
                         gradient: Gradient(colors: [Color.cyan, Color.blue, Color.purple]),
                         center: .center
                     ),
-                    style: StrokeStyle(lineWidth: 14, lineCap: .round)
+                    style: StrokeStyle(lineWidth: 14, lineCap: .butt)
                 )
                 .rotationEffect(.degrees(-90))
                 .frame(width: 200, height: 200)
@@ -278,7 +281,7 @@ struct ResultsView: View {
                     .font(.system(size: 44, weight: .heavy))
                     .foregroundColor(.white)
                 Text("/ \(total)")
-                    .foregroundColor(.secondary)
+                    .foregroundColor(.subtleText)
                     .font(.subheadline)
             }
         }
@@ -289,6 +292,7 @@ struct ResultsView: View {
 private extension Color {
     static let deepNight = Color(red: 11 / 255, green: 17 / 255, blue: 32 / 255)
     static let deepSpace = Color(red: 2 / 255, green: 6 / 255, blue: 23 / 255)
+    static let subtleText = Color.white.opacity(0.75)
 }
 
 fileprivate struct ReviewCard: View {
@@ -314,61 +318,37 @@ fileprivate struct ReviewCard: View {
                             .foregroundColor(.white)
                             .font(.callout)
                         Text(question.knowledgeInsight)
-                            .foregroundColor(.secondary)
+                            .foregroundColor(.subtleText)
                             .font(.caption)
                     }
                     .padding(.top, 4)
                 } else {
                     Text(question.knowledgeInsight)
-                        .foregroundColor(.secondary)
+                        .foregroundColor(.subtleText)
                         .font(.caption)
                         .padding(.top, 4)
                 }
                 if !question.vocabulary.isEmpty {
                     VStack(alignment: .leading, spacing: 4) {
                         Text("Vocabulary boost:")
-                        .font(.subheadline)
-                        .foregroundColor(.yellow)
-                    ForEach(question.vocabulary, id: \.word) { vocab in
-                        HStack {
-                            Text(vocab.word)
-                                .bold()
-                                .foregroundColor(.white)
-                            Spacer()
-                            Text(vocab.meaning)
-                                .foregroundColor(.white.opacity(0.95))
-                                .font(.caption)
+                            .font(.subheadline)
+                            .foregroundColor(.yellow)
+                        ForEach(question.vocabulary, id: \.word) { vocab in
+                            HStack {
+                                Text(vocab.word)
+                                    .bold()
+                                    .foregroundColor(.white)
+                                Spacer()
+                                Text(vocab.meaning)
+                                    .foregroundColor(.white.opacity(0.95))
+                                    .font(.caption)
+                            }
                         }
                     }
                 }
             }
-        }
         .padding()
         .background(Color.white.opacity(0.04))
         .cornerRadius(16)
-    }
-}
-
-struct ResultsView_Previews: PreviewProvider {
-    static var previews: some View {
-        ResultsView(
-            score: 3,
-            total: 5,
-            incorrectAnswers: [
-                QuizQuestion(
-                    category: "Science",
-                    difficulty: "Medium",
-                    question: "Why is the sky blue?",
-                    questionJapanese: "空が青く見える理由は何ですか？",
-                    options: ["Reflective ocean", "Rayleigh scattering", "Blue planets", "Atmospheric ozone"],
-                    answer: "Rayleigh scattering",
-                    explanation: "Shorter wavelengths scatter more in the atmosphere, giving the sky a blue hue.",
-                    explanationJapanese: "大気中では波長の短い光ほど散乱しやすく、空が青く見えます。",
-                    vocabulary: [VocabularyEntry(word: "scatter", meaning: "散乱する")]
-                )
-            ],
-            onPlayAgain: {}
-        )
-        .preferredColorScheme(.dark)
     }
 }

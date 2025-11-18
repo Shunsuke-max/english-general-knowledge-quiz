@@ -7,9 +7,15 @@
 
 import SwiftUI
 import SwiftData
+import GoogleMobileAds
+import AppTrackingTransparency
 
 @main
 struct EnglishGeneralKnowledgeApp: App {
+    
+    init() {
+        GADMobileAds.sharedInstance().start(completionHandler: nil)
+    }
     var sharedModelContainer: ModelContainer = {
         let schema = Schema([
             Item.self,

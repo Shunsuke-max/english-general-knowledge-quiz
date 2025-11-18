@@ -7,4 +7,4 @@ This folder contains a SwiftUI translation of the React quiz experience. It mirr
 2. In `Info.plist`, add a new **String** entry called `GEMINI_API_KEY` with your Google Generative Language API key.
 3. Build & run on a simulator or device and enjoy the quiz flow.
 
-If you do not provide an API key, the app will continue to work by returning a static fallback question for both the quiz and the feedback sections. The `AIQuizService` also caches generated questions inside the app sandbox and exposes a “Stock Up Questions” flow that pre-fetches questions per category.
+If you do not provide an API key, the app will continue to work by returning static fallback questions for both the quiz and the feedback sections. The `AIQuizService` caches generated questions inside the app sandbox for reuse, ensuring smooth performance without additional UI controls.

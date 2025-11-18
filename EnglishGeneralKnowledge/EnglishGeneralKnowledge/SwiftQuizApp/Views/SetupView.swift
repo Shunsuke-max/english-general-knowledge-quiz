@@ -2,13 +2,13 @@ import SwiftUI
 
 struct SetupView: View {
     @ObservedObject var viewModel: QuizViewModel
-
+    
     private var labelColor: Color { Color.white.opacity(0.9) }
-
+    
     private let questionOptions = [5, 10, 15]
     private let categoryOptions = ["Random", "History", "Science", "Geography", "Technology", "Pop Culture", "Sports", "Nature & Animals"]
     private let difficultyOptions = ["Easy", "Medium", "Hard", "Random"]
-
+    
     var body: some View {
         ZStack {
             LinearGradient(
@@ -17,7 +17,7 @@ struct SetupView: View {
                 endPoint: .bottomTrailing
             )
             .ignoresSafeArea()
-
+            
             ScrollView(showsIndicators: false) {
                 VStack(spacing: 24) {
                     header
@@ -29,10 +29,6 @@ struct SetupView: View {
                     optionSection(title: "2. Select difficulty", items: difficultyOptions, selection: viewModel.selectedDifficulty) { viewModel.selectedDifficulty = $0 }
                     categorySection
                     startButton
-                    stockButton
-                    if let progress = viewModel.stockingProgress {
-                        stockingView(progress: progress)
-                    }
                     if viewModel.quizHistory.isEmpty == false {
                         Button(action: viewModel.viewHistory) {
                             Text("View History (\(viewModel.quizHistory.count))")
@@ -43,7 +39,7 @@ struct SetupView: View {
                                 .foregroundColor(.white)
                                 .cornerRadius(16)
                         }
-                        .disabled(viewModel.isStocking)
+                        .disabled(viewModel.isLoading)
                     }
                 }
                 .foregroundColor(.white)
@@ -61,7 +57,7 @@ struct SetupView: View {
             }
         }
     }
-
+    
     private var header: some View {
         HStack {
             VStack(alignment: .leading, spacing: 6) {
@@ -76,7 +72,7 @@ struct SetupView: View {
             Spacer()
         }
     }
-
+    
     private func optionSection(title: String, items: [String], selection: String, action: @escaping (String) -> Void) -> some View {
         VStack(alignment: .leading, spacing: 8) {
             Text(title)
@@ -97,7 +93,7 @@ struct SetupView: View {
             }
         }
     }
-
+    
     private var categorySection: some View {
         VStack(alignment: .leading, spacing: 8) {
             Text("3. Choose a category")
@@ -119,7 +115,7 @@ struct SetupView: View {
             }
         }
     }
-
+    
     private var startButton: some View {
         Button(action: viewModel.startQuiz) {
             HStack {
@@ -137,42 +133,13 @@ struct SetupView: View {
             .foregroundColor(.white)
             .cornerRadius(16)
         }
-        .disabled(viewModel.isLoading || viewModel.isStocking)
+        .disabled(viewModel.isLoading)
     }
-
-    private var stockButton: some View {
-        Button(action: viewModel.stockQuestions) {
-            Text(viewModel.isStocking ? "Stocking..." : "Stock Up Questions")
-                .font(.headline)
-                .bold()
-                .frame(maxWidth: .infinity)
-                .padding()
-                .background(Color.white.opacity(0.1))
-                .foregroundColor(.white)
-                .cornerRadius(16)
+    
+    struct SetupView_Previews: PreviewProvider {
+        static var previews: some View {
+            SetupView(viewModel: QuizViewModel())
+                .preferredColorScheme(.dark)
         }
-        .disabled(viewModel.isStocking || viewModel.isLoading)
-    }
-
-    private func stockingView(progress: StockProgress) -> some View {
-        VStack(alignment: .leading, spacing: 6) {
-            Text(progress.message)
-                .font(.caption)
-                .foregroundColor(labelColor.opacity(0.8))
-            ProgressView(value: Double(progress.completed), total: Double(max(progress.total, 1)))
-                .progressViewStyle(LinearProgressViewStyle(tint: .cyan))
-            Text("\(progress.completed) / \(progress.total)")
-                .font(.caption2.monospaced())
-                .foregroundColor(labelColor.opacity(0.8))
-                .frame(maxWidth: .infinity, alignment: .trailing)
-        }
-        .padding(.top, 4)
-    }
-}
-
-struct SetupView_Previews: PreviewProvider {
-    static var previews: some View {
-        SetupView(viewModel: QuizViewModel())
-            .preferredColorScheme(.dark)
     }
 }
