@@ -26,11 +26,26 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }, observerOptions);
 
-    document.querySelectorAll('.feature-card, .step, .gallery-item').forEach(el => {
+    // Staggered Animations
+    const animatedElements = document.querySelectorAll('.feature-card, .step, .gallery-item');
+
+    // Group elements by their parent container to stagger them relative to their siblings
+    const containers = new Set();
+    animatedElements.forEach(el => containers.add(el.parentElement));
+
+    containers.forEach(container => {
+        const children = container.querySelectorAll('.feature-card, .step, .gallery-item');
+        children.forEach((child, index) => {
+            child.style.transitionDelay = `${index * 0.1}s`;
+            observer.observe(child);
+        });
+    });
+
+    animatedElements.forEach(el => {
         el.style.opacity = '0';
         el.style.transform = 'translateY(20px)';
         el.style.transition = 'opacity 0.6s ease, transform 0.6s ease';
-        observer.observe(el);
+        // Delay is set above
     });
 
     // Add visible class styles dynamically
