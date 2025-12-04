@@ -28,10 +28,16 @@
 
     <main>
         <section class="hero">
+            <canvas id="particles-canvas"></canvas>
             <div class="container hero-content">
                 <div class="hero-text">
                     <h1 class="fade-in">知性を磨く、<br>英語の旅へ。</h1>
                     <p class="fade-in delay-1">歴史、科学、芸術...<br>世界の教養を英語で学ぶ、<br>大人のためのクイズアプリ。</p>
+
+                    <div class="hero-badge fade-in delay-2">
+                        <span class="icon">💎</span> 完全無料。課金なしで、すべての教養を。
+                    </div>
+
                     <div class="cta-group fade-in delay-2">
                         <a href="https://apps.apple.com/jp/app/worldwise-english/id6755347548" class="app-store-btn"
                             target="_blank">
@@ -67,6 +73,31 @@
                         <div class="icon">📊</div>
                         <h3>詳細なフィードバック</h3>
                         <p>単なる正誤判定だけでなく、<br>なぜその答えなのか、<br>背景知識まで詳しく解説。</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="quiz-demo" class="quiz-section">
+            <div class="container">
+                <h2 class="section-title">Challenge Yourself</h2>
+                <div class="quiz-card" id="quiz-card">
+                    <div class="quiz-question">
+                        <span class="category-tag">Science</span>
+                        <h3>Which planet is known as the "Red Planet"?</h3>
+                    </div>
+                    <div class="quiz-options">
+                        <button class="quiz-option" data-correct="false">Venus</button>
+                        <button class="quiz-option" data-correct="true">Mars</button>
+                        <button class="quiz-option" data-correct="false">Jupiter</button>
+                        <button class="quiz-option" data-correct="false">Saturn</button>
+                    </div>
+                    <div class="quiz-explanation hidden">
+                        <h4><span class="icon">✨</span> Correct!</h4>
+                        <p><strong>Mars</strong> appears red due to iron oxide (rust) on its surface.</p>
+                        <div class="vocab-box">
+                            <span class="vocab-word">iron oxide</span>: 酸化鉄
+                        </div>
                     </div>
                 </div>
             </div>
@@ -130,6 +161,14 @@
                 </a>
             </div>
         </section>
+
+        <div class="sticky-cta">
+            <a href="https://apps.apple.com/jp/app/worldwise-english/id6755347548" class="app-store-btn"
+                target="_blank">
+                <img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/ja-jp?size=250x83&amp;releaseDate=1700000000"
+                    alt="Download on the App Store">
+            </a>
+        </div>
     </main>
 
     <footer class="footer">
