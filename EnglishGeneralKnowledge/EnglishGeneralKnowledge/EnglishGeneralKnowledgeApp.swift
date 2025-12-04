@@ -2,13 +2,12 @@ import SwiftUI
 import SwiftData
 import GoogleMobileAds
 import AppTrackingTransparency
+import Combine
 
 @main
 struct EnglishGeneralKnowledgeApp: App {
+    @StateObject private var adManager = AdManager()
     
-    init() {
-        MobileAds.shared.start { _ in }
-    }
     var sharedModelContainer: ModelContainer = {
         let schema = Schema([
             Item.self,
@@ -31,6 +30,9 @@ struct EnglishGeneralKnowledgeApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+                .onAppear {
+                    adManager.requestTrackingPermission()
+                }
         }
         .modelContainer(sharedModelContainer)
     }
@@ -51,5 +53,27 @@ struct EnglishGeneralKnowledgeApp: App {
         }
 
         return modelDirectory.appendingPathComponent("default.store")
+    }
+}
+
+@MainActor
+final class AdManager: ObservableObject {
+    @Published private var hasRequestedPermission = false
+
+    func requestTrackingPermission() {
+        guard !hasRequestedPermission else { return }
+        hasRequestedPermission = true
+        
+        DispatchQueue.main.asyncAfter(deadline: .now() + 1.0) {
+            if ATTrackingManager.trackingAuthorizationStatus == .notDetermined {
+                ATTrackingManager.requestTrackingAuthorization { status in
+                    DispatchQueue.main.async {
+                        MobileAds.shared.start { _ in }
+                    }
+                }
+            } else {
+                MobileAds.shared.start { _ in }
+            }
+        }
     }
 }

@@ -1,0 +1,1740 @@
+[
+  {
+    "question": "What is the currency used in Japan?",
+    "questionJapanese": "日本で使われている通貨は何ですか？",
+    "options": [
+      "Yen",
+      "Won",
+      "Dollar",
+      "Euro"
+    ],
+    "answer": "Yen",
+    "explanation": "The Japanese yen is the official currency of Japan and features banknotes with famous historical figures.",
+    "explanationJapanese": "日本円は日本の公式通貨で、歴史的な人物が描かれた紙幣が使われています。",
+    "vocabulary": [
+      {
+        "word": "currency",
+        "meaning": "通貨",
+        "partOfSpeech": "general",
+        "example": "Use 'currency' in context: currency relates to this topic."
+      },
+      {
+        "word": "official",
+        "meaning": "公式の",
+        "partOfSpeech": "general",
+        "example": "Use 'official' in context: official relates to this topic."
+      },
+      {
+        "word": "banknote",
+        "meaning": "紙幣",
+        "partOfSpeech": "general",
+        "example": "Use 'banknote' in context: banknote relates to this topic."
+      }
+    ],
+    "category": "Culture",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: The Japanese yen is the official currency of Japan and features banknotes with famous historical figures.",
+    "englishExpression": "Choose \"Yen\" because The Japanese yen is the official currency of Japan and features banknotes with famous historical figures.; other options do not match this question.",
+    "knowledgeLevel": "General culture",
+    "optionsJapanese": [
+      "Yen",
+      "Won",
+      "Dollar",
+      "Euro"
+    ]
+  },
+  {
+    "question": "What is the currency used in Sweden?",
+    "questionJapanese": "スウェーデンで使われている通貨は何ですか？",
+    "options": [
+      "Swedish krona",
+      "Euro",
+      "Norwegian krone",
+      "Swiss franc"
+    ],
+    "answer": "Swedish krona",
+    "explanation": "Sweden uses the Swedish krona, abbreviated SEK, for all its banking and public services.",
+    "explanationJapanese": "スウェーデンではSEKと略されるスウェーデンクローナが銀行や公共サービスで使われます。",
+    "vocabulary": [
+      {
+        "word": "abbreviated",
+        "meaning": "略される",
+        "partOfSpeech": "general",
+        "example": "Use 'abbreviated' in context: abbreviated relates to this topic."
+      },
+      {
+        "word": "banking",
+        "meaning": "銀行業",
+        "partOfSpeech": "general",
+        "example": "Use 'banking' in context: banking relates to this topic."
+      },
+      {
+        "word": "public",
+        "meaning": "公共の",
+        "partOfSpeech": "general",
+        "example": "Use 'public' in context: public relates to this topic."
+      }
+    ],
+    "category": "Culture",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: Sweden uses the Swedish krona, abbreviated SEK, for all its banking and public services.",
+    "englishExpression": "Choose \"Swedish krona\" because Sweden uses the Swedish krona, abbreviated SEK, for all its banking and public services.; other options do not match this question.",
+    "knowledgeLevel": "General culture",
+    "optionsJapanese": [
+      "Swedish krona",
+      "Euro",
+      "Norwegian krone",
+      "Swiss franc"
+    ]
+  },
+  {
+    "question": "Which country's currency is called the rand?",
+    "questionJapanese": "ランドという通貨を使っているのはどの国ですか？",
+    "options": [
+      "South Africa",
+      "Nigeria",
+      "Egypt",
+      "Kenya"
+    ],
+    "answer": "South Africa",
+    "explanation": "South Africa's rand (ZAR) replaced the pound in 1961 and is named after the Witwatersrand gold fields.",
+    "explanationJapanese": "南アフリカのランド（ZAR）は1961年にポンドの代わりに導入され、ウィットウォーターズランドの金鉱にちなんで名付けられました。",
+    "vocabulary": [
+      {
+        "word": "replace",
+        "meaning": "置き換える",
+        "partOfSpeech": "general",
+        "example": "Use 'replace' in context: replace relates to this topic."
+      },
+      {
+        "word": "field",
+        "meaning": "鉱床",
+        "partOfSpeech": "general",
+        "example": "Use 'field' in context: field relates to this topic."
+      },
+      {
+        "word": "named after",
+        "meaning": "～にちなんで名付けられた",
+        "partOfSpeech": "general",
+        "example": "Use 'named after' in context: named after relates to this topic."
+      }
+    ],
+    "category": "Culture",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: South Africa's rand (ZAR) replaced the pound in 1961 and is named after the Witwatersrand gold fields.",
+    "englishExpression": "Choose \"South Africa\" because South Africa's rand (ZAR) replaced the pound in 1961 and is named after the Witwatersrand gold fields.; other options do not match this question.",
+    "knowledgeLevel": "General culture",
+    "optionsJapanese": [
+      "South Africa",
+      "Nigeria",
+      "Egypt",
+      "ケニア"
+    ]
+  },
+  {
+    "question": "Which country uses the real as its currency?",
+    "questionJapanese": "レアルという通貨を使っているのはどの国ですか？",
+    "options": [
+      "Brazil",
+      "Portugal",
+      "Morocco",
+      "Chile"
+    ],
+    "answer": "Brazil",
+    "explanation": "Brazil adopted the real (BRL) in 1994 to stabilize the economy and it remains the nation's legal tender.",
+    "explanationJapanese": "ブラジルは1994年に経済を安定させるためにレアル（BRL）を導入し、今も法定通貨です。",
+    "vocabulary": [
+      {
+        "word": "adopt",
+        "meaning": "採用する",
+        "partOfSpeech": "general",
+        "example": "Use 'adopt' in context: adopt relates to this topic."
+      },
+      {
+        "word": "stabilize",
+        "meaning": "安定させる",
+        "partOfSpeech": "general",
+        "example": "Use 'stabilize' in context: stabilize relates to this topic."
+      },
+      {
+        "word": "legal tender",
+        "meaning": "法定通貨",
+        "partOfSpeech": "general",
+        "example": "Use 'legal tender' in context: legal tender relates to this topic."
+      }
+    ],
+    "category": "Culture",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: Brazil adopted the real (BRL) in 1994 to stabilize the economy and it remains the nation's legal tender.",
+    "englishExpression": "Choose \"Brazil\" because Brazil adopted the real (BRL) in 1994 to stabilize the economy and it remains the nation's legal tender.; other options do not match this question.",
+    "knowledgeLevel": "General culture",
+    "optionsJapanese": [
+      "Brazil",
+      "ポルトガル",
+      "モロッコ",
+      "Chile"
+    ]
+  },
+  {
+    "question": "Which Southeast Asian country uses the baht?",
+    "questionJapanese": "バーツを使っている東南アジアの国はどこですか？",
+    "options": [
+      "Thailand",
+      "Vietnam",
+      "Philippines",
+      "Malaysia"
+    ],
+    "answer": "Thailand",
+    "explanation": "Thailand's baht (THB) is subdivided into satang, and the central bank manages it with tourism in mind.",
+    "explanationJapanese": "タイのバーツ（THB）はサタンという単位に分かれ、中央銀行は観光を意識して管理しています。",
+    "vocabulary": [
+      {
+        "word": "subdivide",
+        "meaning": "細分化する",
+        "partOfSpeech": "general",
+        "example": "Use 'subdivide' in context: subdivide relates to this topic."
+      },
+      {
+        "word": "manage",
+        "meaning": "管理する",
+        "partOfSpeech": "general",
+        "example": "Use 'manage' in context: manage relates to this topic."
+      },
+      {
+        "word": "tourism",
+        "meaning": "観光",
+        "partOfSpeech": "general",
+        "example": "Use 'tourism' in context: tourism relates to this topic."
+      }
+    ],
+    "category": "Culture",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: Thailand's baht (THB) is subdivided into satang, and the central bank manages it with tourism in mind.",
+    "englishExpression": "Choose \"Thailand\" because Thailand's baht (THB) is subdivided into satang, and the central bank manages it with tourism in mind.; other options do not match this question.",
+    "knowledgeLevel": "General culture",
+    "optionsJapanese": [
+      "Thailand",
+      "Vietnam",
+      "Philippines",
+      "Malaysia"
+    ]
+  },
+  {
+    "question": "Which country is famous for the Diwali festival of lights?",
+    "questionJapanese": "光の祭典ディワリで有名な国はどこですか？",
+    "options": [
+      "India",
+      "Brazil",
+      "France",
+      "Egypt"
+    ],
+    "answer": "India",
+    "explanation": "India is famous for celebrating Diwali, the festival of lights.",
+    "explanationJapanese": "インドは光の祭典ディワリで有名です。",
+    "vocabulary": [
+      {
+        "word": "festival",
+        "meaning": "祭り",
+        "partOfSpeech": "general",
+        "example": "Use 'festival' in context: festival relates to this topic."
+      },
+      {
+        "word": "lights",
+        "meaning": "光",
+        "partOfSpeech": "general",
+        "example": "Use 'lights' in context: lights relates to this topic."
+      }
+    ],
+    "category": "Culture",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: India is famous for celebrating Diwali, the festival of lights.",
+    "englishExpression": "Choose \"India\" because India is famous for celebrating Diwali, the festival of lights.; other options do not match this question.",
+    "knowledgeLevel": "General culture",
+    "optionsJapanese": [
+      "インド",
+      "Brazil",
+      "フランス",
+      "Egypt"
+    ]
+  },
+  {
+    "question": "Which language has the most native speakers worldwide?",
+    "questionJapanese": "母語話者が最も多い言語はどれですか？",
+    "options": [
+      "Mandarin Chinese",
+      "English",
+      "Spanish",
+      "Hindi"
+    ],
+    "answer": "Mandarin Chinese",
+    "explanation": "Mandarin Chinese has the largest number of native speakers.",
+    "explanationJapanese": "母語話者数が最も多いのは標準中国語（マンダリン）です。",
+    "vocabulary": [
+      {
+        "word": "native speaker",
+        "meaning": "母語話者",
+        "partOfSpeech": "general",
+        "example": "Use 'native speaker' in context: native speaker relates to this topic."
+      },
+      {
+        "word": "Mandarin",
+        "meaning": "マンダリン",
+        "partOfSpeech": "general",
+        "example": "Use 'Mandarin' in context: Mandarin relates to this topic."
+      }
+    ],
+    "category": "Culture",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: Mandarin Chinese has the largest number of native speakers.",
+    "englishExpression": "Choose \"Mandarin Chinese\" because Mandarin Chinese has the largest number of native speakers.; other options do not match this question.",
+    "knowledgeLevel": "General culture",
+    "optionsJapanese": [
+      "Mandarin Chinese",
+      "English",
+      "Spanish",
+      "Hindi"
+    ]
+  },
+  {
+    "question": "What is the traditional paper-folding art of Japan called?",
+    "questionJapanese": "日本の伝統的な紙の折り方の芸術を何と呼びますか？",
+    "options": [
+      "Origami",
+      "Ikebana",
+      "Shodo",
+      "Kintsugi"
+    ],
+    "answer": "Origami",
+    "explanation": "Origami is the traditional Japanese art of paper folding.",
+    "explanationJapanese": "折り紙は日本の伝統的な紙の折り方の芸術です。",
+    "vocabulary": [
+      {
+        "word": "origami",
+        "meaning": "折り紙",
+        "partOfSpeech": "general",
+        "example": "Use 'origami' in context: origami relates to this topic."
+      },
+      {
+        "word": "folding",
+        "meaning": "折ること",
+        "partOfSpeech": "general",
+        "example": "Use 'folding' in context: folding relates to this topic."
+      }
+    ],
+    "category": "Culture",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: Origami is the traditional Japanese art of paper folding.",
+    "englishExpression": "Choose \"Origami\" because Origami is the traditional Japanese art of paper folding.; other options do not match this question.",
+    "knowledgeLevel": "General culture",
+    "optionsJapanese": [
+      "Origami",
+      "Ikebana",
+      "Shodo",
+      "Kintsugi"
+    ]
+  },
+  {
+    "question": "Which country is known for the tango dance?",
+    "questionJapanese": "タンゴで有名な国はどこですか？",
+    "options": [
+      "Argentina",
+      "Germany",
+      "Japan",
+      "Canada"
+    ],
+    "answer": "Argentina",
+    "explanation": "Argentina is famous for the tango dance.",
+    "explanationJapanese": "アルゼンチンはタンゴで有名です。",
+    "vocabulary": [
+      {
+        "word": "tango",
+        "meaning": "タンゴ",
+        "partOfSpeech": "general",
+        "example": "Use 'tango' in context: tango relates to this topic."
+      },
+      {
+        "word": "dance",
+        "meaning": "踊り",
+        "partOfSpeech": "general",
+        "example": "Use 'dance' in context: dance relates to this topic."
+      }
+    ],
+    "category": "Culture",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: Argentina is famous for the tango dance.",
+    "englishExpression": "Choose \"Argentina\" because Argentina is famous for the tango dance.; other options do not match this question.",
+    "knowledgeLevel": "General culture",
+    "optionsJapanese": [
+      "Argentina",
+      "ドイツ",
+      "Japan",
+      "カナダ"
+    ]
+  },
+  {
+    "question": "Which city hosts the annual running of the bulls?",
+    "questionJapanese": "毎年牛追い祭りが行われる都市はどこですか？",
+    "options": [
+      "Pamplona",
+      "Madrid",
+      "Barcelona",
+      "Valencia"
+    ],
+    "answer": "Pamplona",
+    "explanation": "Pamplona, Spain, hosts the running of the bulls during San Fermín.",
+    "explanationJapanese": "スペインのパンプローナではサン・フェルミン祭で牛追いが行われます。",
+    "vocabulary": [
+      {
+        "word": "bull",
+        "meaning": "牛",
+        "partOfSpeech": "general",
+        "example": "Use 'bull' in context: bull relates to this topic."
+      },
+      {
+        "word": "festival",
+        "meaning": "祭り",
+        "partOfSpeech": "general",
+        "example": "Use 'festival' in context: festival relates to this topic."
+      }
+    ],
+    "category": "Culture",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: Pamplona, Spain, hosts the running of the bulls during San Fermín.",
+    "englishExpression": "Choose \"Pamplona\" because Pamplona, Spain, hosts the running of the bulls during San Fermín.; other options do not match this question.",
+    "knowledgeLevel": "General culture",
+    "optionsJapanese": [
+      "Pamplona",
+      "マドリード",
+      "Barcelona",
+      "Valencia"
+    ]
+  },
+  {
+    "question": "Which religion observes Ramadan as a month of fasting?",
+    "questionJapanese": "ラマダーンを断食月とする宗教はどれですか？",
+    "options": [
+      "Islam",
+      "Christianity",
+      "Buddhism",
+      "Hinduism"
+    ],
+    "answer": "Islam",
+    "explanation": "Muslims observe Ramadan as a month of fasting.",
+    "explanationJapanese": "イスラム教徒はラマダーンを断食の月として過ごします。",
+    "vocabulary": [
+      {
+        "word": "Ramadan",
+        "meaning": "ラマダーン",
+        "partOfSpeech": "general",
+        "example": "Use 'Ramadan' in context: Ramadan relates to this topic."
+      },
+      {
+        "word": "fasting",
+        "meaning": "断食",
+        "partOfSpeech": "general",
+        "example": "Use 'fasting' in context: fasting relates to this topic."
+      }
+    ],
+    "category": "Culture",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: Muslims observe Ramadan as a month of fasting.",
+    "englishExpression": "Choose \"Islam\" because Muslims observe Ramadan as a month of fasting.; other options do not match this question.",
+    "knowledgeLevel": "General culture",
+    "optionsJapanese": [
+      "Islam",
+      "Christianity",
+      "Buddhism",
+      "Hinduism"
+    ]
+  },
+  {
+    "question": "Which country is known for the Oktoberfest beer festival?",
+    "questionJapanese": "ビール祭りオクトーバーフェストで有名な国はどこですか？",
+    "options": [
+      "Germany",
+      "Italy",
+      "Australia",
+      "Mexico"
+    ],
+    "answer": "Germany",
+    "explanation": "Germany, especially Munich, is famous for Oktoberfest.",
+    "explanationJapanese": "ドイツ、特にミュンヘンはオクトーバーフェストで有名です。",
+    "vocabulary": [
+      {
+        "word": "Oktoberfest",
+        "meaning": "オクトーバーフェスト",
+        "partOfSpeech": "general",
+        "example": "Use 'Oktoberfest' in context: Oktoberfest relates to this topic."
+      },
+      {
+        "word": "beer",
+        "meaning": "ビール",
+        "partOfSpeech": "general",
+        "example": "Use 'beer' in context: beer relates to this topic."
+      }
+    ],
+    "category": "Culture",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: Germany, especially Munich, is famous for Oktoberfest.",
+    "englishExpression": "Choose \"Germany\" because Germany, especially Munich, is famous for Oktoberfest.; other options do not match this question.",
+    "knowledgeLevel": "General culture",
+    "optionsJapanese": [
+      "ドイツ",
+      "イタリア",
+      "Australia",
+      "Mexico"
+    ]
+  },
+  {
+    "question": "Which language family does Arabic belong to?",
+    "questionJapanese": "アラビア語が属する語族はどれですか？",
+    "options": [
+      "Semitic",
+      "Romance",
+      "Slavic",
+      "Sino-Tibetan"
+    ],
+    "answer": "Semitic",
+    "explanation": "Arabic is part of the Semitic language family.",
+    "explanationJapanese": "アラビア語はセム語派に属します。",
+    "vocabulary": [
+      {
+        "word": "Semitic",
+        "meaning": "セム語派",
+        "partOfSpeech": "general",
+        "example": "Use 'Semitic' in context: Semitic relates to this topic."
+      },
+      {
+        "word": "language family",
+        "meaning": "語族",
+        "partOfSpeech": "general",
+        "example": "Use 'language family' in context: language family relates to this topic."
+      }
+    ],
+    "category": "Culture",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: Arabic is part of the Semitic language family.",
+    "englishExpression": "Choose \"Semitic\" because Arabic is part of the Semitic language family.; other options do not match this question.",
+    "knowledgeLevel": "General culture",
+    "optionsJapanese": [
+      "Semitic",
+      "Romance",
+      "Slavic",
+      "Sino-Tibetan"
+    ]
+  },
+  {
+    "category": "Culture",
+    "difficulty": "Medium",
+    "question": "Which writing system is used for the Korean language?",
+    "questionJapanese": "韓国語に用いられる文字体系はどれですか？",
+    "options": [
+      "Hangul",
+      "Cyrillic",
+      "Arabic",
+      "Hebrew"
+    ],
+    "answer": "Hangul",
+    "explanation": "The Korean alphabet Hangul was created in the 15th century to improve literacy.",
+    "explanationJapanese": "韓国語の文字ハングルは識字率向上のため15世紀に作られました。",
+    "vocabulary": [
+      {
+        "word": "Hangul",
+        "meaning": "ハングル",
+        "partOfSpeech": "general",
+        "example": "Use 'Hangul' in context: Hangul relates to this topic."
+      },
+      {
+        "word": "alphabet",
+        "meaning": "文字体系",
+        "partOfSpeech": "general",
+        "example": "Use 'alphabet' in context: alphabet relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: The Korean alphabet Hangul was created in the 15th century to improve literacy.",
+    "englishExpression": "Choose \"Hangul\" because The Korean alphabet Hangul was created in the 15th century to improve literacy.; other options do not match this question.",
+    "knowledgeLevel": "General culture",
+    "optionsJapanese": [
+      "Hangul",
+      "Cyrillic",
+      "Arabic",
+      "Hebrew"
+    ]
+  },
+  {
+    "category": "Culture",
+    "difficulty": "Easy",
+    "question": "Which beverage is central to the British afternoon tea tradition?",
+    "questionJapanese": "イギリスのアフタヌーンティーの中心となる飲み物は何ですか？",
+    "options": [
+      "Tea",
+      "Coffee",
+      "Wine",
+      "Soda"
+    ],
+    "answer": "Tea",
+    "explanation": "Tea is the core beverage served during British afternoon tea.",
+    "explanationJapanese": "イギリスのアフタヌーンティーでは紅茶が中心です。",
+    "vocabulary": [
+      {
+        "word": "tea",
+        "meaning": "紅茶",
+        "partOfSpeech": "general",
+        "example": "Use 'tea' in context: tea relates to this topic."
+      },
+      {
+        "word": "afternoon tea",
+        "meaning": "アフタヌーンティー",
+        "partOfSpeech": "general",
+        "example": "Use 'afternoon tea' in context: afternoon tea relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Tea is the core beverage served during British afternoon tea.",
+    "englishExpression": "Choose \"Tea\" because Tea is the core beverage served during British afternoon tea.; other options do not match this question.",
+    "knowledgeLevel": "General culture",
+    "optionsJapanese": [
+      "Tea",
+      "Coffee",
+      "Wine",
+      "Soda"
+    ]
+  },
+  {
+    "category": "Culture",
+    "difficulty": "Easy",
+    "question": "Which country is famous for the cheese-heavy dish fondue?",
+    "questionJapanese": "フォンデュで有名な国はどこですか？",
+    "options": [
+      "Switzerland",
+      "Japan",
+      "Egypt",
+      "Chile"
+    ],
+    "answer": "Switzerland",
+    "explanation": "Switzerland is known for cheese fondue.",
+    "explanationJapanese": "スイスはチーズフォンデュで有名です。",
+    "vocabulary": [
+      {
+        "word": "fondue",
+        "meaning": "フォンデュ",
+        "partOfSpeech": "general",
+        "example": "Use 'fondue' in context: fondue relates to this topic."
+      },
+      {
+        "word": "cheese",
+        "meaning": "チーズ",
+        "partOfSpeech": "general",
+        "example": "Use 'cheese' in context: cheese relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Switzerland is known for cheese fondue.",
+    "englishExpression": "Choose \"Switzerland\" because Switzerland is known for cheese fondue.; other options do not match this question.",
+    "knowledgeLevel": "General culture",
+    "optionsJapanese": [
+      "スイス",
+      "Japan",
+      "Egypt",
+      "Chile"
+    ]
+  },
+  {
+    "category": "Culture",
+    "difficulty": "Medium",
+    "question": "Which script is traditionally used for Arabic?",
+    "questionJapanese": "アラビア語で伝統的に使われる文字体系は何ですか？",
+    "options": [
+      "Arabic script",
+      "Latin script",
+      "Cyrillic",
+      "Devanagari"
+    ],
+    "answer": "Arabic script",
+    "explanation": "Arabic is written in the Arabic script.",
+    "explanationJapanese": "アラビア語はアラビア文字で書かれます。",
+    "vocabulary": [
+      {
+        "word": "script",
+        "meaning": "文字",
+        "partOfSpeech": "general",
+        "example": "Use 'script' in context: script relates to this topic."
+      },
+      {
+        "word": "Arabic",
+        "meaning": "アラビア語",
+        "partOfSpeech": "general",
+        "example": "Use 'Arabic' in context: Arabic relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Arabic is written in the Arabic script.",
+    "englishExpression": "Choose \"Arabic script\" because Arabic is written in the Arabic script.; other options do not match this question.",
+    "knowledgeLevel": "General culture",
+    "optionsJapanese": [
+      "Arabic script",
+      "Latin script",
+      "Cyrillic",
+      "Devanagari"
+    ]
+  },
+  {
+    "category": "Culture",
+    "difficulty": "Easy",
+    "question": "Which country is known for the maple leaf symbol?",
+    "questionJapanese": "カエデの葉をシンボルとする国はどこですか？",
+    "options": [
+      "Canada",
+      "Sweden",
+      "India",
+      "Kenya"
+    ],
+    "answer": "Canada",
+    "explanation": "Canada is symbolized by the maple leaf.",
+    "explanationJapanese": "カナダはカエデの葉を象徴とします。",
+    "vocabulary": [
+      {
+        "word": "maple leaf",
+        "meaning": "カエデの葉",
+        "partOfSpeech": "general",
+        "example": "Use 'maple leaf' in context: maple leaf relates to this topic."
+      },
+      {
+        "word": "symbol",
+        "meaning": "象徴",
+        "partOfSpeech": "general",
+        "example": "Use 'symbol' in context: symbol relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Canada is symbolized by the maple leaf.",
+    "englishExpression": "Choose \"Canada\" because Canada is symbolized by the maple leaf.; other options do not match this question.",
+    "knowledgeLevel": "General culture",
+    "optionsJapanese": [
+      "カナダ",
+      "スウェーデン",
+      "インド",
+      "ケニア"
+    ]
+  },
+  {
+    "category": "Culture",
+    "difficulty": "Medium",
+    "question": "Which festival marks the end of Ramadan?",
+    "questionJapanese": "ラマダーン明けを祝う祭りはどれですか？",
+    "options": [
+      "Eid al-Fitr",
+      "Diwali",
+      "Hanukkah",
+      "Obon"
+    ],
+    "optionsJapanese": [
+      "イード・アル＝フィトル",
+      "ディワリ",
+      "ハヌカー",
+      "お盆"
+    ],
+    "answer": "Eid al-Fitr",
+    "explanation": "Eid al-Fitr is celebrated at the end of Ramadan.",
+    "explanationJapanese": "イード・アル＝フィトルはラマダーンの終わりに祝われます。",
+    "vocabulary": [
+      {
+        "word": "Eid al-Fitr",
+        "meaning": "イード・アル＝フィトル",
+        "partOfSpeech": "general",
+        "example": "Use 'Eid al-Fitr' in context: Eid al-Fitr relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Eid al-Fitr is celebrated at the end of Ramadan.",
+    "englishExpression": "Choose \"Eid al-Fitr\" because Eid al-Fitr is celebrated at the end of Ramadan.; other options do not match this question.",
+    "knowledgeLevel": "General culture"
+  },
+  {
+    "category": "Culture",
+    "difficulty": "Medium",
+    "question": "Which language primarily uses the Devanagari script?",
+    "questionJapanese": "デーヴァナーガリー文字を主に使う言語はどれですか？",
+    "options": [
+      "Hindi",
+      "Arabic",
+      "Russian",
+      "Thai"
+    ],
+    "optionsJapanese": [
+      "ヒンディー語",
+      "アラビア語",
+      "ロシア語",
+      "タイ語"
+    ],
+    "answer": "Hindi",
+    "explanation": "Hindi primarily uses the Devanagari script.",
+    "explanationJapanese": "ヒンディー語は主にデーヴァナーガリー文字を使用します。",
+    "vocabulary": [
+      {
+        "word": "Devanagari",
+        "meaning": "デーヴァナーガリー文字",
+        "partOfSpeech": "general",
+        "example": "Use 'Devanagari' in context: Devanagari relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Hindi primarily uses the Devanagari script.",
+    "englishExpression": "Choose \"Hindi\" because Hindi primarily uses the Devanagari script.; other options do not match this question.",
+    "knowledgeLevel": "General culture"
+  },
+  {
+    "category": "Culture",
+    "difficulty": "Easy",
+    "question": "Which country hosts Carnival in Rio de Janeiro?",
+    "questionJapanese": "リオのカーニバルを開催する国はどこですか？",
+    "options": [
+      "Brazil",
+      "Spain",
+      "USA",
+      "Mexico"
+    ],
+    "optionsJapanese": [
+      "ブラジル",
+      "スペイン",
+      "アメリカ",
+      "メキシコ"
+    ],
+    "answer": "Brazil",
+    "explanation": "Brazil hosts the famous Rio Carnival.",
+    "explanationJapanese": "ブラジルはリオのカーニバルで有名です。",
+    "vocabulary": [
+      {
+        "word": "Carnival",
+        "meaning": "カーニバル",
+        "partOfSpeech": "general",
+        "example": "Use 'Carnival' in context: Carnival relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Brazil hosts the famous Rio Carnival.",
+    "englishExpression": "Choose \"Brazil\" because Brazil hosts the famous Rio Carnival.; other options do not match this question.",
+    "knowledgeLevel": "General culture"
+  },
+  {
+    "category": "Culture",
+    "difficulty": "Easy",
+    "question": "What is the traditional Korean fermented cabbage dish called?",
+    "questionJapanese": "韓国の伝統的な発酵キャベツ料理は何と呼ばれますか？",
+    "options": [
+      "Kimchi",
+      "Bibimbap",
+      "Gimbap",
+      "Tteokbokki"
+    ],
+    "optionsJapanese": [
+      "キムチ",
+      "ビビンバ",
+      "キンパ",
+      "トッポッキ"
+    ],
+    "answer": "Kimchi",
+    "explanation": "Kimchi is a traditional Korean fermented cabbage dish.",
+    "explanationJapanese": "キムチは韓国の伝統的な発酵キャベツ料理です。",
+    "vocabulary": [
+      {
+        "word": "Kimchi",
+        "meaning": "キムチ",
+        "partOfSpeech": "general",
+        "example": "Use 'Kimchi' in context: Kimchi relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Kimchi is a traditional Korean fermented cabbage dish.",
+    "englishExpression": "Choose \"Kimchi\" because Kimchi is a traditional Korean fermented cabbage dish.; other options do not match this question.",
+    "knowledgeLevel": "General culture"
+  },
+  {
+    "category": "Culture",
+    "difficulty": "Medium",
+    "question": "Which French dish stews beef in red wine?",
+    "questionJapanese": "牛肉を赤ワインで煮込むフランス料理はどれですか？",
+    "options": [
+      "Boeuf bourguignon",
+      "Ratatouille",
+      "Coq au vin",
+      "Bouillabaisse"
+    ],
+    "optionsJapanese": [
+      "ブフ・ブルギニョン",
+      "ラタトゥイユ",
+      "コック・オ・ヴァン",
+      "ブイヤベース"
+    ],
+    "answer": "Boeuf bourguignon",
+    "explanation": "Boeuf bourguignon stews beef in red wine.",
+    "explanationJapanese": "ブフ・ブルギニョンは牛肉を赤ワインで煮込む料理です。",
+    "vocabulary": [
+      {
+        "word": "boeuf bourguignon",
+        "meaning": "ブフ・ブルギニョン",
+        "partOfSpeech": "general",
+        "example": "Use 'boeuf bourguignon' in context: boeuf bourguignon relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Boeuf bourguignon stews beef in red wine.",
+    "englishExpression": "Choose \"Boeuf bourguignon\" because Boeuf bourguignon stews beef in red wine.; other options do not match this question.",
+    "knowledgeLevel": "General culture"
+  },
+  {
+    "category": "Culture",
+    "difficulty": "Easy",
+    "question": "Which country is famous for flamenco dance?",
+    "questionJapanese": "フラメンコで有名な国はどこですか？",
+    "options": [
+      "Spain",
+      "Italy",
+      "Argentina",
+      "Mexico"
+    ],
+    "optionsJapanese": [
+      "スペイン",
+      "イタリア",
+      "アルゼンチン",
+      "メキシコ"
+    ],
+    "answer": "Spain",
+    "explanation": "Spain is famous for flamenco dance.",
+    "explanationJapanese": "スペインはフラメンコで有名です。",
+    "vocabulary": [
+      {
+        "word": "flamenco",
+        "meaning": "フラメンコ",
+        "partOfSpeech": "general",
+        "example": "Use 'flamenco' in context: flamenco relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Spain is famous for flamenco dance.",
+    "englishExpression": "Choose \"Spain\" because Spain is famous for flamenco dance.; other options do not match this question.",
+    "knowledgeLevel": "General culture"
+  },
+  {
+    "category": "Culture",
+    "difficulty": "Easy",
+    "question": "Which language is primarily spoken in Brazil?",
+    "questionJapanese": "ブラジルの公用語は何語ですか？",
+    "options": [
+      "Portuguese",
+      "Spanish",
+      "English",
+      "French"
+    ],
+    "optionsJapanese": [
+      "ポルトガル語",
+      "スペイン語",
+      "英語",
+      "フランス語"
+    ],
+    "answer": "Portuguese",
+    "explanation": "Portuguese is the primary language in Brazil.",
+    "explanationJapanese": "ブラジルの公用語はポルトガル語です。",
+    "vocabulary": [
+      {
+        "word": "Portuguese",
+        "meaning": "ポルトガル語",
+        "partOfSpeech": "general",
+        "example": "Use 'Portuguese' in context: Portuguese relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Portuguese is the primary language in Brazil.",
+    "englishExpression": "Choose \"Portuguese\" because Portuguese is the primary language in Brazil.; other options do not match this question.",
+    "knowledgeLevel": "General culture"
+  },
+  {
+    "category": "Culture",
+    "difficulty": "Medium",
+    "question": "Which religion considers the Ganges River sacred?",
+    "questionJapanese": "ガンジス川を聖なる川とする宗教はどれですか？",
+    "options": [
+      "Hinduism",
+      "Buddhism",
+      "Islam",
+      "Christianity"
+    ],
+    "optionsJapanese": [
+      "ヒンドゥー教",
+      "仏教",
+      "イスラム教",
+      "キリスト教"
+    ],
+    "answer": "Hinduism",
+    "explanation": "Hinduism regards the Ganges as sacred.",
+    "explanationJapanese": "ヒンドゥー教はガンジス川を聖なる川とみなします。",
+    "vocabulary": [
+      {
+        "word": "sacred",
+        "meaning": "聖なる",
+        "partOfSpeech": "general",
+        "example": "Use 'sacred' in context: sacred relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Hinduism regards the Ganges as sacred.",
+    "englishExpression": "Choose \"Hinduism\" because Hinduism regards the Ganges as sacred.; other options do not match this question.",
+    "knowledgeLevel": "General culture"
+  },
+  {
+    "category": "Culture",
+    "difficulty": "Medium",
+    "question": "Which festival celebrates lanterns on the 15th day of the Lunar New Year?",
+    "questionJapanese": "旧正月15日に提灯を祝う祭りはどれですか？",
+    "options": [
+      "Lantern Festival",
+      "Mid-Autumn Festival",
+      "Songkran",
+      "Nowruz"
+    ],
+    "optionsJapanese": [
+      "ランタンフェスティバル",
+      "中秋節",
+      "ソンクラーン",
+      "ノウルーズ"
+    ],
+    "answer": "Lantern Festival",
+    "explanation": "The Lantern Festival is celebrated on the 15th day of Lunar New Year.",
+    "explanationJapanese": "ランタンフェスティバルは旧正月15日に祝われます。",
+    "vocabulary": [
+      {
+        "word": "Lantern Festival",
+        "meaning": "ランタンフェスティバル",
+        "partOfSpeech": "general",
+        "example": "Use 'Lantern Festival' in context: Lantern Festival relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: The Lantern Festival is celebrated on the 15th day of Lunar New Year.",
+    "englishExpression": "Choose \"Lantern Festival\" because The Lantern Festival is celebrated on the 15th day of Lunar New Year.; other options do not match this question.",
+    "knowledgeLevel": "General culture"
+  },
+  {
+    "category": "Culture",
+    "difficulty": "Medium",
+    "question": "Which country is famous for Oktoberfest?",
+    "questionJapanese": "オクトーバーフェストで有名な国はどこですか？",
+    "options": [
+      "Germany",
+      "Austria",
+      "Belgium",
+      "USA"
+    ],
+    "optionsJapanese": [
+      "ドイツ",
+      "オーストリア",
+      "ベルギー",
+      "アメリカ"
+    ],
+    "answer": "Germany",
+    "explanation": "Germany is famous for Oktoberfest.",
+    "explanationJapanese": "オクトーバーフェストで有名なのはドイツです。",
+    "vocabulary": [
+      {
+        "word": "Oktoberfest",
+        "meaning": "オクトーバーフェスト",
+        "partOfSpeech": "general",
+        "example": "Use 'Oktoberfest' in context: Oktoberfest relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Germany is famous for Oktoberfest.",
+    "englishExpression": "Choose \"Germany\" because Germany is famous for Oktoberfest.; other options do not match this question.",
+    "knowledgeLevel": "General culture"
+  },
+  {
+    "category": "Culture",
+    "difficulty": "Medium",
+    "question": "Which writing system is used for the Japanese syllabary besides kanji?",
+    "questionJapanese": "漢字以外の日本語の音節文字は何ですか？",
+    "options": [
+      "Hiragana and Katakana",
+      "Hangul",
+      "Cyrillic",
+      "Latin"
+    ],
+    "optionsJapanese": [
+      "ひらがなとカタカナ",
+      "ハングル",
+      "キリル文字",
+      "ラテン文字"
+    ],
+    "answer": "Hiragana and Katakana",
+    "explanation": "Japanese uses syllabaries hiragana and katakana alongside kanji.",
+    "explanationJapanese": "日本語では漢字に加えてひらがなとカタカナを使います。",
+    "vocabulary": [
+      {
+        "word": "syllabary",
+        "meaning": "音節文字",
+        "partOfSpeech": "general",
+        "example": "Use 'syllabary' in context: syllabary relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Japanese uses syllabaries hiragana and katakana alongside kanji.",
+    "englishExpression": "Choose \"Hiragana and Katakana\" because Japanese uses syllabaries hiragana and katakana alongside kanji.; other options do not match this question.",
+    "knowledgeLevel": "General culture"
+  },
+  {
+    "category": "Culture",
+    "difficulty": "Medium",
+    "question": "Which instrument is central to traditional Scottish music?",
+    "questionJapanese": "伝統的なスコットランド音楽で中心的な楽器はどれですか？",
+    "options": [
+      "Bagpipes",
+      "Violin",
+      "Piano",
+      "Flute"
+    ],
+    "optionsJapanese": [
+      "バグパイプ",
+      "バイオリン",
+      "ピアノ",
+      "フルート"
+    ],
+    "answer": "Bagpipes",
+    "explanation": "Bagpipes are central to traditional Scottish music.",
+    "explanationJapanese": "バグパイプはスコットランド伝統音楽の中心的な楽器です。",
+    "vocabulary": [
+      {
+        "word": "bagpipes",
+        "meaning": "バグパイプ",
+        "partOfSpeech": "general",
+        "example": "Use 'bagpipes' in context: bagpipes relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Bagpipes are central to traditional Scottish music.",
+    "englishExpression": "Choose \"Bagpipes\" because Bagpipes are central to traditional Scottish music.; other options do not match this question.",
+    "knowledgeLevel": "General culture"
+  },
+  {
+    "category": "Culture",
+    "difficulty": "Hard",
+    "question": "Which philosophy emphasizes the Middle Way taught by Buddha?",
+    "questionJapanese": "仏陀が説いた中道を重視する教えはどれですか？",
+    "options": [
+      "Buddhism",
+      "Confucianism",
+      "Taoism",
+      "Shinto"
+    ],
+    "optionsJapanese": [
+      "仏教",
+      "儒教",
+      "道教",
+      "神道"
+    ],
+    "answer": "Buddhism",
+    "explanation": "Buddhism teaches the Middle Way to avoid extremes.",
+    "explanationJapanese": "仏教は極端を避ける中道を説きます。",
+    "vocabulary": [
+      {
+        "word": "Middle Way",
+        "meaning": "中道",
+        "partOfSpeech": "general",
+        "example": "Use 'Middle Way' in context: Middle Way relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Buddhism teaches the Middle Way to avoid extremes.",
+    "englishExpression": "Choose \"Buddhism\" because Buddhism teaches the Middle Way to avoid extremes.; other options do not match this question.",
+    "knowledgeLevel": "General culture"
+  },
+  {
+    "category": "Culture",
+    "difficulty": "Easy",
+    "question": "Which country is famous for tango?",
+    "questionJapanese": "タンゴで有名な国はどこですか？",
+    "options": [
+      "Argentina",
+      "France",
+      "China",
+      "Canada"
+    ],
+    "optionsJapanese": [
+      "アルゼンチン",
+      "フランス",
+      "中国",
+      "カナダ"
+    ],
+    "answer": "Argentina",
+    "explanation": "Argentina is famous for the tango dance.",
+    "explanationJapanese": "アルゼンチンはタンゴで有名です。",
+    "vocabulary": [
+      {
+        "word": "tango",
+        "meaning": "タンゴ",
+        "partOfSpeech": "general",
+        "example": "Use 'tango' in context: tango relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Argentina is famous for the tango dance.",
+    "englishExpression": "Choose \"Argentina\" because Argentina is famous for the tango dance.; other options do not match this question.",
+    "knowledgeLevel": "General culture"
+  },
+  {
+    "category": "Culture",
+    "difficulty": "Medium",
+    "question": "Which language is dominant in Quebec, Canada?",
+    "questionJapanese": "カナダのケベック州で主要な言語は何ですか？",
+    "options": [
+      "French",
+      "English",
+      "Spanish",
+      "German"
+    ],
+    "optionsJapanese": [
+      "フランス語",
+      "英語",
+      "スペイン語",
+      "ドイツ語"
+    ],
+    "answer": "French",
+    "explanation": "French is the dominant language in Quebec.",
+    "explanationJapanese": "ケベック州ではフランス語が主要言語です。",
+    "vocabulary": [
+      {
+        "word": "Quebec",
+        "meaning": "ケベック",
+        "partOfSpeech": "general",
+        "example": "Use 'Quebec' in context: Quebec relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: French is the dominant language in Quebec.",
+    "englishExpression": "Choose \"French\" because French is the dominant language in Quebec.; other options do not match this question.",
+    "knowledgeLevel": "General culture"
+  },
+  {
+    "category": "Culture",
+    "difficulty": "Hard",
+    "question": "Which philosophy emphasizes harmony with the Dao (Way)?",
+    "questionJapanese": "道（タオ）との調和を重視する思想はどれですか？",
+    "options": [
+      "Taoism",
+      "Confucianism",
+      "Stoicism",
+      "Shinto"
+    ],
+    "optionsJapanese": [
+      "道教",
+      "儒教",
+      "ストア派",
+      "神道"
+    ],
+    "answer": "Taoism",
+    "explanation": "Taoism emphasizes harmony with the Dao.",
+    "explanationJapanese": "道教はタオとの調和を重視します。",
+    "vocabulary": [
+      {
+        "word": "Dao",
+        "meaning": "タオ",
+        "partOfSpeech": "general",
+        "example": "Use 'Dao' in context: Dao relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Taoism emphasizes harmony with the Dao.",
+    "englishExpression": "Choose \"Taoism\" because Taoism emphasizes harmony with the Dao.; other options do not match this question.",
+    "knowledgeLevel": "General culture"
+  },
+  {
+    "category": "Culture",
+    "difficulty": "Easy",
+    "question": "Which country is known for the Louvre Museum?",
+    "questionJapanese": "ルーヴル美術館で有名な国はどこですか？",
+    "options": [
+      "France",
+      "Germany",
+      "Italy",
+      "UK"
+    ],
+    "optionsJapanese": [
+      "フランス",
+      "ドイツ",
+      "イタリア",
+      "イギリス"
+    ],
+    "answer": "France",
+    "explanation": "The Louvre Museum is in France.",
+    "explanationJapanese": "ルーヴル美術館はフランスにあります。",
+    "vocabulary": [
+      {
+        "word": "Louvre",
+        "meaning": "ルーヴル",
+        "partOfSpeech": "general",
+        "example": "Use 'Louvre' in context: Louvre relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: The Louvre Museum is in France.",
+    "englishExpression": "Choose \"France\" because The Louvre Museum is in France.; other options do not match this question.",
+    "knowledgeLevel": "General culture"
+  },
+  {
+    "category": "Culture",
+    "difficulty": "Easy",
+    "question": "Which festival uses colorful powders in India?",
+    "questionJapanese": "インドで色粉を使う祭りはどれですか？",
+    "options": [
+      "Holi",
+      "Diwali",
+      "Eid",
+      "Obon"
+    ],
+    "optionsJapanese": [
+      "ホーリー",
+      "ディワリ",
+      "イード",
+      "お盆"
+    ],
+    "answer": "Holi",
+    "explanation": "Holi uses colorful powders.",
+    "explanationJapanese": "ホーリーでは色粉が使われます。",
+    "vocabulary": [
+      {
+        "word": "Holi",
+        "meaning": "ホーリー",
+        "partOfSpeech": "general",
+        "example": "Use 'Holi' in context: Holi relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Holi uses colorful powders.",
+    "englishExpression": "Choose \"Holi\" because Holi uses colorful powders.; other options do not match this question.",
+    "knowledgeLevel": "General culture"
+  },
+  {
+    "category": "Culture",
+    "difficulty": "Medium",
+    "question": "Which language uses Cyrillic script?",
+    "questionJapanese": "キリル文字を使用する言語はどれですか？",
+    "options": [
+      "Russian",
+      "Arabic",
+      "Greek",
+      "Hindi"
+    ],
+    "optionsJapanese": [
+      "ロシア語",
+      "アラビア語",
+      "ギリシャ語",
+      "ヒンディー語"
+    ],
+    "answer": "Russian",
+    "explanation": "Russian uses Cyrillic script.",
+    "explanationJapanese": "ロシア語はキリル文字を使います。",
+    "vocabulary": [
+      {
+        "word": "Cyrillic",
+        "meaning": "キリル文字",
+        "partOfSpeech": "general",
+        "example": "Use 'Cyrillic' in context: Cyrillic relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Russian uses Cyrillic script.",
+    "englishExpression": "Choose \"Russian\" because Russian uses Cyrillic script.; other options do not match this question.",
+    "knowledgeLevel": "General culture"
+  },
+  {
+    "category": "Culture",
+    "difficulty": "Medium",
+    "question": "Which country is famous for the Maori haka dance?",
+    "questionJapanese": "マオリのハカで有名な国はどこですか？",
+    "options": [
+      "New Zealand",
+      "Australia",
+      "Fiji",
+      "Canada"
+    ],
+    "optionsJapanese": [
+      "ニュージーランド",
+      "オーストラリア",
+      "フィジー",
+      "カナダ"
+    ],
+    "answer": "New Zealand",
+    "explanation": "The Maori haka is from New Zealand.",
+    "explanationJapanese": "マオリのハカはニュージーランドの伝統です。",
+    "vocabulary": [
+      {
+        "word": "haka",
+        "meaning": "ハカ",
+        "partOfSpeech": "general",
+        "example": "Use 'haka' in context: haka relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: The Maori haka is from New Zealand.",
+    "englishExpression": "Choose \"New Zealand\" because The Maori haka is from New Zealand.; other options do not match this question.",
+    "knowledgeLevel": "General culture"
+  },
+  {
+    "category": "Culture",
+    "difficulty": "Medium",
+    "question": "Which language family does Swahili belong to?",
+    "questionJapanese": "スワヒリ語が属する語族はどれですか？",
+    "options": [
+      "Bantu",
+      "Romance",
+      "Germanic",
+      "Slavic"
+    ],
+    "optionsJapanese": [
+      "バントゥー語派",
+      "ロマンス語派",
+      "ゲルマン語派",
+      "スラブ語派"
+    ],
+    "answer": "Bantu",
+    "explanation": "Swahili is a Bantu language.",
+    "explanationJapanese": "スワヒリ語はバントゥー語派です。",
+    "vocabulary": [
+      {
+        "word": "Bantu",
+        "meaning": "バントゥー語派",
+        "partOfSpeech": "general",
+        "example": "Use 'Bantu' in context: Bantu relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Swahili is a Bantu language.",
+    "englishExpression": "Choose \"Bantu\" because Swahili is a Bantu language.; other options do not match this question.",
+    "knowledgeLevel": "General culture"
+  },
+  {
+    "category": "Culture",
+    "difficulty": "Medium",
+    "question": "Which Japanese art involves arranging flowers?",
+    "questionJapanese": "花をいける日本の芸術はどれですか？",
+    "options": [
+      "Ikebana",
+      "Origami",
+      "Shodo",
+      "Kintsugi"
+    ],
+    "optionsJapanese": [
+      "生け花",
+      "折り紙",
+      "書道",
+      "金継ぎ"
+    ],
+    "answer": "Ikebana",
+    "explanation": "Ikebana is Japanese flower arranging.",
+    "explanationJapanese": "生け花は日本の花をいける芸術です。",
+    "vocabulary": [
+      {
+        "word": "Ikebana",
+        "meaning": "生け花",
+        "partOfSpeech": "general",
+        "example": "Use 'Ikebana' in context: Ikebana relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Ikebana is Japanese flower arranging.",
+    "englishExpression": "Choose \"Ikebana\" because Ikebana is Japanese flower arranging.; other options do not match this question.",
+    "knowledgeLevel": "General culture"
+  },
+  {
+    "category": "Culture",
+    "difficulty": "Hard",
+    "question": "Which classical text is central to Confucianism?",
+    "questionJapanese": "儒教の中心となる古典はどれですか？",
+    "options": [
+      "Analects",
+      "Bhagavad Gita",
+      "Tao Te Ching",
+      "Koran"
+    ],
+    "optionsJapanese": [
+      "論語",
+      "バガヴァッド・ギータ",
+      "道徳経",
+      "コーラン"
+    ],
+    "answer": "Analects",
+    "explanation": "The Analects are central to Confucianism.",
+    "explanationJapanese": "儒教の中心的古典は「論語」です。",
+    "vocabulary": [
+      {
+        "word": "Analects",
+        "meaning": "論語",
+        "partOfSpeech": "general",
+        "example": "Use 'Analects' in context: Analects relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: The Analects are central to Confucianism.",
+    "englishExpression": "Choose \"Analects\" because The Analects are central to Confucianism.; other options do not match this question.",
+    "knowledgeLevel": "General culture"
+  },
+  {
+    "category": "Culture",
+    "difficulty": "Hard",
+    "question": "Which festival marks the end of the Jewish harvest season?",
+    "questionJapanese": "ユダヤ教の収穫の終わりを祝う祭りはどれですか？",
+    "options": [
+      "Sukkot",
+      "Passover",
+      "Purim",
+      "Yom Kippur"
+    ],
+    "optionsJapanese": [
+      "スコット",
+      "過越祭",
+      "プリム",
+      "贖罪日"
+    ],
+    "answer": "Sukkot",
+    "explanation": "Sukkot marks the end of harvest.",
+    "explanationJapanese": "スコットは収穫の終わりを祝います。",
+    "vocabulary": [
+      {
+        "word": "Sukkot",
+        "meaning": "スコット",
+        "partOfSpeech": "general",
+        "example": "Use 'Sukkot' in context: Sukkot relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Sukkot marks the end of harvest.",
+    "englishExpression": "Choose \"Sukkot\" because Sukkot marks the end of harvest.; other options do not match this question.",
+    "knowledgeLevel": "General culture"
+  },
+  {
+    "category": "Culture",
+    "difficulty": "Hard",
+    "question": "Which religion’s holy book is the Guru Granth Sahib?",
+    "questionJapanese": "グル・グラント・サーヒブを聖典とする宗教はどれですか？",
+    "options": [
+      "Sikhism",
+      "Hinduism",
+      "Buddhism",
+      "Islam"
+    ],
+    "optionsJapanese": [
+      "シク教",
+      "ヒンドゥー教",
+      "仏教",
+      "イスラム教"
+    ],
+    "answer": "Sikhism",
+    "explanation": "The Guru Granth Sahib is Sikhism’s holy book.",
+    "explanationJapanese": "グル・グラント・サーヒブはシク教の聖典です。",
+    "vocabulary": [
+      {
+        "word": "Sikhism",
+        "meaning": "シク教",
+        "partOfSpeech": "general",
+        "example": "Use 'Sikhism' in context: Sikhism relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: The Guru Granth Sahib is Sikhism’s holy book.",
+    "englishExpression": "Choose \"Sikhism\" because The Guru Granth Sahib is Sikhism’s holy book.; other options do not match this question.",
+    "knowledgeLevel": "General culture"
+  },
+  {
+    "category": "Culture",
+    "difficulty": "Hard",
+    "question": "Which instrument is key in traditional Irish music?",
+    "questionJapanese": "伝統的なアイルランド音楽で重要な楽器はどれですか？",
+    "options": [
+      "Fiddle",
+      "Sitar",
+      "Oboe",
+      "Trombone"
+    ],
+    "optionsJapanese": [
+      "フィドル",
+      "シタール",
+      "オーボエ",
+      "トロンボーン"
+    ],
+    "answer": "Fiddle",
+    "explanation": "The fiddle is key in Irish music.",
+    "explanationJapanese": "アイルランド音楽ではフィドルが重要です。",
+    "vocabulary": [
+      {
+        "word": "fiddle",
+        "meaning": "フィドル",
+        "partOfSpeech": "general",
+        "example": "Use 'fiddle' in context: fiddle relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: The fiddle is key in Irish music.",
+    "englishExpression": "Choose \"Fiddle\" because The fiddle is key in Irish music.; other options do not match this question.",
+    "knowledgeLevel": "General culture"
+  },
+  {
+    "category": "Culture",
+    "difficulty": "Easy",
+    "question": "Which country is known for sushi?",
+    "questionJapanese": "寿司で有名な国はどこですか？",
+    "options": [
+      "Japan",
+      "China",
+      "Korea",
+      "Thailand"
+    ],
+    "optionsJapanese": [
+      "日本",
+      "中国",
+      "韓国",
+      "タイ"
+    ],
+    "answer": "Japan",
+    "explanation": "Sushi originates from Japan.",
+    "explanationJapanese": "寿司は日本発祥です。",
+    "vocabulary": [
+      {
+        "word": "sushi",
+        "meaning": "寿司",
+        "partOfSpeech": "general",
+        "example": "Use 'sushi' in context: sushi relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Sushi originates from Japan.",
+    "englishExpression": "Choose \"Japan\" because Sushi originates from Japan.; other options do not match this question.",
+    "knowledgeLevel": "General culture"
+  },
+  {
+    "category": "Culture",
+    "difficulty": "Hard",
+    "question": "Which philosophy values yin and yang balance?",
+    "questionJapanese": "陰陽のバランスを重視する思想はどれですか？",
+    "options": [
+      "Taoism",
+      "Confucianism",
+      "Stoicism",
+      "Epicureanism"
+    ],
+    "optionsJapanese": [
+      "道教",
+      "儒教",
+      "ストア派",
+      "エピクロス派"
+    ],
+    "answer": "Taoism",
+    "explanation": "Yin-yang balance is central in Taoism.",
+    "explanationJapanese": "陰陽のバランスは道教で重要です。",
+    "vocabulary": [
+      {
+        "word": "yin-yang",
+        "meaning": "陰陽",
+        "partOfSpeech": "general",
+        "example": "Use 'yin-yang' in context: yin-yang relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Yin-yang balance is central in Taoism.",
+    "englishExpression": "Choose \"Taoism\" because Yin-yang balance is central in Taoism.; other options do not match this question.",
+    "knowledgeLevel": "General culture"
+  },
+  {
+    "category": "Culture",
+    "difficulty": "Medium",
+    "question": "Which festival marks end of Ramadan?",
+    "questionJapanese": "ラマダーン明けを祝う祭りはどれですか？",
+    "options": [
+      "Eid al-Fitr",
+      "Diwali",
+      "Hanukkah",
+      "Obon"
+    ],
+    "optionsJapanese": [
+      "イード・アル＝フィトル",
+      "ディワリ",
+      "ハヌカー",
+      "お盆"
+    ],
+    "answer": "Eid al-Fitr",
+    "explanation": "Eid al-Fitr ends Ramadan.",
+    "explanationJapanese": "イード・アル＝フィトルはラマダーンの終わりに祝われます。",
+    "vocabulary": [
+      {
+        "word": "Eid al-Fitr",
+        "meaning": "イード・アル＝フィトル",
+        "partOfSpeech": "general",
+        "example": "Use 'Eid al-Fitr' in context: Eid al-Fitr relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Eid al-Fitr ends Ramadan.",
+    "englishExpression": "Choose \"Eid al-Fitr\" because Eid al-Fitr ends Ramadan.; other options do not match this question.",
+    "knowledgeLevel": "General culture"
+  },
+  {
+    "category": "Culture",
+    "difficulty": "Hard",
+    "question": "Which concept in Japanese aesthetics values subtle profundity (yūgen)?",
+    "questionJapanese": "幽玄と呼ばれる微妙で深い美を重視する概念はどれですか？",
+    "options": [
+      "Yūgen",
+      "Iki",
+      "Mono no aware",
+      "Kawaii"
+    ],
+    "optionsJapanese": [
+      "幽玄",
+      "粋",
+      "物の哀れ",
+      "かわいい"
+    ],
+    "answer": "Yūgen",
+    "explanation": "Yūgen values subtle, mysterious depth.",
+    "explanationJapanese": "幽玄は微妙で神秘的な深さを重んじます。",
+    "vocabulary": [
+      {
+        "word": "yugen",
+        "meaning": "幽玄",
+        "partOfSpeech": "general",
+        "example": "Use 'yugen' in context: yugen relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Yūgen values subtle, mysterious depth.",
+    "englishExpression": "Choose \"Yūgen\" because Yūgen values subtle, mysterious depth.; other options do not match this question.",
+    "knowledgeLevel": "General culture"
+  },
+  {
+    "category": "Culture",
+    "difficulty": "Hard",
+    "question": "Which epic is central to ancient Mesopotamian literature?",
+    "questionJapanese": "古代メソポタミア文学の中心となる叙事詩はどれですか？",
+    "options": [
+      "Epic of Gilgamesh",
+      "Iliad",
+      "Mahabharata",
+      "Aeneid"
+    ],
+    "optionsJapanese": [
+      "ギルガメシュ叙事詩",
+      "イリアス",
+      "マハーバーラタ",
+      "アエネーイス"
+    ],
+    "answer": "Epic of Gilgamesh",
+    "explanation": "The Epic of Gilgamesh is central to Mesopotamian literature.",
+    "explanationJapanese": "ギルガメシュ叙事詩はメソポタミア文学の中心です。",
+    "vocabulary": [
+      {
+        "word": "Epic of Gilgamesh",
+        "meaning": "ギルガメシュ叙事詩",
+        "partOfSpeech": "general",
+        "example": "Use 'Epic of Gilgamesh' in context: Epic of Gilgamesh relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: The Epic of Gilgamesh is central to Mesopotamian literature.",
+    "englishExpression": "Choose \"Epic of Gilgamesh\" because The Epic of Gilgamesh is central to Mesopotamian literature.; other options do not match this question.",
+    "knowledgeLevel": "General culture"
+  },
+  {
+    "category": "Culture",
+    "difficulty": "Hard",
+    "question": "Which philosophy teaches non-attachment and the Four Noble Truths?",
+    "questionJapanese": "四諦と執着しないことを説く思想はどれですか？",
+    "options": [
+      "Buddhism",
+      "Stoicism",
+      "Taoism",
+      "Confucianism"
+    ],
+    "optionsJapanese": [
+      "仏教",
+      "ストア派",
+      "道教",
+      "儒教"
+    ],
+    "answer": "Buddhism",
+    "explanation": "Buddhism teaches non-attachment and the Four Noble Truths.",
+    "explanationJapanese": "仏教は執着しないことと四諦を説きます。",
+    "vocabulary": [
+      {
+        "word": "Four Noble Truths",
+        "meaning": "四諦",
+        "partOfSpeech": "general",
+        "example": "Use 'Four Noble Truths' in context: Four Noble Truths relate to Buddhism."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Buddhism teaches non-attachment and the Four Noble Truths.",
+    "englishExpression": "Choose \"Buddhism\" because Buddhism teaches non-attachment and the Four Noble Truths.; other options do not match this question.",
+    "knowledgeLevel": "General culture"
+  }
+]

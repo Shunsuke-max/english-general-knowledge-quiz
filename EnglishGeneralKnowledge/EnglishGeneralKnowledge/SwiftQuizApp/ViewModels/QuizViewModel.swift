@@ -20,6 +20,13 @@ final class QuizViewModel: ObservableObject {
     @Published var isFeedbackLoading: Bool = false
     @Published private(set) var correctCount: Int = 0
     @Published private(set) var totalCount: Int = 0
+    @Published var showGlobalTranslation: Bool = false
+    @Published var readerMode: Bool = false
+    @Published private(set) var dailyGoal: Int = 10
+    @Published private(set) var goalReached: Bool = false
+    @Published private(set) var weakVocabularyDeck: [VocabularyEntry] = []
+    @Published private(set) var weeklyMissionProgress: WeeklyMissionProgress = WeeklyMissionProgress()
+    @Published var shouldShowOnboarding: Bool = false
 
     private let service = AIQuizService.shared
     private let historyKey = "quizHistory"
@@ -27,6 +34,7 @@ final class QuizViewModel: ObservableObject {
 
     init() {
         loadHistory()
+        shouldShowOnboarding = !UserDefaults.standard.bool(forKey: "hasSeenOnboarding")
     }
 
     deinit {
@@ -42,7 +50,8 @@ final class QuizViewModel: ObservableObject {
 
     var progress: Double {
         guard !quizQuestions.isEmpty else { return 0 }
-        return Double(currentQuestionIndex + 1) / Double(quizQuestions.count)
+        // Progress reflects answered/advanced questions, so the final question isn't shown as complete until answered.
+        return Double(currentQuestionIndex) / Double(quizQuestions.count)
     }
 
     func startQuiz() {
@@ -79,12 +88,14 @@ final class QuizViewModel: ObservableObject {
         selectedAnswer = answer
         let current = quizQuestions[currentQuestionIndex]
         let isCorrect = answer == current.answer
-            if isCorrect {
-                correctCount += 1
-            } else {
-                incorrectAnswers.append(current)
-            }
-            totalCount += 1
+        if isCorrect {
+            correctCount += 1
+            HapticsManager.success()
+        } else {
+            incorrectAnswers.append(current)
+            HapticsManager.error()
+        }
+        totalCount += 1
     }
 
     func nextQuestion() {
@@ -163,13 +174,6 @@ final class QuizViewModel: ObservableObject {
         persistHistory()
     }
 
-    private func loadHistory() {
-        guard let data = UserDefaults.standard.data(forKey: historyKey) else { return }
-        if let decoded = try? JSONDecoder().decode([QuizResult].self, from: data) {
-            quizHistory = decoded
-        }
-    }
-
     private func topViewController() -> UIViewController? {
         UIApplication.shared.connectedScenes
             .compactMap { $0 as? UIWindowScene }
@@ -182,13 +186,66 @@ final class QuizViewModel: ObservableObject {
         let newResult = QuizResult(
             score: correctCount,
             totalQuestions: quizQuestions.count,
-            category: selectedCategory
+            category: selectedCategory,
+            literacyLevel: LiteracyLevel.from(accuracy: totalCount > 0 ? Double(correctCount) / Double(totalCount) : 0)
         )
         quizHistory.insert(newResult, at: 0)
         persistHistory()
+        updateWeakVocabulary()
+        weeklyMissionProgress = weeklyMissionProgress.updating(with: newResult)
+        goalReached = hasMetDailyGoal
         await loadFeedback()
         gameState = .finished
         isShowingAd = false
+        HapticsManager.success()
+    }
+
+    func retryWeakCategory(_ category: String) {
+        guard !isShowingAd else { return }
+        selectedCategory = category
+        numberOfQuestions = min(5, numberOfQuestions)
+        gameState = .setup
+        startQuiz()
+    }
+
+    var todayAnsweredCount: Int {
+        let calendar = Calendar.current
+        return quizHistory
+            .filter { calendar.isDate($0.date, inSameDayAs: Date()) }
+            .reduce(0) { $0 + $1.totalQuestions }
+    }
+
+    var dailyProgress: Double {
+        guard dailyGoal > 0 else { return 0 }
+        return min(1, Double(todayAnsweredCount) / Double(dailyGoal))
+    }
+
+    var hasMetDailyGoal: Bool {
+        todayAnsweredCount >= dailyGoal
+    }
+
+    var streakCount: Int {
+        let calendar = Calendar.current
+        let daysWithQuizzes = Set(quizHistory.map { calendar.startOfDay(for: $0.date) })
+        var streak = 0
+        var current = calendar.startOfDay(for: Date())
+
+        while daysWithQuizzes.contains(current) {
+            streak += 1
+            guard let previous = calendar.date(byAdding: .day, value: -1, to: current) else { break }
+            current = previous
+        }
+        return streak
+    }
+
+    private func updateWeakVocabulary() {
+        var collection: [VocabularyEntry] = []
+        for question in incorrectAnswers {
+            for vocab in question.vocabulary where !collection.contains(where: { $0.word == vocab.word }) {
+                collection.append(vocab)
+            }
+        }
+        weakVocabularyDeck = collection
     }
 
     private func persistHistory() {
@@ -196,6 +253,29 @@ final class QuizViewModel: ObservableObject {
             UserDefaults.standard.set(encoded, forKey: historyKey)
         }
     }
+
+    private func loadHistory() {
+        guard let data = UserDefaults.standard.data(forKey: historyKey) else { return }
+        if let decoded = try? JSONDecoder().decode([QuizResult].self, from: data) {
+            quizHistory = decoded
+        }
+        recalcWeeklyMission()
+        goalReached = hasMetDailyGoal
+    }
+
+    private func recalcWeeklyMission() {
+        var progress = WeeklyMissionProgress()
+        for result in quizHistory {
+            progress = progress.updating(with: result)
+        }
+        weeklyMissionProgress = progress
+    }
+
+    func markOnboardingSeen() {
+        shouldShowOnboarding = false
+        UserDefaults.standard.set(true, forKey: "hasSeenOnboarding")
+    }
+
 
     private func loadFeedback() async {
         guard quizQuestions.count == totalCount else {

@@ -1,0 +1,2150 @@
+[
+  {
+    "question": "Who painted the Mona Lisa?",
+    "questionJapanese": "モナ・リザを描いたのは誰ですか？",
+    "options": [
+      "Leonardo da Vinci",
+      "Michelangelo",
+      "Vincent van Gogh",
+      "Claude Monet"
+    ],
+    "answer": "Leonardo da Vinci",
+    "explanation": "Leonardo da Vinci painted the Mona Lisa around 1503–1506 during the Italian Renaissance.",
+    "explanationJapanese": "レオナルド・ダ・ヴィンチはイタリア・ルネサンス期の1503〜1506年頃にモナ・リザを描きました。",
+    "vocabulary": [
+      {
+        "word": "paint",
+        "meaning": "描く",
+        "partOfSpeech": "general",
+        "example": "Use 'paint' in context: paint relates to this topic."
+      },
+      {
+        "word": "Renaissance",
+        "meaning": "ルネサンス",
+        "partOfSpeech": "general",
+        "example": "Use 'Renaissance' in context: Renaissance relates to this topic."
+      },
+      {
+        "word": "Italian",
+        "meaning": "イタリアの",
+        "partOfSpeech": "general",
+        "example": "Use 'Italian' in context: Italian relates to this topic."
+      }
+    ],
+    "category": "Art",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: Leonardo da Vinci painted the Mona Lisa around 1503–1506 during the Italian Renaissance.",
+    "englishExpression": "Choose \"Leonardo da Vinci\" because Leonardo da Vinci painted the Mona Lisa around 1503–1506 during the Italian Renaissance.; other options do not match this question.",
+    "knowledgeLevel": "General art history",
+    "optionsJapanese": [
+      "Leonardo da Vinci",
+      "Michelangelo",
+      "Vincent van Gogh",
+      "Claude Monet"
+    ]
+  },
+  {
+    "question": "Who painted The Starry Night?",
+    "questionJapanese": "星月夜を描いたのは誰ですか？",
+    "options": [
+      "Vincent van Gogh",
+      "Pablo Picasso",
+      "Claude Monet",
+      "Salvador Dalí"
+    ],
+    "answer": "Vincent van Gogh",
+    "explanation": "Vincent van Gogh painted The Starry Night in 1889 while in an asylum in Saint-Rémy.",
+    "explanationJapanese": "フィンセント・ファン・ゴッホは1889年、サン＝レミの療養院で『星月夜』を描きました。",
+    "vocabulary": [
+      {
+        "word": "asylum",
+        "meaning": "療養院",
+        "partOfSpeech": "general",
+        "example": "Use 'asylum' in context: asylum relates to this topic."
+      },
+      {
+        "word": "painted",
+        "meaning": "描いた",
+        "partOfSpeech": "general",
+        "example": "Use 'painted' in context: painted relates to this topic."
+      }
+    ],
+    "category": "Art",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: Vincent van Gogh painted The Starry Night in 1889 while in an asylum in Saint-Rémy.",
+    "englishExpression": "Choose \"Vincent van Gogh\" because Vincent van Gogh painted The Starry Night in 1889 while in an asylum in Saint-Rémy.; other options do not match this question.",
+    "knowledgeLevel": "General art history",
+    "optionsJapanese": [
+      "Vincent van Gogh",
+      "Pablo Picasso",
+      "Claude Monet",
+      "Salvador Dalí"
+    ]
+  },
+  {
+    "question": "Who painted The Birth of Venus?",
+    "questionJapanese": "ビーナスの誕生を描いたのは誰ですか？",
+    "options": [
+      "Sandro Botticelli",
+      "Leonardo da Vinci",
+      "Michelangelo",
+      "Raphael"
+    ],
+    "answer": "Sandro Botticelli",
+    "explanation": "Sandro Botticelli painted The Birth of Venus around 1485.",
+    "explanationJapanese": "サンドロ・ボッティチェリが1485年頃に「ビーナスの誕生」を描きました。",
+    "vocabulary": [
+      {
+        "word": "Renaissance",
+        "meaning": "ルネサンス",
+        "partOfSpeech": "general",
+        "example": "Use 'Renaissance' in context: Renaissance relates to this topic."
+      },
+      {
+        "word": "painting",
+        "meaning": "絵画",
+        "partOfSpeech": "general",
+        "example": "Use 'painting' in context: painting relates to this topic."
+      }
+    ],
+    "category": "Art",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: Sandro Botticelli painted The Birth of Venus around 1485.",
+    "englishExpression": "Choose \"Sandro Botticelli\" because Sandro Botticelli painted The Birth of Venus around 1485.; other options do not match this question.",
+    "knowledgeLevel": "General art history",
+    "optionsJapanese": [
+      "Sandro Botticelli",
+      "Leonardo da Vinci",
+      "Michelangelo",
+      "Raphael"
+    ]
+  },
+  {
+    "question": "Which architect designed the Guggenheim Museum Bilbao?",
+    "questionJapanese": "グッゲンハイム美術館ビルバオを設計した建築家は誰ですか？",
+    "options": [
+      "Frank Gehry",
+      "Zaha Hadid",
+      "Frank Lloyd Wright",
+      "Le Corbusier"
+    ],
+    "answer": "Frank Gehry",
+    "explanation": "Frank Gehry designed the Guggenheim Museum Bilbao with its iconic curving forms.",
+    "explanationJapanese": "フランク・ゲーリーが曲線的な形で知られるグッゲンハイム美術館ビルバオを設計しました。",
+    "vocabulary": [
+      {
+        "word": "architect",
+        "meaning": "建築家",
+        "partOfSpeech": "general",
+        "example": "Use 'architect' in context: architect relates to this topic."
+      },
+      {
+        "word": "museum",
+        "meaning": "美術館",
+        "partOfSpeech": "general",
+        "example": "Use 'museum' in context: museum relates to this topic."
+      }
+    ],
+    "category": "Art",
+    "difficulty": "Hard",
+    "knowledgeInsight": "Key takeaway: Frank Gehry designed the Guggenheim Museum Bilbao with its iconic curving forms.",
+    "englishExpression": "Choose \"Frank Gehry\" because Frank Gehry designed the Guggenheim Museum Bilbao with its iconic curving forms.; other options do not match this question.",
+    "knowledgeLevel": "General art history",
+    "optionsJapanese": [
+      "Frank Gehry",
+      "Zaha Hadid",
+      "Frank Lloyd Wright",
+      "Le Corbusier"
+    ]
+  },
+  {
+    "question": "Who sculpted David?",
+    "questionJapanese": "ダビデ像を制作したのは誰ですか？",
+    "options": [
+      "Michelangelo",
+      "Donatello",
+      "Bernini",
+      "Rodin"
+    ],
+    "answer": "Michelangelo",
+    "explanation": "Michelangelo sculpted the marble statue David in the early 1500s.",
+    "explanationJapanese": "ミケランジェロが1500年代初頭に大理石のダビデ像を制作しました。",
+    "vocabulary": [
+      {
+        "word": "sculpture",
+        "meaning": "彫刻",
+        "partOfSpeech": "general",
+        "example": "Use 'sculpture' in context: sculpture relates to this topic."
+      },
+      {
+        "word": "marble",
+        "meaning": "大理石",
+        "partOfSpeech": "general",
+        "example": "Use 'marble' in context: marble relates to this topic."
+      }
+    ],
+    "category": "Art",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: Michelangelo sculpted the marble statue David in the early 1500s.",
+    "englishExpression": "Choose \"Michelangelo\" because Michelangelo sculpted the marble statue David in the early 1500s.; other options do not match this question.",
+    "knowledgeLevel": "General art history",
+    "optionsJapanese": [
+      "Michelangelo",
+      "Donatello",
+      "Bernini",
+      "Rodin"
+    ]
+  },
+  {
+    "question": "Which art movement is Claude Monet associated with?",
+    "questionJapanese": "クロード・モネが代表する美術運動はどれですか？",
+    "options": [
+      "Impressionism",
+      "Cubism",
+      "Surrealism",
+      "Baroque"
+    ],
+    "answer": "Impressionism",
+    "explanation": "Claude Monet is a leading figure of Impressionism.",
+    "explanationJapanese": "クロード・モネは印象派を代表する画家です。",
+    "vocabulary": [
+      {
+        "word": "Impressionism",
+        "meaning": "印象派",
+        "partOfSpeech": "general",
+        "example": "Use 'Impressionism' in context: Impressionism relates to this topic."
+      },
+      {
+        "word": "movement",
+        "meaning": "美術運動",
+        "partOfSpeech": "general",
+        "example": "Use 'movement' in context: movement relates to this topic."
+      }
+    ],
+    "category": "Art",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: Claude Monet is a leading figure of Impressionism.",
+    "englishExpression": "Choose \"Impressionism\" because Claude Monet is a leading figure of Impressionism.; other options do not match this question.",
+    "knowledgeLevel": "General art history",
+    "optionsJapanese": [
+      "Impressionism",
+      "Cubism",
+      "Surrealism",
+      "Baroque"
+    ]
+  },
+  {
+    "question": "Who painted Girl with a Pearl Earring?",
+    "questionJapanese": "真珠の耳飾りの少女を描いたのは誰ですか？",
+    "options": [
+      "Johannes Vermeer",
+      "Rembrandt",
+      "Jan van Eyck",
+      "Edvard Munch"
+    ],
+    "answer": "Johannes Vermeer",
+    "explanation": "Johannes Vermeer painted Girl with a Pearl Earring around 1665.",
+    "explanationJapanese": "ヨハネス・フェルメールが1665年頃に「真珠の耳飾りの少女」を描きました。",
+    "vocabulary": [
+      {
+        "word": "Vermeer",
+        "meaning": "フェルメール",
+        "partOfSpeech": "general",
+        "example": "Use 'Vermeer' in context: Vermeer relates to this topic."
+      },
+      {
+        "word": "pearl",
+        "meaning": "真珠",
+        "partOfSpeech": "general",
+        "example": "Use 'pearl' in context: pearl relates to this topic."
+      }
+    ],
+    "category": "Art",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: Johannes Vermeer painted Girl with a Pearl Earring around 1665.",
+    "englishExpression": "Choose \"Johannes Vermeer\" because Johannes Vermeer painted Girl with a Pearl Earring around 1665.; other options do not match this question.",
+    "knowledgeLevel": "General art history",
+    "optionsJapanese": [
+      "Johannes Vermeer",
+      "Rembrandt",
+      "Jan van Eyck",
+      "Edvard Munch"
+    ]
+  },
+  {
+    "question": "Which Spanish artist co-founded Cubism?",
+    "questionJapanese": "キュビスムを共同創始したスペイン人画家は誰ですか？",
+    "options": [
+      "Pablo Picasso",
+      "Salvador Dalí",
+      "Joan Miró",
+      "Francisco Goya"
+    ],
+    "answer": "Pablo Picasso",
+    "explanation": "Pablo Picasso co-founded Cubism with Georges Braque.",
+    "explanationJapanese": "パブロ・ピカソはジョルジュ・ブラックと共にキュビスムを創始しました。",
+    "vocabulary": [
+      {
+        "word": "Cubism",
+        "meaning": "キュビスム",
+        "partOfSpeech": "general",
+        "example": "Use 'Cubism' in context: Cubism relates to this topic."
+      },
+      {
+        "word": "abstract",
+        "meaning": "抽象",
+        "partOfSpeech": "general",
+        "example": "Use 'abstract' in context: abstract relates to this topic."
+      }
+    ],
+    "category": "Art",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: Pablo Picasso co-founded Cubism with Georges Braque.",
+    "englishExpression": "Choose \"Pablo Picasso\" because Pablo Picasso co-founded Cubism with Georges Braque.; other options do not match this question.",
+    "knowledgeLevel": "General art history",
+    "optionsJapanese": [
+      "Pablo Picasso",
+      "Salvador Dalí",
+      "Joan Miró",
+      "Francisco Goya"
+    ]
+  },
+  {
+    "question": "Which building is an example of Gothic architecture?",
+    "questionJapanese": "ゴシック建築の例として有名な建物はどれですか？",
+    "options": [
+      "Notre-Dame Cathedral",
+      "Parthenon",
+      "Colosseum",
+      "Pantheon"
+    ],
+    "answer": "Notre-Dame Cathedral",
+    "explanation": "Notre-Dame Cathedral in Paris is a prime example of Gothic architecture.",
+    "explanationJapanese": "パリのノートルダム大聖堂はゴシック建築の代表例です。",
+    "vocabulary": [
+      {
+        "word": "Gothic",
+        "meaning": "ゴシック",
+        "partOfSpeech": "general",
+        "example": "Use 'Gothic' in context: Gothic relates to this topic."
+      },
+      {
+        "word": "cathedral",
+        "meaning": "大聖堂",
+        "partOfSpeech": "general",
+        "example": "Use 'cathedral' in context: cathedral relates to this topic."
+      }
+    ],
+    "category": "Art",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: Notre-Dame Cathedral in Paris is a prime example of Gothic architecture.",
+    "englishExpression": "Choose \"Notre-Dame Cathedral\" because Notre-Dame Cathedral in Paris is a prime example of Gothic architecture.; other options do not match this question.",
+    "knowledgeLevel": "General art history",
+    "optionsJapanese": [
+      "Notre-Dame Cathedral",
+      "Parthenon",
+      "Colosseum",
+      "Pantheon"
+    ]
+  },
+  {
+    "question": "Who painted Guernica?",
+    "questionJapanese": "ゲルニカを描いたのは誰ですか？",
+    "options": [
+      "Pablo Picasso",
+      "Diego Velázquez",
+      "Francisco Goya",
+      "El Greco"
+    ],
+    "answer": "Pablo Picasso",
+    "explanation": "Pablo Picasso painted Guernica in 1937 as an anti-war work.",
+    "explanationJapanese": "パブロ・ピカソは1937年に反戦作品として「ゲルニカ」を描きました。",
+    "vocabulary": [
+      {
+        "word": "anti-war",
+        "meaning": "反戦",
+        "partOfSpeech": "general",
+        "example": "Use 'anti-war' in context: anti-war relates to this topic."
+      },
+      {
+        "word": "mural",
+        "meaning": "壁画",
+        "partOfSpeech": "general",
+        "example": "Use 'mural' in context: mural relates to this topic."
+      }
+    ],
+    "category": "Art",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: Pablo Picasso painted Guernica in 1937 as an anti-war work.",
+    "englishExpression": "Choose \"Pablo Picasso\" because Pablo Picasso painted Guernica in 1937 as an anti-war work.; other options do not match this question.",
+    "knowledgeLevel": "General art history",
+    "optionsJapanese": [
+      "Pablo Picasso",
+      "Diego Velázquez",
+      "Francisco Goya",
+      "El Greco"
+    ]
+  },
+  {
+    "question": "Which Dutch artist is known for impossible constructions in his prints?",
+    "questionJapanese": "版画で不可能な構造を描いたことで知られるオランダの芸術家は誰ですか？",
+    "options": [
+      "M. C. Escher",
+      "Piet Mondrian",
+      "Vincent van Gogh",
+      "Hieronymus Bosch"
+    ],
+    "answer": "M. C. Escher",
+    "explanation": "M. C. Escher is known for prints with impossible constructions and tessellations.",
+    "explanationJapanese": "M.C.エッシャーは不可能な構造やテセレーションを描いた版画で知られます。",
+    "vocabulary": [
+      {
+        "word": "tessellation",
+        "meaning": "テセレーション",
+        "partOfSpeech": "general",
+        "example": "Use 'tessellation' in context: tessellation relates to this topic."
+      },
+      {
+        "word": "print",
+        "meaning": "版画",
+        "partOfSpeech": "general",
+        "example": "Use 'print' in context: print relates to this topic."
+      }
+    ],
+    "category": "Art",
+    "difficulty": "Hard",
+    "knowledgeInsight": "Key takeaway: M.",
+    "englishExpression": "Choose \"M. C. Escher\" because M. C. Escher is known for prints with impossible constructions and tessellations.; other options do not match this question.",
+    "knowledgeLevel": "General art history",
+    "optionsJapanese": [
+      "M. C. Escher",
+      "Piet Mondrian",
+      "Vincent van Gogh",
+      "Hieronymus Bosch"
+    ]
+  },
+  {
+    "question": "Who composed The Four Seasons?",
+    "questionJapanese": "四季を作曲したのは誰ですか？",
+    "options": [
+      "Antonio Vivaldi",
+      "Johann Sebastian Bach",
+      "Ludwig van Beethoven",
+      "Wolfgang Amadeus Mozart"
+    ],
+    "answer": "Antonio Vivaldi",
+    "explanation": "Antonio Vivaldi composed the violin concertos known as The Four Seasons.",
+    "explanationJapanese": "アントニオ・ヴィヴァルディが「四季」として知られるヴァイオリン協奏曲を作曲しました。",
+    "vocabulary": [
+      {
+        "word": "concerto",
+        "meaning": "協奏曲",
+        "partOfSpeech": "general",
+        "example": "Use 'concerto' in context: concerto relates to this topic."
+      },
+      {
+        "word": "Baroque",
+        "meaning": "バロック",
+        "partOfSpeech": "general",
+        "example": "Use 'Baroque' in context: Baroque relates to this topic."
+      }
+    ],
+    "category": "Art",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: Antonio Vivaldi composed the violin concertos known as The Four Seasons.",
+    "englishExpression": "Choose \"Antonio Vivaldi\" because Antonio Vivaldi composed the violin concertos known as The Four Seasons.; other options do not match this question.",
+    "knowledgeLevel": "General art history",
+    "optionsJapanese": [
+      "Antonio Vivaldi",
+      "Johann Sebastian Bach",
+      "Ludwig van Beethoven",
+      "Wolfgang Amadeus Mozart"
+    ]
+  },
+  {
+    "question": "Which artist is known for the persistence of melting clocks painting?",
+    "questionJapanese": "溶ける時計が描かれた作品で知られる芸術家は誰ですか？",
+    "options": [
+      "Salvador Dalí",
+      "Henri Matisse",
+      "Marc Chagall",
+      "Paul Cézanne"
+    ],
+    "answer": "Salvador Dalí",
+    "explanation": "Salvador Dalí painted The Persistence of Memory featuring melting clocks.",
+    "explanationJapanese": "サルバドール・ダリは溶ける時計を描いた「記憶の固執」で知られます。",
+    "vocabulary": [
+      {
+        "word": "Surrealism",
+        "meaning": "シュルレアリスム",
+        "partOfSpeech": "general",
+        "example": "Use 'Surrealism' in context: Surrealism relates to this topic."
+      },
+      {
+        "word": "symbolism",
+        "meaning": "象徴",
+        "partOfSpeech": "general",
+        "example": "Use 'symbolism' in context: symbolism relates to this topic."
+      }
+    ],
+    "category": "Art",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: Salvador Dalí painted The Persistence of Memory featuring melting clocks.",
+    "englishExpression": "Choose \"Salvador Dalí\" because Salvador Dalí painted The Persistence of Memory featuring melting clocks.; other options do not match this question.",
+    "knowledgeLevel": "General art history",
+    "optionsJapanese": [
+      "Salvador Dalí",
+      "Henri Matisse",
+      "Marc Chagall",
+      "Paul Cézanne"
+    ]
+  },
+  {
+    "question": "Which movement focused on everyday objects like soup cans?",
+    "questionJapanese": "スープ缶など日常品を題材にした美術運動はどれですか？",
+    "options": [
+      "Pop Art",
+      "Fauvism",
+      "Rococo",
+      "Romanticism"
+    ],
+    "answer": "Pop Art",
+    "explanation": "Pop Art used imagery from mass culture like soup cans.",
+    "explanationJapanese": "ポップアートはスープ缶など大衆文化のイメージを用いました。",
+    "vocabulary": [
+      {
+        "word": "Pop Art",
+        "meaning": "ポップアート",
+        "partOfSpeech": "general",
+        "example": "Use 'Pop Art' in context: Pop Art relates to this topic."
+      },
+      {
+        "word": "mass culture",
+        "meaning": "大衆文化",
+        "partOfSpeech": "general",
+        "example": "Use 'mass culture' in context: mass culture relates to this topic."
+      }
+    ],
+    "category": "Art",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: Pop Art used imagery from mass culture like soup cans.",
+    "englishExpression": "Choose \"Pop Art\" because Pop Art used imagery from mass culture like soup cans.; other options do not match this question.",
+    "knowledgeLevel": "General art history",
+    "optionsJapanese": [
+      "Pop Art",
+      "Fauvism",
+      "Rococo",
+      "Romanticism"
+    ]
+  },
+  {
+    "question": "Who designed the glass pyramid at the Louvre?",
+    "questionJapanese": "ルーヴル美術館のガラスのピラミッドを設計したのは誰ですか？",
+    "options": [
+      "I. M. Pei",
+      "Norman Foster",
+      "Tadao Ando",
+      "Renzo Piano"
+    ],
+    "answer": "I. M. Pei",
+    "explanation": "Architect I. M. Pei designed the Louvre Pyramid completed in 1989.",
+    "explanationJapanese": "建築家I.M.ペイが1989年完成のルーヴル・ピラミッドを設計しました。",
+    "vocabulary": [
+      {
+        "word": "pyramid",
+        "meaning": "ピラミッド",
+        "partOfSpeech": "general",
+        "example": "Use 'pyramid' in context: pyramid relates to this topic."
+      },
+      {
+        "word": "museum",
+        "meaning": "美術館",
+        "partOfSpeech": "general",
+        "example": "Use 'museum' in context: museum relates to this topic."
+      }
+    ],
+    "category": "Art",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: Architect I.",
+    "englishExpression": "Choose \"I. M. Pei\" because Architect I. M. Pei designed the Louvre Pyramid completed in 1989.; other options do not match this question.",
+    "knowledgeLevel": "General art history",
+    "optionsJapanese": [
+      "I. M. Pei",
+      "Norman Foster",
+      "Tadao Ando",
+      "Renzo Piano"
+    ]
+  },
+  {
+    "question": "Which Japanese woodblock artist created The Great Wave off Kanagawa?",
+    "questionJapanese": "神奈川沖浪裏を制作した浮世絵師は誰ですか？",
+    "options": [
+      "Hokusai",
+      "Hiroshige",
+      "Kuniyoshi",
+      "Utamaro"
+    ],
+    "answer": "Hokusai",
+    "explanation": "Hokusai created The Great Wave off Kanagawa in his Thirty-six Views of Mount Fuji series.",
+    "explanationJapanese": "葛飾北斎は「富嶽三十六景」の中で「神奈川沖浪裏」を制作しました。",
+    "vocabulary": [
+      {
+        "word": "ukiyo-e",
+        "meaning": "浮世絵",
+        "partOfSpeech": "general",
+        "example": "Use 'ukiyo-e' in context: ukiyo-e relates to this topic."
+      },
+      {
+        "word": "wave",
+        "meaning": "波",
+        "partOfSpeech": "general",
+        "example": "Use 'wave' in context: wave relates to this topic."
+      }
+    ],
+    "category": "Art",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: Hokusai created The Great Wave off Kanagawa in his Thirty-six Views of Mount Fuji series.",
+    "englishExpression": "Choose \"Hokusai\" because Hokusai created The Great Wave off Kanagawa in his Thirty-six Views of Mount Fuji series.; other options do not match this question.",
+    "knowledgeLevel": "General art history",
+    "optionsJapanese": [
+      "Hokusai",
+      "Hiroshige",
+      "Kuniyoshi",
+      "Utamaro"
+    ]
+  },
+  {
+    "category": "Art",
+    "difficulty": "Easy",
+    "question": "Which artist painted Water Lilies series?",
+    "questionJapanese": "「睡蓮」シリーズを描いた画家は誰ですか？",
+    "options": [
+      "Claude Monet",
+      "Edgar Degas",
+      "Paul Cézanne",
+      "Paul Gauguin"
+    ],
+    "answer": "Claude Monet",
+    "explanation": "Claude Monet painted the Water Lilies series in his garden at Giverny.",
+    "explanationJapanese": "クロード・モネはジヴェルニーの庭で「睡蓮」シリーズを描きました。",
+    "vocabulary": [
+      {
+        "word": "series",
+        "meaning": "連作",
+        "partOfSpeech": "general",
+        "example": "Use 'series' in context: series relates to this topic."
+      },
+      {
+        "word": "garden",
+        "meaning": "庭園",
+        "partOfSpeech": "general",
+        "example": "Use 'garden' in context: garden relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Claude Monet painted the Water Lilies series in his garden at Giverny.",
+    "englishExpression": "Choose \"Claude Monet\" because Claude Monet painted the Water Lilies series in his garden at Giverny.; other options do not match this question.",
+    "knowledgeLevel": "General art history",
+    "optionsJapanese": [
+      "Claude Monet",
+      "Edgar Degas",
+      "Paul Cézanne",
+      "Paul Gauguin"
+    ]
+  },
+  {
+    "category": "Art",
+    "difficulty": "Medium",
+    "question": "Which technique paints on wet plaster?",
+    "questionJapanese": "湿った漆喰の上に描く技法はどれですか？",
+    "options": [
+      "Fresco",
+      "Oil",
+      "Watercolor",
+      "Pastel"
+    ],
+    "answer": "Fresco",
+    "explanation": "Fresco is a technique of painting on freshly laid wet plaster.",
+    "explanationJapanese": "フレスコ画は塗りたての湿った漆喰に描く技法です。",
+    "vocabulary": [
+      {
+        "word": "fresco",
+        "meaning": "フレスコ画",
+        "partOfSpeech": "general",
+        "example": "Use 'fresco' in context: fresco relates to this topic."
+      },
+      {
+        "word": "plaster",
+        "meaning": "漆喰",
+        "partOfSpeech": "general",
+        "example": "Use 'plaster' in context: plaster relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Fresco is a technique of painting on freshly laid wet plaster.",
+    "englishExpression": "Choose \"Fresco\" because Fresco is a technique of painting on freshly laid wet plaster.; other options do not match this question.",
+    "knowledgeLevel": "General art history",
+    "optionsJapanese": [
+      "Fresco",
+      "Oil",
+      "Watercolor",
+      "Pastel"
+    ]
+  },
+  {
+    "category": "Art",
+    "difficulty": "Medium",
+    "question": "Which movement is associated with pointillism?",
+    "questionJapanese": "点描で知られる美術運動はどれですか？",
+    "options": [
+      "Post-Impressionism",
+      "Cubism",
+      "Surrealism",
+      "Baroque"
+    ],
+    "answer": "Post-Impressionism",
+    "explanation": "Pointillism is linked to Post-Impressionism.",
+    "explanationJapanese": "点描はポスト印象派と関連します。",
+    "vocabulary": [
+      {
+        "word": "pointillism",
+        "meaning": "点描",
+        "partOfSpeech": "general",
+        "example": "Use 'pointillism' in context: pointillism relates to this topic."
+      },
+      {
+        "word": "movement",
+        "meaning": "運動",
+        "partOfSpeech": "general",
+        "example": "Use 'movement' in context: movement relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Pointillism is linked to Post-Impressionism.",
+    "englishExpression": "Choose \"Post-Impressionism\" because Pointillism is linked to Post-Impressionism.; other options do not match this question.",
+    "knowledgeLevel": "General art history",
+    "optionsJapanese": [
+      "Post-Impressionism",
+      "Cubism",
+      "Surrealism",
+      "Baroque"
+    ]
+  },
+  {
+    "category": "Art",
+    "difficulty": "Medium",
+    "question": "Who designed the Parthenon sculptures?",
+    "questionJapanese": "パルテノンの彫刻を手がけた彫刻家は誰ですか？",
+    "options": [
+      "Phidias",
+      "Praxiteles",
+      "Polykleitos",
+      "Myron"
+    ],
+    "answer": "Phidias",
+    "explanation": "Phidias oversaw the sculptures of the Parthenon.",
+    "explanationJapanese": "パルテノン神殿の彫刻はフィディアスが監督しました。",
+    "vocabulary": [
+      {
+        "word": "sculpture",
+        "meaning": "彫刻",
+        "partOfSpeech": "general",
+        "example": "Use 'sculpture' in context: sculpture relates to this topic."
+      },
+      {
+        "word": "temple",
+        "meaning": "神殿",
+        "partOfSpeech": "general",
+        "example": "Use 'temple' in context: temple relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Phidias oversaw the sculptures of the Parthenon.",
+    "englishExpression": "Choose \"Phidias\" because Phidias oversaw the sculptures of the Parthenon.; other options do not match this question.",
+    "knowledgeLevel": "General art history",
+    "optionsJapanese": [
+      "Phidias",
+      "Praxiteles",
+      "Polykleitos",
+      "Myron"
+    ]
+  },
+  {
+    "category": "Art",
+    "difficulty": "Easy",
+    "question": "Which artist is famous for The Kiss statue?",
+    "questionJapanese": "彫刻「接吻」で有名な芸術家は誰ですか？",
+    "options": [
+      "Auguste Rodin",
+      "Henry Moore",
+      "Constantin Brancusi",
+      "Alberto Giacometti"
+    ],
+    "answer": "Auguste Rodin",
+    "explanation": "Auguste Rodin created the statue The Kiss.",
+    "explanationJapanese": "オーギュスト・ロダンが彫刻「接吻」を制作しました。",
+    "vocabulary": [
+      {
+        "word": "sculptor",
+        "meaning": "彫刻家",
+        "partOfSpeech": "general",
+        "example": "Use 'sculptor' in context: sculptor relates to this topic."
+      },
+      {
+        "word": "statue",
+        "meaning": "像",
+        "partOfSpeech": "general",
+        "example": "Use 'statue' in context: statue relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Auguste Rodin created the statue The Kiss.",
+    "englishExpression": "Choose \"Auguste Rodin\" because Auguste Rodin created the statue The Kiss.; other options do not match this question.",
+    "knowledgeLevel": "General art history",
+    "optionsJapanese": [
+      "Auguste Rodin",
+      "Henry Moore",
+      "Constantin Brancusi",
+      "Alberto Giacometti"
+    ]
+  },
+  {
+    "category": "Art",
+    "difficulty": "Medium",
+    "question": "Who painted The Night Watch?",
+    "questionJapanese": "夜警を描いたのは誰ですか？",
+    "options": [
+      "Rembrandt",
+      "Vermeer",
+      "Rubens",
+      "Caravaggio"
+    ],
+    "optionsJapanese": [
+      "レンブラント",
+      "フェルメール",
+      "ルーベンス",
+      "カラヴァッジョ"
+    ],
+    "answer": "Rembrandt",
+    "explanation": "Rembrandt painted The Night Watch in 1642.",
+    "explanationJapanese": "レンブラントが1642年に「夜警」を描きました。",
+    "vocabulary": [
+      {
+        "word": "Rembrandt",
+        "meaning": "レンブラント",
+        "partOfSpeech": "general",
+        "example": "Use 'Rembrandt' in context: Rembrandt relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Rembrandt painted The Night Watch in 1642.",
+    "englishExpression": "Choose \"Rembrandt\" because Rembrandt painted The Night Watch in 1642.; other options do not match this question.",
+    "knowledgeLevel": "General art history"
+  },
+  {
+    "category": "Art",
+    "difficulty": "Medium",
+    "question": "Which museum displays the Mona Lisa?",
+    "questionJapanese": "モナリザが展示されている美術館はどれですか？",
+    "options": [
+      "Louvre Museum",
+      "British Museum",
+      "Prado Museum",
+      "Metropolitan Museum of Art"
+    ],
+    "optionsJapanese": [
+      "ルーヴル美術館",
+      "大英博物館",
+      "プラド美術館",
+      "メトロポリタン美術館"
+    ],
+    "answer": "Louvre Museum",
+    "explanation": "The Mona Lisa is displayed in the Louvre.",
+    "explanationJapanese": "モナリザはルーヴル美術館に展示されています。",
+    "vocabulary": [
+      {
+        "word": "Louvre",
+        "meaning": "ルーヴル",
+        "partOfSpeech": "general",
+        "example": "Use 'Louvre' in context: Louvre relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: The Mona Lisa is displayed in the Louvre.",
+    "englishExpression": "Choose \"Louvre Museum\" because The Mona Lisa is displayed in the Louvre.; other options do not match this question.",
+    "knowledgeLevel": "General art history"
+  },
+  {
+    "category": "Art",
+    "difficulty": "Hard",
+    "question": "Which art movement is associated with drip painting?",
+    "questionJapanese": "ドリップペインティングで知られる美術運動はどれですか？",
+    "options": [
+      "Abstract Expressionism",
+      "Impressionism",
+      "Cubism",
+      "Baroque"
+    ],
+    "optionsJapanese": [
+      "抽象表現主義",
+      "印象派",
+      "キュビスム",
+      "バロック"
+    ],
+    "answer": "Abstract Expressionism",
+    "explanation": "Drip painting is tied to Abstract Expressionism, as seen in Jackson Pollock’s work.",
+    "explanationJapanese": "ドリップペインティングはジャクソン・ポロックに代表される抽象表現主義と結びついています。",
+    "vocabulary": [
+      {
+        "word": "drip painting",
+        "meaning": "ドリップペインティング",
+        "partOfSpeech": "general",
+        "example": "Use 'drip painting' in context: drip painting relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Drip painting is tied to Abstract Expressionism, as seen in Jackson Pollock’s work.",
+    "englishExpression": "Choose \"Abstract Expressionism\" because Drip painting is tied to Abstract Expressionism, as seen in Jackson Pollock’s work.; other options do not match this question.",
+    "knowledgeLevel": "General art history"
+  },
+  {
+    "category": "Art",
+    "difficulty": "Easy",
+    "question": "Which artist is famous for mobiles (moving sculptures)?",
+    "questionJapanese": "動く彫刻「モビール」で有名な芸術家は誰ですか？",
+    "options": [
+      "Alexander Calder",
+      "Henry Moore",
+      "Auguste Rodin",
+      "Michelangelo"
+    ],
+    "optionsJapanese": [
+      "アレクサンダー・カルダー",
+      "ヘンリー・ムーア",
+      "オーギュスト・ロダン",
+      "ミケランジェロ"
+    ],
+    "answer": "Alexander Calder",
+    "explanation": "Alexander Calder is famous for creating mobiles.",
+    "explanationJapanese": "アレクサンダー・カルダーはモビールで有名です。",
+    "vocabulary": [
+      {
+        "word": "mobile",
+        "meaning": "モビール",
+        "partOfSpeech": "general",
+        "example": "Use 'mobile' in context: mobile relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Alexander Calder is famous for creating mobiles.",
+    "englishExpression": "Choose \"Alexander Calder\" because Alexander Calder is famous for creating mobiles.; other options do not match this question.",
+    "knowledgeLevel": "General art history"
+  },
+  {
+    "category": "Art",
+    "difficulty": "Easy",
+    "question": "Who painted the Sistine Chapel ceiling?",
+    "questionJapanese": "システィーナ礼拝堂の天井画を描いたのは誰ですか？",
+    "options": [
+      "Michelangelo",
+      "Raphael",
+      "Leonardo da Vinci",
+      "Titian"
+    ],
+    "optionsJapanese": [
+      "ミケランジェロ",
+      "ラファエロ",
+      "レオナルド・ダ・ヴィンチ",
+      "ティツィアーノ"
+    ],
+    "answer": "Michelangelo",
+    "explanation": "Michelangelo painted the Sistine Chapel ceiling.",
+    "explanationJapanese": "ミケランジェロがシスティーナ礼拝堂の天井画を描きました。",
+    "vocabulary": [
+      {
+        "word": "Sistine Chapel",
+        "meaning": "システィーナ礼拝堂",
+        "partOfSpeech": "general",
+        "example": "Use 'Sistine Chapel' in context: Sistine Chapel relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Michelangelo painted the Sistine Chapel ceiling.",
+    "englishExpression": "Choose \"Michelangelo\" because Michelangelo painted the Sistine Chapel ceiling.; other options do not match this question.",
+    "knowledgeLevel": "General art history"
+  },
+  {
+    "category": "Art",
+    "difficulty": "Easy",
+    "question": "Which artist is known for water lilies paintings?",
+    "questionJapanese": "睡蓮の絵で知られる画家は誰ですか？",
+    "options": [
+      "Claude Monet",
+      "Paul Cézanne",
+      "Henri Matisse",
+      "Edgar Degas"
+    ],
+    "optionsJapanese": [
+      "クロード・モネ",
+      "ポール・セザンヌ",
+      "アンリ・マティス",
+      "エドガー・ドガ"
+    ],
+    "answer": "Claude Monet",
+    "explanation": "Claude Monet painted many Water Lilies series.",
+    "explanationJapanese": "クロード・モネは多くの「睡蓮」を描きました。",
+    "vocabulary": [
+      {
+        "word": "Water Lilies",
+        "meaning": "睡蓮",
+        "partOfSpeech": "general",
+        "example": "Use 'Water Lilies' in context: Water Lilies relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Claude Monet painted many Water Lilies series.",
+    "englishExpression": "Choose \"Claude Monet\" because Claude Monet painted many Water Lilies series.; other options do not match this question.",
+    "knowledgeLevel": "General art history"
+  },
+  {
+    "category": "Art",
+    "difficulty": "Medium",
+    "question": "Which artist pioneered pointillism with Georges Seurat?",
+    "questionJapanese": "ジョルジュ・スーラとともに点描を切り開いた画家は誰ですか？",
+    "options": [
+      "Paul Signac",
+      "Pablo Picasso",
+      "Vincent van Gogh",
+      "Paul Gauguin"
+    ],
+    "optionsJapanese": [
+      "ポール・シニャック",
+      "パブロ・ピカソ",
+      "フィンセント・ファン・ゴッホ",
+      "ポール・ゴーギャン"
+    ],
+    "answer": "Paul Signac",
+    "explanation": "Paul Signac developed pointillism with Georges Seurat.",
+    "explanationJapanese": "ポール・シニャックはスーラとともに点描を発展させました。",
+    "vocabulary": [
+      {
+        "word": "pointillism",
+        "meaning": "点描",
+        "partOfSpeech": "general",
+        "example": "Use 'pointillism' in context: pointillism relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Paul Signac developed pointillism with Georges Seurat.",
+    "englishExpression": "Choose \"Paul Signac\" because Paul Signac developed pointillism with Georges Seurat.; other options do not match this question.",
+    "knowledgeLevel": "General art history"
+  },
+  {
+    "category": "Art",
+    "difficulty": "Medium",
+    "question": "Which Spanish architect designed Casa Batlló?",
+    "questionJapanese": "カサ・バトリョを設計したスペインの建築家は誰ですか？",
+    "options": [
+      "Antoni Gaudí",
+      "Santiago Calatrava",
+      "Rafael Moneo",
+      "Ricardo Bofill"
+    ],
+    "optionsJapanese": [
+      "アントニ・ガウディ",
+      "サンティアゴ・カラトラバ",
+      "ラファエル・モネオ",
+      "リカルド・ボフィル"
+    ],
+    "answer": "Antoni Gaudí",
+    "explanation": "Antoni Gaudí designed Casa Batlló in Barcelona.",
+    "explanationJapanese": "アントニ・ガウディがバルセロナのカサ・バトリョを設計しました。",
+    "vocabulary": [
+      {
+        "word": "Casa Batlló",
+        "meaning": "カサ・バトリョ",
+        "partOfSpeech": "general",
+        "example": "Use 'Casa Batlló' in context: Casa Batlló relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Antoni Gaudí designed Casa Batlló in Barcelona.",
+    "englishExpression": "Choose \"Antoni Gaudí\" because Antoni Gaudí designed Casa Batlló in Barcelona.; other options do not match this question.",
+    "knowledgeLevel": "General art history"
+  },
+  {
+    "category": "Art",
+    "difficulty": "Medium",
+    "question": "Which movement did Edgar Degas belong to?",
+    "questionJapanese": "エドガー・ドガが属した美術運動はどれですか？",
+    "options": [
+      "Impressionism",
+      "Cubism",
+      "Fauvism",
+      "Surrealism"
+    ],
+    "optionsJapanese": [
+      "印象派",
+      "キュビスム",
+      "フォーヴィスム",
+      "シュルレアリスム"
+    ],
+    "answer": "Impressionism",
+    "explanation": "Edgar Degas was part of Impressionism.",
+    "explanationJapanese": "エドガー・ドガは印象派の一員でした。",
+    "vocabulary": [
+      {
+        "word": "Impressionism",
+        "meaning": "印象派",
+        "partOfSpeech": "general",
+        "example": "Use 'Impressionism' in context: Impressionism relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Edgar Degas was part of Impressionism.",
+    "englishExpression": "Choose \"Impressionism\" because Edgar Degas was part of Impressionism.; other options do not match this question.",
+    "knowledgeLevel": "General art history"
+  },
+  {
+    "category": "Art",
+    "difficulty": "Hard",
+    "question": "Which sculptor created The Thinker?",
+    "questionJapanese": "「考える人」を制作した彫刻家は誰ですか？",
+    "options": [
+      "Auguste Rodin",
+      "Constantin Brancusi",
+      "Alberto Giacometti",
+      "Donatello"
+    ],
+    "optionsJapanese": [
+      "オーギュスト・ロダン",
+      "コンスタンティン・ブランクーシ",
+      "アルベルト・ジャコメッティ",
+      "ドナテッロ"
+    ],
+    "answer": "Auguste Rodin",
+    "explanation": "Auguste Rodin sculpted The Thinker.",
+    "explanationJapanese": "「考える人」を作ったのはオーギュスト・ロダンです。",
+    "vocabulary": [
+      {
+        "word": "The Thinker",
+        "meaning": "考える人",
+        "partOfSpeech": "general",
+        "example": "Use 'The Thinker' in context: The Thinker relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Auguste Rodin sculpted The Thinker.",
+    "englishExpression": "Choose \"Auguste Rodin\" because Auguste Rodin sculpted The Thinker.; other options do not match this question.",
+    "knowledgeLevel": "General art history"
+  },
+  {
+    "category": "Art",
+    "difficulty": "Hard",
+    "question": "Which art movement is linked to Surrealism’s founder André Breton?",
+    "questionJapanese": "シュルレアリスムの創始者アンドレ・ブルトンに関連する美術運動はどれですか？",
+    "options": [
+      "Surrealism",
+      "Expressionism",
+      "Minimalism",
+      "Dada"
+    ],
+    "optionsJapanese": [
+      "シュルレアリスム",
+      "表現主義",
+      "ミニマリズム",
+      "ダダ"
+    ],
+    "answer": "Surrealism",
+    "explanation": "André Breton led the Surrealist movement.",
+    "explanationJapanese": "アンドレ・ブルトンはシュルレアリスムを主導しました。",
+    "vocabulary": [
+      {
+        "word": "Surrealism",
+        "meaning": "シュルレアリスム",
+        "partOfSpeech": "general",
+        "example": "Use 'Surrealism' in context: Surrealism relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: André Breton led the Surrealist movement.",
+    "englishExpression": "Choose \"Surrealism\" because André Breton led the Surrealist movement.; other options do not match this question.",
+    "knowledgeLevel": "General art history"
+  },
+  {
+    "category": "Art",
+    "difficulty": "Easy",
+    "question": "Which artist is known for the painting The Scream?",
+    "questionJapanese": "「叫び」で知られる芸術家は誰ですか？",
+    "options": [
+      "Edvard Munch",
+      "Vincent van Gogh",
+      "Claude Monet",
+      "Paul Gauguin"
+    ],
+    "optionsJapanese": [
+      "エドヴァルド・ムンク",
+      "フィンセント・ファン・ゴッホ",
+      "クロード・モネ",
+      "ポール・ゴーギャン"
+    ],
+    "answer": "Edvard Munch",
+    "explanation": "Edvard Munch painted The Scream.",
+    "explanationJapanese": "エドヴァルド・ムンクが「叫び」を描きました。",
+    "vocabulary": [
+      {
+        "word": "The Scream",
+        "meaning": "叫び",
+        "partOfSpeech": "general",
+        "example": "Use 'The Scream' in context: The Scream relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Edvard Munch painted The Scream.",
+    "englishExpression": "Choose \"Edvard Munch\" because Edvard Munch painted The Scream.; other options do not match this question.",
+    "knowledgeLevel": "General art history"
+  },
+  {
+    "category": "Art",
+    "difficulty": "Medium",
+    "question": "Which technique applies pigment with small dots?",
+    "questionJapanese": "小さな点で顔料を置く技法はどれですか？",
+    "options": [
+      "Pointillism",
+      "Impasto",
+      "Fresco",
+      "Sfumato"
+    ],
+    "optionsJapanese": [
+      "点描",
+      "インパスト",
+      "フレスコ",
+      "スフマート"
+    ],
+    "answer": "Pointillism",
+    "explanation": "Pointillism applies pigment in dots to form images.",
+    "explanationJapanese": "点描は点で顔料を置いて像を作る技法です。",
+    "vocabulary": [
+      {
+        "word": "technique",
+        "meaning": "技法",
+        "partOfSpeech": "general",
+        "example": "Use 'technique' in context: technique relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Pointillism applies pigment in dots to form images.",
+    "englishExpression": "Choose \"Pointillism\" because Pointillism applies pigment in dots to form images.; other options do not match this question.",
+    "knowledgeLevel": "General art history"
+  },
+  {
+    "category": "Art",
+    "difficulty": "Hard",
+    "question": "Which architect designed Fallingwater?",
+    "questionJapanese": "落水荘を設計した建築家は誰ですか？",
+    "options": [
+      "Frank Lloyd Wright",
+      "Le Corbusier",
+      "Mies van der Rohe",
+      "Louis Kahn"
+    ],
+    "optionsJapanese": [
+      "フランク・ロイド・ライト",
+      "ル・コルビュジエ",
+      "ミース・ファン・デル・ローエ",
+      "ルイス・カーン"
+    ],
+    "answer": "Frank Lloyd Wright",
+    "explanation": "Frank Lloyd Wright designed Fallingwater.",
+    "explanationJapanese": "フランク・ロイド・ライトが落水荘を設計しました。",
+    "vocabulary": [
+      {
+        "word": "Fallingwater",
+        "meaning": "落水荘",
+        "partOfSpeech": "general",
+        "example": "Use 'Fallingwater' in context: Fallingwater relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Frank Lloyd Wright designed Fallingwater.",
+    "englishExpression": "Choose \"Frank Lloyd Wright\" because Frank Lloyd Wright designed Fallingwater.; other options do not match this question.",
+    "knowledgeLevel": "General art history"
+  },
+  {
+    "category": "Art",
+    "difficulty": "Easy",
+    "question": "Which artist painted American Gothic?",
+    "questionJapanese": "「アメリカン・ゴシック」を描いたのは誰ですか？",
+    "options": [
+      "Grant Wood",
+      "Edward Hopper",
+      "Georgia O’Keeffe",
+      "Norman Rockwell"
+    ],
+    "optionsJapanese": [
+      "グラント・ウッド",
+      "エドワード・ホッパー",
+      "ジョージア・オキーフ",
+      "ノーマン・ロックウェル"
+    ],
+    "answer": "Grant Wood",
+    "explanation": "Grant Wood painted American Gothic.",
+    "explanationJapanese": "「アメリカン・ゴシック」はグラント・ウッドが描きました。",
+    "vocabulary": [
+      {
+        "word": "American Gothic",
+        "meaning": "アメリカン・ゴシック",
+        "partOfSpeech": "general",
+        "example": "Use 'American Gothic' in context: American Gothic relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Grant Wood painted American Gothic.",
+    "englishExpression": "Choose \"Grant Wood\" because Grant Wood painted American Gothic.; other options do not match this question.",
+    "knowledgeLevel": "General art history"
+  },
+  {
+    "category": "Art",
+    "difficulty": "Medium",
+    "question": "Which movement is associated with bold color and flat shapes like in Matisse’s work?",
+    "questionJapanese": "マティスのように大胆な色と平坦な形で知られる美術運動はどれですか？",
+    "options": [
+      "Fauvism",
+      "Impressionism",
+      "Cubism",
+      "Baroque"
+    ],
+    "optionsJapanese": [
+      "フォーヴィスム",
+      "印象派",
+      "キュビスム",
+      "バロック"
+    ],
+    "answer": "Fauvism",
+    "explanation": "Fauvism uses bold color and flat shapes.",
+    "explanationJapanese": "フォーヴィスムは大胆な色と平坦な形が特徴です。",
+    "vocabulary": [
+      {
+        "word": "Fauvism",
+        "meaning": "フォーヴィスム",
+        "partOfSpeech": "general",
+        "example": "Use 'Fauvism' in context: Fauvism relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Fauvism uses bold color and flat shapes.",
+    "englishExpression": "Choose \"Fauvism\" because Fauvism uses bold color and flat shapes.; other options do not match this question.",
+    "knowledgeLevel": "General art history"
+  },
+  {
+    "category": "Art",
+    "difficulty": "Hard",
+    "question": "Which sculptor is famous for the mobile stabile style?",
+    "questionJapanese": "モビールとスタビールのスタイルで有名な彫刻家は誰ですか？",
+    "options": [
+      "Alexander Calder",
+      "Henry Moore",
+      "Barbara Hepworth",
+      "Louise Bourgeois"
+    ],
+    "optionsJapanese": [
+      "アレクサンダー・カルダー",
+      "ヘンリー・ムーア",
+      "バーバラ・ヘップワース",
+      "ルイーズ・ブルジョワ"
+    ],
+    "answer": "Alexander Calder",
+    "explanation": "Calder is known for mobiles and stabiles.",
+    "explanationJapanese": "カルダーはモビールとスタビールで知られます。",
+    "vocabulary": [
+      {
+        "word": "stabile",
+        "meaning": "スタビール",
+        "partOfSpeech": "general",
+        "example": "Use 'stabile' in context: stabile relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Calder is known for mobiles and stabiles.",
+    "englishExpression": "Choose \"Alexander Calder\" because Calder is known for mobiles and stabiles.; other options do not match this question.",
+    "knowledgeLevel": "General art history"
+  },
+  {
+    "category": "Art",
+    "difficulty": "Hard",
+    "question": "Which artist painted Guernica?",
+    "questionJapanese": "「ゲルニカ」を描いたのは誰ですか？",
+    "options": [
+      "Pablo Picasso",
+      "Diego Velázquez",
+      "El Greco",
+      "Joan Miró"
+    ],
+    "optionsJapanese": [
+      "パブロ・ピカソ",
+      "ディエゴ・ベラスケス",
+      "エル・グレコ",
+      "ジョアン・ミロ"
+    ],
+    "answer": "Pablo Picasso",
+    "explanation": "Picasso painted Guernica.",
+    "explanationJapanese": "「ゲルニカ」はピカソが描きました。",
+    "vocabulary": [
+      {
+        "word": "Guernica",
+        "meaning": "ゲルニカ",
+        "partOfSpeech": "general",
+        "example": "Use 'Guernica' in context: Guernica relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Picasso painted Guernica.",
+    "englishExpression": "Choose \"Pablo Picasso\" because Picasso painted Guernica.; other options do not match this question.",
+    "knowledgeLevel": "General art history"
+  },
+  {
+    "category": "Art",
+    "difficulty": "Easy",
+    "question": "Which painter is famed for starry night skies besides van Gogh?",
+    "questionJapanese": "ゴッホ以外で星空の絵で知られる画家は誰ですか？",
+    "options": [
+      "Edvard Munch",
+      "Henri Rousseau",
+      "Camille Pissarro",
+      "Marc Chagall"
+    ],
+    "optionsJapanese": [
+      "エドヴァルド・ムンク",
+      "アンリ・ルソー",
+      "カミーユ・ピサロ",
+      "マルク・シャガール"
+    ],
+    "answer": "Edvard Munch",
+    "explanation": "Edvard Munch also painted expressive night skies.",
+    "explanationJapanese": "ムンクも表現的な夜空を描きました。",
+    "vocabulary": [
+      {
+        "word": "starry night",
+        "meaning": "星空",
+        "partOfSpeech": "general",
+        "example": "Use 'starry night' in context: starry night relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Edvard Munch also painted expressive night skies.",
+    "englishExpression": "Choose \"Edvard Munch\" because Edvard Munch also painted expressive night skies.; other options do not match this question.",
+    "knowledgeLevel": "General art history"
+  },
+  {
+    "category": "Art",
+    "difficulty": "Easy",
+    "question": "Which artist painted The Birth of Venus?",
+    "questionJapanese": "「ヴィーナスの誕生」を描いたのは誰ですか？",
+    "options": [
+      "Sandro Botticelli",
+      "Michelangelo",
+      "Titian",
+      "Caravaggio"
+    ],
+    "optionsJapanese": [
+      "サンドロ・ボッティチェリ",
+      "ミケランジェロ",
+      "ティツィアーノ",
+      "カラヴァッジョ"
+    ],
+    "answer": "Sandro Botticelli",
+    "explanation": "Botticelli painted The Birth of Venus.",
+    "explanationJapanese": "ボッティチェリが「ヴィーナスの誕生」を描きました。",
+    "vocabulary": [
+      {
+        "word": "Birth of Venus",
+        "meaning": "ヴィーナスの誕生",
+        "partOfSpeech": "general",
+        "example": "Use 'Birth of Venus' in context: Birth of Venus relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Botticelli painted The Birth of Venus.",
+    "englishExpression": "Choose \"Sandro Botticelli\" because Botticelli painted The Birth of Venus.; other options do not match this question.",
+    "knowledgeLevel": "General art history"
+  },
+  {
+    "category": "Art",
+    "difficulty": "Medium",
+    "question": "Which movement used geometric abstraction like Kazimir Malevich?",
+    "questionJapanese": "カジミール・マレーヴィチに見られる幾何学的抽象の運動はどれですか？",
+    "options": [
+      "Suprematism",
+      "Realism",
+      "Romanticism",
+      "Neo-Classicism"
+    ],
+    "optionsJapanese": [
+      "シュプレマティスム",
+      "写実主義",
+      "ロマン主義",
+      "新古典主義"
+    ],
+    "answer": "Suprematism",
+    "explanation": "Suprematism used geometric abstraction, e.g., Malevich.",
+    "explanationJapanese": "シュプレマティスムは幾何学的抽象を用いました。",
+    "vocabulary": [
+      {
+        "word": "Suprematism",
+        "meaning": "シュプレマティスム",
+        "partOfSpeech": "general",
+        "example": "Use 'Suprematism' in context: Suprematism relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Suprematism used geometric abstraction, e.g., Malevich.",
+    "englishExpression": "Choose \"Suprematism\" because Suprematism used geometric abstraction, e.g., Malevich.; other options do not match this question.",
+    "knowledgeLevel": "General art history"
+  },
+  {
+    "category": "Art",
+    "difficulty": "Medium",
+    "question": "Which museum houses the painting Girl with a Pearl Earring?",
+    "questionJapanese": "「真珠の耳飾りの少女」を所蔵する美術館はどこですか？",
+    "options": [
+      "Mauritshuis",
+      "Louvre",
+      "Uffizi",
+      "Prado"
+    ],
+    "optionsJapanese": [
+      "マウリッツハイス美術館",
+      "ルーヴル",
+      "ウフィツィ",
+      "プラド"
+    ],
+    "answer": "Mauritshuis",
+    "explanation": "Girl with a Pearl Earring is at the Mauritshuis.",
+    "explanationJapanese": "「真珠の耳飾りの少女」はマウリッツハイス美術館にあります。",
+    "vocabulary": [
+      {
+        "word": "Mauritshuis",
+        "meaning": "マウリッツハイス",
+        "partOfSpeech": "general",
+        "example": "Use 'Mauritshuis' in context: Mauritshuis relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Girl with a Pearl Earring is at the Mauritshuis.",
+    "englishExpression": "Choose \"Mauritshuis\" because Girl with a Pearl Earring is at the Mauritshuis.; other options do not match this question.",
+    "knowledgeLevel": "General art history"
+  },
+  {
+    "category": "Art",
+    "difficulty": "Hard",
+    "question": "Which painter is linked to the Blue Rider group?",
+    "questionJapanese": "青騎士派に関わった画家は誰ですか？",
+    "options": [
+      "Wassily Kandinsky",
+      "Paul Klee",
+      "Claude Monet",
+      "Diego Velázquez"
+    ],
+    "optionsJapanese": [
+      "ワシリー・カンディンスキー",
+      "パウル・クレー",
+      "クロード・モネ",
+      "ディエゴ・ベラスケス"
+    ],
+    "answer": "Wassily Kandinsky",
+    "explanation": "Kandinsky co-founded the Blue Rider group.",
+    "explanationJapanese": "カンディンスキーは青騎士派を共同設立しました。",
+    "vocabulary": [
+      {
+        "word": "Blue Rider",
+        "meaning": "青騎士",
+        "partOfSpeech": "general",
+        "example": "Use 'Blue Rider' in context: Blue Rider relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Kandinsky co-founded the Blue Rider group.",
+    "englishExpression": "Choose \"Wassily Kandinsky\" because Kandinsky co-founded the Blue Rider group.; other options do not match this question.",
+    "knowledgeLevel": "General art history"
+  },
+  {
+    "category": "Art",
+    "difficulty": "Hard",
+    "question": "Which style is Piet Mondrian known for?",
+    "questionJapanese": "ピエト・モンドリアンで知られる画風はどれですか？",
+    "options": [
+      "De Stijl with grids and primary colors",
+      "Baroque realism",
+      "Rococo curves",
+      "Romantic landscapes"
+    ],
+    "optionsJapanese": [
+      "グリッドと原色によるデ・ステイル",
+      "バロック写実",
+      "ロココの曲線",
+      "ロマン主義の風景"
+    ],
+    "answer": "De Stijl with grids and primary colors",
+    "explanation": "Mondrian is known for De Stijl grids and primary colors.",
+    "explanationJapanese": "モンドリアンはデ・ステイルのグリッドと原色で知られます。",
+    "vocabulary": [
+      {
+        "word": "De Stijl",
+        "meaning": "デ・ステイル",
+        "partOfSpeech": "general",
+        "example": "Use 'De Stijl' in context: De Stijl relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Mondrian is known for De Stijl grids and primary colors.",
+    "englishExpression": "Choose \"De Stijl with grids and primary colors\" because Mondrian is known for De Stijl grids and primary colors.; other options do not match this question.",
+    "knowledgeLevel": "General art history"
+  },
+  {
+    "category": "Art",
+    "difficulty": "Easy",
+    "question": "Which artist painted The Water Lily Pond?",
+    "questionJapanese": "「睡蓮の池」を描いたのは誰ですか？",
+    "options": [
+      "Claude Monet",
+      "Paul Cézanne",
+      "Henri Matisse",
+      "Paul Gauguin"
+    ],
+    "optionsJapanese": [
+      "クロード・モネ",
+      "ポール・セザンヌ",
+      "アンリ・マティス",
+      "ポール・ゴーギャン"
+    ],
+    "answer": "Claude Monet",
+    "explanation": "Claude Monet painted The Water Lily Pond.",
+    "explanationJapanese": "「睡蓮の池」はモネが描きました。",
+    "vocabulary": [
+      {
+        "word": "Water Lily Pond",
+        "meaning": "睡蓮の池",
+        "partOfSpeech": "general",
+        "example": "Use 'Water Lily Pond' in context: Water Lily Pond relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Claude Monet painted The Water Lily Pond.",
+    "englishExpression": "Choose \"Claude Monet\" because Claude Monet painted The Water Lily Pond.; other options do not match this question.",
+    "knowledgeLevel": "General art history"
+  },
+  {
+    "category": "Art",
+    "difficulty": "Easy",
+    "question": "Which painter is known for pop art soup cans?",
+    "questionJapanese": "スープ缶で知られるポップアートの画家は誰ですか？",
+    "options": [
+      "Andy Warhol",
+      "Roy Lichtenstein",
+      "Jean-Michel Basquiat",
+      "Keith Haring"
+    ],
+    "optionsJapanese": [
+      "アンディ・ウォーホル",
+      "ロイ・リキテンスタイン",
+      "ジャン＝ミシェル・バスキア",
+      "キース・ヘリング"
+    ],
+    "answer": "Andy Warhol",
+    "explanation": "Andy Warhol painted pop art soup cans.",
+    "explanationJapanese": "アンディ・ウォーホルはスープ缶のポップアートで知られます。",
+    "vocabulary": [
+      {
+        "word": "pop art",
+        "meaning": "ポップアート",
+        "partOfSpeech": "general",
+        "example": "Use 'pop art' in context: pop art relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Andy Warhol painted pop art soup cans.",
+    "englishExpression": "Choose \"Andy Warhol\" because Andy Warhol painted pop art soup cans.; other options do not match this question.",
+    "knowledgeLevel": "General art history"
+  },
+  {
+    "category": "Art",
+    "difficulty": "Medium",
+    "question": "Which artist created woodblock prints like The Great Wave?",
+    "questionJapanese": "「神奈川沖浪裏」のような木版画を作ったのは誰ですか？",
+    "options": [
+      "Hokusai",
+      "Hiroshige",
+      "Utamaro",
+      "Kuniyoshi"
+    ],
+    "optionsJapanese": [
+      "葛飾北斎",
+      "歌川広重",
+      "喜多川歌麿",
+      "歌川国芳"
+    ],
+    "answer": "Hokusai",
+    "explanation": "Hokusai created The Great Wave woodblock print.",
+    "explanationJapanese": "「神奈川沖浪裏」は葛飾北斎が制作しました。",
+    "vocabulary": [
+      {
+        "word": "woodblock print",
+        "meaning": "木版画",
+        "partOfSpeech": "general",
+        "example": "Use 'woodblock print' in context: woodblock print relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Hokusai created The Great Wave woodblock print.",
+    "englishExpression": "Choose \"Hokusai\" because Hokusai created The Great Wave woodblock print.; other options do not match this question.",
+    "knowledgeLevel": "General art history"
+  },
+  {
+    "category": "Art",
+    "difficulty": "Medium",
+    "question": "Which painter is associated with Cubism alongside Braque?",
+    "questionJapanese": "ブラックとともにキュビスムに関わった画家は誰ですか？",
+    "options": [
+      "Pablo Picasso",
+      "Salvador Dalí",
+      "Mark Rothko",
+      "Joan Miró"
+    ],
+    "optionsJapanese": [
+      "パブロ・ピカソ",
+      "サルバドール・ダリ",
+      "マーク・ロスコ",
+      "ジョアン・ミロ"
+    ],
+    "answer": "Pablo Picasso",
+    "explanation": "Picasso co-founded Cubism with Braque.",
+    "explanationJapanese": "ピカソはブラックとともにキュビスムを創始しました。",
+    "vocabulary": [
+      {
+        "word": "Cubism",
+        "meaning": "キュビスム",
+        "partOfSpeech": "general",
+        "example": "Use 'Cubism' in context: Cubism relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Picasso co-founded Cubism with Braque.",
+    "englishExpression": "Choose \"Pablo Picasso\" because Picasso co-founded Cubism with Braque.; other options do not match this question.",
+    "knowledgeLevel": "General art history"
+  },
+  {
+    "category": "Art",
+    "difficulty": "Medium",
+    "question": "Which sculpture style is Constantin Brâncuși known for?",
+    "questionJapanese": "コンスタンティン・ブランクーシが知られる彫刻のスタイルはどれですか？",
+    "options": [
+      "Abstract simplified forms",
+      "Baroque realism",
+      "Gothic detail",
+      "Rococo curves"
+    ],
+    "optionsJapanese": [
+      "抽象的で簡潔な形",
+      "バロック写実",
+      "ゴシックの装飾",
+      "ロココの曲線"
+    ],
+    "answer": "Abstract simplified forms",
+    "explanation": "Brâncuși is known for abstract, simplified sculpture.",
+    "explanationJapanese": "ブランクーシは抽象的で簡潔な彫刻で知られます。",
+    "vocabulary": [
+      {
+        "word": "abstract",
+        "meaning": "抽象",
+        "partOfSpeech": "general",
+        "example": "Use 'abstract' in context: abstract relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Brâncuși is known for abstract, simplified sculpture.",
+    "englishExpression": "Choose \"Abstract simplified forms\" because Brâncuși is known for abstract, simplified sculpture.; other options do not match this question.",
+    "knowledgeLevel": "General art history"
+  },
+  {
+    "category": "Art",
+    "difficulty": "Medium",
+    "question": "Which museum houses The Starry Night?",
+    "questionJapanese": "「星月夜」を所蔵する美術館はどこですか？",
+    "options": [
+      "MoMA",
+      "Louvre",
+      "Uffizi",
+      "Prado"
+    ],
+    "optionsJapanese": [
+      "MoMA",
+      "ルーヴル",
+      "ウフィツィ",
+      "プラド"
+    ],
+    "answer": "MoMA",
+    "explanation": "The Starry Night is at MoMA in New York.",
+    "explanationJapanese": "「星月夜」はニューヨークのMoMAにあります。",
+    "vocabulary": [
+      {
+        "word": "MoMA",
+        "meaning": "MoMA",
+        "partOfSpeech": "general",
+        "example": "Use 'MoMA' in context: MoMA relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: The Starry Night is at MoMA in New York.",
+    "englishExpression": "Choose \"MoMA\" because The Starry Night is at MoMA in New York.; other options do not match this question.",
+    "knowledgeLevel": "General art history"
+  },
+  {
+    "category": "Art",
+    "difficulty": "Hard",
+    "question": "Which movement features abstract color fields like Rothko?",
+    "questionJapanese": "ロスコのような抽象的なカラーフィールドを特徴とする運動はどれですか？",
+    "options": [
+      "Abstract Expressionism",
+      "Impressionism",
+      "Futurism",
+      "Symbolism"
+    ],
+    "optionsJapanese": [
+      "抽象表現主義",
+      "印象派",
+      "未来派",
+      "象徴主義"
+    ],
+    "answer": "Abstract Expressionism",
+    "explanation": "Color field painting is part of Abstract Expressionism.",
+    "explanationJapanese": "カラーフィールドは抽象表現主義の一部です。",
+    "vocabulary": [
+      {
+        "word": "color field",
+        "meaning": "カラーフィールド",
+        "partOfSpeech": "general",
+        "example": "Use 'color field' in context: color field relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Color field painting is part of Abstract Expressionism.",
+    "englishExpression": "Choose \"Abstract Expressionism\" because Color field painting is part of Abstract Expressionism.; other options do not match this question.",
+    "knowledgeLevel": "General art history"
+  },
+  {
+    "category": "Art",
+    "difficulty": "Hard",
+    "question": "Which architect designed the Guggenheim Museum in New York?",
+    "questionJapanese": "ニューヨークのグッゲンハイム美術館を設計した建築家は誰ですか？",
+    "options": [
+      "Frank Lloyd Wright",
+      "Zaha Hadid",
+      "Tadao Ando",
+      "Le Corbusier"
+    ],
+    "optionsJapanese": [
+      "フランク・ロイド・ライト",
+      "ザハ・ハディド",
+      "安藤忠雄",
+      "ル・コルビュジエ"
+    ],
+    "answer": "Frank Lloyd Wright",
+    "explanation": "Frank Lloyd Wright designed the Guggenheim in New York.",
+    "explanationJapanese": "ニューヨークのグッゲンハイム美術館はフランク・ロイド・ライトが設計しました。",
+    "vocabulary": [
+      {
+        "word": "Guggenheim Museum",
+        "meaning": "グッゲンハイム美術館",
+        "partOfSpeech": "general",
+        "example": "Use 'Guggenheim Museum' in context: Guggenheim Museum relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Frank Lloyd Wright designed the Guggenheim in New York.",
+    "englishExpression": "Choose \"Frank Lloyd Wright\" because Frank Lloyd Wright designed the Guggenheim in New York.; other options do not match this question.",
+    "knowledgeLevel": "General art history"
+  },
+  {
+    "category": "Art",
+    "difficulty": "Hard",
+    "question": "Which art style uses drip technique pioneered by Pollock?",
+    "questionJapanese": "ポロックが開拓したドリップ技法を用いる美術スタイルはどれですか？",
+    "options": [
+      "Action painting",
+      "Renaissance",
+      "Rococo",
+      "Photorealism"
+    ],
+    "optionsJapanese": [
+      "アクション・ペインティング",
+      "ルネサンス",
+      "ロココ",
+      "フォトリアリズム"
+    ],
+    "answer": "Action painting",
+    "explanation": "Pollock’s drip technique is part of action painting.",
+    "explanationJapanese": "ポロックのドリップ技法はアクション・ペインティングの一部です。",
+    "vocabulary": [
+      {
+        "word": "action painting",
+        "meaning": "アクション・ペインティング",
+        "partOfSpeech": "general",
+        "example": "Use 'action painting' in context: action painting relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Pollock’s drip technique is part of action painting.",
+    "englishExpression": "Choose \"Action painting\" because Pollock’s drip technique is part of action painting.; other options do not match this question.",
+    "knowledgeLevel": "General art history"
+  },
+  {
+    "category": "Art",
+    "difficulty": "Easy",
+    "question": "Which artist painted Sunflowers?",
+    "questionJapanese": "「ひまわり」を描いた画家は誰ですか？",
+    "options": [
+      "Vincent van Gogh",
+      "Monet",
+      "Renoir",
+      "Degas"
+    ],
+    "optionsJapanese": [
+      "ファン・ゴッホ",
+      "モネ",
+      "ルノワール",
+      "ドガ"
+    ],
+    "answer": "Vincent van Gogh",
+    "explanation": "Van Gogh painted Sunflowers.",
+    "explanationJapanese": "ファン・ゴッホが「ひまわり」を描きました。",
+    "vocabulary": [
+      {
+        "word": "Sunflowers",
+        "meaning": "ひまわり",
+        "partOfSpeech": "general",
+        "example": "Use 'Sunflowers' in context: Sunflowers relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Van Gogh painted Sunflowers.",
+    "englishExpression": "Choose \"Vincent van Gogh\" because Van Gogh painted Sunflowers.; other options do not match this question.",
+    "knowledgeLevel": "General art history"
+  },
+  {
+    "category": "Art",
+    "difficulty": "Medium",
+    "question": "Which architect designed Saint Paul’s Cathedral?",
+    "questionJapanese": "セント・ポール大聖堂を設計した建築家は誰ですか？",
+    "options": [
+      "Christopher Wren",
+      "Gaudí",
+      "Calatrava",
+      "Tadao Ando"
+    ],
+    "optionsJapanese": [
+      "クリストファー・レン",
+      "ガウディ",
+      "カラトラバ",
+      "安藤忠雄"
+    ],
+    "answer": "Christopher Wren",
+    "explanation": "Sir Christopher Wren designed it.",
+    "explanationJapanese": "クリストファー・レンが設計しました。",
+    "vocabulary": [
+      {
+        "word": "cathedral",
+        "meaning": "大聖堂",
+        "partOfSpeech": "general",
+        "example": "Use 'cathedral' in context: cathedral relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Sir Christopher Wren designed it.",
+    "englishExpression": "Choose \"Christopher Wren\" because Sir Christopher Wren designed it.; other options do not match this question.",
+    "knowledgeLevel": "General art history"
+  },
+  {
+    "category": "Art",
+    "difficulty": "Medium",
+    "question": "Which painter is linked to pointillism?",
+    "questionJapanese": "点描と関わる画家は誰ですか？",
+    "options": [
+      "Georges Seurat",
+      "Michelangelo",
+      "Raphael",
+      "Titian"
+    ],
+    "optionsJapanese": [
+      "ジョルジュ・スーラ",
+      "ミケランジェロ",
+      "ラファエロ",
+      "ティツィアーノ"
+    ],
+    "answer": "Georges Seurat",
+    "explanation": "Seurat is linked to pointillism.",
+    "explanationJapanese": "スーラは点描と関わります。",
+    "vocabulary": [
+      {
+        "word": "pointillism",
+        "meaning": "点描",
+        "partOfSpeech": "general",
+        "example": "Use 'pointillism' in context: pointillism relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Seurat is linked to pointillism.",
+    "englishExpression": "Choose \"Georges Seurat\" because Seurat is linked to pointillism.; other options do not match this question.",
+    "knowledgeLevel": "General art history"
+  },
+  {
+    "category": "Art",
+    "difficulty": "Medium",
+    "question": "Which painter is known for American Gothic?",
+    "questionJapanese": "「アメリカン・ゴシック」を描いたのは誰ですか？",
+    "options": [
+      "Grant Wood",
+      "Edward Hopper",
+      "Norman Rockwell",
+      "Georgia O’Keeffe"
+    ],
+    "optionsJapanese": [
+      "グラント・ウッド",
+      "エドワード・ホッパー",
+      "ノーマン・ロックウェル",
+      "ジョージア・オキーフ"
+    ],
+    "answer": "Grant Wood",
+    "explanation": "Grant Wood painted American Gothic.",
+    "explanationJapanese": "グラント・ウッドが「アメリカン・ゴシック」を描きました。",
+    "vocabulary": [
+      {
+        "word": "American Gothic",
+        "meaning": "アメリカン・ゴシック",
+        "partOfSpeech": "general",
+        "example": "Use 'American Gothic' in context: American Gothic relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Grant Wood painted American Gothic.",
+    "englishExpression": "Choose \"Grant Wood\" because Grant Wood painted American Gothic.; other options do not match this question.",
+    "knowledgeLevel": "General art history"
+  },
+  {
+    "category": "Art",
+    "difficulty": "Hard",
+    "question": "Which style features bold colors like Fauvism?",
+    "questionJapanese": "フォーヴィスムのように鮮やかな色彩のスタイルはどれですか？",
+    "options": [
+      "Fauvism",
+      "Baroque",
+      "Rococo",
+      "Realism"
+    ],
+    "optionsJapanese": [
+      "フォーヴィスム",
+      "バロック",
+      "ロココ",
+      "写実主義"
+    ],
+    "answer": "Fauvism",
+    "explanation": "Fauvism uses bold colors.",
+    "explanationJapanese": "フォーヴィスムは鮮やかな色彩で知られます。",
+    "vocabulary": [
+      {
+        "word": "Fauvism",
+        "meaning": "フォーヴィスム",
+        "partOfSpeech": "general",
+        "example": "Use 'Fauvism' in context: Fauvism relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Fauvism uses bold colors.",
+    "englishExpression": "Choose \"Fauvism\" because Fauvism uses bold colors.; other options do not match this question.",
+    "knowledgeLevel": "General art history"
+  },
+  {
+    "category": "Art",
+    "difficulty": "Hard",
+    "question": "Which painter is linked to De Stijl grids?",
+    "questionJapanese": "デ・ステイルのグリッドで知られる画家は誰ですか？",
+    "options": [
+      "Piet Mondrian",
+      "Rembrandt",
+      "Velázquez",
+      "Manet"
+    ],
+    "optionsJapanese": [
+      "ピエト・モンドリアン",
+      "レンブラント",
+      "ベラスケス",
+      "マネ"
+    ],
+    "answer": "Piet Mondrian",
+    "explanation": "Mondrian is linked to De Stijl grids.",
+    "explanationJapanese": "モンドリアンはデ・ステイルのグリッドで知られます。",
+    "vocabulary": [
+      {
+        "word": "De Stijl",
+        "meaning": "デ・ステイル",
+        "partOfSpeech": "general",
+        "example": "Use 'De Stijl' in context: De Stijl relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Mondrian is linked to De Stijl grids.",
+    "englishExpression": "Choose \"Piet Mondrian\" because Mondrian is linked to De Stijl grids.; other options do not match this question.",
+    "knowledgeLevel": "General art history"
+  },
+  {
+    "category": "Art",
+    "difficulty": "Hard",
+    "question": "Which museum houses the Mona Lisa?",
+    "questionJapanese": "モナリザを所蔵する美術館はどこですか？",
+    "options": [
+      "Louvre",
+      "Prado",
+      "Uffizi",
+      "MoMA"
+    ],
+    "optionsJapanese": [
+      "ルーヴル",
+      "プラド",
+      "ウフィツィ",
+      "MoMA"
+    ],
+    "answer": "Louvre",
+    "explanation": "Mona Lisa is at the Louvre.",
+    "explanationJapanese": "モナリザはルーヴルにあります。",
+    "vocabulary": [
+      {
+        "word": "Mona Lisa",
+        "meaning": "モナリザ",
+        "partOfSpeech": "general",
+        "example": "Use 'Mona Lisa' in context: Mona Lisa relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Mona Lisa is at the Louvre.",
+    "englishExpression": "Choose \"Louvre\" because Mona Lisa is at the Louvre.; other options do not match this question.",
+    "knowledgeLevel": "General art history"
+  },
+  {
+    "category": "Art",
+    "difficulty": "Hard",
+    "question": "Which Russian movement featured Kazimir Malevich’s Black Square?",
+    "questionJapanese": "マレーヴィチの「黒の正方形」に代表されるロシアの運動はどれですか？",
+    "options": [
+      "Suprematism",
+      "Constructivism",
+      "Socialist realism",
+      "Neoclassicism"
+    ],
+    "optionsJapanese": [
+      "シュプレマティスム",
+      "構成主義",
+      "社会主義リアリズム",
+      "新古典主義"
+    ],
+    "answer": "Suprematism",
+    "explanation": "Suprematism featured works like Black Square.",
+    "explanationJapanese": "シュプレマティスムは「黒の正方形」に代表されます。",
+    "vocabulary": [
+      {
+        "word": "Suprematism",
+        "meaning": "シュプレマティスム",
+        "partOfSpeech": "general",
+        "example": "Use 'Suprematism' in context: Suprematism relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Suprematism featured works like Black Square.",
+    "englishExpression": "Choose \"Suprematism\" because Suprematism featured works like Black Square.; other options do not match this question.",
+    "knowledgeLevel": "General art history"
+  },
+  {
+    "category": "Art",
+    "difficulty": "Medium",
+    "question": "Which art style emphasizes everyday urban scenes like Edward Hopper’s works?",
+    "questionJapanese": "エドワード・ホッパーのように日常の都市風景を強調する画風はどれですか？",
+    "options": [
+      "American realism",
+      "Cubism",
+      "Baroque",
+      "Impressionism"
+    ],
+    "optionsJapanese": [
+      "アメリカ写実主義",
+      "キュビスム",
+      "バロック",
+      "印象派"
+    ],
+    "answer": "American realism",
+    "explanation": "Hopper’s works exemplify American realism.",
+    "explanationJapanese": "ホッパーはアメリカ写実主義の代表です。",
+    "vocabulary": [
+      {
+        "word": "realism",
+        "meaning": "写実主義",
+        "partOfSpeech": "general",
+        "example": "Use 'realism' in context: realism relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Hopper’s works exemplify American realism.",
+    "englishExpression": "Choose \"American realism\" because Hopper’s works exemplify American realism.; other options do not match this question.",
+    "knowledgeLevel": "General art history"
+  }
+]

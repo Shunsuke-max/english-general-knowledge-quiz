@@ -1,0 +1,2276 @@
+[
+  {
+    "question": "What main advantage do rain gardens, bioswales, and permeable pavement provide after repeated flash floods?",
+    "questionJapanese": "繰り返す急な洪水を受けて、レインガーデンやバイオスウェール、透水性舗装を導入する最大のメリットは何ですか？",
+    "options": [
+      "They quickly evaporate stormwater into the atmosphere",
+      "They reduce surface runoff so rain infiltrates the soil slowly",
+      "They store water in large tanks for later drinking",
+      "They warm the street surface to prevent ice"
+    ],
+    "answer": "They reduce surface runoff so rain infiltrates the soil slowly",
+    "explanation": "These green infrastructure elements slow down rainfall and let it seep into the ground so streets do not flood.",
+    "explanationJapanese": "これらのグリーンインフラは降雨を捉えて地面に浸透させることで道路の浸水を防ぎます。",
+    "vocabulary": [
+      {
+        "word": "runoff",
+        "meaning": "雨水が地表を流れ出すこと",
+        "partOfSpeech": "general",
+        "example": "Use 'runoff' in context: runoff relates to this topic."
+      },
+      {
+        "word": "permeable",
+        "meaning": "水を通すことができる",
+        "partOfSpeech": "general",
+        "example": "Use 'permeable' in context: permeable relates to this topic."
+      },
+      {
+        "word": "bioswale",
+        "meaning": "植物を使って雨水を集める低い溝",
+        "partOfSpeech": "general",
+        "example": "Use 'bioswale' in context: bioswale relates to this topic."
+      },
+      {
+        "word": "stormwater",
+        "meaning": "嵐や大雨の雨水",
+        "partOfSpeech": "general",
+        "example": "Use 'stormwater' in context: stormwater relates to this topic."
+      }
+    ],
+    "category": "Environment",
+    "difficulty": "Hard",
+    "knowledgeInsight": "Key takeaway: These green infrastructure elements slow down rainfall and let it seep into the ground so streets do not flood.",
+    "englishExpression": "Choose \"They reduce surface runoff so rain infiltrates the soil slowly\" because These green infrastructure elements slow down rainfall and let it seep into the ground so streets do not flood.; other options do not match this question.",
+    "knowledgeLevel": "Environmental literacy",
+    "optionsJapanese": [
+      "They quickly evaporate stormwater into the atmosphere",
+      "They reduce surface runoff so rain infiltrates the soil slowly",
+      "They store water in large tanks for later drinking",
+      "They warm the street surface to prevent ice"
+    ]
+  },
+  {
+    "question": "Which gas is the main driver of current human-caused climate change?",
+    "questionJapanese": "現在の人為的な気候変動の主な要因となる気体はどれですか？",
+    "options": [
+      "Carbon dioxide",
+      "Oxygen",
+      "Nitrogen",
+      "Helium"
+    ],
+    "answer": "Carbon dioxide",
+    "explanation": "Carbon dioxide is the primary greenhouse gas driving current human-caused climate change.",
+    "explanationJapanese": "二酸化炭素は、現在の人為的気候変動を主に引き起こす温室効果ガスです。",
+    "vocabulary": [
+      {
+        "word": "greenhouse gas",
+        "meaning": "温室効果ガス",
+        "partOfSpeech": "general",
+        "example": "Use 'greenhouse gas' in context: greenhouse gas relates to this topic."
+      },
+      {
+        "word": "carbon dioxide",
+        "meaning": "二酸化炭素",
+        "partOfSpeech": "general",
+        "example": "Use 'carbon dioxide' in context: carbon dioxide relates to this topic."
+      }
+    ],
+    "category": "Environment",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: Carbon dioxide is the primary greenhouse gas driving current human-caused climate change.",
+    "englishExpression": "Choose \"Carbon dioxide\" because Carbon dioxide is the primary greenhouse gas driving current human-caused climate change.; other options do not match this question.",
+    "knowledgeLevel": "Environmental literacy",
+    "optionsJapanese": [
+      "二酸化炭素",
+      "酸素",
+      "窒素",
+      "ヘリウム"
+    ]
+  },
+  {
+    "question": "What international agreement was adopted in 2015 to limit global warming?",
+    "questionJapanese": "地球温暖化を抑えるため2015年に採択された国際協定は何ですか？",
+    "options": [
+      "Paris Agreement",
+      "Kyoto Protocol",
+      "Montreal Protocol",
+      "Doha Amendment"
+    ],
+    "answer": "Paris Agreement",
+    "explanation": "The Paris Agreement of 2015 sets targets to limit global temperature rise.",
+    "explanationJapanese": "2015年のパリ協定は地球温暖化を抑えるための目標を定めています。",
+    "vocabulary": [
+      {
+        "word": "Paris Agreement",
+        "meaning": "パリ協定",
+        "partOfSpeech": "general",
+        "example": "Use 'Paris Agreement' in context: Paris Agreement relates to this topic."
+      },
+      {
+        "word": "global warming",
+        "meaning": "地球温暖化",
+        "partOfSpeech": "general",
+        "example": "Use 'global warming' in context: global warming relates to this topic."
+      }
+    ],
+    "category": "Environment",
+    "difficulty": "Hard",
+    "knowledgeInsight": "Key takeaway: The Paris Agreement of 2015 sets targets to limit global temperature rise.",
+    "englishExpression": "Choose \"Paris Agreement\" because The Paris Agreement of 2015 sets targets to limit global temperature rise.; other options do not match this question.",
+    "knowledgeLevel": "Environmental literacy",
+    "optionsJapanese": [
+      "Paris Agreement",
+      "Kyoto Protocol",
+      "Montreal Protocol",
+      "Doha Amendment"
+    ]
+  },
+  {
+    "question": "What layer of the atmosphere absorbs most UV radiation?",
+    "questionJapanese": "大気の中で多くの紫外線を吸収する層はどれですか？",
+    "options": [
+      "Ozone layer",
+      "Troposphere",
+      "Ionosphere",
+      "Mesosphere"
+    ],
+    "answer": "Ozone layer",
+    "explanation": "The ozone layer absorbs much of the Sun's harmful UV radiation.",
+    "explanationJapanese": "オゾン層が太陽の有害な紫外線を多く吸収します。",
+    "vocabulary": [
+      {
+        "word": "ozone layer",
+        "meaning": "オゾン層",
+        "partOfSpeech": "general",
+        "example": "Use 'ozone layer' in context: ozone layer relates to this topic."
+      },
+      {
+        "word": "UV radiation",
+        "meaning": "紫外線",
+        "partOfSpeech": "general",
+        "example": "Use 'UV radiation' in context: UV radiation relates to this topic."
+      }
+    ],
+    "category": "Environment",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: The ozone layer absorbs much of the Sun's harmful UV radiation.",
+    "englishExpression": "Choose \"Ozone layer\" because The ozone layer absorbs much of the Sun's harmful UV radiation.; other options do not match this question.",
+    "knowledgeLevel": "Environmental literacy",
+    "optionsJapanese": [
+      "Ozone layer",
+      "Troposphere",
+      "Ionosphere",
+      "Mesosphere"
+    ]
+  },
+  {
+    "question": "Which renewable source comes from Earth's internal heat?",
+    "questionJapanese": "地球内部の熱を利用する再生可能エネルギーはどれですか？",
+    "options": [
+      "Geothermal energy",
+      "Hydropower",
+      "Solar energy",
+      "Wind energy"
+    ],
+    "answer": "Geothermal energy",
+    "explanation": "Geothermal energy harnesses heat from beneath Earth's surface.",
+    "explanationJapanese": "地熱エネルギーは地中の熱を利用します。",
+    "vocabulary": [
+      {
+        "word": "geothermal",
+        "meaning": "地熱",
+        "partOfSpeech": "general",
+        "example": "Use 'geothermal' in context: geothermal relates to this topic."
+      },
+      {
+        "word": "renewable",
+        "meaning": "再生可能",
+        "partOfSpeech": "general",
+        "example": "Use 'renewable' in context: renewable relates to this topic."
+      }
+    ],
+    "category": "Environment",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: Geothermal energy harnesses heat from beneath Earth's surface.",
+    "englishExpression": "Choose \"Geothermal energy\" because Geothermal energy harnesses heat from beneath Earth's surface.; other options do not match this question.",
+    "knowledgeLevel": "Environmental literacy",
+    "optionsJapanese": [
+      "Geothermal energy",
+      "Hydropower",
+      "Solar energy",
+      "Wind energy"
+    ]
+  },
+  {
+    "question": "What does biodiversity describe?",
+    "questionJapanese": "生物多様性が表すものは何ですか？",
+    "options": [
+      "Variety of life in an ecosystem",
+      "Amount of carbon in the air",
+      "Speed of species migration",
+      "Age of a forest"
+    ],
+    "answer": "Variety of life in an ecosystem",
+    "explanation": "Biodiversity describes the variety of life in an ecosystem.",
+    "explanationJapanese": "生物多様性は生態系における生命の多様さを表します。",
+    "vocabulary": [
+      {
+        "word": "biodiversity",
+        "meaning": "生物多様性",
+        "partOfSpeech": "general",
+        "example": "Use 'biodiversity' in context: biodiversity relates to this topic."
+      },
+      {
+        "word": "ecosystem",
+        "meaning": "生態系",
+        "partOfSpeech": "general",
+        "example": "Use 'ecosystem' in context: ecosystem relates to this topic."
+      }
+    ],
+    "category": "Environment",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: Biodiversity describes the variety of life in an ecosystem.",
+    "englishExpression": "Choose \"Variety of life in an ecosystem\" because Biodiversity describes the variety of life in an ecosystem.; other options do not match this question.",
+    "knowledgeLevel": "Environmental literacy",
+    "optionsJapanese": [
+      "Variety of life in an ecosystem",
+      "Amount of carbon in the air",
+      "Speed of species migration",
+      "Age of a forest"
+    ]
+  },
+  {
+    "question": "Which gas is a potent greenhouse gas from livestock and rice paddies?",
+    "questionJapanese": "家畜や水田から出る強力な温室効果ガスはどれですか？",
+    "options": [
+      "Methane",
+      "Oxygen",
+      "Nitrogen",
+      "Helium"
+    ],
+    "answer": "Methane",
+    "explanation": "Methane from livestock digestion and rice paddies is a strong greenhouse gas.",
+    "explanationJapanese": "家畜の消化や水田から出るメタンは強力な温室効果ガスです。",
+    "vocabulary": [
+      {
+        "word": "methane",
+        "meaning": "メタン",
+        "partOfSpeech": "general",
+        "example": "Use 'methane' in context: methane relates to this topic."
+      },
+      {
+        "word": "greenhouse gas",
+        "meaning": "温室効果ガス",
+        "partOfSpeech": "general",
+        "example": "Use 'greenhouse gas' in context: greenhouse gas relates to this topic."
+      }
+    ],
+    "category": "Environment",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: Methane from livestock digestion and rice paddies is a strong greenhouse gas.",
+    "englishExpression": "Choose \"Methane\" because Methane from livestock digestion and rice paddies is a strong greenhouse gas.; other options do not match this question.",
+    "knowledgeLevel": "Environmental literacy",
+    "optionsJapanese": [
+      "メタン",
+      "酸素",
+      "窒素",
+      "ヘリウム"
+    ]
+  },
+  {
+    "question": "What practice of planting trees to restore forests is called?",
+    "questionJapanese": "森林を回復させるために木を植える行為を何と呼びますか？",
+    "options": [
+      "Reforestation",
+      "Deforestation",
+      "Monoculture",
+      "Urbanization"
+    ],
+    "answer": "Reforestation",
+    "explanation": "Reforestation is planting trees to restore forest cover.",
+    "explanationJapanese": "リフォレスタレーションは森林を回復させるための植林です。",
+    "vocabulary": [
+      {
+        "word": "reforestation",
+        "meaning": "植林",
+        "partOfSpeech": "general",
+        "example": "Use 'reforestation' in context: reforestation relates to this topic."
+      },
+      {
+        "word": "forest",
+        "meaning": "森林",
+        "partOfSpeech": "general",
+        "example": "Use 'forest' in context: forest relates to this topic."
+      }
+    ],
+    "category": "Environment",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: Reforestation is planting trees to restore forest cover.",
+    "englishExpression": "Choose \"Reforestation\" because Reforestation is planting trees to restore forest cover.; other options do not match this question.",
+    "knowledgeLevel": "Environmental literacy",
+    "optionsJapanese": [
+      "Reforestation",
+      "Deforestation",
+      "Monoculture",
+      "Urbanization"
+    ]
+  },
+  {
+    "question": "Which energy source produces no direct greenhouse gas emissions during use?",
+    "questionJapanese": "使用時に直接温室効果ガスを出さないエネルギー源はどれですか？",
+    "options": [
+      "Solar power",
+      "Coal",
+      "Diesel",
+      "Natural gas"
+    ],
+    "answer": "Solar power",
+    "explanation": "Solar power generates electricity without direct greenhouse gas emissions.",
+    "explanationJapanese": "太陽光発電は使用時に温室効果ガスを直接排出しません。",
+    "vocabulary": [
+      {
+        "word": "solar power",
+        "meaning": "太陽光発電",
+        "partOfSpeech": "general",
+        "example": "Use 'solar power' in context: solar power relates to this topic."
+      },
+      {
+        "word": "emission",
+        "meaning": "排出",
+        "partOfSpeech": "general",
+        "example": "Use 'emission' in context: emission relates to this topic."
+      }
+    ],
+    "category": "Environment",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: Solar power generates electricity without direct greenhouse gas emissions.",
+    "englishExpression": "Choose \"Solar power\" because Solar power generates electricity without direct greenhouse gas emissions.; other options do not match this question.",
+    "knowledgeLevel": "Environmental literacy",
+    "optionsJapanese": [
+      "Solar power",
+      "Coal",
+      "Diesel",
+      "Natural gas"
+    ]
+  },
+  {
+    "question": "What is the main cause of ocean acidification?",
+    "questionJapanese": "海洋酸性化の主な原因は何ですか？",
+    "options": [
+      "Absorption of excess CO2 from the atmosphere",
+      "Increase in ocean temperature alone",
+      "Plastic pollution",
+      "Lack of oxygen"
+    ],
+    "answer": "Absorption of excess CO2 from the atmosphere",
+    "explanation": "Oceans absorb excess atmospheric CO2, forming carbonic acid and lowering pH.",
+    "explanationJapanese": "海が大気中の余分なCO2を吸収し、炭酸を生じてpHが下がることが原因です。",
+    "vocabulary": [
+      {
+        "word": "acidification",
+        "meaning": "酸性化",
+        "partOfSpeech": "general",
+        "example": "Use 'acidification' in context: acidification relates to this topic."
+      },
+      {
+        "word": "carbon dioxide",
+        "meaning": "二酸化炭素",
+        "partOfSpeech": "general",
+        "example": "Use 'carbon dioxide' in context: carbon dioxide relates to this topic."
+      }
+    ],
+    "category": "Environment",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: Oceans absorb excess atmospheric CO2, forming carbonic acid and lowering pH.",
+    "englishExpression": "Choose \"Absorption of excess CO2 from the atmosphere\" because Oceans absorb excess atmospheric CO2, forming carbonic acid and lowering pH.; other options do not match this question.",
+    "knowledgeLevel": "Environmental literacy",
+    "optionsJapanese": [
+      "Absorption of excess CO2 from the atmosphere",
+      "Increase in ocean temperature alone",
+      "Plastic pollution",
+      "Lack of oxygen"
+    ]
+  },
+  {
+    "question": "What does the 3Rs stand for in waste management?",
+    "questionJapanese": "廃棄物管理の3Rとは何の略ですか？",
+    "options": [
+      "Reduce, Reuse, Recycle",
+      "Remove, Replace, Return",
+      "Report, Repair, Respond",
+      "Refine, Redistribute, Recover"
+    ],
+    "answer": "Reduce, Reuse, Recycle",
+    "explanation": "The 3Rs stand for Reduce, Reuse, and Recycle.",
+    "explanationJapanese": "3Rはリデュース・リユース・リサイクルを指します。",
+    "vocabulary": [
+      {
+        "word": "recycle",
+        "meaning": "リサイクル",
+        "partOfSpeech": "general",
+        "example": "Use 'recycle' in context: recycle relates to this topic."
+      },
+      {
+        "word": "waste",
+        "meaning": "廃棄物",
+        "partOfSpeech": "general",
+        "example": "Use 'waste' in context: waste relates to this topic."
+      }
+    ],
+    "category": "Environment",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: The 3Rs stand for Reduce, Reuse, and Recycle.",
+    "englishExpression": "Choose \"Reduce, Reuse, Recycle\" because The 3Rs stand for Reduce, Reuse, and Recycle.; other options do not match this question.",
+    "knowledgeLevel": "Environmental literacy",
+    "optionsJapanese": [
+      "Reduce, Reuse, Recycle",
+      "Remove, Replace, Return",
+      "Report, Repair, Respond",
+      "Refine, Redistribute, Recover"
+    ]
+  },
+  {
+    "question": "Which protocol phased out many ozone-depleting substances?",
+    "questionJapanese": "オゾン層破壊物質を段階的に廃止した議定書はどれですか？",
+    "options": [
+      "Montreal Protocol",
+      "Paris Agreement",
+      "Basel Convention",
+      "Kyoto Protocol"
+    ],
+    "answer": "Montreal Protocol",
+    "explanation": "The Montreal Protocol targeted ozone-depleting substances like CFCs.",
+    "explanationJapanese": "モントリオール議定書はフロン類などのオゾン層破壊物質を規制しました。",
+    "vocabulary": [
+      {
+        "word": "Montreal Protocol",
+        "meaning": "モントリオール議定書",
+        "partOfSpeech": "general",
+        "example": "Use 'Montreal Protocol' in context: Montreal Protocol relates to this topic."
+      },
+      {
+        "word": "ozone",
+        "meaning": "オゾン",
+        "partOfSpeech": "general",
+        "example": "Use 'ozone' in context: ozone relates to this topic."
+      }
+    ],
+    "category": "Environment",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: The Montreal Protocol targeted ozone-depleting substances like CFCs.",
+    "englishExpression": "Choose \"Montreal Protocol\" because The Montreal Protocol targeted ozone-depleting substances like CFCs.; other options do not match this question.",
+    "knowledgeLevel": "Environmental literacy",
+    "optionsJapanese": [
+      "Montreal Protocol",
+      "Paris Agreement",
+      "Basel Convention",
+      "Kyoto Protocol"
+    ]
+  },
+  {
+    "question": "Which renewable energy uses moving water to generate power?",
+    "questionJapanese": "流れる水を利用する再生可能エネルギーはどれですか？",
+    "options": [
+      "Hydropower",
+      "Coal power",
+      "Oil power",
+      "Geothermal"
+    ],
+    "answer": "Hydropower",
+    "explanation": "Hydropower generates electricity from moving water.",
+    "explanationJapanese": "水力発電は流れる水から電力を生みます。",
+    "vocabulary": [
+      {
+        "word": "hydropower",
+        "meaning": "水力発電",
+        "partOfSpeech": "general",
+        "example": "Use 'hydropower' in context: hydropower relates to this topic."
+      },
+      {
+        "word": "renewable",
+        "meaning": "再生可能",
+        "partOfSpeech": "general",
+        "example": "Use 'renewable' in context: renewable relates to this topic."
+      }
+    ],
+    "category": "Environment",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: Hydropower generates electricity from moving water.",
+    "englishExpression": "Choose \"Hydropower\" because Hydropower generates electricity from moving water.; other options do not match this question.",
+    "knowledgeLevel": "Environmental literacy",
+    "optionsJapanese": [
+      "Hydropower",
+      "Coal power",
+      "Oil power",
+      "Geothermal"
+    ]
+  },
+  {
+    "question": "What is an environmental impact of deforestation in the Amazon?",
+    "questionJapanese": "アマゾンの森林伐採による環境影響は何ですか？",
+    "options": [
+      "Loss of biodiversity and increased CO2",
+      "Formation of more glaciers",
+      "Higher ocean salinity",
+      "More volcanic eruptions"
+    ],
+    "answer": "Loss of biodiversity and increased CO2",
+    "explanation": "Deforestation in the Amazon reduces biodiversity and increases CO2 emissions.",
+    "explanationJapanese": "アマゾンの森林伐採は生物多様性を失わせ、CO2排出を増やします。",
+    "vocabulary": [
+      {
+        "word": "deforestation",
+        "meaning": "森林伐採",
+        "partOfSpeech": "general",
+        "example": "Use 'deforestation' in context: deforestation relates to this topic."
+      },
+      {
+        "word": "biodiversity",
+        "meaning": "生物多様性",
+        "partOfSpeech": "general",
+        "example": "Use 'biodiversity' in context: biodiversity relates to this topic."
+      }
+    ],
+    "category": "Environment",
+    "difficulty": "Hard",
+    "knowledgeInsight": "Key takeaway: Deforestation in the Amazon reduces biodiversity and increases CO2 emissions.",
+    "englishExpression": "Choose \"Loss of biodiversity and increased CO2\" because Deforestation in the Amazon reduces biodiversity and increases CO2 emissions.; other options do not match this question.",
+    "knowledgeLevel": "Environmental literacy",
+    "optionsJapanese": [
+      "Loss of biodiversity and increased CO2",
+      "Formation of more glaciers",
+      "Higher ocean salinity",
+      "More volcanic eruptions"
+    ]
+  },
+  {
+    "question": "Which practice rotates crops to maintain soil health?",
+    "questionJapanese": "土壌を健全に保つために作物を輪作する手法はどれですか？",
+    "options": [
+      "Crop rotation",
+      "Overgrazing",
+      "Clear-cutting",
+      "Monoculture"
+    ],
+    "answer": "Crop rotation",
+    "explanation": "Crop rotation changes planted crops each season to keep soil nutrients balanced.",
+    "explanationJapanese": "輪作は季節ごとに作物を変え、土壌の栄養バランスを保ちます。",
+    "vocabulary": [
+      {
+        "word": "crop rotation",
+        "meaning": "輪作",
+        "partOfSpeech": "general",
+        "example": "Use 'crop rotation' in context: crop rotation relates to this topic."
+      },
+      {
+        "word": "soil",
+        "meaning": "土壌",
+        "partOfSpeech": "general",
+        "example": "Use 'soil' in context: soil relates to this topic."
+      }
+    ],
+    "category": "Environment",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: Crop rotation changes planted crops each season to keep soil nutrients balanced.",
+    "englishExpression": "Choose \"Crop rotation\" because Crop rotation changes planted crops each season to keep soil nutrients balanced.; other options do not match this question.",
+    "knowledgeLevel": "Environmental literacy",
+    "optionsJapanese": [
+      "Crop rotation",
+      "Overgrazing",
+      "Clear-cutting",
+      "Monoculture"
+    ]
+  },
+  {
+    "question": "What gas do catalytic converters in cars primarily reduce?",
+    "questionJapanese": "自動車の触媒コンバーターが主に減らす有害ガスは何ですか？",
+    "options": [
+      "Carbon monoxide",
+      "Nitrogen",
+      "Helium",
+      "Oxygen"
+    ],
+    "answer": "Carbon monoxide",
+    "explanation": "Catalytic converters reduce carbon monoxide from exhaust.",
+    "explanationJapanese": "触媒コンバーターは排気中の一酸化炭素を減らします。",
+    "vocabulary": [
+      {
+        "word": "catalytic converter",
+        "meaning": "触媒コンバーター",
+        "partOfSpeech": "general",
+        "example": "Use 'catalytic converter' in context: catalytic converter relates to this topic."
+      },
+      {
+        "word": "carbon monoxide",
+        "meaning": "一酸化炭素",
+        "partOfSpeech": "general",
+        "example": "Use 'carbon monoxide' in context: carbon monoxide relates to this topic."
+      }
+    ],
+    "category": "Environment",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: Catalytic converters reduce carbon monoxide from exhaust.",
+    "englishExpression": "Choose \"Carbon monoxide\" because Catalytic converters reduce carbon monoxide from exhaust.; other options do not match this question.",
+    "knowledgeLevel": "Environmental literacy",
+    "optionsJapanese": [
+      "Carbon monoxide",
+      "窒素",
+      "ヘリウム",
+      "酸素"
+    ]
+  },
+  {
+    "question": "Which sector is a major source of global CO2 emissions besides energy?",
+    "questionJapanese": "エネルギー以外で世界のCO2排出源として大きい部門はどれですか？",
+    "options": [
+      "Agriculture and land use",
+      "Space travel",
+      "Forestry only",
+      "Marine reserves"
+    ],
+    "answer": "Agriculture and land use",
+    "explanation": "Agriculture and land-use change contribute significantly to CO2 emissions.",
+    "explanationJapanese": "農業と土地利用変化はCO2排出に大きく寄与します。",
+    "vocabulary": [
+      {
+        "word": "emissions",
+        "meaning": "排出",
+        "partOfSpeech": "general",
+        "example": "Use 'emissions' in context: emissions relates to this topic."
+      },
+      {
+        "word": "agriculture",
+        "meaning": "農業",
+        "partOfSpeech": "general",
+        "example": "Use 'agriculture' in context: agriculture relates to this topic."
+      }
+    ],
+    "category": "Environment",
+    "difficulty": "Hard",
+    "knowledgeInsight": "Key takeaway: Agriculture and land-use change contribute significantly to CO2 emissions.",
+    "englishExpression": "Choose \"Agriculture and land use\" because Agriculture and land-use change contribute significantly to CO2 emissions.; other options do not match this question.",
+    "knowledgeLevel": "Environmental literacy",
+    "optionsJapanese": [
+      "Agriculture and land use",
+      "Space travel",
+      "Forestry only",
+      "Marine reserves"
+    ]
+  },
+  {
+    "category": "Environment",
+    "difficulty": "Medium",
+    "question": "What is carbon neutrality?",
+    "questionJapanese": "カーボンニュートラルとは何ですか？",
+    "options": [
+      "Net-zero greenhouse gas emissions",
+      "Eliminating all energy use",
+      "Banning fossil fuels overnight",
+      "Measuring only methane"
+    ],
+    "answer": "Net-zero greenhouse gas emissions",
+    "explanation": "Carbon neutrality means achieving net-zero greenhouse gas emissions by balancing sources and offsets.",
+    "explanationJapanese": "カーボンニュートラルは排出と吸収を差し引きゼロにして温室効果ガスを実質ゼロにすることです。",
+    "vocabulary": [
+      {
+        "word": "carbon neutrality",
+        "meaning": "カーボンニュートラル",
+        "partOfSpeech": "general",
+        "example": "Use 'carbon neutrality' in context: carbon neutrality relates to this topic."
+      },
+      {
+        "word": "offset",
+        "meaning": "相殺",
+        "partOfSpeech": "general",
+        "example": "Use 'offset' in context: offset relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Carbon neutrality means achieving net-zero greenhouse gas emissions by balancing sources and offsets.",
+    "englishExpression": "Choose \"Net-zero greenhouse gas emissions\" because Carbon neutrality means achieving net-zero greenhouse gas emissions by balancing sources and offsets.; other options do not match this question.",
+    "knowledgeLevel": "Environmental literacy",
+    "optionsJapanese": [
+      "Net-zero greenhouse gas emissions",
+      "Eliminating all energy use",
+      "Banning fossil fuels overnight",
+      "Measuring only methane"
+    ]
+  },
+  {
+    "category": "Environment",
+    "difficulty": "Easy",
+    "question": "Which waste is commonly separated into blue recycling bins?",
+    "questionJapanese": "青いリサイクル容器に分別されることが多いごみはどれですか？",
+    "options": [
+      "Paper and cardboard",
+      "Food waste",
+      "Batteries",
+      "Medical waste"
+    ],
+    "answer": "Paper and cardboard",
+    "explanation": "Blue recycling bins often collect paper and cardboard.",
+    "explanationJapanese": "青いリサイクル容器は紙や段ボールを回収することが多いです。",
+    "vocabulary": [
+      {
+        "word": "recycling",
+        "meaning": "リサイクル",
+        "partOfSpeech": "general",
+        "example": "Use 'recycling' in context: recycling relates to this topic."
+      },
+      {
+        "word": "cardboard",
+        "meaning": "段ボール",
+        "partOfSpeech": "general",
+        "example": "Use 'cardboard' in context: cardboard relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Blue recycling bins often collect paper and cardboard.",
+    "englishExpression": "Choose \"Paper and cardboard\" because Blue recycling bins often collect paper and cardboard.; other options do not match this question.",
+    "knowledgeLevel": "Environmental literacy",
+    "optionsJapanese": [
+      "Paper and cardboard",
+      "Food waste",
+      "Batteries",
+      "Medical waste"
+    ]
+  },
+  {
+    "category": "Environment",
+    "difficulty": "Hard",
+    "question": "What is the main goal of the IPCC reports?",
+    "questionJapanese": "IPCC報告書の主な目的は何ですか？",
+    "options": [
+      "Assess climate change science and impacts",
+      "Set retail gas prices",
+      "Design national constitutions",
+      "Regulate internet content"
+    ],
+    "answer": "Assess climate change science and impacts",
+    "explanation": "IPCC reports assess the science, impacts, and mitigation options for climate change.",
+    "explanationJapanese": "IPCC報告書は気候変動の科学・影響・緩和策を評価することが目的です。",
+    "vocabulary": [
+      {
+        "word": "assessment",
+        "meaning": "評価",
+        "partOfSpeech": "general",
+        "example": "Use 'assessment' in context: assessment relates to this topic."
+      },
+      {
+        "word": "mitigation",
+        "meaning": "緩和",
+        "partOfSpeech": "general",
+        "example": "Use 'mitigation' in context: mitigation relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: IPCC reports assess the science, impacts, and mitigation options for climate change.",
+    "englishExpression": "Choose \"Assess climate change science and impacts\" because IPCC reports assess the science, impacts, and mitigation options for climate change.; other options do not match this question.",
+    "knowledgeLevel": "Environmental literacy",
+    "optionsJapanese": [
+      "気候変動の科学と影響を評価する",
+      "小売ガソリン価格を設定する",
+      "国家の憲法を設計する",
+      "インターネットコンテンツを規制する"
+    ]
+  },
+  {
+    "category": "Environment",
+    "difficulty": "Medium",
+    "question": "What does carbon footprint measure?",
+    "questionJapanese": "カーボンフットプリントが測るものは何ですか？",
+    "options": [
+      "Total greenhouse gas emissions",
+      "Forest area",
+      "Ocean salinity",
+      "Wind speed"
+    ],
+    "answer": "Total greenhouse gas emissions",
+    "explanation": "A carbon footprint measures total greenhouse gas emissions tied to an activity or product.",
+    "explanationJapanese": "カーボンフットプリントは活動や製品に紐づく温室効果ガス排出量を測ります。",
+    "vocabulary": [
+      {
+        "word": "carbon footprint",
+        "meaning": "カーボンフットプリント",
+        "partOfSpeech": "general",
+        "example": "Use 'carbon footprint' in context: carbon footprint relates to this topic."
+      },
+      {
+        "word": "emission",
+        "meaning": "排出",
+        "partOfSpeech": "general",
+        "example": "Use 'emission' in context: emission relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: A carbon footprint measures total greenhouse gas emissions tied to an activity or product.",
+    "englishExpression": "Choose \"Total greenhouse gas emissions\" because A carbon footprint measures total greenhouse gas emissions tied to an activity or product.; other options do not match this question.",
+    "knowledgeLevel": "Environmental literacy",
+    "optionsJapanese": [
+      "Total greenhouse gas emissions",
+      "Forest area",
+      "Ocean salinity",
+      "Wind speed"
+    ]
+  },
+  {
+    "category": "Environment",
+    "difficulty": "Easy",
+    "question": "Which practice reduces single-use plastic?",
+    "questionJapanese": "使い捨てプラスチック削減に役立つ行為はどれですか？",
+    "options": [
+      "Using reusable bags",
+      "Using more packaging",
+      "Burning plastic openly",
+      "Buying disposable bottles"
+    ],
+    "answer": "Using reusable bags",
+    "explanation": "Reusable bags cut down on single-use plastic waste.",
+    "explanationJapanese": "再利用バッグは使い捨てプラを減らします。",
+    "vocabulary": [
+      {
+        "word": "reusable",
+        "meaning": "再利用可能な",
+        "partOfSpeech": "general",
+        "example": "Use 'reusable' in context: reusable relates to this topic."
+      },
+      {
+        "word": "plastic",
+        "meaning": "プラスチック",
+        "partOfSpeech": "general",
+        "example": "Use 'plastic' in context: plastic relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Reusable bags cut down on single-use plastic waste.",
+    "englishExpression": "Choose \"Using reusable bags\" because Reusable bags cut down on single-use plastic waste.; other options do not match this question.",
+    "knowledgeLevel": "Environmental literacy",
+    "optionsJapanese": [
+      "Using reusable bags",
+      "Using more packaging",
+      "Burning plastic openly",
+      "Buying disposable bottles"
+    ]
+  },
+  {
+    "category": "Environment",
+    "difficulty": "Hard",
+    "question": "What is the primary goal of carbon capture and storage?",
+    "questionJapanese": "CCSの主な目的は何ですか？",
+    "options": [
+      "Store CO2 underground to reduce atmospheric levels",
+      "Increase coal combustion efficiency",
+      "Produce hydrogen from water",
+      "Grow more forests"
+    ],
+    "answer": "Store CO2 underground to reduce atmospheric levels",
+    "explanation": "CCS aims to store CO2 underground to lower atmospheric CO2.",
+    "explanationJapanese": "CCSはCO2を地下に貯留し大気中濃度を下げることを目指します。",
+    "vocabulary": [
+      {
+        "word": "carbon capture",
+        "meaning": "CO2回収",
+        "partOfSpeech": "general",
+        "example": "Use 'carbon capture' in context: carbon capture relates to this topic."
+      },
+      {
+        "word": "storage",
+        "meaning": "貯留",
+        "partOfSpeech": "general",
+        "example": "Use 'storage' in context: storage relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: CCS aims to store CO2 underground to lower atmospheric CO2.",
+    "englishExpression": "Choose \"Store CO2 underground to reduce atmospheric levels\" because CCS aims to store CO2 underground to lower atmospheric CO2.; other options do not match this question.",
+    "knowledgeLevel": "Environmental literacy",
+    "optionsJapanese": [
+      "Store CO2 underground to reduce atmospheric levels",
+      "Increase coal combustion efficiency",
+      "Produce hydrogen from water",
+      "Grow more forests"
+    ]
+  },
+  {
+    "category": "Environment",
+    "difficulty": "Medium",
+    "question": "Which international agreement succeeded the Kyoto Protocol?",
+    "questionJapanese": "京都議定書に続く国際合意はどれですか？",
+    "options": [
+      "Paris Agreement",
+      "Montreal Protocol",
+      "Basel Convention",
+      "Doha Round"
+    ],
+    "answer": "Paris Agreement",
+    "explanation": "The Paris Agreement succeeded the Kyoto Protocol for climate action.",
+    "explanationJapanese": "パリ協定は京都議定書に続く気候変動対策の国際合意です。",
+    "vocabulary": [
+      {
+        "word": "Paris Agreement",
+        "meaning": "パリ協定",
+        "partOfSpeech": "general",
+        "example": "Use 'Paris Agreement' in context: Paris Agreement relates to this topic."
+      },
+      {
+        "word": "climate action",
+        "meaning": "気候対策",
+        "partOfSpeech": "general",
+        "example": "Use 'climate action' in context: climate action relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: The Paris Agreement succeeded the Kyoto Protocol for climate action.",
+    "englishExpression": "Choose \"Paris Agreement\" because The Paris Agreement succeeded the Kyoto Protocol for climate action.; other options do not match this question.",
+    "knowledgeLevel": "Environmental literacy",
+    "optionsJapanese": [
+      "Paris Agreement",
+      "Montreal Protocol",
+      "Basel Convention",
+      "Doha Round"
+    ]
+  },
+  {
+    "category": "Environment",
+    "difficulty": "Medium",
+    "question": "What mainly causes coral bleaching?",
+    "questionJapanese": "サンゴの白化の主な原因は何ですか？",
+    "options": [
+      "Warming sea temperatures",
+      "Increased salt",
+      "More oxygen",
+      "Less sand"
+    ],
+    "optionsJapanese": [
+      "海水温の上昇",
+      "塩分増加",
+      "酸素増加",
+      "砂の減少"
+    ],
+    "answer": "Warming sea temperatures",
+    "explanation": "Coral bleaching is mainly driven by warmer sea temperatures stressing corals.",
+    "explanationJapanese": "サンゴ白化は主に海水温上昇によるストレスで起こります。",
+    "vocabulary": [
+      {
+        "word": "coral bleaching",
+        "meaning": "サンゴの白化",
+        "partOfSpeech": "general",
+        "example": "Use 'coral bleaching' in context: coral bleaching relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Coral bleaching is mainly driven by warmer sea temperatures stressing corals.",
+    "englishExpression": "Choose \"Warming sea temperatures\" because Coral bleaching is mainly driven by warmer sea temperatures stressing corals.; other options do not match this question.",
+    "knowledgeLevel": "Environmental literacy"
+  },
+  {
+    "category": "Environment",
+    "difficulty": "Medium",
+    "question": "What is rewilding?",
+    "questionJapanese": "リワイルディングとは何ですか？",
+    "options": [
+      "Restoring ecosystems by reducing human control",
+      "Clear-cutting forests",
+      "Building dams",
+      "Draining wetlands"
+    ],
+    "optionsJapanese": [
+      "人の管理を減らし生態系を回復させること",
+      "森林を皆伐すること",
+      "ダムを建設すること",
+      "湿地を干上がらせること"
+    ],
+    "answer": "Restoring ecosystems by reducing human control",
+    "explanation": "Rewilding reduces human control to let ecosystems recover.",
+    "explanationJapanese": "リワイルディングは人為的管理を減らし、生態系を回復させる取り組みです。",
+    "vocabulary": [
+      {
+        "word": "rewilding",
+        "meaning": "リワイルディング",
+        "partOfSpeech": "general",
+        "example": "Use 'rewilding' in context: rewilding relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Rewilding reduces human control to let ecosystems recover.",
+    "englishExpression": "Choose \"Restoring ecosystems by reducing human control\" because Rewilding reduces human control to let ecosystems recover.; other options do not match this question.",
+    "knowledgeLevel": "Environmental literacy"
+  },
+  {
+    "category": "Environment",
+    "difficulty": "Medium",
+    "question": "Which gas is typically priced under carbon pricing schemes?",
+    "questionJapanese": "排出量取引などで価格付けされる典型的な温室効果ガスはどれですか？",
+    "options": [
+      "Carbon dioxide",
+      "Oxygen",
+      "Helium",
+      "Neon"
+    ],
+    "optionsJapanese": [
+      "二酸化炭素",
+      "酸素",
+      "ヘリウム",
+      "ネオン"
+    ],
+    "answer": "Carbon dioxide",
+    "explanation": "Carbon pricing usually targets carbon dioxide emissions.",
+    "explanationJapanese": "カーボンプライシングは通常CO2排出に価格を付けます。",
+    "vocabulary": [
+      {
+        "word": "carbon pricing",
+        "meaning": "カーボンプライシング",
+        "partOfSpeech": "general",
+        "example": "Use 'carbon pricing' in context: carbon pricing relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Carbon pricing usually targets carbon dioxide emissions.",
+    "englishExpression": "Choose \"Carbon dioxide\" because Carbon pricing usually targets carbon dioxide emissions.; other options do not match this question.",
+    "knowledgeLevel": "Environmental literacy"
+  },
+  {
+    "category": "Environment",
+    "difficulty": "Medium",
+    "question": "What does LEED primarily certify?",
+    "questionJapanese": "LEEDが主に認証するのは何ですか？",
+    "options": [
+      "Green building performance",
+      "Organic food",
+      "Electric cars",
+      "Recycled plastics"
+    ],
+    "optionsJapanese": [
+      "環境配慮型の建物性能",
+      "有機食品",
+      "電気自動車",
+      "再生プラスチック"
+    ],
+    "answer": "Green building performance",
+    "explanation": "LEED certifies buildings for meeting green design standards.",
+    "explanationJapanese": "LEEDは環境配慮設計を満たす建物を認証します。",
+    "vocabulary": [
+      {
+        "word": "LEED",
+        "meaning": "LEED認証",
+        "partOfSpeech": "general",
+        "example": "Use 'LEED' in context: LEED relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: LEED certifies buildings for meeting green design standards.",
+    "englishExpression": "Choose \"Green building performance\" because LEED certifies buildings for meeting green design standards.; other options do not match this question.",
+    "knowledgeLevel": "Environmental literacy"
+  },
+  {
+    "category": "Environment",
+    "difficulty": "Medium",
+    "question": "Which practice helps cut microplastic pollution from laundry?",
+    "questionJapanese": "洗濯によるマイクロプラスチック汚染を減らす方法はどれですか？",
+    "options": [
+      "Using a microfiber filter",
+      "Using hotter water",
+      "Using more detergent",
+      "Drying in direct sun"
+    ],
+    "optionsJapanese": [
+      "マイクロファイバー用フィルターを使う",
+      "より高温の水を使う",
+      "洗剤を増やす",
+      "直射日光で干す"
+    ],
+    "answer": "Using a microfiber filter",
+    "explanation": "Laundry filters capture microfibers before they reach waterways.",
+    "explanationJapanese": "洗濯フィルターでマイクロファイバーを捕捉すると流出を防げます。",
+    "vocabulary": [
+      {
+        "word": "microfiber",
+        "meaning": "マイクロファイバー",
+        "partOfSpeech": "general",
+        "example": "Use 'microfiber' in context: microfiber relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Laundry filters capture microfibers before they reach waterways.",
+    "englishExpression": "Choose \"Using a microfiber filter\" because Laundry filters capture microfibers before they reach waterways.; other options do not match this question.",
+    "knowledgeLevel": "Environmental literacy"
+  },
+  {
+    "category": "Environment",
+    "difficulty": "Easy",
+    "question": "Which gas is abundant in the atmosphere but not a greenhouse gas?",
+    "questionJapanese": "大気に豊富だが温室効果をほとんど持たない気体はどれですか？",
+    "options": [
+      "Nitrogen",
+      "Carbon dioxide",
+      "Methane",
+      "Ozone"
+    ],
+    "optionsJapanese": [
+      "窒素",
+      "二酸化炭素",
+      "メタン",
+      "オゾン"
+    ],
+    "answer": "Nitrogen",
+    "explanation": "Nitrogen makes up most of the atmosphere but is not a strong greenhouse gas.",
+    "explanationJapanese": "窒素は大気の大部分を占めますが温室効果はほとんどありません。",
+    "vocabulary": [
+      {
+        "word": "nitrogen",
+        "meaning": "窒素",
+        "partOfSpeech": "general",
+        "example": "Use 'nitrogen' in context: nitrogen relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Nitrogen makes up most of the atmosphere but is not a strong greenhouse gas.",
+    "englishExpression": "Choose \"Nitrogen\" because Nitrogen makes up most of the atmosphere but is not a strong greenhouse gas.; other options do not match this question.",
+    "knowledgeLevel": "Environmental literacy"
+  },
+  {
+    "category": "Environment",
+    "difficulty": "Medium",
+    "question": "What does ESG stand for in investing?",
+    "questionJapanese": "投資でESGが指すものは何ですか？",
+    "options": [
+      "Environmental, social, governance",
+      "Earnings, sales, growth",
+      "Energy, sustainability, green",
+      "Equity, security, growth"
+    ],
+    "optionsJapanese": [
+      "環境・社会・ガバナンス",
+      "収益・売上・成長",
+      "エネルギー・持続可能性・グリーン",
+      "株式・安全・成長"
+    ],
+    "answer": "Environmental, social, governance",
+    "explanation": "ESG refers to environmental, social, and governance factors.",
+    "explanationJapanese": "ESGは環境・社会・ガバナンス要因を指します。",
+    "vocabulary": [
+      {
+        "word": "ESG",
+        "meaning": "環境・社会・ガバナンス",
+        "partOfSpeech": "general",
+        "example": "Use 'ESG' in context: ESG relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: ESG refers to environmental, social, and governance factors.",
+    "englishExpression": "Choose \"Environmental, social, governance\" because ESG refers to environmental, social, and governance factors.; other options do not match this question.",
+    "knowledgeLevel": "Environmental literacy"
+  },
+  {
+    "category": "Environment",
+    "difficulty": "Medium",
+    "question": "What is carbon trading?",
+    "questionJapanese": "カーボントレーディングとは何ですか？",
+    "options": [
+      "Buying and selling emission allowances",
+      "Trading only oil stocks",
+      "Exchanging renewable energy certificates",
+      "Swapping electricity rates"
+    ],
+    "optionsJapanese": [
+      "排出枠の売買",
+      "石油株のみの取引",
+      "再エネ証書の交換",
+      "電力料金の交換"
+    ],
+    "answer": "Buying and selling emission allowances",
+    "explanation": "Carbon trading is the buying and selling of emission allowances.",
+    "explanationJapanese": "カーボントレーディングは排出枠を売買することです。",
+    "vocabulary": [
+      {
+        "word": "emission allowance",
+        "meaning": "排出枠",
+        "partOfSpeech": "general",
+        "example": "Use 'emission allowance' in context: emission allowance relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Carbon trading is the buying and selling of emission allowances.",
+    "englishExpression": "Choose \"Buying and selling emission allowances\" because Carbon trading is the buying and selling of emission allowances.; other options do not match this question.",
+    "knowledgeLevel": "Environmental literacy"
+  },
+  {
+    "category": "Environment",
+    "difficulty": "Medium",
+    "question": "What is biodiversity offset?",
+    "questionJapanese": "生物多様性オフセットとは何ですか？",
+    "options": [
+      "Compensating for impacts by restoring habitats elsewhere",
+      "Cutting all emissions",
+      "Stopping all construction",
+      "Only using recycled products"
+    ],
+    "optionsJapanese": [
+      "影響を他の場所での生息地回復で補う",
+      "すべての排出をゼロにする",
+      "すべての建設を停止する",
+      "リサイクル品だけを使う"
+    ],
+    "answer": "Compensating for impacts by restoring habitats elsewhere",
+    "explanation": "Biodiversity offsets compensate impacts by restoring or protecting habitat elsewhere.",
+    "explanationJapanese": "生物多様性オフセットは影響を他の場所の生息地回復・保護で補います。",
+    "vocabulary": [
+      {
+        "word": "offset",
+        "meaning": "相殺",
+        "partOfSpeech": "general",
+        "example": "Use 'offset' in context: offset relates to this topic."
+      },
+      {
+        "word": "habitat",
+        "meaning": "生息地",
+        "partOfSpeech": "general",
+        "example": "Use 'habitat' in context: habitat relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Biodiversity offsets compensate impacts by restoring or protecting habitat elsewhere.",
+    "englishExpression": "Choose \"Compensating for impacts by restoring habitats elsewhere\" because Biodiversity offsets compensate impacts by restoring or protecting habitat elsewhere.; other options do not match this question.",
+    "knowledgeLevel": "Environmental literacy"
+  },
+  {
+    "category": "Environment",
+    "difficulty": "Easy",
+    "question": "Which household action saves water?",
+    "questionJapanese": "家庭で水を節約する行動はどれですか？",
+    "options": [
+      "Fixing leaks",
+      "Running longer showers",
+      "Watering midday",
+      "Leaving taps on"
+    ],
+    "optionsJapanese": [
+      "漏れを直す",
+      "シャワー時間を延ばす",
+      "真昼に散水する",
+      "蛇口を開けっぱなしにする"
+    ],
+    "answer": "Fixing leaks",
+    "explanation": "Fixing leaks at home saves water.",
+    "explanationJapanese": "家庭で漏れを直すと水を節約できます。",
+    "vocabulary": [
+      {
+        "word": "leak",
+        "meaning": "漏れ",
+        "partOfSpeech": "general",
+        "example": "Use 'leak' in context: leak relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Fixing leaks at home saves water.",
+    "englishExpression": "Choose \"Fixing leaks\" because Fixing leaks at home saves water.; other options do not match this question.",
+    "knowledgeLevel": "Environmental literacy"
+  },
+  {
+    "category": "Environment",
+    "difficulty": "Medium",
+    "question": "What does a smart meter monitor?",
+    "questionJapanese": "スマートメーターが計測するものは何ですか？",
+    "options": [
+      "Energy or water usage",
+      "Air pollution only",
+      "Forest growth",
+      "Soil nutrients"
+    ],
+    "optionsJapanese": [
+      "電力や水の使用量",
+      "大気汚染のみ",
+      "森林の成長",
+      "土壌養分"
+    ],
+    "answer": "Energy or water usage",
+    "explanation": "Smart meters track energy or water consumption.",
+    "explanationJapanese": "スマートメーターは電力や水の使用量を測定します。",
+    "vocabulary": [
+      {
+        "word": "smart meter",
+        "meaning": "スマートメーター",
+        "partOfSpeech": "general",
+        "example": "Use 'smart meter' in context: smart meter relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Smart meters track energy or water consumption.",
+    "englishExpression": "Choose \"Energy or water usage\" because Smart meters track energy or water consumption.; other options do not match this question.",
+    "knowledgeLevel": "Environmental literacy"
+  },
+  {
+    "category": "Environment",
+    "difficulty": "Hard",
+    "question": "What is the main goal of circular economy?",
+    "questionJapanese": "サーキュラーエコノミーの主な目標は何ですか？",
+    "options": [
+      "Minimize waste by keeping resources in use",
+      "Maximize single-use products",
+      "Increase landfill size",
+      "Burn all waste"
+    ],
+    "optionsJapanese": [
+      "資源を循環させ廃棄物を最小化する",
+      "使い捨て製品を最大化する",
+      "埋立地を拡大する",
+      "廃棄物をすべて燃やす"
+    ],
+    "answer": "Minimize waste by keeping resources in use",
+    "explanation": "Circular economy aims to minimize waste by circulating resources.",
+    "explanationJapanese": "サーキュラーエコノミーは資源を循環させて廃棄物を最小化することを目指します。",
+    "vocabulary": [
+      {
+        "word": "circular economy",
+        "meaning": "サーキュラーエコノミー",
+        "partOfSpeech": "general",
+        "example": "Use 'circular economy' in context: circular economy relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Circular economy aims to minimize waste by circulating resources.",
+    "englishExpression": "Choose \"Minimize waste by keeping resources in use\" because Circular economy aims to minimize waste by circulating resources.; other options do not match this question.",
+    "knowledgeLevel": "Environmental literacy"
+  },
+  {
+    "category": "Environment",
+    "difficulty": "Medium",
+    "question": "What does carbon sequestration refer to?",
+    "questionJapanese": "炭素隔離とは何を指しますか？",
+    "options": [
+      "Capturing and storing CO2",
+      "Emitting more CO2",
+      "Measuring CO2 only",
+      "Converting CO2 to methane"
+    ],
+    "optionsJapanese": [
+      "CO2を捕集し貯留する",
+      "より多くのCO2を排出する",
+      "CO2だけを測定する",
+      "CO2をメタンに変える"
+    ],
+    "answer": "Capturing and storing CO2",
+    "explanation": "Carbon sequestration means capturing and storing carbon dioxide.",
+    "explanationJapanese": "炭素隔離は二酸化炭素を捕集・貯留することです。",
+    "vocabulary": [
+      {
+        "word": "carbon sequestration",
+        "meaning": "炭素隔離",
+        "partOfSpeech": "general",
+        "example": "Use 'carbon sequestration' in context: carbon sequestration relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Carbon sequestration means capturing and storing carbon dioxide.",
+    "englishExpression": "Choose \"Capturing and storing CO2\" because Carbon sequestration means capturing and storing carbon dioxide.; other options do not match this question.",
+    "knowledgeLevel": "Environmental literacy"
+  },
+  {
+    "category": "Environment",
+    "difficulty": "Easy",
+    "question": "Which label indicates energy-efficient appliances?",
+    "questionJapanese": "省エネ家電を示すラベルはどれですか？",
+    "options": [
+      "Energy star",
+      "Danger",
+      "Recycle only",
+      "Fragile"
+    ],
+    "optionsJapanese": [
+      "エナジースター",
+      "危険",
+      "リサイクル専用",
+      "壊れ物"
+    ],
+    "answer": "Energy star",
+    "explanation": "Energy Star indicates energy-efficient appliances.",
+    "explanationJapanese": "エナジースターは省エネ家電を示します。",
+    "vocabulary": [
+      {
+        "word": "Energy Star",
+        "meaning": "エナジースター",
+        "partOfSpeech": "general",
+        "example": "Use 'Energy Star' in context: Energy Star relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Energy Star indicates energy-efficient appliances.",
+    "englishExpression": "Choose \"Energy star\" because Energy Star indicates energy-efficient appliances.; other options do not match this question.",
+    "knowledgeLevel": "Environmental literacy"
+  },
+  {
+    "category": "Environment",
+    "difficulty": "Medium",
+    "question": "Which international goal aims for net-zero emissions by mid-century?",
+    "questionJapanese": "今世紀半ばに実質ゼロ排出を目指す国際目標はどれですか？",
+    "options": [
+      "Paris Agreement goals",
+      "Montreal Protocol targets",
+      "Kyoto Protocol flexibility",
+      "Basel Convention"
+    ],
+    "optionsJapanese": [
+      "パリ協定の目標",
+      "モントリオール議定書の目標",
+      "京都議定書の柔軟性",
+      "バーゼル条約"
+    ],
+    "answer": "Paris Agreement goals",
+    "explanation": "The Paris Agreement outlines goals toward net-zero emissions.",
+    "explanationJapanese": "パリ協定は実質ゼロ排出に向けた目標を示します。",
+    "vocabulary": [
+      {
+        "word": "net-zero",
+        "meaning": "実質ゼロ",
+        "partOfSpeech": "general",
+        "example": "Use 'net-zero' in context: net-zero relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: The Paris Agreement outlines goals toward net-zero emissions.",
+    "englishExpression": "Choose \"Paris Agreement goals\" because The Paris Agreement outlines goals toward net-zero emissions.; other options do not match this question.",
+    "knowledgeLevel": "Environmental literacy"
+  },
+  {
+    "category": "Environment",
+    "difficulty": "Medium",
+    "question": "What is greenwashing?",
+    "questionJapanese": "グリーンウォッシングとは何ですか？",
+    "options": [
+      "Misleading environmental claims",
+      "Perfect recycling",
+      "Carbon neutrality",
+      "Strict regulation"
+    ],
+    "optionsJapanese": [
+      "誤解を招く環境配慮の主張",
+      "完璧なリサイクル",
+      "カーボンニュートラル",
+      "厳格な規制"
+    ],
+    "answer": "Misleading environmental claims",
+    "explanation": "Greenwashing is making misleading environmental claims.",
+    "explanationJapanese": "グリーンウォッシングは環境配慮を偽装する主張です。",
+    "vocabulary": [
+      {
+        "word": "greenwashing",
+        "meaning": "グリーンウォッシング",
+        "partOfSpeech": "general",
+        "example": "Use 'greenwashing' in context: greenwashing relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Greenwashing is making misleading environmental claims.",
+    "englishExpression": "Choose \"Misleading environmental claims\" because Greenwashing is making misleading environmental claims.; other options do not match this question.",
+    "knowledgeLevel": "Environmental literacy"
+  },
+  {
+    "category": "Environment",
+    "difficulty": "Medium",
+    "question": "Which nutritional label lists a product’s carbon footprint?",
+    "questionJapanese": "製品のカーボンフットプリントを示す表示はどれですか？",
+    "options": [
+      "Carbon label",
+      "Nutrition facts",
+      "Allergen label",
+      "Barcode"
+    ],
+    "optionsJapanese": [
+      "カーボンラベル",
+      "栄養成分表示",
+      "アレルゲン表示",
+      "バーコード"
+    ],
+    "answer": "Carbon label",
+    "explanation": "A carbon label lists a product’s carbon footprint.",
+    "explanationJapanese": "カーボンラベルは製品のカーボンフットプリントを示します。",
+    "vocabulary": [
+      {
+        "word": "carbon label",
+        "meaning": "カーボンラベル",
+        "partOfSpeech": "general",
+        "example": "Use 'carbon label' in context: carbon label relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: A carbon label lists a product’s carbon footprint.",
+    "englishExpression": "Choose \"Carbon label\" because A carbon label lists a product’s carbon footprint.; other options do not match this question.",
+    "knowledgeLevel": "Environmental literacy"
+  },
+  {
+    "category": "Environment",
+    "difficulty": "Hard",
+    "question": "Which fund focuses on companies with strong environmental practices?",
+    "questionJapanese": "環境面で優れた企業に投資するファンドはどれですか？",
+    "options": [
+      "Green fund",
+      "Index fund",
+      "Money market fund",
+      "Hedge fund"
+    ],
+    "optionsJapanese": [
+      "グリーンファンド",
+      "インデックスファンド",
+      "マネーマーケットファンド",
+      "ヘッジファンド"
+    ],
+    "answer": "Green fund",
+    "explanation": "A green fund invests in environmentally responsible companies.",
+    "explanationJapanese": "グリーンファンドは環境配慮企業に投資します。",
+    "vocabulary": [
+      {
+        "word": "green fund",
+        "meaning": "グリーンファンド",
+        "partOfSpeech": "general",
+        "example": "Use 'green fund' in context: green fund relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: A green fund invests in environmentally responsible companies.",
+    "englishExpression": "Choose \"Green fund\" because A green fund invests in environmentally responsible companies.; other options do not match this question.",
+    "knowledgeLevel": "Environmental literacy"
+  },
+  {
+    "category": "Environment",
+    "difficulty": "Hard",
+    "question": "What is the goal of the Basel Convention?",
+    "questionJapanese": "バーゼル条約の目的は何ですか？",
+    "options": [
+      "Control hazardous waste movement",
+      "Price carbon",
+      "Protect ozone",
+      "Set fishing quotas"
+    ],
+    "optionsJapanese": [
+      "有害廃棄物の移動を管理する",
+      "カーボン価格を設定する",
+      "オゾンを保護する",
+      "漁獲枠を定める"
+    ],
+    "answer": "Control hazardous waste movement",
+    "explanation": "The Basel Convention controls transboundary movement of hazardous waste.",
+    "explanationJapanese": "バーゼル条約は有害廃棄物の越境移動を規制します。",
+    "vocabulary": [
+      {
+        "word": "Basel Convention",
+        "meaning": "バーゼル条約",
+        "partOfSpeech": "general",
+        "example": "Use 'Basel Convention' in context: Basel Convention relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: The Basel Convention controls transboundary movement of hazardous waste.",
+    "englishExpression": "Choose \"Control hazardous waste movement\" because The Basel Convention controls transboundary movement of hazardous waste.; other options do not match this question.",
+    "knowledgeLevel": "Environmental literacy"
+  },
+  {
+    "category": "Environment",
+    "difficulty": "Hard",
+    "question": "What is a key benefit of circular economy?",
+    "questionJapanese": "サーキュラーエコノミーの主な利点は何ですか？",
+    "options": [
+      "Reduced waste and resource use",
+      "Higher waste and more mining",
+      "Single-use product growth",
+      "Maximizing landfill"
+    ],
+    "optionsJapanese": [
+      "廃棄物と資源使用の削減",
+      "廃棄物増加と採掘増加",
+      "使い捨て製品の拡大",
+      "埋立地を最大化する"
+    ],
+    "answer": "Reduced waste and resource use",
+    "explanation": "A circular economy reduces waste and resource consumption.",
+    "explanationJapanese": "サーキュラーエコノミーは廃棄物と資源消費を減らします。",
+    "vocabulary": [
+      {
+        "word": "circular economy",
+        "meaning": "サーキュラーエコノミー",
+        "partOfSpeech": "general",
+        "example": "Use 'circular economy' in context: circular economy relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: A circular economy reduces waste and resource consumption.",
+    "englishExpression": "Choose \"Reduced waste and resource use\" because A circular economy reduces waste and resource consumption.; other options do not match this question.",
+    "knowledgeLevel": "Environmental literacy"
+  },
+  {
+    "category": "Environment",
+    "difficulty": "Easy",
+    "question": "What does the 3Rs stand for?",
+    "questionJapanese": "3Rは何の略ですか？",
+    "options": [
+      "Reduce, Reuse, Recycle",
+      "Remove, Rebuild, Replace",
+      "Report, Repair, Respond",
+      "Recycle, Renew, Restore"
+    ],
+    "optionsJapanese": [
+      "リデュース・リユース・リサイクル",
+      "取り除く・再建する・交換する",
+      "報告・修理・対応",
+      "リサイクル・再生・修復"
+    ],
+    "answer": "Reduce, Reuse, Recycle",
+    "explanation": "The 3Rs are reduce, reuse, and recycle.",
+    "explanationJapanese": "3Rはリデュース・リユース・リサイクルを指します。",
+    "vocabulary": [
+      {
+        "word": "3Rs",
+        "meaning": "3R",
+        "partOfSpeech": "general",
+        "example": "Use '3Rs' in context: 3Rs relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: The 3Rs are reduce, reuse, and recycle.",
+    "englishExpression": "Choose \"Reduce, Reuse, Recycle\" because The 3Rs are reduce, reuse, and recycle.; other options do not match this question.",
+    "knowledgeLevel": "Environmental literacy"
+  },
+  {
+    "category": "Environment",
+    "difficulty": "Easy",
+    "question": "Which gas mainly drives today’s global warming?",
+    "questionJapanese": "現在の地球温暖化を主に進めている気体はどれですか？",
+    "options": [
+      "Carbon dioxide",
+      "Oxygen",
+      "Nitrogen",
+      "Helium"
+    ],
+    "optionsJapanese": [
+      "二酸化炭素",
+      "酸素",
+      "窒素",
+      "ヘリウム"
+    ],
+    "answer": "Carbon dioxide",
+    "explanation": "CO2 is the primary driver of current global warming.",
+    "explanationJapanese": "二酸化炭素が現在の地球温暖化の主な要因です。",
+    "vocabulary": [
+      {
+        "word": "carbon dioxide",
+        "meaning": "二酸化炭素",
+        "partOfSpeech": "general",
+        "example": "Use 'carbon dioxide' in context: carbon dioxide relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: CO2 is the primary driver of current global warming.",
+    "englishExpression": "Choose \"Carbon dioxide\" because CO2 is the primary driver of current global warming.; other options do not match this question.",
+    "knowledgeLevel": "Environmental literacy"
+  },
+  {
+    "category": "Environment",
+    "difficulty": "Medium",
+    "question": "What is a carbon offset?",
+    "questionJapanese": "カーボンオフセットとは何ですか？",
+    "options": [
+      "Compensating emissions elsewhere",
+      "Doubling emissions",
+      "Measuring energy bills",
+      "Burying plastic"
+    ],
+    "optionsJapanese": [
+      "排出を別の場所で相殺する",
+      "排出量を倍増させる",
+      "電気代を計測する",
+      "プラスチックを埋める"
+    ],
+    "answer": "Compensating emissions elsewhere",
+    "explanation": "A carbon offset compensates emissions by reductions elsewhere.",
+    "explanationJapanese": "カーボンオフセットは他所の削減で排出を相殺します。",
+    "vocabulary": [
+      {
+        "word": "carbon offset",
+        "meaning": "カーボンオフセット",
+        "partOfSpeech": "general",
+        "example": "Use 'carbon offset' in context: carbon offset relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: A carbon offset compensates emissions by reductions elsewhere.",
+    "englishExpression": "Choose \"Compensating emissions elsewhere\" because A carbon offset compensates emissions by reductions elsewhere.; other options do not match this question.",
+    "knowledgeLevel": "Environmental literacy"
+  },
+  {
+    "category": "Environment",
+    "difficulty": "Medium",
+    "question": "Which sector emits the most CO2 globally?",
+    "questionJapanese": "世界で最もCO2を排出する部門はどれですか？",
+    "options": [
+      "Energy",
+      "Tourism",
+      "Textiles",
+      "Forestry"
+    ],
+    "optionsJapanese": [
+      "エネルギー",
+      "観光",
+      "繊維",
+      "林業"
+    ],
+    "answer": "Energy",
+    "explanation": "The energy sector is the largest global CO2 emitter.",
+    "explanationJapanese": "エネルギー部門が世界最大のCO2排出源です。",
+    "vocabulary": [
+      {
+        "word": "energy sector",
+        "meaning": "エネルギー部門",
+        "partOfSpeech": "general",
+        "example": "Use 'energy sector' in context: energy sector relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: The energy sector is the largest global CO2 emitter.",
+    "englishExpression": "Choose \"Energy\" because The energy sector is the largest global CO2 emitter.; other options do not match this question.",
+    "knowledgeLevel": "Environmental literacy"
+  },
+  {
+    "category": "Environment",
+    "difficulty": "Medium",
+    "question": "Which practice regenerates soil with cover crops?",
+    "questionJapanese": "被覆作物で土壌を回復させる農法はどれですか？",
+    "options": [
+      "Regenerative agriculture",
+      "Monoculture",
+      "Overgrazing",
+      "Clear-cutting"
+    ],
+    "optionsJapanese": [
+      "リジェネラティブ農業",
+      "単一栽培",
+      "過放牧",
+      "皆伐"
+    ],
+    "answer": "Regenerative agriculture",
+    "explanation": "Regenerative agriculture uses cover crops to rebuild soil health.",
+    "explanationJapanese": "リジェネラティブ農業は被覆作物で土壌を回復させます。",
+    "vocabulary": [
+      {
+        "word": "regenerative agriculture",
+        "meaning": "リジェネラティブ農業",
+        "partOfSpeech": "general",
+        "example": "Use 'regenerative agriculture' in context: regenerative agriculture relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Regenerative agriculture uses cover crops to rebuild soil health.",
+    "englishExpression": "Choose \"Regenerative agriculture\" because Regenerative agriculture uses cover crops to rebuild soil health.; other options do not match this question.",
+    "knowledgeLevel": "Environmental literacy"
+  },
+  {
+    "category": "Environment",
+    "difficulty": "Medium",
+    "question": "Which agreement aims to protect biodiversity globally?",
+    "questionJapanese": "生物多様性を世界的に保護することを目指す合意はどれですか？",
+    "options": [
+      "Convention on Biological Diversity",
+      "Kyoto Protocol",
+      "Basel Convention",
+      "Montreal Protocol"
+    ],
+    "optionsJapanese": [
+      "生物多様性条約",
+      "京都議定書",
+      "バーゼル条約",
+      "モントリオール議定書"
+    ],
+    "answer": "Convention on Biological Diversity",
+    "explanation": "The CBD is a global treaty to protect biodiversity.",
+    "explanationJapanese": "生物多様性条約(CBD)は生物多様性を保護する国際条約です。",
+    "vocabulary": [
+      {
+        "word": "CBD",
+        "meaning": "生物多様性条約",
+        "partOfSpeech": "general",
+        "example": "Use 'CBD' in context: CBD relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: The CBD is a global treaty to protect biodiversity.",
+    "englishExpression": "Choose \"Convention on Biological Diversity\" because The CBD is a global treaty to protect biodiversity.; other options do not match this question.",
+    "knowledgeLevel": "Environmental literacy"
+  },
+  {
+    "category": "Environment",
+    "difficulty": "Hard",
+    "question": "Which mechanism lets companies trade emission reductions across sectors?",
+    "questionJapanese": "企業が部門を越えて排出削減量を取引できる仕組みはどれですか？",
+    "options": [
+      "Cap-and-trade",
+      "Feed-in tariff",
+      "Subsidy",
+      "Quota-free import"
+    ],
+    "optionsJapanese": [
+      "キャップ・アンド・トレード",
+      "固定価格買取制度",
+      "補助金",
+      "無枠輸入"
+    ],
+    "answer": "Cap-and-trade",
+    "explanation": "Cap-and-trade allows trading emission reductions under a cap.",
+    "explanationJapanese": "キャップ・アンド・トレードは上限の下で排出削減量を取引できます。",
+    "vocabulary": [
+      {
+        "word": "cap-and-trade",
+        "meaning": "キャップ・アンド・トレード",
+        "partOfSpeech": "general",
+        "example": "Use 'cap-and-trade' in context: cap-and-trade relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Cap-and-trade allows trading emission reductions under a cap.",
+    "englishExpression": "Choose \"Cap-and-trade\" because Cap-and-trade allows trading emission reductions under a cap.; other options do not match this question.",
+    "knowledgeLevel": "Environmental literacy"
+  },
+  {
+    "category": "Environment",
+    "difficulty": "Hard",
+    "question": "What is life-cycle assessment (LCA)?",
+    "questionJapanese": "ライフサイクルアセスメント(LCA)とは何ですか？",
+    "options": [
+      "Evaluating impacts from production to disposal",
+      "Measuring only shipping emissions",
+      "Focusing only on recycling",
+      "Counting employees"
+    ],
+    "optionsJapanese": [
+      "生産から廃棄までの影響を評価する",
+      "輸送排出だけを測る",
+      "リサイクルだけに注目する",
+      "従業員数を数える"
+    ],
+    "answer": "Evaluating impacts from production to disposal",
+    "explanation": "LCA evaluates impacts from production through disposal.",
+    "explanationJapanese": "LCAは生産から廃棄までの影響を評価します。",
+    "vocabulary": [
+      {
+        "word": "life-cycle assessment",
+        "meaning": "ライフサイクルアセスメント",
+        "partOfSpeech": "general",
+        "example": "Use 'life-cycle assessment' in context: life-cycle assessment relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: LCA evaluates impacts from production through disposal.",
+    "englishExpression": "Choose \"Evaluating impacts from production to disposal\" because LCA evaluates impacts from production through disposal.; other options do not match this question.",
+    "knowledgeLevel": "Environmental literacy"
+  },
+  {
+    "category": "Environment",
+    "difficulty": "Hard",
+    "question": "Which greenhouse gas has the highest warming potential per molecule among common gases?",
+    "questionJapanese": "一般的な温室効果ガスの中で分子あたりの温暖化効果が最も高いのはどれですか？",
+    "options": [
+      "Nitrous oxide",
+      "Carbon dioxide",
+      "Methane",
+      "Oxygen"
+    ],
+    "optionsJapanese": [
+      "亜酸化窒素",
+      "二酸化炭素",
+      "メタン",
+      "酸素"
+    ],
+    "answer": "Nitrous oxide",
+    "explanation": "Nitrous oxide has a very high global warming potential.",
+    "explanationJapanese": "亜酸化窒素は非常に高い地球温暖化係数を持ちます。",
+    "vocabulary": [
+      {
+        "word": "nitrous oxide",
+        "meaning": "亜酸化窒素",
+        "partOfSpeech": "general",
+        "example": "Use 'nitrous oxide' in context: nitrous oxide relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Nitrous oxide has a very high global warming potential.",
+    "englishExpression": "Choose \"Nitrous oxide\" because Nitrous oxide has a very high global warming potential.; other options do not match this question.",
+    "knowledgeLevel": "Environmental literacy"
+  },
+  {
+    "category": "Environment",
+    "difficulty": "Hard",
+    "question": "What is the main aim of a solar feed-in tariff?",
+    "questionJapanese": "固定価格買取制度(FIT)の主な目的は何ですか？",
+    "options": [
+      "Incentivize renewable electricity",
+      "Tax fossil fuels directly",
+      "Ban solar panels",
+      "Subsidize gasoline"
+    ],
+    "optionsJapanese": [
+      "再エネ電力を奨励する",
+      "化石燃料に直接課税する",
+      "ソーラーパネルを禁止する",
+      "ガソリンを補助する"
+    ],
+    "answer": "Incentivize renewable electricity",
+    "explanation": "FITs incentivize renewable electricity by guaranteed pricing.",
+    "explanationJapanese": "FITは再エネ電力を固定価格で買い取り普及を促します。",
+    "vocabulary": [
+      {
+        "word": "feed-in tariff",
+        "meaning": "固定価格買取制度",
+        "partOfSpeech": "general",
+        "example": "Use 'feed-in tariff' in context: feed-in tariff relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: FITs incentivize renewable electricity by guaranteed pricing.",
+    "englishExpression": "Choose \"Incentivize renewable electricity\" because FITs incentivize renewable electricity by guaranteed pricing.; other options do not match this question.",
+    "knowledgeLevel": "Environmental literacy"
+  },
+  {
+    "category": "Environment",
+    "difficulty": "Easy",
+    "question": "Which energy source is solar power?",
+    "questionJapanese": "太陽光発電はどのエネルギー源ですか？",
+    "options": [
+      "Renewable",
+      "Fossil",
+      "Nuclear fuel",
+      "Diesel"
+    ],
+    "optionsJapanese": [
+      "再生可能",
+      "化石",
+      "核燃料",
+      "ディーゼル"
+    ],
+    "answer": "Renewable",
+    "explanation": "Solar power is renewable energy.",
+    "explanationJapanese": "太陽光発電は再生可能エネルギーです。",
+    "vocabulary": [
+      {
+        "word": "solar power",
+        "meaning": "太陽光発電",
+        "partOfSpeech": "general",
+        "example": "Use 'solar power' in context: solar power relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Solar power is renewable energy.",
+    "englishExpression": "Choose \"Renewable\" because Solar power is renewable energy.; other options do not match this question.",
+    "knowledgeLevel": "Environmental literacy"
+  },
+  {
+    "category": "Environment",
+    "difficulty": "Easy",
+    "question": "Which bin color often indicates recyclables?",
+    "questionJapanese": "リサイクル用の色のビンはどれですか？",
+    "options": [
+      "Blue",
+      "Red",
+      "Black",
+      "Brown"
+    ],
+    "optionsJapanese": [
+      "青",
+      "赤",
+      "黒",
+      "茶"
+    ],
+    "answer": "Blue",
+    "explanation": "Blue bins often indicate recyclables.",
+    "explanationJapanese": "青いビンはリサイクル用であることが多いです。",
+    "vocabulary": [
+      {
+        "word": "recycle",
+        "meaning": "リサイクル",
+        "partOfSpeech": "general",
+        "example": "Use 'recycle' in context: recycle relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Blue bins often indicate recyclables.",
+    "englishExpression": "Choose \"Blue\" because Blue bins often indicate recyclables.; other options do not match this question.",
+    "knowledgeLevel": "Environmental literacy"
+  },
+  {
+    "category": "Environment",
+    "difficulty": "Medium",
+    "question": "What is a climate refugee?",
+    "questionJapanese": "気候難民とは何ですか？",
+    "options": [
+      "Person displaced by climate impacts",
+      "Tourist",
+      "Job changer",
+      "Student"
+    ],
+    "optionsJapanese": [
+      "気候の影響で移住を強いられる人",
+      "旅行者",
+      "転職者",
+      "学生"
+    ],
+    "answer": "Person displaced by climate impacts",
+    "explanation": "Climate refugees move due to climate change.",
+    "explanationJapanese": "気候難民は気候変動で移住を強いられます。",
+    "vocabulary": [
+      {
+        "word": "climate refugee",
+        "meaning": "気候難民",
+        "partOfSpeech": "general",
+        "example": "Use 'climate refugee' in context: climate refugee relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Climate refugees move due to climate change.",
+    "englishExpression": "Choose \"Person displaced by climate impacts\" because Climate refugees move due to climate change.; other options do not match this question.",
+    "knowledgeLevel": "Environmental literacy"
+  },
+  {
+    "category": "Environment",
+    "difficulty": "Medium",
+    "question": "Which practice reduces food waste by planning meals?",
+    "questionJapanese": "食事計画で食品ロスを減らす行為はどれですか？",
+    "options": [
+      "Meal planning",
+      "Overbuying",
+      "Leaving leftovers",
+      "Throwing early"
+    ],
+    "optionsJapanese": [
+      "ミールプランニング",
+      "買い過ぎ",
+      "食べ残し",
+      "早期廃棄"
+    ],
+    "answer": "Meal planning",
+    "explanation": "Meal planning cuts food waste.",
+    "explanationJapanese": "ミールプランニングは食品ロスを減らします。",
+    "vocabulary": [
+      {
+        "word": "meal planning",
+        "meaning": "食事計画",
+        "partOfSpeech": "general",
+        "example": "Use 'meal planning' in context: meal planning relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Meal planning cuts food waste.",
+    "englishExpression": "Choose \"Meal planning\" because Meal planning cuts food waste.; other options do not match this question.",
+    "knowledgeLevel": "Environmental literacy"
+  },
+  {
+    "category": "Environment",
+    "difficulty": "Medium",
+    "question": "Which gas is targeted by methane leak detection?",
+    "questionJapanese": "メタン漏れ検知で対象となる気体はどれですか？",
+    "options": [
+      "Methane",
+      "Oxygen",
+      "Nitrogen",
+      "Helium"
+    ],
+    "optionsJapanese": [
+      "メタン",
+      "酸素",
+      "窒素",
+      "ヘリウム"
+    ],
+    "answer": "Methane",
+    "explanation": "Methane detection targets CH4.",
+    "explanationJapanese": "メタン検知はCH4を対象とします。",
+    "vocabulary": [
+      {
+        "word": "methane",
+        "meaning": "メタン",
+        "partOfSpeech": "general",
+        "example": "Use 'methane' in context: methane relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Methane detection targets CH4.",
+    "englishExpression": "Choose \"Methane\" because Methane detection targets CH4.; other options do not match this question.",
+    "knowledgeLevel": "Environmental literacy"
+  },
+  {
+    "category": "Environment",
+    "difficulty": "Hard",
+    "question": "What is the main advantage of a smart grid?",
+    "questionJapanese": "スマートグリッドの主な利点は何ですか？",
+    "options": [
+      "Balancing supply and demand dynamically",
+      "Using only coal",
+      "Storing gasoline",
+      "Going offline"
+    ],
+    "optionsJapanese": [
+      "需給を動的にバランス",
+      "石炭のみを使用",
+      "ガソリンを貯蔵",
+      "オフライン化"
+    ],
+    "answer": "Balancing supply and demand dynamically",
+    "explanation": "Smart grids balance supply and demand.",
+    "explanationJapanese": "スマートグリッドは需給を調整します。",
+    "vocabulary": [
+      {
+        "word": "smart grid",
+        "meaning": "スマートグリッド",
+        "partOfSpeech": "general",
+        "example": "Use 'smart grid' in context: smart grid relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Smart grids balance supply and demand.",
+    "englishExpression": "Choose \"Balancing supply and demand dynamically\" because Smart grids balance supply and demand.; other options do not match this question.",
+    "knowledgeLevel": "Environmental literacy"
+  },
+  {
+    "category": "Environment",
+    "difficulty": "Hard",
+    "question": "What is the albedo effect?",
+    "questionJapanese": "アルベド効果とは何ですか？",
+    "options": [
+      "Surface reflectivity of sunlight",
+      "Ocean acidity",
+      "Wind speed",
+      "Soil fertility"
+    ],
+    "optionsJapanese": [
+      "表面の太陽光反射率",
+      "海の酸性度",
+      "風速",
+      "土壌肥沃度"
+    ],
+    "answer": "Surface reflectivity of sunlight",
+    "explanation": "Albedo is the reflectivity of a surface.",
+    "explanationJapanese": "アルベドは表面の反射率です。",
+    "vocabulary": [
+      {
+        "word": "albedo",
+        "meaning": "アルベド",
+        "partOfSpeech": "general",
+        "example": "Use 'albedo' in context: albedo relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Albedo is the reflectivity of a surface.",
+    "englishExpression": "Choose \"Surface reflectivity of sunlight\" because Albedo is the reflectivity of a surface.; other options do not match this question.",
+    "knowledgeLevel": "Environmental literacy"
+  },
+  {
+    "category": "Environment",
+    "difficulty": "Hard",
+    "question": "What is bioaccumulation?",
+    "questionJapanese": "生物濃縮とは何ですか？",
+    "options": [
+      "Build-up of substances in organisms",
+      "Rain increase",
+      "Forest decline",
+      "Coral growth"
+    ],
+    "optionsJapanese": [
+      "物質が生物に蓄積すること",
+      "降雨増加",
+      "森林減少",
+      "サンゴ成長"
+    ],
+    "answer": "Build-up of substances in organisms",
+    "explanation": "Bioaccumulation is buildup of substances in organisms.",
+    "explanationJapanese": "生物濃縮は物質が生物に蓄積することです。",
+    "vocabulary": [
+      {
+        "word": "bioaccumulation",
+        "meaning": "生物濃縮",
+        "partOfSpeech": "general",
+        "example": "Use 'bioaccumulation' in context: bioaccumulation relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Bioaccumulation is buildup of substances in organisms.",
+    "englishExpression": "Choose \"Build-up of substances in organisms\" because Bioaccumulation is buildup of substances in organisms.; other options do not match this question.",
+    "knowledgeLevel": "Environmental literacy"
+  },
+  {
+    "category": "Environment",
+    "difficulty": "Hard",
+    "question": "Which index measures air pollution health risk?",
+    "questionJapanese": "大気汚染の健康リスクを示す指数はどれですか？",
+    "options": [
+      "Air Quality Index",
+      "BMI",
+      "HDI",
+      "GDP"
+    ],
+    "optionsJapanese": [
+      "大気質指数",
+      "BMI",
+      "HDI",
+      "GDP"
+    ],
+    "answer": "Air Quality Index",
+    "explanation": "AQI measures air pollution levels.",
+    "explanationJapanese": "大気質指数(AQI)は汚染レベルを示します。",
+    "vocabulary": [
+      {
+        "word": "AQI",
+        "meaning": "大気質指数",
+        "partOfSpeech": "general",
+        "example": "Use 'AQI' in context: AQI relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: AQI measures air pollution levels.",
+    "englishExpression": "Choose \"Air Quality Index\" because AQI measures air pollution levels.; other options do not match this question.",
+    "knowledgeLevel": "Environmental literacy"
+  },
+  {
+    "category": "Environment",
+    "difficulty": "Hard",
+    "question": "What is carbon sequestration?",
+    "questionJapanese": "炭素隔離とは何ですか？",
+    "options": [
+      "Capturing and storing CO2",
+      "Emitting more CO2",
+      "Measuring photosynthesis",
+      "Burying plastic"
+    ],
+    "optionsJapanese": [
+      "CO2を捕集し貯留する",
+      "CO2を増排出する",
+      "光合成を測定する",
+      "プラスチックを埋める"
+    ],
+    "answer": "Capturing and storing CO2",
+    "explanation": "Carbon sequestration captures and stores CO2.",
+    "explanationJapanese": "炭素隔離はCO2を捕集して貯留します。",
+    "vocabulary": [
+      {
+        "word": "carbon sequestration",
+        "meaning": "炭素隔離",
+        "partOfSpeech": "general",
+        "example": "Use 'carbon sequestration' in context: carbon sequestration relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Carbon sequestration captures and stores CO2.",
+    "englishExpression": "Choose \"Capturing and storing CO2\" because Carbon sequestration captures and stores CO2.; other options do not match this question.",
+    "knowledgeLevel": "Environmental literacy"
+  },
+  {
+    "category": "Environment",
+    "difficulty": "Medium",
+    "question": "What is reforestation?",
+    "questionJapanese": "再植林（リフォレスタレーション）とは何ですか？",
+    "options": [
+      "Planting trees to restore forests",
+      "Clearing forests",
+      "Mining coal",
+      "Building dams"
+    ],
+    "optionsJapanese": [
+      "森林を回復するための植林",
+      "森林伐採",
+      "石炭採掘",
+      "ダム建設"
+    ],
+    "answer": "Planting trees to restore forests",
+    "explanation": "Reforestation plants trees to restore forest cover.",
+    "explanationJapanese": "再植林は森林を回復するために木を植えることです。",
+    "vocabulary": [
+      {
+        "word": "reforestation",
+        "meaning": "再植林",
+        "partOfSpeech": "general",
+        "example": "Use 'reforestation' in context: reforestation relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Reforestation plants trees to restore forest cover.",
+    "englishExpression": "Choose \"Planting trees to restore forests\" because Reforestation plants trees to restore forest cover.; other options do not match this question.",
+    "knowledgeLevel": "Environmental literacy"
+  },
+  {
+    "category": "Environment",
+    "difficulty": "Hard",
+    "question": "Which gas has the highest global warming potential among common ones?",
+    "questionJapanese": "一般的なガスの中で地球温暖化係数が最も高いのはどれですか？",
+    "options": [
+      "Nitrous oxide",
+      "Carbon dioxide",
+      "Methane",
+      "Oxygen"
+    ],
+    "optionsJapanese": [
+      "亜酸化窒素",
+      "二酸化炭素",
+      "メタン",
+      "酸素"
+    ],
+    "answer": "Nitrous oxide",
+    "explanation": "N2O has very high warming potential.",
+    "explanationJapanese": "亜酸化窒素は高い地球温暖化係数を持ちます。",
+    "vocabulary": [
+      {
+        "word": "nitrous oxide",
+        "meaning": "亜酸化窒素",
+        "partOfSpeech": "general",
+        "example": "Use 'nitrous oxide' in context: nitrous oxide relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: N2O has very high warming potential.",
+    "englishExpression": "Choose \"Nitrous oxide\" because N2O has very high warming potential.; other options do not match this question.",
+    "knowledgeLevel": "Environmental literacy"
+  }
+]

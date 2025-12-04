@@ -10,12 +10,12 @@ struct HistoryView: View {
     var body: some View {
         VStack(alignment: .leading, spacing: 16) {
             HStack {
-                Text("Quiz History")
+                Text("履歴")
                     .font(.title2)
                     .bold()
                 Spacer()
                 Button(action: onBack) {
-                    Text("← Back")
+                    Text("← 戻る")
                         .bold()
                         .foregroundColor(.white)
                         .padding(.horizontal, 16)
@@ -25,7 +25,7 @@ struct HistoryView: View {
                 }
             }
             if history.isEmpty {
-                Text("You haven't completed any quizzes yet.")
+                Text("まだ履歴がありません。まずは1問解いてみましょう。")
                     .foregroundColor(.secondary)
                     .padding(.top, 40)
                     .frame(maxWidth: .infinity, alignment: .center)
@@ -38,7 +38,7 @@ struct HistoryView: View {
                     }
                 }
                 Button(action: { showingClearAlert = true }) {
-                    Text("Clear History")
+                    Text("履歴を削除")
                         .bold()
                         .frame(maxWidth: .infinity)
                         .padding()
@@ -56,11 +56,11 @@ struct HistoryView: View {
                 .stroke(Color.white.opacity(0.1), lineWidth: 1)
         )
         .padding(.horizontal)
-        .alert("Clear history?", isPresented: $showingClearAlert) {
-            Button("Clear", role: .destructive, action: onClear)
-            Button("Cancel", role: .cancel, action: {})
+        .alert("履歴を削除しますか？", isPresented: $showingClearAlert) {
+            Button("削除する", role: .destructive, action: onClear)
+            Button("キャンセル", role: .cancel, action: {})
         } message: {
-            Text("This action cannot be undone.")
+            Text("この操作は取り消せません。")
         }
     }
 }

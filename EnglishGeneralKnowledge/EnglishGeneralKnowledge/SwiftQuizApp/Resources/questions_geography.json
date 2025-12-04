@@ -1,0 +1,4494 @@
+[
+  {
+    "question": "What causes the seasons on Earth?",
+    "questionJapanese": "地球の季節を引き起こすものは何ですか？",
+    "options": [
+      "The tilt of Earth's axis",
+      "The distance from the Sun",
+      "Solar flares",
+      "Ocean currents"
+    ],
+    "answer": "The tilt of Earth's axis",
+    "explanation": "The tilt of Earth's axis causes different parts of the planet to receive more or less sunlight during the year, creating seasons.",
+    "explanationJapanese": "地球の軸の傾きによって、年間を通じて地球の各地域が受ける日光の量が変わり、季節が生まれます。",
+    "vocabulary": [
+      {
+        "word": "tilt",
+        "meaning": "傾き",
+        "partOfSpeech": "general",
+        "example": "Use 'tilt' in context: tilt relates to this topic."
+      },
+      {
+        "word": "receive",
+        "meaning": "受ける",
+        "partOfSpeech": "general",
+        "example": "Use 'receive' in context: receive relates to this topic."
+      },
+      {
+        "word": "sunlight",
+        "meaning": "日光",
+        "partOfSpeech": "general",
+        "example": "Use 'sunlight' in context: sunlight relates to this topic."
+      }
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: The tilt of Earth's axis causes different parts of the planet to receive more or less sunlight during the year, creating seasons.",
+    "englishExpression": "Choose \"The tilt of Earth's axis\" because The tilt of Earth's axis causes different parts of the planet to receive more or less sunlight during the year, creating seasons.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "The tilt of Earth's axis",
+      "The distance from the Sun",
+      "Solar flares",
+      "Ocean currents"
+    ]
+  },
+  {
+    "question": "What is the capital city of Canada?",
+    "questionJapanese": "カナダの首都はどこですか？",
+    "options": [
+      "Toronto",
+      "Vancouver",
+      "Ottawa",
+      "Montreal"
+    ],
+    "answer": "Ottawa",
+    "explanation": "Ottawa is the capital of Canada and is located in the province of Ontario near the border with Quebec.",
+    "explanationJapanese": "オタワはカナダの首都で、オンタリオ州にありケベック州との境界近くに位置しています。",
+    "vocabulary": [
+      {
+        "word": "capital",
+        "meaning": "首都",
+        "partOfSpeech": "general",
+        "example": "Use 'capital' in context: capital relates to this topic."
+      },
+      {
+        "word": "province",
+        "meaning": "州",
+        "partOfSpeech": "general",
+        "example": "Use 'province' in context: province relates to this topic."
+      },
+      {
+        "word": "border",
+        "meaning": "境界",
+        "partOfSpeech": "general",
+        "example": "Use 'border' in context: border relates to this topic."
+      }
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: Ottawa is the capital of Canada and is located in the province of Ontario near the border with Quebec.",
+    "englishExpression": "Choose \"Ottawa\" because Ottawa is the capital of Canada and is located in the province of Ontario near the border with Quebec.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "Toronto",
+      "Vancouver",
+      "オタワ",
+      "Montreal"
+    ]
+  },
+  {
+    "question": "What language is primarily spoken in Brazil?",
+    "questionJapanese": "ブラジルで主に話されている言語は何ですか？",
+    "options": [
+      "Spanish",
+      "Portuguese",
+      "English",
+      "French"
+    ],
+    "answer": "Portuguese",
+    "explanation": "Portuguese became Brazil's official language during colonial times when Portugal ruled the country.",
+    "explanationJapanese": "ポルトガル語はかつてポルトガルが支配していた時代にブラジルの公用語となりました。",
+    "vocabulary": [
+      {
+        "word": "colonial",
+        "meaning": "植民地の",
+        "partOfSpeech": "general",
+        "example": "Use 'colonial' in context: colonial relates to this topic."
+      },
+      {
+        "word": "official",
+        "meaning": "公式の",
+        "partOfSpeech": "general",
+        "example": "Use 'official' in context: official relates to this topic."
+      },
+      {
+        "word": "rule",
+        "meaning": "支配",
+        "partOfSpeech": "general",
+        "example": "Use 'rule' in context: rule relates to this topic."
+      }
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: Portuguese became Brazil's official language during colonial times when Portugal ruled the country.",
+    "englishExpression": "Choose \"Portuguese\" because Portuguese became Brazil's official language during colonial times when Portugal ruled the country.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "Spanish",
+      "Portuguese",
+      "English",
+      "French"
+    ]
+  },
+  {
+    "question": "Which ocean is the largest by surface area?",
+    "questionJapanese": "表面積が最も大きい海洋はどれですか？",
+    "options": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Pacific Ocean",
+      "Arctic Ocean"
+    ],
+    "answer": "Pacific Ocean",
+    "explanation": "The Pacific Ocean covers more than 30% of the Earth's surface, making it the largest ocean.",
+    "explanationJapanese": "太平洋は地球の表面の30%以上を覆っており、最大の海洋です。",
+    "vocabulary": [
+      {
+        "word": "surface area",
+        "meaning": "表面積",
+        "partOfSpeech": "general",
+        "example": "Use 'surface area' in context: surface area relates to this topic."
+      },
+      {
+        "word": "cover",
+        "meaning": "覆う",
+        "partOfSpeech": "general",
+        "example": "Use 'cover' in context: cover relates to this topic."
+      },
+      {
+        "word": "largest",
+        "meaning": "最大の",
+        "partOfSpeech": "general",
+        "example": "Use 'largest' in context: largest relates to this topic."
+      }
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: The Pacific Ocean covers more than 30% of the Earth's surface, making it the largest ocean.",
+    "englishExpression": "Choose \"Pacific Ocean\" because The Pacific Ocean covers more than 30% of the Earth's surface, making it the largest ocean.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Pacific Ocean",
+      "Arctic Ocean"
+    ]
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "questionJapanese": "オーストラリアの首都はどこですか？",
+    "options": [
+      "Sydney",
+      "Melbourne",
+      "Brisbane",
+      "Canberra"
+    ],
+    "answer": "Canberra",
+    "explanation": "Canberra was chosen as the capital of Australia to settle rivalry between Sydney and Melbourne.",
+    "explanationJapanese": "キャンベラはシドニーとメルボルンの対立を解決するためにオーストラリアの首都に選ばれました。",
+    "vocabulary": [
+      {
+        "word": "rivalry",
+        "meaning": "競争",
+        "partOfSpeech": "general",
+        "example": "Use 'rivalry' in context: rivalry relates to this topic."
+      },
+      {
+        "word": "settle",
+        "meaning": "解決する",
+        "partOfSpeech": "general",
+        "example": "Use 'settle' in context: settle relates to this topic."
+      },
+      {
+        "word": "capital",
+        "meaning": "首都",
+        "partOfSpeech": "general",
+        "example": "Use 'capital' in context: capital relates to this topic."
+      }
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: Canberra was chosen as the capital of Australia to settle rivalry between Sydney and Melbourne.",
+    "englishExpression": "Choose \"Canberra\" because Canberra was chosen as the capital of Australia to settle rivalry between Sydney and Melbourne.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "Sydney",
+      "Melbourne",
+      "Brisbane",
+      "キャンベラ"
+    ]
+  },
+  {
+    "question": "Which ocean current warms the western coasts of Europe?",
+    "questionJapanese": "ヨーロッパ西岸を暖める海流はどれですか？",
+    "options": [
+      "California Current",
+      "Gulf Stream",
+      "Labrador Current",
+      "Canary Current"
+    ],
+    "answer": "Gulf Stream",
+    "explanation": "The Gulf Stream carries warm water from the Gulf of Mexico across the Atlantic to Europe.",
+    "explanationJapanese": "メキシコ湾流は暖かい水をメキシコ湾から大西洋を越えてヨーロッパへ運びます。",
+    "vocabulary": [
+      {
+        "word": "carry",
+        "meaning": "運ぶ",
+        "partOfSpeech": "general",
+        "example": "Use 'carry' in context: carry relates to this topic."
+      },
+      {
+        "word": "warm",
+        "meaning": "暖かい",
+        "partOfSpeech": "general",
+        "example": "Use 'warm' in context: warm relates to this topic."
+      },
+      {
+        "word": "current",
+        "meaning": "海流",
+        "partOfSpeech": "general",
+        "example": "Use 'current' in context: current relates to this topic."
+      }
+    ],
+    "category": "Geography",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: The Gulf Stream carries warm water from the Gulf of Mexico across the Atlantic to Europe.",
+    "englishExpression": "Choose \"Gulf Stream\" because The Gulf Stream carries warm water from the Gulf of Mexico across the Atlantic to Europe.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "California Current",
+      "Gulf Stream",
+      "Labrador Current",
+      "Canary Current"
+    ]
+  },
+  {
+    "question": "What is the longest river in Africa?",
+    "questionJapanese": "アフリカで最も長い川はどれですか？",
+    "options": [
+      "Nile",
+      "Congo",
+      "Zambezi",
+      "Niger"
+    ],
+    "answer": "Nile",
+    "explanation": "The Nile River flows northward through several countries and is the longest river on the African continent.",
+    "explanationJapanese": "ナイル川は北へ流れ、アフリカ大陸で最も長い川です。",
+    "vocabulary": [
+      {
+        "word": "flows",
+        "meaning": "流れる",
+        "partOfSpeech": "general",
+        "example": "Use 'flows' in context: flows relates to this topic."
+      },
+      {
+        "word": "continent",
+        "meaning": "大陸",
+        "partOfSpeech": "general",
+        "example": "Use 'continent' in context: continent relates to this topic."
+      },
+      {
+        "word": "several",
+        "meaning": "いくつかの",
+        "partOfSpeech": "general",
+        "example": "Use 'several' in context: several relates to this topic."
+      }
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: The Nile River flows northward through several countries and is the longest river on the African continent.",
+    "englishExpression": "Choose \"Nile\" because The Nile River flows northward through several countries and is the longest river on the African continent.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "Nile",
+      "Congo",
+      "Zambezi",
+      "Niger"
+    ]
+  },
+  {
+    "question": "Which river flows through Paris and empties into the English Channel?",
+    "questionJapanese": "パリを流れ、イギリス海峡に注ぐ川は何ですか？",
+    "options": [
+      "Seine",
+      "Thames",
+      "Danube",
+      "Rhine"
+    ],
+    "answer": "Seine",
+    "explanation": "The Seine runs from Burgundy through Paris and reaches the English Channel near Le Havre.",
+    "explanationJapanese": "セーヌ川はブルゴーニュからパリを通り、ル・アーブル近くでイギリス海峡に注ぎます。",
+    "vocabulary": [
+      {
+        "word": "flow",
+        "meaning": "流れる",
+        "partOfSpeech": "general",
+        "example": "Use 'flow' in context: flow relates to this topic."
+      },
+      {
+        "word": "reach",
+        "meaning": "到達する",
+        "partOfSpeech": "general",
+        "example": "Use 'reach' in context: reach relates to this topic."
+      },
+      {
+        "word": "channel",
+        "meaning": "海峡",
+        "partOfSpeech": "general",
+        "example": "Use 'channel' in context: channel relates to this topic."
+      }
+    ],
+    "category": "Geography",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: The Seine runs from Burgundy through Paris and reaches the English Channel near Le Havre.",
+    "englishExpression": "Choose \"Seine\" because The Seine runs from Burgundy through Paris and reaches the English Channel near Le Havre.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "Seine",
+      "Thames",
+      "Danube",
+      "Rhine"
+    ]
+  },
+  {
+    "question": "What is the highest mountain in South America?",
+    "questionJapanese": "南アメリカで最も高い山は何ですか？",
+    "options": [
+      "Aconcagua",
+      "Mount Everest",
+      "Chimborazo",
+      "Mount Kilimanjaro"
+    ],
+    "answer": "Aconcagua",
+    "explanation": "Aconcagua in the Andes stands about 6,960 meters above sea level.",
+    "explanationJapanese": "アンデス山脈のアコンカグアは海抜約6960メートルに達します。",
+    "vocabulary": [
+      {
+        "word": "stand",
+        "meaning": "そびえる",
+        "partOfSpeech": "general",
+        "example": "Use 'stand' in context: stand relates to this topic."
+      },
+      {
+        "word": "Andes",
+        "meaning": "アンデス山脈",
+        "partOfSpeech": "general",
+        "example": "Use 'Andes' in context: Andes relates to this topic."
+      },
+      {
+        "word": "meter",
+        "meaning": "メートル",
+        "partOfSpeech": "general",
+        "example": "Use 'meter' in context: meter relates to this topic."
+      }
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: Aconcagua in the Andes stands about 6,960 meters above sea level.",
+    "englishExpression": "Choose \"Aconcagua\" because Aconcagua in the Andes stands about 6,960 meters above sea level.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "Aconcagua",
+      "Mount Everest",
+      "Chimborazo",
+      "Mount Kilimanjaro"
+    ]
+  },
+  {
+    "question": "Which strait separates Europe and Asia through Istanbul?",
+    "questionJapanese": "ヨーロッパとアジアを分ける、イスタンブールを通る海峡は何ですか？",
+    "options": [
+      "Bosphorus",
+      "Dardanelles",
+      "Strait of Gibraltar",
+      "Suez Canal"
+    ],
+    "answer": "Bosphorus",
+    "explanation": "The Bosphorus links the Black Sea to the Sea of Marmara and splits Istanbul into two continents.",
+    "explanationJapanese": "ボスポラス海峡は黒海とマルマラ海を結び、イスタンブールを2大陸に分けます。",
+    "vocabulary": [
+      {
+        "word": "link",
+        "meaning": "つなぐ",
+        "partOfSpeech": "general",
+        "example": "Use 'link' in context: link relates to this topic."
+      },
+      {
+        "word": "split",
+        "meaning": "分ける",
+        "partOfSpeech": "general",
+        "example": "Use 'split' in context: split relates to this topic."
+      },
+      {
+        "word": "continental",
+        "meaning": "大陸の",
+        "partOfSpeech": "general",
+        "example": "Use 'continental' in context: continental relates to this topic."
+      }
+    ],
+    "category": "Geography",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: The Bosphorus links the Black Sea to the Sea of Marmara and splits Istanbul into two continents.",
+    "englishExpression": "Choose \"Bosphorus\" because The Bosphorus links the Black Sea to the Sea of Marmara and splits Istanbul into two continents.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "Bosphorus",
+      "Dardanelles",
+      "Strait of Gibraltar",
+      "Suez Canal"
+    ]
+  },
+  {
+    "question": "Which desert stretches across most of northern Africa?",
+    "questionJapanese": "アフリカ北部の大部分に広がる砂漠はどれですか？",
+    "options": [
+      "Sahara",
+      "Gobi",
+      "Kalahari",
+      "Patagonian"
+    ],
+    "answer": "Sahara",
+    "explanation": "The Sahara is the world’s largest hot desert and extends from the Atlantic to the Red Sea.",
+    "explanationJapanese": "サハラ砂漠は世界最大の熱砂漠で、アトランティックから紅海まで広がります。",
+    "vocabulary": [
+      {
+        "word": "extend",
+        "meaning": "広がる",
+        "partOfSpeech": "general",
+        "example": "Use 'extend' in context: extend relates to this topic."
+      },
+      {
+        "word": "hot",
+        "meaning": "熱い",
+        "partOfSpeech": "general",
+        "example": "Use 'hot' in context: hot relates to this topic."
+      },
+      {
+        "word": "desert",
+        "meaning": "砂漠",
+        "partOfSpeech": "general",
+        "example": "Use 'desert' in context: desert relates to this topic."
+      }
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: The Sahara is the world’s largest hot desert and extends from the Atlantic to the Red Sea.",
+    "englishExpression": "Choose \"Sahara\" because The Sahara is the world’s largest hot desert and extends from the Atlantic to the Red Sea.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "Sahara",
+      "Gobi",
+      "Kalahari",
+      "Patagonian"
+    ]
+  },
+  {
+    "question": "Which sea sits between Saudi Arabia and northeastern Africa?",
+    "questionJapanese": "サウジアラビアと北東アフリカの間にある海はどれですか？",
+    "options": [
+      "Red Sea",
+      "Mediterranean Sea",
+      "Arabian Sea",
+      "Caspian Sea"
+    ],
+    "answer": "Red Sea",
+    "explanation": "The Red Sea opens into the Gulf of Aden and serves as a key passage to the Suez Canal.",
+    "explanationJapanese": "紅海はアデン湾に通じ、スエズ運河への重要な航路です。",
+    "vocabulary": [
+      {
+        "word": "passage",
+        "meaning": "航路",
+        "partOfSpeech": "general",
+        "example": "Use 'passage' in context: passage relates to this topic."
+      },
+      {
+        "word": "key",
+        "meaning": "重要な",
+        "partOfSpeech": "general",
+        "example": "Use 'key' in context: key relates to this topic."
+      },
+      {
+        "word": "serve",
+        "meaning": "役立つ",
+        "partOfSpeech": "general",
+        "example": "Use 'serve' in context: serve relates to this topic."
+      }
+    ],
+    "category": "Geography",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: The Red Sea opens into the Gulf of Aden and serves as a key passage to the Suez Canal.",
+    "englishExpression": "Choose \"Red Sea\" because The Red Sea opens into the Gulf of Aden and serves as a key passage to the Suez Canal.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "Red Sea",
+      "Mediterranean Sea",
+      "Arabian Sea",
+      "Caspian Sea"
+    ]
+  },
+  {
+    "question": "Which mountain range includes Mount Kilimanjaro?",
+    "questionJapanese": "キリマンジャロ山が含まれる山脈はどこですか？",
+    "options": [
+      "Andes",
+      "Himalayas",
+      "Eastern Rift",
+      "Rockies"
+    ],
+    "answer": "Eastern Rift",
+    "explanation": "Kilimanjaro rises near the Eastern Rift, part of the East African Rift system.",
+    "explanationJapanese": "キリマンジャロは東部リフト、東アフリカ大地溝帯の一部にそびえます。",
+    "vocabulary": [
+      {
+        "word": "rise",
+        "meaning": "そびえる",
+        "partOfSpeech": "general",
+        "example": "Use 'rise' in context: rise relates to this topic."
+      },
+      {
+        "word": "part",
+        "meaning": "一部",
+        "partOfSpeech": "general",
+        "example": "Use 'part' in context: part relates to this topic."
+      },
+      {
+        "word": "rift",
+        "meaning": "割れ目",
+        "partOfSpeech": "general",
+        "example": "Use 'rift' in context: rift relates to this topic."
+      }
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: Kilimanjaro rises near the Eastern Rift, part of the East African Rift system.",
+    "englishExpression": "Choose \"Eastern Rift\" because Kilimanjaro rises near the Eastern Rift, part of the East African Rift system.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "Andes",
+      "Himalayas",
+      "Eastern Rift",
+      "Rockies"
+    ]
+  },
+  {
+    "question": "Which gulf borders Florida to the east and Mexico to the west?",
+    "questionJapanese": "フロリダの東、メキシコの西に面している湾はどれですか？",
+    "options": [
+      "Gulf of Mexico",
+      "Gulf of Aden",
+      "Persian Gulf",
+      "Gulf of Alaska"
+    ],
+    "answer": "Gulf of Mexico",
+    "explanation": "The Gulf of Mexico connects to the Caribbean Sea and touches the U.S., Mexico, and Cuba.",
+    "explanationJapanese": "メキシコ湾はカリブ海につながり、アメリカとメキシコ、キューバに接します。",
+    "vocabulary": [
+      {
+        "word": "connect",
+        "meaning": "つながる",
+        "partOfSpeech": "general",
+        "example": "Use 'connect' in context: connect relates to this topic."
+      },
+      {
+        "word": "touch",
+        "meaning": "接する",
+        "partOfSpeech": "general",
+        "example": "Use 'touch' in context: touch relates to this topic."
+      },
+      {
+        "word": "Caribbean",
+        "meaning": "カリブ海",
+        "partOfSpeech": "general",
+        "example": "Use 'Caribbean' in context: Caribbean relates to this topic."
+      }
+    ],
+    "category": "Geography",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: The Gulf of Mexico connects to the Caribbean Sea and touches the U.S., Mexico, and Cuba.",
+    "englishExpression": "Choose \"Gulf of Mexico\" because The Gulf of Mexico connects to the Caribbean Sea and touches the U.S., Mexico, and Cuba.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "Gulf of Mexico",
+      "Gulf of Aden",
+      "Persian Gulf",
+      "Gulf of Alaska"
+    ]
+  },
+  {
+    "question": "Which country contains both the Alps and the Po River plain?",
+    "questionJapanese": "アルプスとポー川の平野の両方を含む国はどこですか？",
+    "options": [
+      "Switzerland",
+      "Italy",
+      "Austria",
+      "France"
+    ],
+    "answer": "Italy",
+    "explanation": "Italy stretches from Alpine peaks to the fertile Po Valley in the northeast.",
+    "explanationJapanese": "イタリアはアルプスの山々から北東部の肥沃なポー谷まで広がっています。",
+    "vocabulary": [
+      {
+        "word": "stretch",
+        "meaning": "広がる",
+        "partOfSpeech": "general",
+        "example": "Use 'stretch' in context: stretch relates to this topic."
+      },
+      {
+        "word": "fertile",
+        "meaning": "肥沃な",
+        "partOfSpeech": "general",
+        "example": "Use 'fertile' in context: fertile relates to this topic."
+      },
+      {
+        "word": "Valley",
+        "meaning": "谷",
+        "partOfSpeech": "general",
+        "example": "Use 'Valley' in context: Valley relates to this topic."
+      }
+    ],
+    "category": "Geography",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: Italy stretches from Alpine peaks to the fertile Po Valley in the northeast.",
+    "englishExpression": "Choose \"Italy\" because Italy stretches from Alpine peaks to the fertile Po Valley in the northeast.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "スイス",
+      "イタリア",
+      "オーストリア",
+      "フランス"
+    ]
+  },
+  {
+    "question": "What is the largest ocean on Earth?",
+    "questionJapanese": "地球上で最大の海洋は何ですか？",
+    "options": [
+      "Pacific Ocean",
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Arctic Ocean"
+    ],
+    "answer": "Pacific Ocean",
+    "explanation": "The Pacific Ocean spans from Asia to the Americas and covers more area than all the landmasses combined.",
+    "explanationJapanese": "太平洋はアジアからアメリカまで広がり、全ての陸地を合わせた面積よりも大きいです。",
+    "vocabulary": [
+      {
+        "word": "span",
+        "meaning": "広がる",
+        "partOfSpeech": "general",
+        "example": "Use 'span' in context: span relates to this topic."
+      },
+      {
+        "word": "area",
+        "meaning": "面積",
+        "partOfSpeech": "general",
+        "example": "Use 'area' in context: area relates to this topic."
+      },
+      {
+        "word": "landmass",
+        "meaning": "陸地",
+        "partOfSpeech": "general",
+        "example": "Use 'landmass' in context: landmass relates to this topic."
+      }
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: The Pacific Ocean spans from Asia to the Americas and covers more area than all the landmasses combined.",
+    "englishExpression": "Choose \"Pacific Ocean\" because The Pacific Ocean spans from Asia to the Americas and covers more area than all the landmasses combined.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "Pacific Ocean",
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Arctic Ocean"
+    ]
+  },
+  {
+    "question": "Which city is the capital of New Zealand?",
+    "questionJapanese": "ニュージーランドの首都はどの都市ですか？",
+    "options": [
+      "Wellington",
+      "Auckland",
+      "Christchurch",
+      "Sydney"
+    ],
+    "answer": "Wellington",
+    "explanation": "Wellington sits on the southern tip of New Zealand's North Island and hosts the national government.",
+    "explanationJapanese": "ウェリントンはニュージーランド北島の南端にあり、国の政府機関が集まっています。",
+    "vocabulary": [
+      {
+        "word": "government",
+        "meaning": "政府",
+        "partOfSpeech": "general",
+        "example": "Use 'government' in context: government relates to this topic."
+      },
+      {
+        "word": "southern tip",
+        "meaning": "南端",
+        "partOfSpeech": "general",
+        "example": "Use 'southern tip' in context: southern tip relates to this topic."
+      },
+      {
+        "word": "host",
+        "meaning": "開催する",
+        "partOfSpeech": "general",
+        "example": "Use 'host' in context: host relates to this topic."
+      }
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: Wellington sits on the southern tip of New Zealand's North Island and hosts the national government.",
+    "englishExpression": "Choose \"Wellington\" because Wellington sits on the southern tip of New Zealand's North Island and hosts the national government.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "Wellington",
+      "Auckland",
+      "Christchurch",
+      "Sydney"
+    ]
+  },
+  {
+    "question": "Which city is the capital of Kenya?",
+    "questionJapanese": "ケニアの首都はどの都市ですか？",
+    "options": [
+      "Nairobi",
+      "Mombasa",
+      "Lagos",
+      "Kampala"
+    ],
+    "answer": "Nairobi",
+    "explanation": "Nairobi became Kenya's capital during the colonial era and grew around the railway to Uganda.",
+    "explanationJapanese": "ナイロビは植民地時代にケニアの首都となり、ウガンダへの鉄道を中心に発展しました。",
+    "vocabulary": [
+      {
+        "word": "colonial",
+        "meaning": "植民地の",
+        "partOfSpeech": "general",
+        "example": "Use 'colonial' in context: colonial relates to this topic."
+      },
+      {
+        "word": "railway",
+        "meaning": "鉄道",
+        "partOfSpeech": "general",
+        "example": "Use 'railway' in context: railway relates to this topic."
+      },
+      {
+        "word": "grow around",
+        "meaning": "〜を中心に発展する",
+        "partOfSpeech": "general",
+        "example": "Use 'grow around' in context: grow around relates to this topic."
+      }
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: Nairobi became Kenya's capital during the colonial era and grew around the railway to Uganda.",
+    "englishExpression": "Choose \"Nairobi\" because Nairobi became Kenya's capital during the colonial era and grew around the railway to Uganda.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "Nairobi",
+      "Mombasa",
+      "Lagos",
+      "Kampala"
+    ]
+  },
+  {
+    "question": "Which city is the capital of Peru?",
+    "questionJapanese": "ペルーの首都はどの都市ですか？",
+    "options": [
+      "Lima",
+      "Buenos Aires",
+      "Quito",
+      "La Paz"
+    ],
+    "answer": "Lima",
+    "explanation": "Lima rests on the Pacific coast and has been Peru's capital since colonial times.",
+    "explanationJapanese": "リマは太平洋沿岸にあり、植民地時代以来ペルーの首都です。",
+    "vocabulary": [
+      {
+        "word": "coast",
+        "meaning": "沿岸",
+        "partOfSpeech": "general",
+        "example": "Use 'coast' in context: coast relates to this topic."
+      },
+      {
+        "word": "colonial",
+        "meaning": "植民地の",
+        "partOfSpeech": "general",
+        "example": "Use 'colonial' in context: colonial relates to this topic."
+      },
+      {
+        "word": "rest",
+        "meaning": "位置する",
+        "partOfSpeech": "general",
+        "example": "Use 'rest' in context: rest relates to this topic."
+      }
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: Lima rests on the Pacific coast and has been Peru's capital since colonial times.",
+    "englishExpression": "Choose \"Lima\" because Lima rests on the Pacific coast and has been Peru's capital since colonial times.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "Lima",
+      "Buenos Aires",
+      "Quito",
+      "La Paz"
+    ]
+  },
+  {
+    "question": "Which Asian capital lies on the Han River?",
+    "questionJapanese": "漢江（ハンガン）沿いにあるアジアの首都はどこですか？",
+    "options": [
+      "Seoul",
+      "Busan",
+      "Taipei",
+      "Beijing"
+    ],
+    "answer": "Seoul",
+    "explanation": "Seoul stretches along the Han River and is South Korea's political, cultural, and economic center.",
+    "explanationJapanese": "ソウルは漢江に沿って広がり、韓国の政治・文化・経済の中心地です。",
+    "vocabulary": [
+      {
+        "word": "stretch",
+        "meaning": "広がる",
+        "partOfSpeech": "general",
+        "example": "Use 'stretch' in context: stretch relates to this topic."
+      },
+      {
+        "word": "political",
+        "meaning": "政治の",
+        "partOfSpeech": "general",
+        "example": "Use 'political' in context: political relates to this topic."
+      },
+      {
+        "word": "economic",
+        "meaning": "経済の",
+        "partOfSpeech": "general",
+        "example": "Use 'economic' in context: economic relates to this topic."
+      }
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: Seoul stretches along the Han River and is South Korea's political, cultural, and economic center.",
+    "englishExpression": "Choose \"Seoul\" because Seoul stretches along the Han River and is South Korea's political, cultural, and economic center.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "ソウル",
+      "Busan",
+      "Taipei",
+      "Beijing"
+    ]
+  },
+  {
+    "question": "What is the capital city of Hungary?",
+    "questionJapanese": "ハンガリーの首都はどの都市ですか？",
+    "options": [
+      "Budapest",
+      "Prague",
+      "Vienna",
+      "Belgrade"
+    ],
+    "answer": "Budapest",
+    "explanation": "Budapest spans both sides of the Danube River and has been Hungary's capital since 1873.",
+    "explanationJapanese": "ブダペストはドナウ川の両岸に広がり、1873年以降ハンガリーの首都です。",
+    "vocabulary": [
+      {
+        "word": "span",
+        "meaning": "またがる",
+        "partOfSpeech": "general",
+        "example": "Use 'span' in context: span relates to this topic."
+      },
+      {
+        "word": "Danube",
+        "meaning": "ドナウ",
+        "partOfSpeech": "general",
+        "example": "Use 'Danube' in context: Danube relates to this topic."
+      },
+      {
+        "word": "side",
+        "meaning": "岸",
+        "partOfSpeech": "general",
+        "example": "Use 'side' in context: side relates to this topic."
+      }
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: Budapest spans both sides of the Danube River and has been Hungary's capital since 1873.",
+    "englishExpression": "Choose \"Budapest\" because Budapest spans both sides of the Danube River and has been Hungary's capital since 1873.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "ブダペスト",
+      "プラハ",
+      "ウィーン",
+      "Belgrade"
+    ]
+  },
+  {
+    "question": "What is the capital of Turkmenistan?",
+    "questionJapanese": "トルクメニスタンの首都はどこですか？",
+    "options": [
+      "Ashgabat",
+      "Tashkent",
+      "Baku",
+      "Tehran"
+    ],
+    "answer": "Ashgabat",
+    "explanation": "Ashgabat sits near the Kopet Dag mountains and is known for its white marble buildings.",
+    "explanationJapanese": "アシガバートはコペトダグ山脈の近くにあり、大理石の建物で知られています。",
+    "vocabulary": [
+      {
+        "word": "mountain",
+        "meaning": "山",
+        "partOfSpeech": "general",
+        "example": "Use 'mountain' in context: mountain relates to this topic."
+      },
+      {
+        "word": "marble",
+        "meaning": "大理石",
+        "partOfSpeech": "general",
+        "example": "Use 'marble' in context: marble relates to this topic."
+      },
+      {
+        "word": "known for",
+        "meaning": "～で知られている",
+        "partOfSpeech": "general",
+        "example": "Use 'known for' in context: known for relates to this topic."
+      }
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: Ashgabat sits near the Kopet Dag mountains and is known for its white marble buildings.",
+    "englishExpression": "Choose \"Ashgabat\" because Ashgabat sits near the Kopet Dag mountains and is known for its white marble buildings.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "Ashgabat",
+      "Tashkent",
+      "Baku",
+      "Tehran"
+    ]
+  },
+  {
+    "question": "Which city is the capital of Argentina?",
+    "questionJapanese": "アルゼンチンの首都はどの都市ですか？",
+    "options": [
+      "Buenos Aires",
+      "Montevideo",
+      "Santiago",
+      "Lima"
+    ],
+    "answer": "Buenos Aires",
+    "explanation": "Buenos Aires sits on the Rio de la Plata and hosts Argentina's national government and vibrant arts scene.",
+    "explanationJapanese": "ブエノスアイレスはラ・プラタ川沿いにあり、国の政府と賑やかな芸術文化を担っています。",
+    "vocabulary": [
+      {
+        "word": "estuary",
+        "meaning": "河口",
+        "partOfSpeech": "general",
+        "example": "Use 'estuary' in context: estuary relates to this topic."
+      },
+      {
+        "word": "culture",
+        "meaning": "文化",
+        "partOfSpeech": "general",
+        "example": "Use 'culture' in context: culture relates to this topic."
+      },
+      {
+        "word": "capital",
+        "meaning": "首都",
+        "partOfSpeech": "general",
+        "example": "Use 'capital' in context: capital relates to this topic."
+      }
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: Buenos Aires sits on the Rio de la Plata and hosts Argentina's national government and vibrant arts scene.",
+    "englishExpression": "Choose \"Buenos Aires\" because Buenos Aires sits on the Rio de la Plata and hosts Argentina's national government and vibrant arts scene.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "Buenos Aires",
+      "Montevideo",
+      "Santiago",
+      "Lima"
+    ]
+  },
+  {
+    "question": "Which city is the capital of Australia?",
+    "questionJapanese": "オーストラリアの首都はどの都市ですか？",
+    "options": [
+      "Canberra",
+      "Sydney",
+      "Melbourne",
+      "Brisbane"
+    ],
+    "answer": "Canberra",
+    "explanation": "Canberra lies between Sydney and Melbourne and was planned to host Australia's government.",
+    "explanationJapanese": "キャンベラはシドニーとメルボルンの間にあり、政府を誘致するよう計画されました。",
+    "vocabulary": [
+      {
+        "word": "government",
+        "meaning": "政府",
+        "partOfSpeech": "general",
+        "example": "Use 'government' in context: government relates to this topic."
+      },
+      {
+        "word": "embassy",
+        "meaning": "大使館",
+        "partOfSpeech": "general",
+        "example": "Use 'embassy' in context: embassy relates to this topic."
+      },
+      {
+        "word": "planned",
+        "meaning": "計画された",
+        "partOfSpeech": "general",
+        "example": "Use 'planned' in context: planned relates to this topic."
+      }
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: Canberra lies between Sydney and Melbourne and was planned to host Australia's government.",
+    "englishExpression": "Choose \"Canberra\" because Canberra lies between Sydney and Melbourne and was planned to host Australia's government.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "キャンベラ",
+      "Sydney",
+      "Melbourne",
+      "Brisbane"
+    ]
+  },
+  {
+    "question": "Which city is the capital of Austria?",
+    "questionJapanese": "オーストリアの首都はどの都市ですか？",
+    "options": [
+      "Vienna",
+      "Prague",
+      "Budapest",
+      "Bratislava"
+    ],
+    "answer": "Vienna",
+    "explanation": "Vienna stretches along the Danube and is Austria's imperial government seat.",
+    "explanationJapanese": "ウィーンはドナウ川沿いに広がり、かつての帝国の政府が今も所在します。",
+    "vocabulary": [
+      {
+        "word": "Danube",
+        "meaning": "ドナウ川",
+        "partOfSpeech": "general",
+        "example": "Use 'Danube' in context: Danube relates to this topic."
+      },
+      {
+        "word": "imperial",
+        "meaning": "皇帝の",
+        "partOfSpeech": "general",
+        "example": "Use 'imperial' in context: imperial relates to this topic."
+      },
+      {
+        "word": "music",
+        "meaning": "音楽",
+        "partOfSpeech": "general",
+        "example": "Use 'music' in context: music relates to this topic."
+      }
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: Vienna stretches along the Danube and is Austria's imperial government seat.",
+    "englishExpression": "Choose \"Vienna\" because Vienna stretches along the Danube and is Austria's imperial government seat.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "ウィーン",
+      "プラハ",
+      "ブダペスト",
+      "Bratislava"
+    ]
+  },
+  {
+    "question": "Which city is the capital of Belgium?",
+    "questionJapanese": "ベルギーの首都はどの都市ですか？",
+    "options": [
+      "Brussels",
+      "Amsterdam",
+      "Luxembourg City",
+      "Paris"
+    ],
+    "answer": "Brussels",
+    "explanation": "Brussels hosts the Belgian federal government and many European Union institutions.",
+    "explanationJapanese": "ブリュッセルはベルギー連邦政府とEU機関が集まっています。",
+    "vocabulary": [
+      {
+        "word": "federal",
+        "meaning": "連邦の",
+        "partOfSpeech": "general",
+        "example": "Use 'federal' in context: federal relates to this topic."
+      },
+      {
+        "word": "institution",
+        "meaning": "機関",
+        "partOfSpeech": "general",
+        "example": "Use 'institution' in context: institution relates to this topic."
+      },
+      {
+        "word": "multilingual",
+        "meaning": "多言語の",
+        "partOfSpeech": "general",
+        "example": "Use 'multilingual' in context: multilingual relates to this topic."
+      }
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: Brussels hosts the Belgian federal government and many European Union institutions.",
+    "englishExpression": "Choose \"Brussels\" because Brussels hosts the Belgian federal government and many European Union institutions.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "ブリュッセル",
+      "アムステルダム",
+      "Luxembourg City",
+      "パリ"
+    ]
+  },
+  {
+    "question": "Which city is the capital of Brazil?",
+    "questionJapanese": "ブラジルの首都はどの都市ですか？",
+    "options": [
+      "Brasilia",
+      "Rio de Janeiro",
+      "Sao Paulo",
+      "Buenos Aires"
+    ],
+    "answer": "Brasilia",
+    "explanation": "Brasilia was built inland in the 1960s to anchor Brazil's interior government.",
+    "explanationJapanese": "ブラジリアは1960年代に内陸に建設され、政府機能を内陸に移すための都市です。",
+    "vocabulary": [
+      {
+        "word": "interior",
+        "meaning": "内陸",
+        "partOfSpeech": "general",
+        "example": "Use 'interior' in context: interior relates to this topic."
+      },
+      {
+        "word": "modernist",
+        "meaning": "モダニズムの",
+        "partOfSpeech": "general",
+        "example": "Use 'modernist' in context: modernist relates to this topic."
+      },
+      {
+        "word": "anchor",
+        "meaning": "支える",
+        "partOfSpeech": "general",
+        "example": "Use 'anchor' in context: anchor relates to this topic."
+      }
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: Brasilia was built inland in the 1960s to anchor Brazil's interior government.",
+    "englishExpression": "Choose \"Brasilia\" because Brasilia was built inland in the 1960s to anchor Brazil's interior government.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "Brasilia",
+      "Rio de Janeiro",
+      "Sao Paulo",
+      "Buenos Aires"
+    ]
+  },
+  {
+    "question": "Which city is the capital of Canada?",
+    "questionJapanese": "カナダの首都はどの都市ですか？",
+    "options": [
+      "Ottawa",
+      "Toronto",
+      "Montreal",
+      "Vancouver"
+    ],
+    "answer": "Ottawa",
+    "explanation": "Ottawa lies on the Ottawa River and hosts Canada's parliament and Governor General.",
+    "explanationJapanese": "オタワはオタワ川沿いにあり、議会と総督府が置かれています。",
+    "vocabulary": [
+      {
+        "word": "parliament",
+        "meaning": "議会",
+        "partOfSpeech": "general",
+        "example": "Use 'parliament' in context: parliament relates to this topic."
+      },
+      {
+        "word": "bilingual",
+        "meaning": "二言語の",
+        "partOfSpeech": "general",
+        "example": "Use 'bilingual' in context: bilingual relates to this topic."
+      },
+      {
+        "word": "Governor General",
+        "meaning": "総督",
+        "partOfSpeech": "general",
+        "example": "Use 'Governor General' in context: Governor General relates to this topic."
+      }
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: Ottawa lies on the Ottawa River and hosts Canada's parliament and Governor General.",
+    "englishExpression": "Choose \"Ottawa\" because Ottawa lies on the Ottawa River and hosts Canada's parliament and Governor General.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "オタワ",
+      "Toronto",
+      "Montreal",
+      "Vancouver"
+    ]
+  },
+  {
+    "question": "Which city is the capital of Chile?",
+    "questionJapanese": "チリの首都はどの都市ですか？",
+    "options": [
+      "Santiago",
+      "Lima",
+      "Buenos Aires",
+      "Quito"
+    ],
+    "answer": "Santiago",
+    "explanation": "Santiago sits in a valley between the Andes and the coastal range.",
+    "explanationJapanese": "サンティアゴはアンデス山脈と海岸山脈にはさまれた盆地にあります。",
+    "vocabulary": [
+      {
+        "word": "valley",
+        "meaning": "谷",
+        "partOfSpeech": "general",
+        "example": "Use 'valley' in context: valley relates to this topic."
+      },
+      {
+        "word": "range",
+        "meaning": "山脈",
+        "partOfSpeech": "general",
+        "example": "Use 'range' in context: range relates to this topic."
+      },
+      {
+        "word": "connect",
+        "meaning": "つなぐ",
+        "partOfSpeech": "general",
+        "example": "Use 'connect' in context: connect relates to this topic."
+      }
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: Santiago sits in a valley between the Andes and the coastal range.",
+    "englishExpression": "Choose \"Santiago\" because Santiago sits in a valley between the Andes and the coastal range.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "Santiago",
+      "Lima",
+      "Buenos Aires",
+      "Quito"
+    ]
+  },
+  {
+    "question": "Which city is the capital of China?",
+    "questionJapanese": "中国の首都はどの都市ですか？",
+    "options": [
+      "Beijing",
+      "Shanghai",
+      "Seoul",
+      "Tokyo"
+    ],
+    "answer": "Beijing",
+    "explanation": "Beijing holds imperial palaces and now hosts the Chinese central government.",
+    "explanationJapanese": "北京には宮殿が残り、現在は中国の中央政府が置かれています。",
+    "vocabulary": [
+      {
+        "word": "imperial",
+        "meaning": "帝国の",
+        "partOfSpeech": "general",
+        "example": "Use 'imperial' in context: imperial relates to this topic."
+      },
+      {
+        "word": "mission",
+        "meaning": "使節団",
+        "partOfSpeech": "general",
+        "example": "Use 'mission' in context: mission relates to this topic."
+      },
+      {
+        "word": "ceremony",
+        "meaning": "式典",
+        "partOfSpeech": "general",
+        "example": "Use 'ceremony' in context: ceremony relates to this topic."
+      }
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: Beijing holds imperial palaces and now hosts the Chinese central government.",
+    "englishExpression": "Choose \"Beijing\" because Beijing holds imperial palaces and now hosts the Chinese central government.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "Beijing",
+      "Shanghai",
+      "ソウル",
+      "Tokyo"
+    ]
+  },
+  {
+    "question": "Which city is the capital of Colombia?",
+    "questionJapanese": "コロンビアの首都はどの都市ですか？",
+    "options": [
+      "Bogota",
+      "Caracas",
+      "Quito",
+      "Lima"
+    ],
+    "answer": "Bogota",
+    "explanation": "Bogota crowns a high Andean plateau and houses Colombia's national government.",
+    "explanationJapanese": "ボゴタはアンデス高地の台地に位置し、コロンビアの政府機関が揃います。",
+    "vocabulary": [
+      {
+        "word": "plateau",
+        "meaning": "高地",
+        "partOfSpeech": "general",
+        "example": "Use 'plateau' in context: plateau relates to this topic."
+      },
+      {
+        "word": "heritage",
+        "meaning": "遺産",
+        "partOfSpeech": "general",
+        "example": "Use 'heritage' in context: heritage relates to this topic."
+      },
+      {
+        "word": "museum",
+        "meaning": "博物館",
+        "partOfSpeech": "general",
+        "example": "Use 'museum' in context: museum relates to this topic."
+      }
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: Bogota crowns a high Andean plateau and houses Colombia's national government.",
+    "englishExpression": "Choose \"Bogota\" because Bogota crowns a high Andean plateau and houses Colombia's national government.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "Bogota",
+      "Caracas",
+      "Quito",
+      "Lima"
+    ]
+  },
+  {
+    "question": "Which city is the capital of Czech Republic?",
+    "questionJapanese": "チェコ共和国の首都はどの都市ですか？",
+    "options": [
+      "Prague",
+      "Vienna",
+      "Bratislava",
+      "Budapest"
+    ],
+    "answer": "Prague",
+    "explanation": "Prague stretches along the Vltava River and is the Czech Republic's capital.",
+    "explanationJapanese": "プラハはヴルタヴァ川沿いに広がり、チェコ共和国の首都です。",
+    "vocabulary": [
+      {
+        "word": "river",
+        "meaning": "川",
+        "partOfSpeech": "general",
+        "example": "Use 'river' in context: river relates to this topic."
+      },
+      {
+        "word": "bridge",
+        "meaning": "橋",
+        "partOfSpeech": "general",
+        "example": "Use 'bridge' in context: bridge relates to this topic."
+      },
+      {
+        "word": "historic",
+        "meaning": "歴史的な",
+        "partOfSpeech": "general",
+        "example": "Use 'historic' in context: historic relates to this topic."
+      }
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: Prague stretches along the Vltava River and is the Czech Republic's capital.",
+    "englishExpression": "Choose \"Prague\" because Prague stretches along the Vltava River and is the Czech Republic's capital.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "プラハ",
+      "ウィーン",
+      "Bratislava",
+      "ブダペスト"
+    ]
+  },
+  {
+    "question": "Which city is the capital of Denmark?",
+    "questionJapanese": "デンマークの首都はどの都市ですか？",
+    "options": [
+      "Copenhagen",
+      "Oslo",
+      "Stockholm",
+      "Helsinki"
+    ],
+    "answer": "Copenhagen",
+    "explanation": "Copenhagen sits on the Oresund strait and anchors Danish politics.",
+    "explanationJapanese": "コペンハーゲンはエーレスンド海峡沿いにあり、デンマーク政治の中心です。",
+    "vocabulary": [
+      {
+        "word": "strait",
+        "meaning": "海峡",
+        "partOfSpeech": "general",
+        "example": "Use 'strait' in context: strait relates to this topic."
+      },
+      {
+        "word": "harbor",
+        "meaning": "港",
+        "partOfSpeech": "general",
+        "example": "Use 'harbor' in context: harbor relates to this topic."
+      },
+      {
+        "word": "sustainability",
+        "meaning": "持続可能性",
+        "partOfSpeech": "general",
+        "example": "Use 'sustainability' in context: sustainability relates to this topic."
+      }
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: Copenhagen sits on the Oresund strait and anchors Danish politics.",
+    "englishExpression": "Choose \"Copenhagen\" because Copenhagen sits on the Oresund strait and anchors Danish politics.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "コペンハーゲン",
+      "オスロ",
+      "ストックホルム",
+      "ヘルシンキ"
+    ]
+  },
+  {
+    "question": "Which city is the capital of Egypt?",
+    "questionJapanese": "エジプトの首都はどの都市ですか？",
+    "options": [
+      "Cairo",
+      "Alexandria",
+      "Khartoum",
+      "Tripoli"
+    ],
+    "answer": "Cairo",
+    "explanation": "Cairo lies near the Nile delta and is Egypt's political capital.",
+    "explanationJapanese": "カイロはナイルデルタ近くにあり、エジプトの政治的な中心です。",
+    "vocabulary": [
+      {
+        "word": "delta",
+        "meaning": "三角州",
+        "partOfSpeech": "general",
+        "example": "Use 'delta' in context: delta relates to this topic."
+      },
+      {
+        "word": "political",
+        "meaning": "政治の",
+        "partOfSpeech": "general",
+        "example": "Use 'political' in context: political relates to this topic."
+      },
+      {
+        "word": "monument",
+        "meaning": "記念碑",
+        "partOfSpeech": "general",
+        "example": "Use 'monument' in context: monument relates to this topic."
+      }
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: Cairo lies near the Nile delta and is Egypt's political capital.",
+    "englishExpression": "Choose \"Cairo\" because Cairo lies near the Nile delta and is Egypt's political capital.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "カイロ",
+      "Alexandria",
+      "Khartoum",
+      "Tripoli"
+    ]
+  },
+  {
+    "question": "Which city is the capital of Finland?",
+    "questionJapanese": "フィンランドの首都はどの都市ですか？",
+    "options": [
+      "Helsinki",
+      "Stockholm",
+      "Tallinn",
+      "Oslo"
+    ],
+    "answer": "Helsinki",
+    "explanation": "Helsinki faces the Gulf of Finland and commands Finnish government operations.",
+    "explanationJapanese": "ヘルシンキはフィンランド湾に面し、政府機関を統括しています。",
+    "vocabulary": [
+      {
+        "word": "gulf",
+        "meaning": "湾",
+        "partOfSpeech": "general",
+        "example": "Use 'gulf' in context: gulf relates to this topic."
+      },
+      {
+        "word": "district",
+        "meaning": "地区",
+        "partOfSpeech": "general",
+        "example": "Use 'district' in context: district relates to this topic."
+      },
+      {
+        "word": "planning",
+        "meaning": "計画",
+        "partOfSpeech": "general",
+        "example": "Use 'planning' in context: planning relates to this topic."
+      }
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: Helsinki faces the Gulf of Finland and commands Finnish government operations.",
+    "englishExpression": "Choose \"Helsinki\" because Helsinki faces the Gulf of Finland and commands Finnish government operations.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "ヘルシンキ",
+      "ストックホルム",
+      "Tallinn",
+      "オスロ"
+    ]
+  },
+  {
+    "question": "Which city is the capital of Ghana?",
+    "questionJapanese": "ガーナの首都はどの都市ですか？",
+    "options": [
+      "Accra",
+      "Lagos",
+      "Abuja",
+      "Dakar"
+    ],
+    "answer": "Accra",
+    "explanation": "Accra fronts the Gulf of Guinea and hosts Ghana's government ministries.",
+    "explanationJapanese": "アクラはギニア湾に面し、ガーナの各省庁を抱えています。",
+    "vocabulary": [
+      {
+        "word": "ministry",
+        "meaning": "省庁",
+        "partOfSpeech": "general",
+        "example": "Use 'ministry' in context: ministry relates to this topic."
+      },
+      {
+        "word": "trade",
+        "meaning": "貿易",
+        "partOfSpeech": "general",
+        "example": "Use 'trade' in context: trade relates to this topic."
+      },
+      {
+        "word": "hub",
+        "meaning": "拠点",
+        "partOfSpeech": "general",
+        "example": "Use 'hub' in context: hub relates to this topic."
+      }
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: Accra fronts the Gulf of Guinea and hosts Ghana's government ministries.",
+    "englishExpression": "Choose \"Accra\" because Accra fronts the Gulf of Guinea and hosts Ghana's government ministries.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "Accra",
+      "Lagos",
+      "アブジャ",
+      "Dakar"
+    ]
+  },
+  {
+    "question": "Which city is the capital of Greece?",
+    "questionJapanese": "ギリシャの首都はどの都市ですか？",
+    "options": [
+      "Athens",
+      "Rome",
+      "Sofia",
+      "Ankara"
+    ],
+    "answer": "Athens",
+    "explanation": "Athens keeps Greece's parliament among ancient ruins like the Acropolis.",
+    "explanationJapanese": "アテネには国会があり、アクロポリスなどの古代遺跡と並んでいます。",
+    "vocabulary": [
+      {
+        "word": "parliament",
+        "meaning": "議会",
+        "partOfSpeech": "general",
+        "example": "Use 'parliament' in context: parliament relates to this topic."
+      },
+      {
+        "word": "ruins",
+        "meaning": "遺跡",
+        "partOfSpeech": "general",
+        "example": "Use 'ruins' in context: ruins relates to this topic."
+      },
+      {
+        "word": "Mediterranean",
+        "meaning": "地中海",
+        "partOfSpeech": "general",
+        "example": "Use 'Mediterranean' in context: Mediterranean relates to this topic."
+      }
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: Athens keeps Greece's parliament among ancient ruins like the Acropolis.",
+    "englishExpression": "Choose \"Athens\" because Athens keeps Greece's parliament among ancient ruins like the Acropolis.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "アテネ",
+      "ローマ",
+      "Sofia",
+      "Ankara"
+    ]
+  },
+  {
+    "question": "Which city is the capital of India?",
+    "questionJapanese": "インドの首都はどの都市ですか？",
+    "options": [
+      "New Delhi",
+      "Mumbai",
+      "Kolkata",
+      "Islamabad"
+    ],
+    "answer": "New Delhi",
+    "explanation": "New Delhi hosts India's parliament and key ministries within the national capital territory.",
+    "explanationJapanese": "ニューデリーは議会や省庁が入る首都圏の一部です。",
+    "vocabulary": [
+      {
+        "word": "territory",
+        "meaning": "領域",
+        "partOfSpeech": "general",
+        "example": "Use 'territory' in context: territory relates to this topic."
+      },
+      {
+        "word": "ministry",
+        "meaning": "省庁",
+        "partOfSpeech": "general",
+        "example": "Use 'ministry' in context: ministry relates to this topic."
+      },
+      {
+        "word": "diplomatic",
+        "meaning": "外交の",
+        "partOfSpeech": "general",
+        "example": "Use 'diplomatic' in context: diplomatic relates to this topic."
+      }
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: New Delhi hosts India's parliament and key ministries within the national capital territory.",
+    "englishExpression": "Choose \"New Delhi\" because New Delhi hosts India's parliament and key ministries within the national capital territory.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "New Delhi",
+      "Mumbai",
+      "Kolkata",
+      "Islamabad"
+    ]
+  },
+  {
+    "question": "Which city is the capital of Indonesia?",
+    "questionJapanese": "インドネシアの首都はどの都市ですか？",
+    "options": [
+      "Jakarta",
+      "Surabaya",
+      "Manila",
+      "Bangkok"
+    ],
+    "answer": "Jakarta",
+    "explanation": "Jakarta sits on Java island and governs Indonesia's sprawling archipelago.",
+    "explanationJapanese": "ジャカルタはジャワ島にあり、広大な諸島国家を統治しています。",
+    "vocabulary": [
+      {
+        "word": "archipelago",
+        "meaning": "群島",
+        "partOfSpeech": "general",
+        "example": "Use 'archipelago' in context: archipelago relates to this topic."
+      },
+      {
+        "word": "port",
+        "meaning": "港",
+        "partOfSpeech": "general",
+        "example": "Use 'port' in context: port relates to this topic."
+      },
+      {
+        "word": "island",
+        "meaning": "島",
+        "partOfSpeech": "general",
+        "example": "Use 'island' in context: island relates to this topic."
+      }
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: Jakarta sits on Java island and governs Indonesia's sprawling archipelago.",
+    "englishExpression": "Choose \"Jakarta\" because Jakarta sits on Java island and governs Indonesia's sprawling archipelago.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "ジャカルタ",
+      "Surabaya",
+      "Manila",
+      "バンコク"
+    ]
+  },
+  {
+    "question": "Which city is the capital of Ireland?",
+    "questionJapanese": "アイルランドの首都はどの都市ですか？",
+    "options": [
+      "Dublin",
+      "Belfast",
+      "London",
+      "Edinburgh"
+    ],
+    "answer": "Dublin",
+    "explanation": "Dublin sits at the mouth of the River Liffey and holds Ireland's parliament.",
+    "explanationJapanese": "ダブリンはリフィー川の河口に位置し、アイルランドの議会があります。",
+    "vocabulary": [
+      {
+        "word": "mouth",
+        "meaning": "河口",
+        "partOfSpeech": "general",
+        "example": "Use 'mouth' in context: mouth relates to this topic."
+      },
+      {
+        "word": "campus",
+        "meaning": "キャンパス",
+        "partOfSpeech": "general",
+        "example": "Use 'campus' in context: campus relates to this topic."
+      },
+      {
+        "word": "parliament",
+        "meaning": "議会",
+        "partOfSpeech": "general",
+        "example": "Use 'parliament' in context: parliament relates to this topic."
+      }
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: Dublin sits at the mouth of the River Liffey and holds Ireland's parliament.",
+    "englishExpression": "Choose \"Dublin\" because Dublin sits at the mouth of the River Liffey and holds Ireland's parliament.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "ダブリン",
+      "Belfast",
+      "ロンドン",
+      "Edinburgh"
+    ]
+  },
+  {
+    "question": "Which city is the capital of Israel?",
+    "questionJapanese": "イスラエルの首都はどの都市ですか？",
+    "options": [
+      "Jerusalem",
+      "Tel Aviv",
+      "Amman",
+      "Beirut"
+    ],
+    "answer": "Jerusalem",
+    "explanation": "Jerusalem mixes ancient holy sites with modern Israeli government buildings.",
+    "explanationJapanese": "エルサレムは古代の聖地と現代の政府施設が共存しています。",
+    "vocabulary": [
+      {
+        "word": "ancient",
+        "meaning": "古代の",
+        "partOfSpeech": "general",
+        "example": "Use 'ancient' in context: ancient relates to this topic."
+      },
+      {
+        "word": "holy",
+        "meaning": "聖なる",
+        "partOfSpeech": "general",
+        "example": "Use 'holy' in context: holy relates to this topic."
+      },
+      {
+        "word": "diplomacy",
+        "meaning": "外交",
+        "partOfSpeech": "general",
+        "example": "Use 'diplomacy' in context: diplomacy relates to this topic."
+      }
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: Jerusalem mixes ancient holy sites with modern Israeli government buildings.",
+    "englishExpression": "Choose \"Jerusalem\" because Jerusalem mixes ancient holy sites with modern Israeli government buildings.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "Jerusalem",
+      "Tel Aviv",
+      "Amman",
+      "Beirut"
+    ]
+  },
+  {
+    "question": "Which city is the capital of Jamaica?",
+    "questionJapanese": "ジャマイカの首都はどの都市ですか？",
+    "options": [
+      "Kingston",
+      "Havana",
+      "Nassau",
+      "Port-au-Prince"
+    ],
+    "answer": "Kingston",
+    "explanation": "Kingston manages Jamaica's ministries and faces the Caribbean Sea.",
+    "explanationJapanese": "キングストンは省庁を統括し、カリブ海に面しています。",
+    "vocabulary": [
+      {
+        "word": "ministry",
+        "meaning": "省庁",
+        "partOfSpeech": "general",
+        "example": "Use 'ministry' in context: ministry relates to this topic."
+      },
+      {
+        "word": "harbor",
+        "meaning": "港",
+        "partOfSpeech": "general",
+        "example": "Use 'harbor' in context: harbor relates to this topic."
+      },
+      {
+        "word": "gateway",
+        "meaning": "玄関口",
+        "partOfSpeech": "general",
+        "example": "Use 'gateway' in context: gateway relates to this topic."
+      }
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: Kingston manages Jamaica's ministries and faces the Caribbean Sea.",
+    "englishExpression": "Choose \"Kingston\" because Kingston manages Jamaica's ministries and faces the Caribbean Sea.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "Kingston",
+      "Havana",
+      "Nassau",
+      "Port-au-Prince"
+    ]
+  },
+  {
+    "question": "Which city is the capital of Malaysia?",
+    "questionJapanese": "マレーシアの首都はどの都市ですか？",
+    "options": [
+      "Kuala Lumpur",
+      "Bangkok",
+      "Singapore",
+      "Phnom Penh"
+    ],
+    "answer": "Kuala Lumpur",
+    "explanation": "Kuala Lumpur gleams with towers and houses Malaysia's parliamentary complex.",
+    "explanationJapanese": "クアラルンプールは高層ビルが立ち並び、議会複合施設を抱えています。",
+    "vocabulary": [
+      {
+        "word": "parliamentary",
+        "meaning": "議会の",
+        "partOfSpeech": "general",
+        "example": "Use 'parliamentary' in context: parliamentary relates to this topic."
+      },
+      {
+        "word": "district",
+        "meaning": "地区",
+        "partOfSpeech": "general",
+        "example": "Use 'district' in context: district relates to this topic."
+      },
+      {
+        "word": "blend",
+        "meaning": "融合",
+        "partOfSpeech": "general",
+        "example": "Use 'blend' in context: blend relates to this topic."
+      }
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: Kuala Lumpur gleams with towers and houses Malaysia's parliamentary complex.",
+    "englishExpression": "Choose \"Kuala Lumpur\" because Kuala Lumpur gleams with towers and houses Malaysia's parliamentary complex.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "Kuala Lumpur",
+      "バンコク",
+      "Singapore",
+      "Phnom Penh"
+    ]
+  },
+  {
+    "question": "Which city is the capital of Mexico?",
+    "questionJapanese": "メキシコの首都はどの都市ですか？",
+    "options": [
+      "Mexico City",
+      "Guadalajara",
+      "Monterrey",
+      "Havana"
+    ],
+    "answer": "Mexico City",
+    "explanation": "Mexico City spreads over a high valley and has been Mexico's capital since the Aztecs.",
+    "explanationJapanese": "メキシコシティは高地の盆地に広がり、アステカ時代から首都です。",
+    "vocabulary": [
+      {
+        "word": "valley",
+        "meaning": "盆地",
+        "partOfSpeech": "general",
+        "example": "Use 'valley' in context: valley relates to this topic."
+      },
+      {
+        "word": "plaza",
+        "meaning": "広場",
+        "partOfSpeech": "general",
+        "example": "Use 'plaza' in context: plaza relates to this topic."
+      },
+      {
+        "word": "skyscraper",
+        "meaning": "超高層ビル",
+        "partOfSpeech": "general",
+        "example": "Use 'skyscraper' in context: skyscraper relates to this topic."
+      }
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: Mexico City spreads over a high valley and has been Mexico's capital since the Aztecs.",
+    "englishExpression": "Choose \"Mexico City\" because Mexico City spreads over a high valley and has been Mexico's capital since the Aztecs.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "Mexico City",
+      "Guadalajara",
+      "Monterrey",
+      "Havana"
+    ]
+  },
+  {
+    "question": "Which city is the capital of Netherlands?",
+    "questionJapanese": "オランダの首都はどの都市ですか？",
+    "options": [
+      "Amsterdam",
+      "The Hague",
+      "Brussels",
+      "Rotterdam"
+    ],
+    "answer": "Amsterdam",
+    "explanation": "Amsterdam is built around canals and hosts the Dutch parliament.",
+    "explanationJapanese": "アムステルダムは運河に囲まれ、オランダ議会を抱えています。",
+    "vocabulary": [
+      {
+        "word": "canal",
+        "meaning": "運河",
+        "partOfSpeech": "general",
+        "example": "Use 'canal' in context: canal relates to this topic."
+      },
+      {
+        "word": "parliament",
+        "meaning": "議会",
+        "partOfSpeech": "general",
+        "example": "Use 'parliament' in context: parliament relates to this topic."
+      },
+      {
+        "word": "constitutional",
+        "meaning": "憲法上の",
+        "partOfSpeech": "general",
+        "example": "Use 'constitutional' in context: constitutional relates to this topic."
+      }
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: Amsterdam is built around canals and hosts the Dutch parliament.",
+    "englishExpression": "Choose \"Amsterdam\" because Amsterdam is built around canals and hosts the Dutch parliament.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "アムステルダム",
+      "The Hague",
+      "ブリュッセル",
+      "Rotterdam"
+    ]
+  },
+  {
+    "question": "Which city is the capital of Nigeria?",
+    "questionJapanese": "ナイジェリアの首都はどの都市ですか？",
+    "options": [
+      "Abuja",
+      "Lagos",
+      "Accra",
+      "Dakar"
+    ],
+    "answer": "Abuja",
+    "explanation": "Abuja was created in the 1980s to replace Lagos as Nigeria's political capital.",
+    "explanationJapanese": "アブジャは1980年代にラゴスに代わって政治の中心となるよう建設されました。",
+    "vocabulary": [
+      {
+        "word": "replace",
+        "meaning": "置き換える",
+        "partOfSpeech": "general",
+        "example": "Use 'replace' in context: replace relates to this topic."
+      },
+      {
+        "word": "enclave",
+        "meaning": "飛び地",
+        "partOfSpeech": "general",
+        "example": "Use 'enclave' in context: enclave relates to this topic."
+      },
+      {
+        "word": "planned",
+        "meaning": "計画された",
+        "partOfSpeech": "general",
+        "example": "Use 'planned' in context: planned relates to this topic."
+      }
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: Abuja was created in the 1980s to replace Lagos as Nigeria's political capital.",
+    "englishExpression": "Choose \"Abuja\" because Abuja was created in the 1980s to replace Lagos as Nigeria's political capital.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "アブジャ",
+      "Lagos",
+      "Accra",
+      "Dakar"
+    ]
+  },
+  {
+    "question": "Which city is the capital of Norway?",
+    "questionJapanese": "ノルウェーの首都はどの都市ですか？",
+    "options": [
+      "Oslo",
+      "Stockholm",
+      "Copenhagen",
+      "Helsinki"
+    ],
+    "answer": "Oslo",
+    "explanation": "Oslo sits at the head of the Oslofjord and anchors Norway's government.",
+    "explanationJapanese": "オスロはオスロフィヨルドの奥に位置し、政府の中心地です。",
+    "vocabulary": [
+      {
+        "word": "fjord",
+        "meaning": "フィヨルド",
+        "partOfSpeech": "general",
+        "example": "Use 'fjord' in context: fjord relates to this topic."
+      },
+      {
+        "word": "shipbuilding",
+        "meaning": "造船",
+        "partOfSpeech": "general",
+        "example": "Use 'shipbuilding' in context: shipbuilding relates to this topic."
+      },
+      {
+        "word": "anchor",
+        "meaning": "支える",
+        "partOfSpeech": "general",
+        "example": "Use 'anchor' in context: anchor relates to this topic."
+      }
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: Oslo sits at the head of the Oslofjord and anchors Norway's government.",
+    "englishExpression": "Choose \"Oslo\" because Oslo sits at the head of the Oslofjord and anchors Norway's government.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "オスロ",
+      "ストックホルム",
+      "コペンハーゲン",
+      "ヘルシンキ"
+    ]
+  },
+  {
+    "question": "Which city is the capital of Philippines?",
+    "questionJapanese": "フィリピンの首都はどの都市ですか？",
+    "options": [
+      "Manila",
+      "Quezon City",
+      "Cebu",
+      "Bangkok"
+    ],
+    "answer": "Manila",
+    "explanation": "Manila stands on Manila Bay and contains the Philippine national government.",
+    "explanationJapanese": "マニラはマニラ湾沿いに位置し、フィリピンの政府を収めています。",
+    "vocabulary": [
+      {
+        "word": "bay",
+        "meaning": "湾",
+        "partOfSpeech": "general",
+        "example": "Use 'bay' in context: bay relates to this topic."
+      },
+      {
+        "word": "walled",
+        "meaning": "城壁のある",
+        "partOfSpeech": "general",
+        "example": "Use 'walled' in context: walled relates to this topic."
+      },
+      {
+        "word": "district",
+        "meaning": "地区",
+        "partOfSpeech": "general",
+        "example": "Use 'district' in context: district relates to this topic."
+      }
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: Manila stands on Manila Bay and contains the Philippine national government.",
+    "englishExpression": "Choose \"Manila\" because Manila stands on Manila Bay and contains the Philippine national government.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "Manila",
+      "Quezon City",
+      "Cebu",
+      "バンコク"
+    ]
+  },
+  {
+    "question": "Which city is the capital of Poland?",
+    "questionJapanese": "ポーランドの首都はどの都市ですか？",
+    "options": [
+      "Warsaw",
+      "Prague",
+      "Budapest",
+      "Kyiv"
+    ],
+    "answer": "Warsaw",
+    "explanation": "Warsaw stands on the Vistula River and is Poland's political center.",
+    "explanationJapanese": "ワルシャワはヴィスワ川沿いにあり、ポーランドの政治の中心です。",
+    "vocabulary": [
+      {
+        "word": "resilience",
+        "meaning": "回復力",
+        "partOfSpeech": "general",
+        "example": "Use 'resilience' in context: resilience relates to this topic."
+      },
+      {
+        "word": "rebuild",
+        "meaning": "再建",
+        "partOfSpeech": "general",
+        "example": "Use 'rebuild' in context: rebuild relates to this topic."
+      },
+      {
+        "word": "political",
+        "meaning": "政治の",
+        "partOfSpeech": "general",
+        "example": "Use 'political' in context: political relates to this topic."
+      }
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: Warsaw stands on the Vistula River and is Poland's political center.",
+    "englishExpression": "Choose \"Warsaw\" because Warsaw stands on the Vistula River and is Poland's political center.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "ワルシャワ",
+      "プラハ",
+      "ブダペスト",
+      "キーウ"
+    ]
+  },
+  {
+    "question": "Which city is the capital of Portugal?",
+    "questionJapanese": "ポルトガルの首都はどの都市ですか？",
+    "options": [
+      "Lisbon",
+      "Madrid",
+      "Rome",
+      "Paris"
+    ],
+    "answer": "Lisbon",
+    "explanation": "Lisbon crowns the Tagus River estuary and is Portugal's capital.",
+    "explanationJapanese": "リスボンはテージョ川の河口に位置し、ポルトガルの首都です。",
+    "vocabulary": [
+      {
+        "word": "estuary",
+        "meaning": "河口",
+        "partOfSpeech": "general",
+        "example": "Use 'estuary' in context: estuary relates to this topic."
+      },
+      {
+        "word": "harbor",
+        "meaning": "港",
+        "partOfSpeech": "general",
+        "example": "Use 'harbor' in context: harbor relates to this topic."
+      },
+      {
+        "word": "voyage",
+        "meaning": "航海",
+        "partOfSpeech": "general",
+        "example": "Use 'voyage' in context: voyage relates to this topic."
+      }
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: Lisbon crowns the Tagus River estuary and is Portugal's capital.",
+    "englishExpression": "Choose \"Lisbon\" because Lisbon crowns the Tagus River estuary and is Portugal's capital.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "リスボン",
+      "マドリード",
+      "ローマ",
+      "パリ"
+    ]
+  },
+  {
+    "question": "Which city is the capital of Russia?",
+    "questionJapanese": "ロシアの首都はどの都市ですか？",
+    "options": [
+      "Moscow",
+      "St. Petersburg",
+      "Kyiv",
+      "Helsinki"
+    ],
+    "answer": "Moscow",
+    "explanation": "Moscow sits along the Moskva River and is Russia's seat of power.",
+    "explanationJapanese": "モスクワはモスクワ川沿いに位置し、ロシアの政治の中心地です。",
+    "vocabulary": [
+      {
+        "word": "Kremlin",
+        "meaning": "クレムリン",
+        "partOfSpeech": "general",
+        "example": "Use 'Kremlin' in context: Kremlin relates to this topic."
+      },
+      {
+        "word": "square",
+        "meaning": "広場",
+        "partOfSpeech": "general",
+        "example": "Use 'square' in context: square relates to this topic."
+      },
+      {
+        "word": "authority",
+        "meaning": "権威",
+        "partOfSpeech": "general",
+        "example": "Use 'authority' in context: authority relates to this topic."
+      }
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: Moscow sits along the Moskva River and is Russia's seat of power.",
+    "englishExpression": "Choose \"Moscow\" because Moscow sits along the Moskva River and is Russia's seat of power.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "Moscow",
+      "St. Petersburg",
+      "キーウ",
+      "ヘルシンキ"
+    ]
+  },
+  {
+    "question": "Which city is the capital of Saudi Arabia?",
+    "questionJapanese": "サウジアラビアの首都はどの都市ですか？",
+    "options": [
+      "Riyadh",
+      "Dubai",
+      "Cairo",
+      "Baghdad"
+    ],
+    "answer": "Riyadh",
+    "explanation": "Riyadh stretches across the Arabian Desert and houses Saudi rulers.",
+    "explanationJapanese": "リヤドはアラビア砂漠に広がり、サウジ王族の居城があります。",
+    "vocabulary": [
+      {
+        "word": "desert",
+        "meaning": "砂漠",
+        "partOfSpeech": "general",
+        "example": "Use 'desert' in context: desert relates to this topic."
+      },
+      {
+        "word": "ruler",
+        "meaning": "支配者",
+        "partOfSpeech": "general",
+        "example": "Use 'ruler' in context: ruler relates to this topic."
+      },
+      {
+        "word": "modernization",
+        "meaning": "近代化",
+        "partOfSpeech": "general",
+        "example": "Use 'modernization' in context: modernization relates to this topic."
+      }
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: Riyadh stretches across the Arabian Desert and houses Saudi rulers.",
+    "englishExpression": "Choose \"Riyadh\" because Riyadh stretches across the Arabian Desert and houses Saudi rulers.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "リヤド",
+      "Dubai",
+      "カイロ",
+      "Baghdad"
+    ]
+  },
+  {
+    "question": "Which ocean current keeps Western Europe warmer than other regions at similar latitudes?",
+    "questionJapanese": "同緯度の他地域より西ヨーロッパを温暖に保つ海流はどれですか？",
+    "options": [
+      "North Atlantic Drift (Gulf Stream)",
+      "Humboldt Current",
+      "Kuroshio Current",
+      "Labrador Current"
+    ],
+    "answer": "North Atlantic Drift (Gulf Stream)",
+    "explanation": "The warm North Atlantic Drift, an extension of the Gulf Stream, carries heat that keeps Western Europe milder than similar latitudes.",
+    "explanationJapanese": "メキシコ湾流が延長した暖流ノースアトランティックドリフトが熱を運び、西ヨーロッパを同緯度より温暖に保ちます。",
+    "vocabulary": [
+      {
+        "word": "current",
+        "meaning": "海流",
+        "partOfSpeech": "general",
+        "example": "Use 'current' in context: current relates to this topic."
+      },
+      {
+        "word": "latitude",
+        "meaning": "緯度",
+        "partOfSpeech": "general",
+        "example": "Use 'latitude' in context: latitude relates to this topic."
+      }
+    ],
+    "category": "Geography",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: The warm North Atlantic Drift, an extension of the Gulf Stream, carries heat that keeps Western Europe milder than similar latitudes.",
+    "englishExpression": "Choose \"North Atlantic Drift (Gulf Stream)\" because The warm North Atlantic Drift, an extension of the Gulf Stream, carries heat that keeps Western Europe milder than similar latitudes.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "North Atlantic Drift (Gulf Stream)",
+      "Humboldt Current",
+      "Kuroshio Current",
+      "Labrador Current"
+    ]
+  },
+  {
+    "question": "What is the capital of Finland?",
+    "questionJapanese": "Finlandの首都はどこですか？",
+    "options": [
+      "Helsinki",
+      "Ottawa",
+      "Warsaw",
+      "Jakarta"
+    ],
+    "answer": "Helsinki",
+    "explanation": "Helsinki is the capital city of Finland, serving as its seat of government.",
+    "explanationJapanese": "HelsinkiはFinlandの首都で、政府の中心地です。",
+    "vocabulary": [
+      {
+        "word": "capital",
+        "meaning": "首都",
+        "partOfSpeech": "general",
+        "example": "Use 'capital' in context: capital relates to this topic."
+      },
+      {
+        "word": "government",
+        "meaning": "政府",
+        "partOfSpeech": "general",
+        "example": "Use 'government' in context: government relates to this topic."
+      }
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: Helsinki is the capital city of Finland, serving as its seat of government.",
+    "englishExpression": "Choose \"Helsinki\" because Helsinki is the capital city of Finland, serving as its seat of government.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "ヘルシンキ",
+      "オタワ",
+      "ワルシャワ",
+      "ジャカルタ"
+    ]
+  },
+  {
+    "question": "What is the capital of Kenya?",
+    "questionJapanese": "Kenyaの首都はどこですか？",
+    "options": [
+      "Nairobi",
+      "Buenos Aires",
+      "Abuja",
+      "Rabat"
+    ],
+    "answer": "Nairobi",
+    "explanation": "Nairobi is the capital city of Kenya, serving as its seat of government.",
+    "explanationJapanese": "NairobiはKenyaの首都で、政府の中心地です。",
+    "vocabulary": [
+      {
+        "word": "capital",
+        "meaning": "首都",
+        "partOfSpeech": "general",
+        "example": "Use 'capital' in context: capital relates to this topic."
+      },
+      {
+        "word": "government",
+        "meaning": "政府",
+        "partOfSpeech": "general",
+        "example": "Use 'government' in context: government relates to this topic."
+      }
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: Nairobi is the capital city of Kenya, serving as its seat of government.",
+    "englishExpression": "Choose \"Nairobi\" because Nairobi is the capital city of Kenya, serving as its seat of government.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "Nairobi",
+      "Buenos Aires",
+      "アブジャ",
+      "Rabat"
+    ]
+  },
+  {
+    "question": "What is the capital of Vietnam?",
+    "questionJapanese": "Vietnamの首都はどこですか？",
+    "options": [
+      "Cairo",
+      "Warsaw",
+      "Riyadh",
+      "Hanoi"
+    ],
+    "answer": "Hanoi",
+    "explanation": "Hanoi is the capital city of Vietnam, serving as its seat of government.",
+    "explanationJapanese": "HanoiはVietnamの首都で、政府の中心地です。",
+    "vocabulary": [
+      {
+        "word": "capital",
+        "meaning": "首都",
+        "partOfSpeech": "general",
+        "example": "Use 'capital' in context: capital relates to this topic."
+      },
+      {
+        "word": "government",
+        "meaning": "政府",
+        "partOfSpeech": "general",
+        "example": "Use 'government' in context: government relates to this topic."
+      }
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: Hanoi is the capital city of Vietnam, serving as its seat of government.",
+    "englishExpression": "Choose \"Hanoi\" because Hanoi is the capital city of Vietnam, serving as its seat of government.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "カイロ",
+      "ワルシャワ",
+      "リヤド",
+      "Hanoi"
+    ]
+  },
+  {
+    "question": "What is the capital of Chile?",
+    "questionJapanese": "Chileの首都はどこですか？",
+    "options": [
+      "Cairo",
+      "Riyadh",
+      "Santiago",
+      "Helsinki"
+    ],
+    "answer": "Santiago",
+    "explanation": "Santiago is the capital city of Chile, serving as its seat of government.",
+    "explanationJapanese": "SantiagoはChileの首都で、政府の中心地です。",
+    "vocabulary": [
+      {
+        "word": "capital",
+        "meaning": "首都",
+        "partOfSpeech": "general",
+        "example": "Use 'capital' in context: capital relates to this topic."
+      },
+      {
+        "word": "government",
+        "meaning": "政府",
+        "partOfSpeech": "general",
+        "example": "Use 'government' in context: government relates to this topic."
+      }
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: Santiago is the capital city of Chile, serving as its seat of government.",
+    "englishExpression": "Choose \"Santiago\" because Santiago is the capital city of Chile, serving as its seat of government.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "カイロ",
+      "リヤド",
+      "Santiago",
+      "ヘルシンキ"
+    ]
+  },
+  {
+    "question": "What is the capital of Morocco?",
+    "questionJapanese": "Moroccoの首都はどこですか？",
+    "options": [
+      "Rabat",
+      "Ottawa",
+      "Helsinki",
+      "Riyadh"
+    ],
+    "answer": "Rabat",
+    "explanation": "Rabat is the capital city of Morocco, serving as its seat of government.",
+    "explanationJapanese": "RabatはMoroccoの首都で、政府の中心地です。",
+    "vocabulary": [
+      {
+        "word": "capital",
+        "meaning": "首都",
+        "partOfSpeech": "general",
+        "example": "Use 'capital' in context: capital relates to this topic."
+      },
+      {
+        "word": "government",
+        "meaning": "政府",
+        "partOfSpeech": "general",
+        "example": "Use 'government' in context: government relates to this topic."
+      }
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: Rabat is the capital city of Morocco, serving as its seat of government.",
+    "englishExpression": "Choose \"Rabat\" because Rabat is the capital city of Morocco, serving as its seat of government.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "Rabat",
+      "オタワ",
+      "ヘルシンキ",
+      "リヤド"
+    ]
+  },
+  {
+    "question": "What is the capital of Canada?",
+    "questionJapanese": "Canadaの首都はどこですか？",
+    "options": [
+      "Ottawa",
+      "Rabat",
+      "Athens",
+      "Abuja"
+    ],
+    "answer": "Ottawa",
+    "explanation": "Ottawa is the capital city of Canada, serving as its seat of government.",
+    "explanationJapanese": "OttawaはCanadaの首都で、政府の中心地です。",
+    "vocabulary": [
+      {
+        "word": "capital",
+        "meaning": "首都",
+        "partOfSpeech": "general",
+        "example": "Use 'capital' in context: capital relates to this topic."
+      },
+      {
+        "word": "government",
+        "meaning": "政府",
+        "partOfSpeech": "general",
+        "example": "Use 'government' in context: government relates to this topic."
+      }
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: Ottawa is the capital city of Canada, serving as its seat of government.",
+    "englishExpression": "Choose \"Ottawa\" because Ottawa is the capital city of Canada, serving as its seat of government.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "オタワ",
+      "Rabat",
+      "アテネ",
+      "アブジャ"
+    ]
+  },
+  {
+    "question": "What is the capital of Egypt?",
+    "questionJapanese": "Egyptの首都はどこですか？",
+    "options": [
+      "Hanoi",
+      "Lisbon",
+      "Jakarta",
+      "Cairo"
+    ],
+    "answer": "Cairo",
+    "explanation": "Cairo is the capital city of Egypt, serving as its seat of government.",
+    "explanationJapanese": "CairoはEgyptの首都で、政府の中心地です。",
+    "vocabulary": [
+      {
+        "word": "capital",
+        "meaning": "首都",
+        "partOfSpeech": "general",
+        "example": "Use 'capital' in context: capital relates to this topic."
+      },
+      {
+        "word": "government",
+        "meaning": "政府",
+        "partOfSpeech": "general",
+        "example": "Use 'government' in context: government relates to this topic."
+      }
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: Cairo is the capital city of Egypt, serving as its seat of government.",
+    "englishExpression": "Choose \"Cairo\" because Cairo is the capital city of Egypt, serving as its seat of government.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "Hanoi",
+      "リスボン",
+      "ジャカルタ",
+      "カイロ"
+    ]
+  },
+  {
+    "question": "What is the capital of Hungary?",
+    "questionJapanese": "Hungaryの首都はどこですか？",
+    "options": [
+      "Helsinki",
+      "Nairobi",
+      "Cairo",
+      "Budapest"
+    ],
+    "answer": "Budapest",
+    "explanation": "Budapest is the capital city of Hungary, serving as its seat of government.",
+    "explanationJapanese": "BudapestはHungaryの首都で、政府の中心地です。",
+    "vocabulary": [
+      {
+        "word": "capital",
+        "meaning": "首都",
+        "partOfSpeech": "general",
+        "example": "Use 'capital' in context: capital relates to this topic."
+      },
+      {
+        "word": "government",
+        "meaning": "政府",
+        "partOfSpeech": "general",
+        "example": "Use 'government' in context: government relates to this topic."
+      }
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: Budapest is the capital city of Hungary, serving as its seat of government.",
+    "englishExpression": "Choose \"Budapest\" because Budapest is the capital city of Hungary, serving as its seat of government.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "ヘルシンキ",
+      "Nairobi",
+      "カイロ",
+      "ブダペスト"
+    ]
+  },
+  {
+    "question": "What is the capital of South Korea?",
+    "questionJapanese": "South Koreaの首都はどこですか？",
+    "options": [
+      "Budapest",
+      "Seoul",
+      "Ottawa",
+      "Rabat"
+    ],
+    "answer": "Seoul",
+    "explanation": "Seoul is the capital city of South Korea, serving as its seat of government.",
+    "explanationJapanese": "SeoulはSouth Koreaの首都で、政府の中心地です。",
+    "vocabulary": [
+      {
+        "word": "capital",
+        "meaning": "首都",
+        "partOfSpeech": "general",
+        "example": "Use 'capital' in context: capital relates to this topic."
+      },
+      {
+        "word": "government",
+        "meaning": "政府",
+        "partOfSpeech": "general",
+        "example": "Use 'government' in context: government relates to this topic."
+      }
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: Seoul is the capital city of South Korea, serving as its seat of government.",
+    "englishExpression": "Choose \"Seoul\" because Seoul is the capital city of South Korea, serving as its seat of government.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "ブダペスト",
+      "ソウル",
+      "オタワ",
+      "Rabat"
+    ]
+  },
+  {
+    "question": "What is the capital of Nigeria?",
+    "questionJapanese": "Nigeriaの首都はどこですか？",
+    "options": [
+      "Hanoi",
+      "Budapest",
+      "Abuja",
+      "Buenos Aires"
+    ],
+    "answer": "Abuja",
+    "explanation": "Abuja is the capital city of Nigeria, serving as its seat of government.",
+    "explanationJapanese": "AbujaはNigeriaの首都で、政府の中心地です。",
+    "vocabulary": [
+      {
+        "word": "capital",
+        "meaning": "首都",
+        "partOfSpeech": "general",
+        "example": "Use 'capital' in context: capital relates to this topic."
+      },
+      {
+        "word": "government",
+        "meaning": "政府",
+        "partOfSpeech": "general",
+        "example": "Use 'government' in context: government relates to this topic."
+      }
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: Abuja is the capital city of Nigeria, serving as its seat of government.",
+    "englishExpression": "Choose \"Abuja\" because Abuja is the capital city of Nigeria, serving as its seat of government.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "Hanoi",
+      "ブダペスト",
+      "アブジャ",
+      "Buenos Aires"
+    ]
+  },
+  {
+    "question": "What is the capital of Argentina?",
+    "questionJapanese": "Argentinaの首都はどこですか？",
+    "options": [
+      "Buenos Aires",
+      "Warsaw",
+      "Abuja",
+      "Budapest"
+    ],
+    "answer": "Buenos Aires",
+    "explanation": "Buenos Aires is the capital city of Argentina, serving as its seat of government.",
+    "explanationJapanese": "Buenos AiresはArgentinaの首都で、政府の中心地です。",
+    "vocabulary": [
+      {
+        "word": "capital",
+        "meaning": "首都",
+        "partOfSpeech": "general",
+        "example": "Use 'capital' in context: capital relates to this topic."
+      },
+      {
+        "word": "government",
+        "meaning": "政府",
+        "partOfSpeech": "general",
+        "example": "Use 'government' in context: government relates to this topic."
+      }
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: Buenos Aires is the capital city of Argentina, serving as its seat of government.",
+    "englishExpression": "Choose \"Buenos Aires\" because Buenos Aires is the capital city of Argentina, serving as its seat of government.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "Buenos Aires",
+      "ワルシャワ",
+      "アブジャ",
+      "ブダペスト"
+    ]
+  },
+  {
+    "question": "What is the capital of Norway?",
+    "questionJapanese": "Norwayの首都はどこですか？",
+    "options": [
+      "Bangkok",
+      "Bogotá",
+      "Oslo",
+      "Jakarta"
+    ],
+    "answer": "Oslo",
+    "explanation": "Oslo is the capital city of Norway, serving as its seat of government.",
+    "explanationJapanese": "OsloはNorwayの首都で、政府の中心地です。",
+    "vocabulary": [
+      {
+        "word": "capital",
+        "meaning": "首都",
+        "partOfSpeech": "general",
+        "example": "Use 'capital' in context: capital relates to this topic."
+      },
+      {
+        "word": "government",
+        "meaning": "政府",
+        "partOfSpeech": "general",
+        "example": "Use 'government' in context: government relates to this topic."
+      }
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: Oslo is the capital city of Norway, serving as its seat of government.",
+    "englishExpression": "Choose \"Oslo\" because Oslo is the capital city of Norway, serving as its seat of government.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "バンコク",
+      "Bogotá",
+      "オスロ",
+      "ジャカルタ"
+    ]
+  },
+  {
+    "question": "What is the capital of Portugal?",
+    "questionJapanese": "Portugalの首都はどこですか？",
+    "options": [
+      "Santiago",
+      "Lisbon",
+      "Oslo",
+      "Canberra"
+    ],
+    "answer": "Lisbon",
+    "explanation": "Lisbon is the capital city of Portugal, serving as its seat of government.",
+    "explanationJapanese": "LisbonはPortugalの首都で、政府の中心地です。",
+    "vocabulary": [
+      {
+        "word": "capital",
+        "meaning": "首都",
+        "partOfSpeech": "general",
+        "example": "Use 'capital' in context: capital relates to this topic."
+      },
+      {
+        "word": "government",
+        "meaning": "政府",
+        "partOfSpeech": "general",
+        "example": "Use 'government' in context: government relates to this topic."
+      }
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: Lisbon is the capital city of Portugal, serving as its seat of government.",
+    "englishExpression": "Choose \"Lisbon\" because Lisbon is the capital city of Portugal, serving as its seat of government.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "Santiago",
+      "リスボン",
+      "オスロ",
+      "キャンベラ"
+    ]
+  },
+  {
+    "question": "What is the capital of Poland?",
+    "questionJapanese": "Polandの首都はどこですか？",
+    "options": [
+      "Warsaw",
+      "Athens",
+      "Lisbon",
+      "Helsinki"
+    ],
+    "answer": "Warsaw",
+    "explanation": "Warsaw is the capital city of Poland, serving as its seat of government.",
+    "explanationJapanese": "WarsawはPolandの首都で、政府の中心地です。",
+    "vocabulary": [
+      {
+        "word": "capital",
+        "meaning": "首都",
+        "partOfSpeech": "general",
+        "example": "Use 'capital' in context: capital relates to this topic."
+      },
+      {
+        "word": "government",
+        "meaning": "政府",
+        "partOfSpeech": "general",
+        "example": "Use 'government' in context: government relates to this topic."
+      }
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: Warsaw is the capital city of Poland, serving as its seat of government.",
+    "englishExpression": "Choose \"Warsaw\" because Warsaw is the capital city of Poland, serving as its seat of government.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "ワルシャワ",
+      "アテネ",
+      "リスボン",
+      "ヘルシンキ"
+    ]
+  },
+  {
+    "question": "What is the capital of Indonesia?",
+    "questionJapanese": "Indonesiaの首都はどこですか？",
+    "options": [
+      "Jakarta",
+      "Ottawa",
+      "Oslo",
+      "Bangkok"
+    ],
+    "answer": "Jakarta",
+    "explanation": "Jakarta is the capital city of Indonesia, serving as its seat of government.",
+    "explanationJapanese": "JakartaはIndonesiaの首都で、政府の中心地です。",
+    "vocabulary": [
+      {
+        "word": "capital",
+        "meaning": "首都",
+        "partOfSpeech": "general",
+        "example": "Use 'capital' in context: capital relates to this topic."
+      },
+      {
+        "word": "government",
+        "meaning": "政府",
+        "partOfSpeech": "general",
+        "example": "Use 'government' in context: government relates to this topic."
+      }
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: Jakarta is the capital city of Indonesia, serving as its seat of government.",
+    "englishExpression": "Choose \"Jakarta\" because Jakarta is the capital city of Indonesia, serving as its seat of government.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "ジャカルタ",
+      "オタワ",
+      "オスロ",
+      "バンコク"
+    ]
+  },
+  {
+    "question": "What is the capital of Saudi Arabia?",
+    "questionJapanese": "Saudi Arabiaの首都はどこですか？",
+    "options": [
+      "Ottawa",
+      "Riyadh",
+      "Jakarta",
+      "Athens"
+    ],
+    "answer": "Riyadh",
+    "explanation": "Riyadh is the capital city of Saudi Arabia, serving as its seat of government.",
+    "explanationJapanese": "RiyadhはSaudi Arabiaの首都で、政府の中心地です。",
+    "vocabulary": [
+      {
+        "word": "capital",
+        "meaning": "首都",
+        "partOfSpeech": "general",
+        "example": "Use 'capital' in context: capital relates to this topic."
+      },
+      {
+        "word": "government",
+        "meaning": "政府",
+        "partOfSpeech": "general",
+        "example": "Use 'government' in context: government relates to this topic."
+      }
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: Riyadh is the capital city of Saudi Arabia, serving as its seat of government.",
+    "englishExpression": "Choose \"Riyadh\" because Riyadh is the capital city of Saudi Arabia, serving as its seat of government.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "オタワ",
+      "リヤド",
+      "ジャカルタ",
+      "アテネ"
+    ]
+  },
+  {
+    "question": "What is the capital of Colombia?",
+    "questionJapanese": "Colombiaの首都はどこですか？",
+    "options": [
+      "Canberra",
+      "Bogotá",
+      "Riyadh",
+      "Jakarta"
+    ],
+    "answer": "Bogotá",
+    "explanation": "Bogotá is the capital city of Colombia, serving as its seat of government.",
+    "explanationJapanese": "BogotáはColombiaの首都で、政府の中心地です。",
+    "vocabulary": [
+      {
+        "word": "capital",
+        "meaning": "首都",
+        "partOfSpeech": "general",
+        "example": "Use 'capital' in context: capital relates to this topic."
+      },
+      {
+        "word": "government",
+        "meaning": "政府",
+        "partOfSpeech": "general",
+        "example": "Use 'government' in context: government relates to this topic."
+      }
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: Bogotá is the capital city of Colombia, serving as its seat of government.",
+    "englishExpression": "Choose \"Bogotá\" because Bogotá is the capital city of Colombia, serving as its seat of government.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "キャンベラ",
+      "Bogotá",
+      "リヤド",
+      "ジャカルタ"
+    ]
+  },
+  {
+    "question": "What is the capital of Greece?",
+    "questionJapanese": "Greeceの首都はどこですか？",
+    "options": [
+      "Oslo",
+      "Canberra",
+      "Athens",
+      "Nairobi"
+    ],
+    "answer": "Athens",
+    "explanation": "Athens is the capital city of Greece, serving as its seat of government.",
+    "explanationJapanese": "AthensはGreeceの首都で、政府の中心地です。",
+    "vocabulary": [
+      {
+        "word": "capital",
+        "meaning": "首都",
+        "partOfSpeech": "general",
+        "example": "Use 'capital' in context: capital relates to this topic."
+      },
+      {
+        "word": "government",
+        "meaning": "政府",
+        "partOfSpeech": "general",
+        "example": "Use 'government' in context: government relates to this topic."
+      }
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: Athens is the capital city of Greece, serving as its seat of government.",
+    "englishExpression": "Choose \"Athens\" because Athens is the capital city of Greece, serving as its seat of government.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "オスロ",
+      "キャンベラ",
+      "アテネ",
+      "Nairobi"
+    ]
+  },
+  {
+    "question": "What is the capital of Thailand?",
+    "questionJapanese": "Thailandの首都はどこですか？",
+    "options": [
+      "Riyadh",
+      "Bangkok",
+      "Budapest",
+      "Seoul"
+    ],
+    "answer": "Bangkok",
+    "explanation": "Bangkok is the capital city of Thailand, serving as its seat of government.",
+    "explanationJapanese": "BangkokはThailandの首都で、政府の中心地です。",
+    "vocabulary": [
+      {
+        "word": "capital",
+        "meaning": "首都",
+        "partOfSpeech": "general",
+        "example": "Use 'capital' in context: capital relates to this topic."
+      },
+      {
+        "word": "government",
+        "meaning": "政府",
+        "partOfSpeech": "general",
+        "example": "Use 'government' in context: government relates to this topic."
+      }
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: Bangkok is the capital city of Thailand, serving as its seat of government.",
+    "englishExpression": "Choose \"Bangkok\" because Bangkok is the capital city of Thailand, serving as its seat of government.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "リヤド",
+      "バンコク",
+      "ブダペスト",
+      "ソウル"
+    ]
+  },
+  {
+    "question": "Which river is the longest in South America?",
+    "questionJapanese": "南アメリカで最も長い川はどれですか？",
+    "options": [
+      "Amazon River",
+      "Paraná River",
+      "Orinoco River",
+      "São Francisco River"
+    ],
+    "answer": "Amazon River",
+    "explanation": "The Amazon River is the longest river in South America.",
+    "explanationJapanese": "アマゾン川は南アメリカ最長の川です。",
+    "vocabulary": [
+      {
+        "word": "river",
+        "meaning": "川",
+        "partOfSpeech": "general",
+        "example": "Use 'river' in context: river relates to this topic."
+      },
+      {
+        "word": "South America",
+        "meaning": "南アメリカ",
+        "partOfSpeech": "general",
+        "example": "Use 'South America' in context: South America relates to this topic."
+      }
+    ],
+    "category": "Geography",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: The Amazon River is the longest river in South America.",
+    "englishExpression": "Choose \"Amazon River\" because The Amazon River is the longest river in South America.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "Amazon River",
+      "Paraná 川",
+      "Orinoco River",
+      "São Francisco 川"
+    ]
+  },
+  {
+    "question": "Which desert is the largest hot desert in the world?",
+    "questionJapanese": "世界最大の熱帯砂漠はどれですか？",
+    "options": [
+      "Sahara Desert",
+      "Gobi Desert",
+      "Kalahari Desert",
+      "Atacama Desert"
+    ],
+    "answer": "Sahara Desert",
+    "explanation": "The Sahara Desert is the largest hot desert.",
+    "explanationJapanese": "サハラ砂漠は世界最大の熱帯砂漠です。",
+    "vocabulary": [
+      {
+        "word": "desert",
+        "meaning": "砂漠",
+        "partOfSpeech": "general",
+        "example": "Use 'desert' in context: desert relates to this topic."
+      },
+      {
+        "word": "Sahara",
+        "meaning": "サハラ",
+        "partOfSpeech": "general",
+        "example": "Use 'Sahara' in context: Sahara relates to this topic."
+      }
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: The Sahara Desert is the largest hot desert.",
+    "englishExpression": "Choose \"Sahara Desert\" because The Sahara Desert is the largest hot desert.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "Sahara Desert",
+      "Gobi Desert",
+      "Kalahari Desert",
+      "Atacama Desert"
+    ]
+  },
+  {
+    "question": "Which mountain range includes Mount Everest?",
+    "questionJapanese": "エベレスト山を含む山脈はどれですか？",
+    "options": [
+      "Himalayas",
+      "Andes",
+      "Rockies",
+      "Alps"
+    ],
+    "answer": "Himalayas",
+    "explanation": "Mount Everest is part of the Himalayas.",
+    "explanationJapanese": "エベレストはヒマラヤ山脈に属します。",
+    "vocabulary": [
+      {
+        "word": "Himalayas",
+        "meaning": "ヒマラヤ",
+        "partOfSpeech": "general",
+        "example": "Use 'Himalayas' in context: Himalayas relates to this topic."
+      },
+      {
+        "word": "mountain range",
+        "meaning": "山脈",
+        "partOfSpeech": "general",
+        "example": "Use 'mountain range' in context: mountain range relates to this topic."
+      }
+    ],
+    "category": "Geography",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: Mount Everest is part of the Himalayas.",
+    "englishExpression": "Choose \"Himalayas\" because Mount Everest is part of the Himalayas.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "Himalayas",
+      "Andes",
+      "Rockies",
+      "Alps"
+    ]
+  },
+  {
+    "question": "Which line of latitude is at 0 degrees?",
+    "questionJapanese": "緯度0度の線は何と呼ばれますか？",
+    "options": [
+      "Equator",
+      "Tropic of Cancer",
+      "Tropic of Capricorn",
+      "Prime Meridian"
+    ],
+    "answer": "Equator",
+    "explanation": "The Equator is the line at 0 degrees latitude.",
+    "explanationJapanese": "赤道は緯度0度の線です。",
+    "vocabulary": [
+      {
+        "word": "equator",
+        "meaning": "赤道",
+        "partOfSpeech": "general",
+        "example": "Use 'equator' in context: equator relates to this topic."
+      },
+      {
+        "word": "latitude",
+        "meaning": "緯度",
+        "partOfSpeech": "general",
+        "example": "Use 'latitude' in context: latitude relates to this topic."
+      }
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: The Equator is the line at 0 degrees latitude.",
+    "englishExpression": "Choose \"Equator\" because The Equator is the line at 0 degrees latitude.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "Equator",
+      "Tropic of Cancer",
+      "Tropic of Capricorn",
+      "Prime Meridian"
+    ]
+  },
+  {
+    "question": "What tectonic boundary causes plates to move apart?",
+    "questionJapanese": "プレートが離れていく境界は何と呼ばれますか？",
+    "options": [
+      "Divergent boundary",
+      "Convergent boundary",
+      "Transform boundary",
+      "Subduction zone"
+    ],
+    "answer": "Divergent boundary",
+    "explanation": "At a divergent boundary, tectonic plates move apart.",
+    "explanationJapanese": "発散境界ではプレートが互いに離れていきます。",
+    "vocabulary": [
+      {
+        "word": "tectonic plate",
+        "meaning": "プレート",
+        "partOfSpeech": "general",
+        "example": "Use 'tectonic plate' in context: tectonic plate relates to this topic."
+      },
+      {
+        "word": "boundary",
+        "meaning": "境界",
+        "partOfSpeech": "general",
+        "example": "Use 'boundary' in context: boundary relates to this topic."
+      }
+    ],
+    "category": "Geography",
+    "difficulty": "Hard",
+    "knowledgeInsight": "Key takeaway: At a divergent boundary, tectonic plates move apart.",
+    "englishExpression": "Choose \"Divergent boundary\" because At a divergent boundary, tectonic plates move apart.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "Divergent boundary",
+      "Convergent boundary",
+      "Transform boundary",
+      "Subduction zone"
+    ]
+  },
+  {
+    "category": "Geography",
+    "difficulty": "Medium",
+    "question": "Which country is both in Europe and Asia?",
+    "questionJapanese": "ヨーロッパとアジアの両方にまたがる国はどれですか？",
+    "options": [
+      "Turkey",
+      "Portugal",
+      "Morocco",
+      "Ireland"
+    ],
+    "answer": "Turkey",
+    "explanation": "Turkey spans both Europe and Asia, divided by the Bosporus Strait.",
+    "explanationJapanese": "トルコはボスポラス海峡を挟んで欧州とアジアにまたがります。",
+    "vocabulary": [
+      {
+        "word": "strait",
+        "meaning": "海峡",
+        "partOfSpeech": "general",
+        "example": "Use 'strait' in context: strait relates to this topic."
+      },
+      {
+        "word": "span",
+        "meaning": "またがる",
+        "partOfSpeech": "general",
+        "example": "Use 'span' in context: span relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Turkey spans both Europe and Asia, divided by the Bosporus Strait.",
+    "englishExpression": "Choose \"Turkey\" because Turkey spans both Europe and Asia, divided by the Bosporus Strait.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "Turkey",
+      "ポルトガル",
+      "モロッコ",
+      "アイルランド"
+    ]
+  },
+  {
+    "category": "Geography",
+    "difficulty": "Easy",
+    "question": "What is the capital of Spain?",
+    "questionJapanese": "Spainの首都はどこですか？",
+    "options": [
+      "Madrid",
+      "Bucharest",
+      "London",
+      "Zagreb"
+    ],
+    "answer": "Madrid",
+    "explanation": "Madrid is the capital of Spain.",
+    "explanationJapanese": "MadridはSpainの首都です。",
+    "vocabulary": [
+      {
+        "word": "capital",
+        "meaning": "首都",
+        "partOfSpeech": "general",
+        "example": "Use 'capital' in context: capital relates to this topic."
+      },
+      {
+        "word": "country",
+        "meaning": "国",
+        "partOfSpeech": "general",
+        "example": "Use 'country' in context: country relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Madrid is the capital of Spain.",
+    "englishExpression": "Choose \"Madrid\" because Madrid is the capital of Spain.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "マドリード",
+      "Bucharest",
+      "ロンドン",
+      "Zagreb"
+    ]
+  },
+  {
+    "category": "Geography",
+    "difficulty": "Easy",
+    "question": "What is the capital of Italy?",
+    "questionJapanese": "Italyの首都はどこですか？",
+    "options": [
+      "Rome",
+      "Zagreb",
+      "Reykjavik",
+      "Brussels"
+    ],
+    "answer": "Rome",
+    "explanation": "Rome is the capital of Italy.",
+    "explanationJapanese": "RomeはItalyの首都です。",
+    "vocabulary": [
+      {
+        "word": "capital",
+        "meaning": "首都",
+        "partOfSpeech": "general",
+        "example": "Use 'capital' in context: capital relates to this topic."
+      },
+      {
+        "word": "country",
+        "meaning": "国",
+        "partOfSpeech": "general",
+        "example": "Use 'country' in context: country relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Rome is the capital of Italy.",
+    "englishExpression": "Choose \"Rome\" because Rome is the capital of Italy.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "ローマ",
+      "Zagreb",
+      "Reykjavik",
+      "ブリュッセル"
+    ]
+  },
+  {
+    "category": "Geography",
+    "difficulty": "Easy",
+    "question": "What is the capital of Germany?",
+    "questionJapanese": "Germanyの首都はどこですか？",
+    "options": [
+      "Vilnius",
+      "Belgrade",
+      "Bratislava",
+      "Berlin"
+    ],
+    "answer": "Berlin",
+    "explanation": "Berlin is the capital of Germany.",
+    "explanationJapanese": "BerlinはGermanyの首都です。",
+    "vocabulary": [
+      {
+        "word": "capital",
+        "meaning": "首都",
+        "partOfSpeech": "general",
+        "example": "Use 'capital' in context: capital relates to this topic."
+      },
+      {
+        "word": "country",
+        "meaning": "国",
+        "partOfSpeech": "general",
+        "example": "Use 'country' in context: country relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Berlin is the capital of Germany.",
+    "englishExpression": "Choose \"Berlin\" because Berlin is the capital of Germany.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "Vilnius",
+      "Belgrade",
+      "Bratislava",
+      "ベルリン"
+    ]
+  },
+  {
+    "category": "Geography",
+    "difficulty": "Easy",
+    "question": "What is the capital of France?",
+    "questionJapanese": "Franceの首都はどこですか？",
+    "options": [
+      "Belgrade",
+      "Minsk",
+      "Chisinau",
+      "Paris"
+    ],
+    "answer": "Paris",
+    "explanation": "Paris is the capital of France.",
+    "explanationJapanese": "ParisはFranceの首都です。",
+    "vocabulary": [
+      {
+        "word": "capital",
+        "meaning": "首都",
+        "partOfSpeech": "general",
+        "example": "Use 'capital' in context: capital relates to this topic."
+      },
+      {
+        "word": "country",
+        "meaning": "国",
+        "partOfSpeech": "general",
+        "example": "Use 'country' in context: country relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Paris is the capital of France.",
+    "englishExpression": "Choose \"Paris\" because Paris is the capital of France.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "Belgrade",
+      "Minsk",
+      "Chisinau",
+      "パリ"
+    ]
+  },
+  {
+    "category": "Geography",
+    "difficulty": "Easy",
+    "question": "What is the capital of United Kingdom?",
+    "questionJapanese": "United Kingdomの首都はどこですか？",
+    "options": [
+      "Bratislava",
+      "Sarajevo",
+      "Chisinau",
+      "London"
+    ],
+    "answer": "London",
+    "explanation": "London is the capital of United Kingdom.",
+    "explanationJapanese": "LondonはUnited Kingdomの首都です。",
+    "vocabulary": [
+      {
+        "word": "capital",
+        "meaning": "首都",
+        "partOfSpeech": "general",
+        "example": "Use 'capital' in context: capital relates to this topic."
+      },
+      {
+        "word": "country",
+        "meaning": "国",
+        "partOfSpeech": "general",
+        "example": "Use 'country' in context: country relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: London is the capital of United Kingdom.",
+    "englishExpression": "Choose \"London\" because London is the capital of United Kingdom.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "Bratislava",
+      "Sarajevo",
+      "Chisinau",
+      "ロンドン"
+    ]
+  },
+  {
+    "category": "Geography",
+    "difficulty": "Easy",
+    "question": "What is the capital of Ireland?",
+    "questionJapanese": "Irelandの首都はどこですか？",
+    "options": [
+      "London",
+      "Dublin",
+      "Riga",
+      "Zagreb"
+    ],
+    "answer": "Dublin",
+    "explanation": "Dublin is the capital of Ireland.",
+    "explanationJapanese": "DublinはIrelandの首都です。",
+    "vocabulary": [
+      {
+        "word": "capital",
+        "meaning": "首都",
+        "partOfSpeech": "general",
+        "example": "Use 'capital' in context: capital relates to this topic."
+      },
+      {
+        "word": "country",
+        "meaning": "国",
+        "partOfSpeech": "general",
+        "example": "Use 'country' in context: country relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Dublin is the capital of Ireland.",
+    "englishExpression": "Choose \"Dublin\" because Dublin is the capital of Ireland.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "ロンドン",
+      "ダブリン",
+      "Riga",
+      "Zagreb"
+    ]
+  },
+  {
+    "category": "Geography",
+    "difficulty": "Easy",
+    "question": "What is the capital of Switzerland?",
+    "questionJapanese": "Switzerlandの首都はどこですか？",
+    "options": [
+      "Belgrade",
+      "Bern",
+      "Berlin",
+      "Sarajevo"
+    ],
+    "answer": "Bern",
+    "explanation": "Bern is the capital of Switzerland.",
+    "explanationJapanese": "BernはSwitzerlandの首都です。",
+    "vocabulary": [
+      {
+        "word": "capital",
+        "meaning": "首都",
+        "partOfSpeech": "general",
+        "example": "Use 'capital' in context: capital relates to this topic."
+      },
+      {
+        "word": "country",
+        "meaning": "国",
+        "partOfSpeech": "general",
+        "example": "Use 'country' in context: country relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Bern is the capital of Switzerland.",
+    "englishExpression": "Choose \"Bern\" because Bern is the capital of Switzerland.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "Belgrade",
+      "ベルン",
+      "ベルリン",
+      "Sarajevo"
+    ]
+  },
+  {
+    "category": "Geography",
+    "difficulty": "Easy",
+    "question": "What is the capital of Austria?",
+    "questionJapanese": "Austriaの首都はどこですか？",
+    "options": [
+      "Brussels",
+      "Berlin",
+      "Tallinn",
+      "Vienna"
+    ],
+    "answer": "Vienna",
+    "explanation": "Vienna is the capital of Austria.",
+    "explanationJapanese": "ViennaはAustriaの首都です。",
+    "vocabulary": [
+      {
+        "word": "capital",
+        "meaning": "首都",
+        "partOfSpeech": "general",
+        "example": "Use 'capital' in context: capital relates to this topic."
+      },
+      {
+        "word": "country",
+        "meaning": "国",
+        "partOfSpeech": "general",
+        "example": "Use 'country' in context: country relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Vienna is the capital of Austria.",
+    "englishExpression": "Choose \"Vienna\" because Vienna is the capital of Austria.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "ブリュッセル",
+      "ベルリン",
+      "Tallinn",
+      "ウィーン"
+    ]
+  },
+  {
+    "category": "Geography",
+    "difficulty": "Easy",
+    "question": "What is the capital of Czech Republic?",
+    "questionJapanese": "Czech Republicの首都はどこですか？",
+    "options": [
+      "Amsterdam",
+      "Sarajevo",
+      "Prague",
+      "Copenhagen"
+    ],
+    "answer": "Prague",
+    "explanation": "Prague is the capital of Czech Republic.",
+    "explanationJapanese": "PragueはCzech Republicの首都です。",
+    "vocabulary": [
+      {
+        "word": "capital",
+        "meaning": "首都",
+        "partOfSpeech": "general",
+        "example": "Use 'capital' in context: capital relates to this topic."
+      },
+      {
+        "word": "country",
+        "meaning": "国",
+        "partOfSpeech": "general",
+        "example": "Use 'country' in context: country relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Prague is the capital of Czech Republic.",
+    "englishExpression": "Choose \"Prague\" because Prague is the capital of Czech Republic.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "アムステルダム",
+      "Sarajevo",
+      "プラハ",
+      "コペンハーゲン"
+    ]
+  },
+  {
+    "category": "Geography",
+    "difficulty": "Easy",
+    "question": "What is the capital of Slovakia?",
+    "questionJapanese": "Slovakiaの首都はどこですか？",
+    "options": [
+      "Amsterdam",
+      "Skopje",
+      "Tallinn",
+      "Bratislava"
+    ],
+    "answer": "Bratislava",
+    "explanation": "Bratislava is the capital of Slovakia.",
+    "explanationJapanese": "BratislavaはSlovakiaの首都です。",
+    "vocabulary": [
+      {
+        "word": "capital",
+        "meaning": "首都",
+        "partOfSpeech": "general",
+        "example": "Use 'capital' in context: capital relates to this topic."
+      },
+      {
+        "word": "country",
+        "meaning": "国",
+        "partOfSpeech": "general",
+        "example": "Use 'country' in context: country relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Bratislava is the capital of Slovakia.",
+    "englishExpression": "Choose \"Bratislava\" because Bratislava is the capital of Slovakia.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "アムステルダム",
+      "Skopje",
+      "Tallinn",
+      "Bratislava"
+    ]
+  },
+  {
+    "category": "Geography",
+    "difficulty": "Easy",
+    "question": "What is the capital of Slovenia?",
+    "questionJapanese": "Sloveniaの首都はどこですか？",
+    "options": [
+      "Minsk",
+      "Ljubljana",
+      "Vienna",
+      "Bratislava"
+    ],
+    "answer": "Ljubljana",
+    "explanation": "Ljubljana is the capital of Slovenia.",
+    "explanationJapanese": "LjubljanaはSloveniaの首都です。",
+    "vocabulary": [
+      {
+        "word": "capital",
+        "meaning": "首都",
+        "partOfSpeech": "general",
+        "example": "Use 'capital' in context: capital relates to this topic."
+      },
+      {
+        "word": "country",
+        "meaning": "国",
+        "partOfSpeech": "general",
+        "example": "Use 'country' in context: country relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Ljubljana is the capital of Slovenia.",
+    "englishExpression": "Choose \"Ljubljana\" because Ljubljana is the capital of Slovenia.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "Minsk",
+      "Ljubljana",
+      "ウィーン",
+      "Bratislava"
+    ]
+  },
+  {
+    "category": "Geography",
+    "difficulty": "Easy",
+    "question": "What is the capital of Croatia?",
+    "questionJapanese": "Croatiaの首都はどこですか？",
+    "options": [
+      "Podgorica",
+      "Riga",
+      "Brussels",
+      "Zagreb"
+    ],
+    "answer": "Zagreb",
+    "explanation": "Zagreb is the capital of Croatia.",
+    "explanationJapanese": "ZagrebはCroatiaの首都です。",
+    "vocabulary": [
+      {
+        "word": "capital",
+        "meaning": "首都",
+        "partOfSpeech": "general",
+        "example": "Use 'capital' in context: capital relates to this topic."
+      },
+      {
+        "word": "country",
+        "meaning": "国",
+        "partOfSpeech": "general",
+        "example": "Use 'country' in context: country relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Zagreb is the capital of Croatia.",
+    "englishExpression": "Choose \"Zagreb\" because Zagreb is the capital of Croatia.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "Podgorica",
+      "Riga",
+      "ブリュッセル",
+      "Zagreb"
+    ]
+  },
+  {
+    "category": "Geography",
+    "difficulty": "Easy",
+    "question": "What is the capital of Serbia?",
+    "questionJapanese": "Serbiaの首都はどこですか？",
+    "options": [
+      "Kyiv",
+      "Vilnius",
+      "Minsk",
+      "Belgrade"
+    ],
+    "answer": "Belgrade",
+    "explanation": "Belgrade is the capital of Serbia.",
+    "explanationJapanese": "BelgradeはSerbiaの首都です。",
+    "vocabulary": [
+      {
+        "word": "capital",
+        "meaning": "首都",
+        "partOfSpeech": "general",
+        "example": "Use 'capital' in context: capital relates to this topic."
+      },
+      {
+        "word": "country",
+        "meaning": "国",
+        "partOfSpeech": "general",
+        "example": "Use 'country' in context: country relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Belgrade is the capital of Serbia.",
+    "englishExpression": "Choose \"Belgrade\" because Belgrade is the capital of Serbia.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "キーウ",
+      "Vilnius",
+      "Minsk",
+      "Belgrade"
+    ]
+  },
+  {
+    "category": "Geography",
+    "difficulty": "Easy",
+    "question": "What is the capital of Bosnia and Herzegovina?",
+    "questionJapanese": "Bosnia and Herzegovinaの首都はどこですか？",
+    "options": [
+      "Reykjavik",
+      "Sarajevo",
+      "London",
+      "Minsk"
+    ],
+    "answer": "Sarajevo",
+    "explanation": "Sarajevo is the capital of Bosnia and Herzegovina.",
+    "explanationJapanese": "SarajevoはBosnia and Herzegovinaの首都です。",
+    "vocabulary": [
+      {
+        "word": "capital",
+        "meaning": "首都",
+        "partOfSpeech": "general",
+        "example": "Use 'capital' in context: capital relates to this topic."
+      },
+      {
+        "word": "country",
+        "meaning": "国",
+        "partOfSpeech": "general",
+        "example": "Use 'country' in context: country relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Sarajevo is the capital of Bosnia and Herzegovina.",
+    "englishExpression": "Choose \"Sarajevo\" because Sarajevo is the capital of Bosnia and Herzegovina.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "Reykjavik",
+      "Sarajevo",
+      "ロンドン",
+      "Minsk"
+    ]
+  },
+  {
+    "category": "Geography",
+    "difficulty": "Easy",
+    "question": "What is the capital of Montenegro?",
+    "questionJapanese": "Montenegroの首都はどこですか？",
+    "options": [
+      "Rome",
+      "Podgorica",
+      "Amsterdam",
+      "Reykjavik"
+    ],
+    "answer": "Podgorica",
+    "explanation": "Podgorica is the capital of Montenegro.",
+    "explanationJapanese": "PodgoricaはMontenegroの首都です。",
+    "vocabulary": [
+      {
+        "word": "capital",
+        "meaning": "首都",
+        "partOfSpeech": "general",
+        "example": "Use 'capital' in context: capital relates to this topic."
+      },
+      {
+        "word": "country",
+        "meaning": "国",
+        "partOfSpeech": "general",
+        "example": "Use 'country' in context: country relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Podgorica is the capital of Montenegro.",
+    "englishExpression": "Choose \"Podgorica\" because Podgorica is the capital of Montenegro.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "ローマ",
+      "Podgorica",
+      "アムステルダム",
+      "Reykjavik"
+    ]
+  },
+  {
+    "category": "Geography",
+    "difficulty": "Easy",
+    "question": "What is the capital of Albania?",
+    "questionJapanese": "Albaniaの首都はどこですか？",
+    "options": [
+      "Bern",
+      "Brussels",
+      "Ljubljana",
+      "Tirana"
+    ],
+    "answer": "Tirana",
+    "explanation": "Tirana is the capital of Albania.",
+    "explanationJapanese": "TiranaはAlbaniaの首都です。",
+    "vocabulary": [
+      {
+        "word": "capital",
+        "meaning": "首都",
+        "partOfSpeech": "general",
+        "example": "Use 'capital' in context: capital relates to this topic."
+      },
+      {
+        "word": "country",
+        "meaning": "国",
+        "partOfSpeech": "general",
+        "example": "Use 'country' in context: country relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Tirana is the capital of Albania.",
+    "englishExpression": "Choose \"Tirana\" because Tirana is the capital of Albania.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "ベルン",
+      "ブリュッセル",
+      "Ljubljana",
+      "Tirana"
+    ]
+  },
+  {
+    "category": "Geography",
+    "difficulty": "Easy",
+    "question": "What is the capital of North Macedonia?",
+    "questionJapanese": "North Macedoniaの首都はどこですか？",
+    "options": [
+      "Vilnius",
+      "Ljubljana",
+      "Amsterdam",
+      "Skopje"
+    ],
+    "answer": "Skopje",
+    "explanation": "Skopje is the capital of North Macedonia.",
+    "explanationJapanese": "SkopjeはNorth Macedoniaの首都です。",
+    "vocabulary": [
+      {
+        "word": "capital",
+        "meaning": "首都",
+        "partOfSpeech": "general",
+        "example": "Use 'capital' in context: capital relates to this topic."
+      },
+      {
+        "word": "country",
+        "meaning": "国",
+        "partOfSpeech": "general",
+        "example": "Use 'country' in context: country relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Skopje is the capital of North Macedonia.",
+    "englishExpression": "Choose \"Skopje\" because Skopje is the capital of North Macedonia.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "Vilnius",
+      "Ljubljana",
+      "アムステルダム",
+      "Skopje"
+    ]
+  },
+  {
+    "category": "Geography",
+    "difficulty": "Easy",
+    "question": "What is the capital of Bulgaria?",
+    "questionJapanese": "Bulgariaの首都はどこですか？",
+    "options": [
+      "Chisinau",
+      "Dublin",
+      "Sofia",
+      "Paris"
+    ],
+    "answer": "Sofia",
+    "explanation": "Sofia is the capital of Bulgaria.",
+    "explanationJapanese": "SofiaはBulgariaの首都です。",
+    "vocabulary": [
+      {
+        "word": "capital",
+        "meaning": "首都",
+        "partOfSpeech": "general",
+        "example": "Use 'capital' in context: capital relates to this topic."
+      },
+      {
+        "word": "country",
+        "meaning": "国",
+        "partOfSpeech": "general",
+        "example": "Use 'country' in context: country relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Sofia is the capital of Bulgaria.",
+    "englishExpression": "Choose \"Sofia\" because Sofia is the capital of Bulgaria.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "Chisinau",
+      "ダブリン",
+      "Sofia",
+      "パリ"
+    ]
+  },
+  {
+    "category": "Geography",
+    "difficulty": "Easy",
+    "question": "What is the capital of Romania?",
+    "questionJapanese": "Romaniaの首都はどこですか？",
+    "options": [
+      "Zagreb",
+      "Bucharest",
+      "Sarajevo",
+      "Skopje"
+    ],
+    "answer": "Bucharest",
+    "explanation": "Bucharest is the capital of Romania.",
+    "explanationJapanese": "BucharestはRomaniaの首都です。",
+    "vocabulary": [
+      {
+        "word": "capital",
+        "meaning": "首都",
+        "partOfSpeech": "general",
+        "example": "Use 'capital' in context: capital relates to this topic."
+      },
+      {
+        "word": "country",
+        "meaning": "国",
+        "partOfSpeech": "general",
+        "example": "Use 'country' in context: country relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Bucharest is the capital of Romania.",
+    "englishExpression": "Choose \"Bucharest\" because Bucharest is the capital of Romania.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "Zagreb",
+      "Bucharest",
+      "Sarajevo",
+      "Skopje"
+    ]
+  },
+  {
+    "category": "Geography",
+    "difficulty": "Easy",
+    "question": "What is the capital of Moldova?",
+    "questionJapanese": "Moldovaの首都はどこですか？",
+    "options": [
+      "Kyiv",
+      "Dublin",
+      "Zagreb",
+      "Chisinau"
+    ],
+    "answer": "Chisinau",
+    "explanation": "Chisinau is the capital of Moldova.",
+    "explanationJapanese": "ChisinauはMoldovaの首都です。",
+    "vocabulary": [
+      {
+        "word": "capital",
+        "meaning": "首都",
+        "partOfSpeech": "general",
+        "example": "Use 'capital' in context: capital relates to this topic."
+      },
+      {
+        "word": "country",
+        "meaning": "国",
+        "partOfSpeech": "general",
+        "example": "Use 'country' in context: country relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Chisinau is the capital of Moldova.",
+    "englishExpression": "Choose \"Chisinau\" because Chisinau is the capital of Moldova.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "キーウ",
+      "ダブリン",
+      "Zagreb",
+      "Chisinau"
+    ]
+  },
+  {
+    "category": "Geography",
+    "difficulty": "Easy",
+    "question": "What is the capital of Belarus?",
+    "questionJapanese": "Belarusの首都はどこですか？",
+    "options": [
+      "Vienna",
+      "Reykjavik",
+      "Riga",
+      "Minsk"
+    ],
+    "answer": "Minsk",
+    "explanation": "Minsk is the capital of Belarus.",
+    "explanationJapanese": "MinskはBelarusの首都です。",
+    "vocabulary": [
+      {
+        "word": "capital",
+        "meaning": "首都",
+        "partOfSpeech": "general",
+        "example": "Use 'capital' in context: capital relates to this topic."
+      },
+      {
+        "word": "country",
+        "meaning": "国",
+        "partOfSpeech": "general",
+        "example": "Use 'country' in context: country relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Minsk is the capital of Belarus.",
+    "englishExpression": "Choose \"Minsk\" because Minsk is the capital of Belarus.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "ウィーン",
+      "Reykjavik",
+      "Riga",
+      "Minsk"
+    ]
+  },
+  {
+    "category": "Geography",
+    "difficulty": "Easy",
+    "question": "What is the capital of Ukraine?",
+    "questionJapanese": "Ukraineの首都はどこですか？",
+    "options": [
+      "Chisinau",
+      "Reykjavik",
+      "Kyiv",
+      "Sofia"
+    ],
+    "answer": "Kyiv",
+    "explanation": "Kyiv is the capital of Ukraine.",
+    "explanationJapanese": "KyivはUkraineの首都です。",
+    "vocabulary": [
+      {
+        "word": "capital",
+        "meaning": "首都",
+        "partOfSpeech": "general",
+        "example": "Use 'capital' in context: capital relates to this topic."
+      },
+      {
+        "word": "country",
+        "meaning": "国",
+        "partOfSpeech": "general",
+        "example": "Use 'country' in context: country relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Kyiv is the capital of Ukraine.",
+    "englishExpression": "Choose \"Kyiv\" because Kyiv is the capital of Ukraine.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "Chisinau",
+      "Reykjavik",
+      "キーウ",
+      "Sofia"
+    ]
+  },
+  {
+    "category": "Geography",
+    "difficulty": "Easy",
+    "question": "What is the capital of Lithuania?",
+    "questionJapanese": "Lithuaniaの首都はどこですか？",
+    "options": [
+      "Paris",
+      "Riga",
+      "Copenhagen",
+      "Vilnius"
+    ],
+    "answer": "Vilnius",
+    "explanation": "Vilnius is the capital of Lithuania.",
+    "explanationJapanese": "VilniusはLithuaniaの首都です。",
+    "vocabulary": [
+      {
+        "word": "capital",
+        "meaning": "首都",
+        "partOfSpeech": "general",
+        "example": "Use 'capital' in context: capital relates to this topic."
+      },
+      {
+        "word": "country",
+        "meaning": "国",
+        "partOfSpeech": "general",
+        "example": "Use 'country' in context: country relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Vilnius is the capital of Lithuania.",
+    "englishExpression": "Choose \"Vilnius\" because Vilnius is the capital of Lithuania.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "パリ",
+      "Riga",
+      "コペンハーゲン",
+      "Vilnius"
+    ]
+  },
+  {
+    "category": "Geography",
+    "difficulty": "Easy",
+    "question": "What is the capital of Latvia?",
+    "questionJapanese": "Latviaの首都はどこですか？",
+    "options": [
+      "London",
+      "Riga",
+      "Reykjavik",
+      "Brussels"
+    ],
+    "answer": "Riga",
+    "explanation": "Riga is the capital of Latvia.",
+    "explanationJapanese": "RigaはLatviaの首都です。",
+    "vocabulary": [
+      {
+        "word": "capital",
+        "meaning": "首都",
+        "partOfSpeech": "general",
+        "example": "Use 'capital' in context: capital relates to this topic."
+      },
+      {
+        "word": "country",
+        "meaning": "国",
+        "partOfSpeech": "general",
+        "example": "Use 'country' in context: country relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Riga is the capital of Latvia.",
+    "englishExpression": "Choose \"Riga\" because Riga is the capital of Latvia.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "ロンドン",
+      "Riga",
+      "Reykjavik",
+      "ブリュッセル"
+    ]
+  },
+  {
+    "category": "Geography",
+    "difficulty": "Easy",
+    "question": "What is the capital of Estonia?",
+    "questionJapanese": "Estoniaの首都はどこですか？",
+    "options": [
+      "Sarajevo",
+      "Zagreb",
+      "Dublin",
+      "Tallinn"
+    ],
+    "answer": "Tallinn",
+    "explanation": "Tallinn is the capital of Estonia.",
+    "explanationJapanese": "TallinnはEstoniaの首都です。",
+    "vocabulary": [
+      {
+        "word": "capital",
+        "meaning": "首都",
+        "partOfSpeech": "general",
+        "example": "Use 'capital' in context: capital relates to this topic."
+      },
+      {
+        "word": "country",
+        "meaning": "国",
+        "partOfSpeech": "general",
+        "example": "Use 'country' in context: country relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Tallinn is the capital of Estonia.",
+    "englishExpression": "Choose \"Tallinn\" because Tallinn is the capital of Estonia.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "Sarajevo",
+      "Zagreb",
+      "ダブリン",
+      "Tallinn"
+    ]
+  },
+  {
+    "category": "Geography",
+    "difficulty": "Easy",
+    "question": "What is the capital of Iceland?",
+    "questionJapanese": "Icelandの首都はどこですか？",
+    "options": [
+      "Ljubljana",
+      "Reykjavik",
+      "Tirana",
+      "Riga"
+    ],
+    "answer": "Reykjavik",
+    "explanation": "Reykjavik is the capital of Iceland.",
+    "explanationJapanese": "ReykjavikはIcelandの首都です。",
+    "vocabulary": [
+      {
+        "word": "capital",
+        "meaning": "首都",
+        "partOfSpeech": "general",
+        "example": "Use 'capital' in context: capital relates to this topic."
+      },
+      {
+        "word": "country",
+        "meaning": "国",
+        "partOfSpeech": "general",
+        "example": "Use 'country' in context: country relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Reykjavik is the capital of Iceland.",
+    "englishExpression": "Choose \"Reykjavik\" because Reykjavik is the capital of Iceland.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "Ljubljana",
+      "Reykjavik",
+      "Tirana",
+      "Riga"
+    ]
+  },
+  {
+    "category": "Geography",
+    "difficulty": "Easy",
+    "question": "What is the capital of Sweden?",
+    "questionJapanese": "Swedenの首都はどこですか？",
+    "options": [
+      "Stockholm",
+      "Reykjavik",
+      "Copenhagen",
+      "Madrid"
+    ],
+    "answer": "Stockholm",
+    "explanation": "Stockholm is the capital of Sweden.",
+    "explanationJapanese": "StockholmはSwedenの首都です。",
+    "vocabulary": [
+      {
+        "word": "capital",
+        "meaning": "首都",
+        "partOfSpeech": "general",
+        "example": "Use 'capital' in context: capital relates to this topic."
+      },
+      {
+        "word": "country",
+        "meaning": "国",
+        "partOfSpeech": "general",
+        "example": "Use 'country' in context: country relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Stockholm is the capital of Sweden.",
+    "englishExpression": "Choose \"Stockholm\" because Stockholm is the capital of Sweden.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "ストックホルム",
+      "Reykjavik",
+      "コペンハーゲン",
+      "マドリード"
+    ]
+  },
+  {
+    "category": "Geography",
+    "difficulty": "Easy",
+    "question": "What is the capital of Denmark?",
+    "questionJapanese": "Denmarkの首都はどこですか？",
+    "options": [
+      "Skopje",
+      "Tallinn",
+      "Copenhagen",
+      "Paris"
+    ],
+    "answer": "Copenhagen",
+    "explanation": "Copenhagen is the capital of Denmark.",
+    "explanationJapanese": "CopenhagenはDenmarkの首都です。",
+    "vocabulary": [
+      {
+        "word": "capital",
+        "meaning": "首都",
+        "partOfSpeech": "general",
+        "example": "Use 'capital' in context: capital relates to this topic."
+      },
+      {
+        "word": "country",
+        "meaning": "国",
+        "partOfSpeech": "general",
+        "example": "Use 'country' in context: country relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Copenhagen is the capital of Denmark.",
+    "englishExpression": "Choose \"Copenhagen\" because Copenhagen is the capital of Denmark.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "Skopje",
+      "Tallinn",
+      "コペンハーゲン",
+      "パリ"
+    ]
+  },
+  {
+    "category": "Geography",
+    "difficulty": "Easy",
+    "question": "What is the capital of Netherlands?",
+    "questionJapanese": "Netherlandsの首都はどこですか？",
+    "options": [
+      "Madrid",
+      "Amsterdam",
+      "Tirana",
+      "Minsk"
+    ],
+    "answer": "Amsterdam",
+    "explanation": "Amsterdam is the capital of Netherlands.",
+    "explanationJapanese": "AmsterdamはNetherlandsの首都です。",
+    "vocabulary": [
+      {
+        "word": "capital",
+        "meaning": "首都",
+        "partOfSpeech": "general",
+        "example": "Use 'capital' in context: capital relates to this topic."
+      },
+      {
+        "word": "country",
+        "meaning": "国",
+        "partOfSpeech": "general",
+        "example": "Use 'country' in context: country relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Amsterdam is the capital of Netherlands.",
+    "englishExpression": "Choose \"Amsterdam\" because Amsterdam is the capital of Netherlands.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "マドリード",
+      "アムステルダム",
+      "Tirana",
+      "Minsk"
+    ]
+  },
+  {
+    "category": "Geography",
+    "difficulty": "Easy",
+    "question": "What is the capital of Belgium?",
+    "questionJapanese": "Belgiumの首都はどこですか？",
+    "options": [
+      "Brussels",
+      "Tallinn",
+      "Kyiv",
+      "Ljubljana"
+    ],
+    "answer": "Brussels",
+    "explanation": "Brussels is the capital of Belgium.",
+    "explanationJapanese": "BrusselsはBelgiumの首都です。",
+    "vocabulary": [
+      {
+        "word": "capital",
+        "meaning": "首都",
+        "partOfSpeech": "general",
+        "example": "Use 'capital' in context: capital relates to this topic."
+      },
+      {
+        "word": "country",
+        "meaning": "国",
+        "partOfSpeech": "general",
+        "example": "Use 'country' in context: country relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Brussels is the capital of Belgium.",
+    "englishExpression": "Choose \"Brussels\" because Brussels is the capital of Belgium.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "ブリュッセル",
+      "Tallinn",
+      "キーウ",
+      "Ljubljana"
+    ]
+  },
+  {
+    "category": "Geography",
+    "difficulty": "Medium",
+    "question": "Which river runs through Paris?",
+    "questionJapanese": "パリを流れる川はどれですか？",
+    "options": [
+      "Seine",
+      "Thames",
+      "Danube",
+      "Rhine"
+    ],
+    "answer": "Seine",
+    "explanation": "The Seine River flows through Paris.",
+    "explanationJapanese": "セーヌ川がパリを流れます。",
+    "vocabulary": [
+      {
+        "word": "river",
+        "meaning": "川",
+        "partOfSpeech": "general",
+        "example": "Use 'river' in context: river relates to this topic."
+      },
+      {
+        "word": "flow",
+        "meaning": "流れる",
+        "partOfSpeech": "general",
+        "example": "Use 'flow' in context: flow relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: The Seine River flows through Paris.",
+    "englishExpression": "Choose \"Seine\" because The Seine River flows through Paris.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "Seine",
+      "Thames",
+      "Danube",
+      "Rhine"
+    ]
+  },
+  {
+    "category": "Geography",
+    "difficulty": "Easy",
+    "question": "Which continent is the Sahara Desert on?",
+    "questionJapanese": "サハラ砂漠がある大陸はどれですか？",
+    "options": [
+      "Africa",
+      "Asia",
+      "South America",
+      "Australia"
+    ],
+    "answer": "Africa",
+    "explanation": "The Sahara Desert is in Africa.",
+    "explanationJapanese": "サハラ砂漠はアフリカにあります。",
+    "vocabulary": [
+      {
+        "word": "desert",
+        "meaning": "砂漠",
+        "partOfSpeech": "general",
+        "example": "Use 'desert' in context: desert relates to this topic."
+      },
+      {
+        "word": "continent",
+        "meaning": "大陸",
+        "partOfSpeech": "general",
+        "example": "Use 'continent' in context: continent relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: The Sahara Desert is in Africa.",
+    "englishExpression": "Choose \"Africa\" because The Sahara Desert is in Africa.; other options do not match this question.",
+    "knowledgeLevel": "General geography",
+    "optionsJapanese": [
+      "Africa",
+      "Asia",
+      "South America",
+      "Australia"
+    ]
+  }
+]

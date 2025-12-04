@@ -1,0 +1,2404 @@
+[
+  {
+    "question": "Which invention allowed people to share information instantly across long distances in the 19th century?",
+    "questionJapanese": "19世紀に人々が遠く離れた場所で即座に情報を共有できるようにした発明は何ですか？",
+    "options": [
+      "Telephone",
+      "Printing press",
+      "Telegraph",
+      "Radio"
+    ],
+    "answer": "Telegraph",
+    "explanation": "The telegraph sent electrical signals over wires, letting people exchange messages quickly across continents before the telephone was widely used.",
+    "explanationJapanese": "電信は電線を通して電気信号を送り、電話が広く使われる前に大陸を越えて迅速にメッセージを交換することを可能にしました。",
+    "vocabulary": [
+      {
+        "word": "telegraph",
+        "meaning": "電信",
+        "partOfSpeech": "general",
+        "example": "Use 'telegraph' in context: telegraph relates to this topic."
+      },
+      {
+        "word": "signal",
+        "meaning": "信号",
+        "partOfSpeech": "general",
+        "example": "Use 'signal' in context: signal relates to this topic."
+      },
+      {
+        "word": "continent",
+        "meaning": "大陸",
+        "partOfSpeech": "general",
+        "example": "Use 'continent' in context: continent relates to this topic."
+      }
+    ],
+    "category": "Technology",
+    "difficulty": "Hard",
+    "knowledgeInsight": "Key takeaway: The telegraph sent electrical signals over wires, letting people exchange messages quickly across continents before the telephone was widely used.",
+    "englishExpression": "Choose \"Telegraph\" because The telegraph sent electrical signals over wires, letting people exchange messages quickly across continents before the telephone was widely used.; other options do not match this question.",
+    "knowledgeLevel": "General computing",
+    "optionsJapanese": [
+      "Telephone",
+      "Printing press",
+      "Telegraph",
+      "Radio"
+    ]
+  },
+  {
+    "question": "In electronics, what does LED stand for?",
+    "questionJapanese": "電子工学において、LEDは何の略ですか？",
+    "options": [
+      "Light Emitting Diode",
+      "Low Energy Device",
+      "Light Energy Distributor",
+      "Laser Emission Detector"
+    ],
+    "answer": "Light Emitting Diode",
+    "explanation": "An LED is a semiconductor light source that emits light when current flows through it.",
+    "explanationJapanese": "LEDは電流が流れると光を放つ半導体の光源です。",
+    "vocabulary": [
+      {
+        "word": "semiconductor",
+        "meaning": "半導体",
+        "partOfSpeech": "general",
+        "example": "Use 'semiconductor' in context: semiconductor relates to this topic."
+      },
+      {
+        "word": "emit",
+        "meaning": "放つ",
+        "partOfSpeech": "general",
+        "example": "Use 'emit' in context: emit relates to this topic."
+      },
+      {
+        "word": "current",
+        "meaning": "電流",
+        "partOfSpeech": "general",
+        "example": "Use 'current' in context: current relates to this topic."
+      }
+    ],
+    "category": "Technology",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: An LED is a semiconductor light source that emits light when current flows through it.",
+    "englishExpression": "Choose \"Light Emitting Diode\" because An LED is a semiconductor light source that emits light when current flows through it.; other options do not match this question.",
+    "knowledgeLevel": "General computing",
+    "optionsJapanese": [
+      "Light Emitting Diode",
+      "Low Energy Device",
+      "Light Energy Distributor",
+      "Laser Emission Detector"
+    ]
+  },
+  {
+    "question": "What wireless technology is commonly used for short-range data transfer between devices?",
+    "questionJapanese": "短距離でデバイス間のデータ転送に使われることの多い無線技術は何ですか？",
+    "options": [
+      "Wi-Fi",
+      "Bluetooth",
+      "NFC",
+      "Infrared"
+    ],
+    "answer": "Bluetooth",
+    "explanation": "Bluetooth creates a secure, low-energy link that can share audio or data between phones, speakers, and accessories.",
+    "explanationJapanese": "Bluetoothは電話やスピーカー、アクセサリー間で音声やデータを共有する、低消費電力の安全な通信を提供します。",
+    "vocabulary": [
+      {
+        "word": "secure",
+        "meaning": "安全な",
+        "partOfSpeech": "general",
+        "example": "Use 'secure' in context: secure relates to this topic."
+      },
+      {
+        "word": "accessory",
+        "meaning": "付属品",
+        "partOfSpeech": "general",
+        "example": "Use 'accessory' in context: accessory relates to this topic."
+      },
+      {
+        "word": "link",
+        "meaning": "接続",
+        "partOfSpeech": "general",
+        "example": "Use 'link' in context: link relates to this topic."
+      }
+    ],
+    "category": "Technology",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: Bluetooth creates a secure, low-energy link that can share audio or data between phones, speakers, and accessories.",
+    "englishExpression": "Choose \"Bluetooth\" because Bluetooth creates a secure, low-energy link that can share audio or data between phones, speakers, and accessories.; other options do not match this question.",
+    "knowledgeLevel": "General computing",
+    "optionsJapanese": [
+      "Wi-Fi",
+      "Bluetooth",
+      "NFC",
+      "赤外線"
+    ]
+  },
+  {
+    "question": "What does CPU stand for in computer hardware?",
+    "questionJapanese": "コンピュータのハードウェアにおけるCPUとは何の略ですか？",
+    "options": [
+      "Central Processing Unit",
+      "Computer Power Unit",
+      "Control Panel Utility",
+      "Core Processor Unit"
+    ],
+    "answer": "Central Processing Unit",
+    "explanation": "The CPU executes instructions and is often called the brain of the computer.",
+    "explanationJapanese": "CPUは命令を実行し、コンピュータの頭脳と呼ばれます。",
+    "vocabulary": [
+      {
+        "word": "execute",
+        "meaning": "実行する",
+        "partOfSpeech": "general",
+        "example": "Use 'execute' in context: execute relates to this topic."
+      },
+      {
+        "word": "instruction",
+        "meaning": "命令",
+        "partOfSpeech": "general",
+        "example": "Use 'instruction' in context: instruction relates to this topic."
+      },
+      {
+        "word": "brain",
+        "meaning": "脳",
+        "partOfSpeech": "general",
+        "example": "Use 'brain' in context: brain relates to this topic."
+      }
+    ],
+    "category": "Technology",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: The CPU executes instructions and is often called the brain of the computer.",
+    "englishExpression": "Choose \"Central Processing Unit\" because The CPU executes instructions and is often called the brain of the computer.; other options do not match this question.",
+    "knowledgeLevel": "General computing",
+    "optionsJapanese": [
+      "中央処理装置",
+      "Computer Power Unit",
+      "Control Panel Utility",
+      "Core Processor Unit"
+    ]
+  },
+  {
+    "question": "What protocol do browsers use to load web pages?",
+    "questionJapanese": "ブラウザがウェブページを読み込むのに使うプロトコルは何ですか？",
+    "options": [
+      "HTTP",
+      "FTP",
+      "SMTP",
+      "SSH"
+    ],
+    "answer": "HTTP",
+    "explanation": "HTTP stands for Hypertext Transfer Protocol and defines how web pages are fetched.",
+    "explanationJapanese": "HTTPはハイパーテキスト転送プロトコルで、ウェブページの取得方法を定義します。",
+    "vocabulary": [
+      {
+        "word": "fetch",
+        "meaning": "取得する",
+        "partOfSpeech": "general",
+        "example": "Use 'fetch' in context: fetch relates to this topic."
+      },
+      {
+        "word": "web",
+        "meaning": "ウェブ",
+        "partOfSpeech": "general",
+        "example": "Use 'web' in context: web relates to this topic."
+      },
+      {
+        "word": "protocol",
+        "meaning": "プロトコル",
+        "partOfSpeech": "general",
+        "example": "Use 'protocol' in context: protocol relates to this topic."
+      }
+    ],
+    "category": "Technology",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: HTTP stands for Hypertext Transfer Protocol and defines how web pages are fetched.",
+    "englishExpression": "Choose \"HTTP\" because HTTP stands for Hypertext Transfer Protocol and defines how web pages are fetched.; other options do not match this question.",
+    "knowledgeLevel": "General computing",
+    "optionsJapanese": [
+      "HTTP",
+      "FTP",
+      "SMTP",
+      "SSH"
+    ]
+  },
+  {
+    "question": "Which company released the first iPhone in 2007?",
+    "questionJapanese": "2007年に最初のiPhoneを発売した企業はどこですか？",
+    "options": [
+      "Apple",
+      "Microsoft",
+      "BlackBerry",
+      "Sony"
+    ],
+    "answer": "Apple",
+    "explanation": "Apple introduced the iPhone, combining phone, music, and internet features in one device.",
+    "explanationJapanese": "アップルは電話、音楽、インターネット機能を一台にまとめたiPhoneを導入しました。",
+    "vocabulary": [
+      {
+        "word": "combine",
+        "meaning": "組み合わせる",
+        "partOfSpeech": "general",
+        "example": "Use 'combine' in context: combine relates to this topic."
+      },
+      {
+        "word": "feature",
+        "meaning": "機能",
+        "partOfSpeech": "general",
+        "example": "Use 'feature' in context: feature relates to this topic."
+      },
+      {
+        "word": "device",
+        "meaning": "端末",
+        "partOfSpeech": "general",
+        "example": "Use 'device' in context: device relates to this topic."
+      }
+    ],
+    "category": "Technology",
+    "difficulty": "Hard",
+    "knowledgeInsight": "Key takeaway: Apple introduced the iPhone, combining phone, music, and internet features in one device.",
+    "englishExpression": "Choose \"Apple\" because Apple introduced the iPhone, combining phone, music, and internet features in one device.; other options do not match this question.",
+    "knowledgeLevel": "General computing",
+    "optionsJapanese": [
+      "Apple",
+      "Microsoft",
+      "BlackBerry",
+      "Sony"
+    ]
+  },
+  {
+    "question": "What does HDMI stand for?",
+    "questionJapanese": "HDMIは何の略ですか？",
+    "options": [
+      "High Definition Multimedia Interface",
+      "High Data Media Input",
+      "Hybrid Digital Media Inc",
+      "High Density Multi Interface"
+    ],
+    "answer": "High Definition Multimedia Interface",
+    "explanation": "HDMI carries digital audio and video signals between devices.",
+    "explanationJapanese": "HDMIは機器間でデジタル音声と映像を送ります。",
+    "vocabulary": [
+      {
+        "word": "carry",
+        "meaning": "運ぶ",
+        "partOfSpeech": "general",
+        "example": "Use 'carry' in context: carry relates to this topic."
+      },
+      {
+        "word": "signal",
+        "meaning": "信号",
+        "partOfSpeech": "general",
+        "example": "Use 'signal' in context: signal relates to this topic."
+      },
+      {
+        "word": "digital",
+        "meaning": "デジタル",
+        "partOfSpeech": "general",
+        "example": "Use 'digital' in context: digital relates to this topic."
+      }
+    ],
+    "category": "Technology",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: HDMI carries digital audio and video signals between devices.",
+    "englishExpression": "Choose \"High Definition Multimedia Interface\" because HDMI carries digital audio and video signals between devices.; other options do not match this question.",
+    "knowledgeLevel": "General computing",
+    "optionsJapanese": [
+      "High Definition Multimedia Interface",
+      "High Data Media Input",
+      "Hybrid Digital Media Inc",
+      "High Density Multi Interface"
+    ]
+  },
+  {
+    "question": "Which company makes Snapdragon mobile processors?",
+    "questionJapanese": "Snapdragonモバイルプロセッサを製造する企業はどこですか？",
+    "options": [
+      "Qualcomm",
+      "Samsung",
+      "Intel",
+      "Nvidia"
+    ],
+    "answer": "Qualcomm",
+    "explanation": "Qualcomm develops Snapdragon chips that power many Android phones.",
+    "explanationJapanese": "クアルコムは多くのAndroidスマホ向けにSnapdragonチップを開発しています。",
+    "vocabulary": [
+      {
+        "word": "develop",
+        "meaning": "開発する",
+        "partOfSpeech": "general",
+        "example": "Use 'develop' in context: develop relates to this topic."
+      },
+      {
+        "word": "chip",
+        "meaning": "チップ",
+        "partOfSpeech": "general",
+        "example": "Use 'chip' in context: chip relates to this topic."
+      },
+      {
+        "word": "power",
+        "meaning": "動かす",
+        "partOfSpeech": "general",
+        "example": "Use 'power' in context: power relates to this topic."
+      }
+    ],
+    "category": "Technology",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: Qualcomm develops Snapdragon chips that power many Android phones.",
+    "englishExpression": "Choose \"Qualcomm\" because Qualcomm develops Snapdragon chips that power many Android phones.; other options do not match this question.",
+    "knowledgeLevel": "General computing",
+    "optionsJapanese": [
+      "Qualcomm",
+      "Samsung",
+      "Intel",
+      "Nvidia"
+    ]
+  },
+  {
+    "question": "What does USB stand for?",
+    "questionJapanese": "USBは何の略ですか？",
+    "options": [
+      "Universal Serial Bus",
+      "Uniform System Bridge",
+      "User Subnet Block",
+      "Ultra Speed Bus"
+    ],
+    "answer": "Universal Serial Bus",
+    "explanation": "USB is the standard connector for data and power between devices.",
+    "explanationJapanese": "USBは機器間でデータと電力をやり取りする標準的なコネクタです。",
+    "vocabulary": [
+      {
+        "word": "standard",
+        "meaning": "標準",
+        "partOfSpeech": "general",
+        "example": "Use 'standard' in context: standard relates to this topic."
+      },
+      {
+        "word": "connector",
+        "meaning": "コネクタ",
+        "partOfSpeech": "general",
+        "example": "Use 'connector' in context: connector relates to this topic."
+      },
+      {
+        "word": "power",
+        "meaning": "電力",
+        "partOfSpeech": "general",
+        "example": "Use 'power' in context: power relates to this topic."
+      }
+    ],
+    "category": "Technology",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: USB is the standard connector for data and power between devices.",
+    "englishExpression": "Choose \"Universal Serial Bus\" because USB is the standard connector for data and power between devices.; other options do not match this question.",
+    "knowledgeLevel": "General computing",
+    "optionsJapanese": [
+      "Universal Serial Bus",
+      "Uniform System Bridge",
+      "User Subnet Block",
+      "Ultra Speed Bus"
+    ]
+  },
+  {
+    "question": "Which storage technology uses spinning magnetic platters?",
+    "questionJapanese": "回転する磁気プラッターを使う記憶装置技術は何ですか？",
+    "options": [
+      "Hard disk drive",
+      "Solid-state drive",
+      "Flash memory",
+      "Optical disc"
+    ],
+    "answer": "Hard disk drive",
+    "explanation": "Hard disk drives spin platters while heads magnetically read and write data.",
+    "explanationJapanese": "HDDはプラッターを回転させ、ヘッドが磁気でデータを読み書きします。",
+    "vocabulary": [
+      {
+        "word": "spin",
+        "meaning": "回転する",
+        "partOfSpeech": "general",
+        "example": "Use 'spin' in context: spin relates to this topic."
+      },
+      {
+        "word": "head",
+        "meaning": "ヘッド",
+        "partOfSpeech": "general",
+        "example": "Use 'head' in context: head relates to this topic."
+      },
+      {
+        "word": "magnetic",
+        "meaning": "磁気の",
+        "partOfSpeech": "general",
+        "example": "Use 'magnetic' in context: magnetic relates to this topic."
+      }
+    ],
+    "category": "Technology",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: Hard disk drives spin platters while heads magnetically read and write data.",
+    "englishExpression": "Choose \"Hard disk drive\" because Hard disk drives spin platters while heads magnetically read and write data.; other options do not match this question.",
+    "knowledgeLevel": "General computing",
+    "optionsJapanese": [
+      "Hard disk drive",
+      "Solid-state drive",
+      "Flash memory",
+      "Optical disc"
+    ]
+  },
+  {
+    "question": "Which company teams up with Linux with enterprise distributions?",
+    "questionJapanese": "Linuxのエンタープライズ版を提供している企業はどこですか？",
+    "options": [
+      "Red Hat",
+      "Microsoft",
+      "Apple",
+      "IBM"
+    ],
+    "answer": "Red Hat",
+    "explanation": "Red Hat contributes to open-source projects and ships supported Linux versions.",
+    "explanationJapanese": "Red Hatはオープンソースに貢献し、サポート付きLinuxを提供しています。",
+    "vocabulary": [
+      {
+        "word": "contribute",
+        "meaning": "貢献する",
+        "partOfSpeech": "general",
+        "example": "Use 'contribute' in context: contribute relates to this topic."
+      },
+      {
+        "word": "ship",
+        "meaning": "出荷する",
+        "partOfSpeech": "general",
+        "example": "Use 'ship' in context: ship relates to this topic."
+      },
+      {
+        "word": "supported",
+        "meaning": "サポート付き",
+        "partOfSpeech": "general",
+        "example": "Use 'supported' in context: supported relates to this topic."
+      }
+    ],
+    "category": "Technology",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: Red Hat contributes to open-source projects and ships supported Linux versions.",
+    "englishExpression": "Choose \"Red Hat\" because Red Hat contributes to open-source projects and ships supported Linux versions.; other options do not match this question.",
+    "knowledgeLevel": "General computing",
+    "optionsJapanese": [
+      "Red Hat",
+      "Microsoft",
+      "Apple",
+      "IBM"
+    ]
+  },
+  {
+    "question": "What protocol secures web traffic with certificates?",
+    "questionJapanese": "証明書でウェブトラフィックを保護するプロトコルは何ですか？",
+    "options": [
+      "HTTP",
+      "FTP",
+      "SMTP",
+      "HTTPS"
+    ],
+    "answer": "HTTPS",
+    "explanation": "HTTPS adds SSL/TLS on top of HTTP to encrypt data between browsers and servers.",
+    "explanationJapanese": "HTTPSはHTTPにSSL/TLSを追加して、ブラウザとサーバー間のデータを暗号化します。",
+    "vocabulary": [
+      {
+        "word": "encrypt",
+        "meaning": "暗号化する",
+        "partOfSpeech": "general",
+        "example": "Use 'encrypt' in context: encrypt relates to this topic."
+      },
+      {
+        "word": "certificate",
+        "meaning": "証明書",
+        "partOfSpeech": "general",
+        "example": "Use 'certificate' in context: certificate relates to this topic."
+      },
+      {
+        "word": "server",
+        "meaning": "サーバー",
+        "partOfSpeech": "general",
+        "example": "Use 'server' in context: server relates to this topic."
+      }
+    ],
+    "category": "Technology",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: HTTPS adds SSL/TLS on top of HTTP to encrypt data between browsers and servers.",
+    "englishExpression": "Choose \"HTTPS\" because HTTPS adds SSL/TLS on top of HTTP to encrypt data between browsers and servers.; other options do not match this question.",
+    "knowledgeLevel": "General computing",
+    "optionsJapanese": [
+      "HTTP",
+      "FTP",
+      "SMTP",
+      "HTTPS"
+    ]
+  },
+  {
+    "question": "Which field studies user interactions with software interfaces?",
+    "questionJapanese": "ソフトウェアインターフェースとユーザーのやり取りを研究する分野は何ですか？",
+    "options": [
+      "UX design",
+      "AI engineering",
+      "Database theory",
+      "Network security"
+    ],
+    "answer": "UX design",
+    "explanation": "UX designers focus on making apps intuitive and reducing frustration.",
+    "explanationJapanese": "UXデザイナーはアプリを直感的にし、不満を減らすことに注力します。",
+    "vocabulary": [
+      {
+        "word": "intuitive",
+        "meaning": "直感的な",
+        "partOfSpeech": "general",
+        "example": "Use 'intuitive' in context: intuitive relates to this topic."
+      },
+      {
+        "word": "frustration",
+        "meaning": "欲求不満",
+        "partOfSpeech": "general",
+        "example": "Use 'frustration' in context: frustration relates to this topic."
+      },
+      {
+        "word": "focus",
+        "meaning": "焦点を当てる",
+        "partOfSpeech": "general",
+        "example": "Use 'focus' in context: focus relates to this topic."
+      }
+    ],
+    "category": "Technology",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: UX designers focus on making apps intuitive and reducing frustration.",
+    "englishExpression": "Choose \"UX design\" because UX designers focus on making apps intuitive and reducing frustration.; other options do not match this question.",
+    "knowledgeLevel": "General computing",
+    "optionsJapanese": [
+      "UX design",
+      "AI engineering",
+      "Database theory",
+      "Network security"
+    ]
+  },
+  {
+    "question": "Which programming language uses indentation to define code blocks instead of braces?",
+    "questionJapanese": "コードブロックを中括弧ではなくインデントで定義するプログラミング言語はどれですか？",
+    "options": [
+      "Python",
+      "Java",
+      "C++",
+      "Ruby"
+    ],
+    "answer": "Python",
+    "explanation": "Python emphasizes readability by requiring consistent indentation for blocks.",
+    "explanationJapanese": "Pythonは読みやすさを重視し、ブロックに一定のインデントを必要とします。",
+    "vocabulary": [
+      {
+        "word": "readability",
+        "meaning": "可読性",
+        "partOfSpeech": "general",
+        "example": "Use 'readability' in context: readability relates to this topic."
+      },
+      {
+        "word": "indentation",
+        "meaning": "インデント",
+        "partOfSpeech": "general",
+        "example": "Use 'indentation' in context: indentation relates to this topic."
+      },
+      {
+        "word": "consistent",
+        "meaning": "一貫した",
+        "partOfSpeech": "general",
+        "example": "Use 'consistent' in context: consistent relates to this topic."
+      }
+    ],
+    "category": "Technology",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: Python emphasizes readability by requiring consistent indentation for blocks.",
+    "englishExpression": "Choose \"Python\" because Python emphasizes readability by requiring consistent indentation for blocks.; other options do not match this question.",
+    "knowledgeLevel": "General computing",
+    "optionsJapanese": [
+      "Python",
+      "Java",
+      "C++",
+      "Ruby"
+    ]
+  },
+  {
+    "question": "Which technology helps smartphones connect wirelessly over short distances?",
+    "questionJapanese": "スマホが短距離で無線接続するのに使う技術は何ですか？",
+    "options": [
+      "Bluetooth",
+      "Wi-Fi",
+      "NFC",
+      "Infrared"
+    ],
+    "answer": "Bluetooth",
+    "explanation": "Bluetooth links devices like headphones and watches using radio waves.",
+    "explanationJapanese": "Bluetoothはヘッドフォンや時計などを電波で接続します。",
+    "vocabulary": [
+      {
+        "word": "link",
+        "meaning": "つなぐ",
+        "partOfSpeech": "general",
+        "example": "Use 'link' in context: link relates to this topic."
+      },
+      {
+        "word": "radio",
+        "meaning": "ラジオ",
+        "partOfSpeech": "general",
+        "example": "Use 'radio' in context: radio relates to this topic."
+      },
+      {
+        "word": "device",
+        "meaning": "機器",
+        "partOfSpeech": "general",
+        "example": "Use 'device' in context: device relates to this topic."
+      }
+    ],
+    "category": "Technology",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: Bluetooth links devices like headphones and watches using radio waves.",
+    "englishExpression": "Choose \"Bluetooth\" because Bluetooth links devices like headphones and watches using radio waves.; other options do not match this question.",
+    "knowledgeLevel": "General computing",
+    "optionsJapanese": [
+      "Bluetooth",
+      "Wi-Fi",
+      "NFC",
+      "赤外線"
+    ]
+  },
+  {
+    "question": "What is Moore's Law?",
+    "questionJapanese": "ムーアの法則とは何ですか？",
+    "options": [
+      "The number of transistors on a chip roughly doubles every two years",
+      "Processing speed doubles every month",
+      "Memory becomes free every year",
+      "Batteries last twice as long every year"
+    ],
+    "answer": "The number of transistors on a chip roughly doubles every two years",
+    "explanation": "Moore's Law observes that the number of transistors on an integrated circuit roughly doubles about every two years, driving performance gains.",
+    "explanationJapanese": "ムーアの法則は、集積回路上のトランジスタ数が概ね2年ごとに倍増し、それが性能向上をもたらすという経験則です。",
+    "vocabulary": [
+      {
+        "word": "transistor",
+        "meaning": "トランジスタ",
+        "partOfSpeech": "general",
+        "example": "Use 'transistor' in context: transistor relates to this topic."
+      },
+      {
+        "word": "integrated circuit",
+        "meaning": "集積回路",
+        "partOfSpeech": "general",
+        "example": "Use 'integrated circuit' in context: integrated circuit relates to this topic."
+      }
+    ],
+    "category": "Technology",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: Moore's Law observes that the number of transistors on an integrated circuit roughly doubles about every two years, driving performance gains.",
+    "englishExpression": "Choose \"The number of transistors on a chip roughly doubles every two years\" because Moore's Law observes that the number of transistors on an integrated circuit roughly doubles about every two years, driving performance gains.; other options do not match this question.",
+    "knowledgeLevel": "General computing",
+    "optionsJapanese": [
+      "The number of transistors on a chip roughly doubles every two years",
+      "Processing speed doubles every month",
+      "Memory becomes free every year",
+      "Batteries last twice as long every year"
+    ]
+  },
+  {
+    "question": "What does HTTP stand for?",
+    "questionJapanese": "HTTPは何の略ですか？",
+    "options": [
+      "HyperText Transfer Protocol",
+      "HighTime Transfer Program",
+      "Hyperlink Transmission Process",
+      "Host Transfer Protocol"
+    ],
+    "answer": "HyperText Transfer Protocol",
+    "explanation": "HTTP stands for HyperText Transfer Protocol, used to transfer web pages.",
+    "explanationJapanese": "HTTPはハイパーテキスト転送プロトコルの略で、ウェブページの送受信に使われます。",
+    "vocabulary": [
+      {
+        "word": "protocol",
+        "meaning": "プロトコル",
+        "partOfSpeech": "general",
+        "example": "Use 'protocol' in context: protocol relates to this topic."
+      },
+      {
+        "word": "transfer",
+        "meaning": "転送",
+        "partOfSpeech": "general",
+        "example": "Use 'transfer' in context: transfer relates to this topic."
+      }
+    ],
+    "category": "Technology",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: HTTP stands for HyperText Transfer Protocol, used to transfer web pages.",
+    "englishExpression": "Choose \"HyperText Transfer Protocol\" because HTTP stands for HyperText Transfer Protocol, used to transfer web pages.; other options do not match this question.",
+    "knowledgeLevel": "General computing",
+    "optionsJapanese": [
+      "ハイパーテキスト転送プロトコル",
+      "ハイタイム転送プログラム",
+      "ハイパーリンク伝送プロセス",
+      "ホスト転送プロトコル"
+    ]
+  },
+  {
+    "question": "Which company created the Android operating system?",
+    "questionJapanese": "Androidを開発した会社はどこですか？",
+    "options": [
+      "Google",
+      "Apple",
+      "Microsoft",
+      "IBM"
+    ],
+    "answer": "Google",
+    "explanation": "Google acquired and developed the Android operating system.",
+    "explanationJapanese": "GoogleがAndroid OSを買収・開発しました。",
+    "vocabulary": [
+      {
+        "word": "operating system",
+        "meaning": "OS",
+        "partOfSpeech": "general",
+        "example": "Use 'operating system' in context: operating system relates to this topic."
+      },
+      {
+        "word": "Android",
+        "meaning": "Android",
+        "partOfSpeech": "general",
+        "example": "Use 'Android' in context: Android relates to this topic."
+      }
+    ],
+    "category": "Technology",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: Google acquired and developed the Android operating system.",
+    "englishExpression": "Choose \"Google\" because Google acquired and developed the Android operating system.; other options do not match this question.",
+    "knowledgeLevel": "General computing",
+    "optionsJapanese": [
+      "Google",
+      "Apple",
+      "Microsoft",
+      "IBM"
+    ]
+  },
+  {
+    "question": "What does CPU stand for?",
+    "questionJapanese": "CPUは何の略ですか？",
+    "options": [
+      "Central Processing Unit",
+      "Central Peripheral Unit",
+      "Computer Power Unit",
+      "Core Processing Utility"
+    ],
+    "answer": "Central Processing Unit",
+    "explanation": "CPU stands for Central Processing Unit, the main processor of a computer.",
+    "explanationJapanese": "CPUは中央処理装置の略で、コンピュータの主要な演算装置です。",
+    "vocabulary": [
+      {
+        "word": "processor",
+        "meaning": "プロセッサ",
+        "partOfSpeech": "general",
+        "example": "Use 'processor' in context: processor relates to this topic."
+      },
+      {
+        "word": "unit",
+        "meaning": "装置",
+        "partOfSpeech": "general",
+        "example": "Use 'unit' in context: unit relates to this topic."
+      }
+    ],
+    "category": "Technology",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: CPU stands for Central Processing Unit, the main processor of a computer.",
+    "englishExpression": "Choose \"Central Processing Unit\" because CPU stands for Central Processing Unit, the main processor of a computer.; other options do not match this question.",
+    "knowledgeLevel": "General computing",
+    "optionsJapanese": [
+      "中央処理装置",
+      "Central Peripheral Unit",
+      "Computer Power Unit",
+      "Core Processing Utility"
+    ]
+  },
+  {
+    "question": "Which database language is used to query relational databases?",
+    "questionJapanese": "リレーショナルデータベースを問い合わせる言語は何ですか？",
+    "options": [
+      "SQL",
+      "HTML",
+      "CSS",
+      "SMTP"
+    ],
+    "answer": "SQL",
+    "explanation": "SQL is the standard language for querying relational databases.",
+    "explanationJapanese": "SQLはリレーショナルデータベースを問い合わせる標準言語です。",
+    "vocabulary": [
+      {
+        "word": "database",
+        "meaning": "データベース",
+        "partOfSpeech": "general",
+        "example": "Use 'database' in context: database relates to this topic."
+      },
+      {
+        "word": "query",
+        "meaning": "問い合わせ",
+        "partOfSpeech": "general",
+        "example": "Use 'query' in context: query relates to this topic."
+      }
+    ],
+    "category": "Technology",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: SQL is the standard language for querying relational databases.",
+    "englishExpression": "Choose \"SQL\" because SQL is the standard language for querying relational databases.; other options do not match this question.",
+    "knowledgeLevel": "General computing",
+    "optionsJapanese": [
+      "SQL",
+      "HTML",
+      "CSS",
+      "SMTP"
+    ]
+  },
+  {
+    "question": "What is DNS used for on the Internet?",
+    "questionJapanese": "インターネットでDNSは何に使われますか？",
+    "options": [
+      "Translating domain names to IP addresses",
+      "Encrypting web traffic",
+      "Compressing images",
+      "Storing passwords"
+    ],
+    "answer": "Translating domain names to IP addresses",
+    "explanation": "DNS converts human-readable domain names into IP addresses.",
+    "explanationJapanese": "DNSは人間に読みやすいドメイン名をIPアドレスに変換します。",
+    "vocabulary": [
+      {
+        "word": "domain name",
+        "meaning": "ドメイン名",
+        "partOfSpeech": "general",
+        "example": "Use 'domain name' in context: domain name relates to this topic."
+      },
+      {
+        "word": "IP address",
+        "meaning": "IPアドレス",
+        "partOfSpeech": "general",
+        "example": "Use 'IP address' in context: IP address relates to this topic."
+      }
+    ],
+    "category": "Technology",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: DNS converts human-readable domain names into IP addresses.",
+    "englishExpression": "Choose \"Translating domain names to IP addresses\" because DNS converts human-readable domain names into IP addresses.; other options do not match this question.",
+    "knowledgeLevel": "General computing",
+    "optionsJapanese": [
+      "Translating domain names to IP addresses",
+      "Encrypting web traffic",
+      "Compressing images",
+      "Storing passwords"
+    ]
+  },
+  {
+    "question": "What does open-source software mean?",
+    "questionJapanese": "オープンソースソフトウェアとは何を指しますか？",
+    "options": [
+      "Software with source code available to use, modify, and share",
+      "Software that is always free of charge",
+      "Software only for one company",
+      "Software without any license"
+    ],
+    "answer": "Software with source code available to use, modify, and share",
+    "explanation": "Open-source software makes source code available for use, modification, and distribution.",
+    "explanationJapanese": "オープンソースソフトウェアはソースコードが利用・改変・再配布可能です。",
+    "vocabulary": [
+      {
+        "word": "open-source",
+        "meaning": "オープンソース",
+        "partOfSpeech": "general",
+        "example": "Use 'open-source' in context: open-source relates to this topic."
+      },
+      {
+        "word": "source code",
+        "meaning": "ソースコード",
+        "partOfSpeech": "general",
+        "example": "Use 'source code' in context: source code relates to this topic."
+      }
+    ],
+    "category": "Technology",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: Open-source software makes source code available for use, modification, and distribution.",
+    "englishExpression": "Choose \"Software with source code available to use, modify, and share\" because Open-source software makes source code available for use, modification, and distribution.; other options do not match this question.",
+    "knowledgeLevel": "General computing",
+    "optionsJapanese": [
+      "Software with source code available to use, modify, and share",
+      "Software that is always free of charge",
+      "Software only for one company",
+      "Software without any license"
+    ]
+  },
+  {
+    "question": "Which protocol secures HTTP traffic with encryption?",
+    "questionJapanese": "HTTP通信を暗号化して安全にするプロトコルはどれですか？",
+    "options": [
+      "TLS",
+      "FTP",
+      "POP3",
+      "IMAP"
+    ],
+    "answer": "TLS",
+    "explanation": "TLS encrypts HTTP traffic to provide HTTPS.",
+    "explanationJapanese": "TLSはHTTP通信を暗号化し、HTTPSを実現します。",
+    "vocabulary": [
+      {
+        "word": "encryption",
+        "meaning": "暗号化",
+        "partOfSpeech": "general",
+        "example": "Use 'encryption' in context: encryption relates to this topic."
+      },
+      {
+        "word": "TLS",
+        "meaning": "TLS",
+        "partOfSpeech": "general",
+        "example": "Use 'TLS' in context: TLS relates to this topic."
+      }
+    ],
+    "category": "Technology",
+    "difficulty": "Hard",
+    "knowledgeInsight": "Key takeaway: TLS encrypts HTTP traffic to provide HTTPS.",
+    "englishExpression": "Choose \"TLS\" because TLS encrypts HTTP traffic to provide HTTPS.; other options do not match this question.",
+    "knowledgeLevel": "General computing",
+    "optionsJapanese": [
+      "TLS",
+      "FTP",
+      "POP3",
+      "IMAP"
+    ]
+  },
+  {
+    "question": "What device forwards traffic between computer networks?",
+    "questionJapanese": "コンピュータネットワーク間でトラフィックを転送する機器は何ですか？",
+    "options": [
+      "Router",
+      "Switch",
+      "Hub",
+      "Repeater"
+    ],
+    "answer": "Router",
+    "explanation": "A router forwards packets between different networks.",
+    "explanationJapanese": "ルーターは異なるネットワーク間でパケットを転送します。",
+    "vocabulary": [
+      {
+        "word": "router",
+        "meaning": "ルーター",
+        "partOfSpeech": "general",
+        "example": "Use 'router' in context: router relates to this topic."
+      },
+      {
+        "word": "network",
+        "meaning": "ネットワーク",
+        "partOfSpeech": "general",
+        "example": "Use 'network' in context: network relates to this topic."
+      }
+    ],
+    "category": "Technology",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: A router forwards packets between different networks.",
+    "englishExpression": "Choose \"Router\" because A router forwards packets between different networks.; other options do not match this question.",
+    "knowledgeLevel": "General computing",
+    "optionsJapanese": [
+      "ルーター",
+      "スイッチ",
+      "ハブ",
+      "リピーター"
+    ]
+  },
+  {
+    "question": "What is the main purpose of a firewall?",
+    "questionJapanese": "ファイアウォールの主な目的は何ですか？",
+    "options": [
+      "To control and filter network traffic",
+      "To speed up processors",
+      "To store large files",
+      "To cool servers"
+    ],
+    "answer": "To control and filter network traffic",
+    "explanation": "A firewall monitors and filters network traffic based on security rules.",
+    "explanationJapanese": "ファイアウォールはセキュリティ規則に基づきネットワークトラフィックを監視・制御します。",
+    "vocabulary": [
+      {
+        "word": "firewall",
+        "meaning": "ファイアウォール",
+        "partOfSpeech": "general",
+        "example": "Use 'firewall' in context: firewall relates to this topic."
+      },
+      {
+        "word": "filter",
+        "meaning": "フィルタ",
+        "partOfSpeech": "general",
+        "example": "Use 'filter' in context: filter relates to this topic."
+      }
+    ],
+    "category": "Technology",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: A firewall monitors and filters network traffic based on security rules.",
+    "englishExpression": "Choose \"To control and filter network traffic\" because A firewall monitors and filters network traffic based on security rules.; other options do not match this question.",
+    "knowledgeLevel": "General computing",
+    "optionsJapanese": [
+      "ネットワークトラフィックを制御・フィルタする",
+      "To speed up processors",
+      "To store large files",
+      "To cool servers"
+    ]
+  },
+  {
+    "question": "Which algorithm is commonly used for sorting data efficiently?",
+    "questionJapanese": "データを効率よくソートするためによく使われるアルゴリズムはどれですか？",
+    "options": [
+      "Quick sort",
+      "Linear search",
+      "Breadth-first search",
+      "Dijkstra's algorithm"
+    ],
+    "answer": "Quick sort",
+    "explanation": "Quicksort is a widely used efficient sorting algorithm.",
+    "explanationJapanese": "クイックソートは効率的なソートアルゴリズムとして広く使われます。",
+    "vocabulary": [
+      {
+        "word": "algorithm",
+        "meaning": "アルゴリズム",
+        "partOfSpeech": "general",
+        "example": "Use 'algorithm' in context: algorithm relates to this topic."
+      },
+      {
+        "word": "sort",
+        "meaning": "ソート",
+        "partOfSpeech": "general",
+        "example": "Use 'sort' in context: sort relates to this topic."
+      }
+    ],
+    "category": "Technology",
+    "difficulty": "Hard",
+    "knowledgeInsight": "Key takeaway: Quicksort is a widely used efficient sorting algorithm.",
+    "englishExpression": "Choose \"Quick sort\" because Quicksort is a widely used efficient sorting algorithm.; other options do not match this question.",
+    "knowledgeLevel": "General computing",
+    "optionsJapanese": [
+      "Quick sort",
+      "Linear search",
+      "Breadth-first search",
+      "Dijkstra's algorithm"
+    ]
+  },
+  {
+    "question": "What does UI stand for in software design?",
+    "questionJapanese": "ソフトウェア設計でUIは何の略ですか？",
+    "options": [
+      "User Interface",
+      "Universal Input",
+      "Unified Identifier",
+      "User Instruction"
+    ],
+    "answer": "User Interface",
+    "explanation": "UI stands for User Interface, the layer users interact with.",
+    "explanationJapanese": "UIはユーザーインターフェースの略で、利用者が触れる層です。",
+    "vocabulary": [
+      {
+        "word": "interface",
+        "meaning": "インターフェース",
+        "partOfSpeech": "general",
+        "example": "Use 'interface' in context: interface relates to this topic."
+      },
+      {
+        "word": "user",
+        "meaning": "ユーザー",
+        "partOfSpeech": "general",
+        "example": "Use 'user' in context: user relates to this topic."
+      }
+    ],
+    "category": "Technology",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: UI stands for User Interface, the layer users interact with.",
+    "englishExpression": "Choose \"User Interface\" because UI stands for User Interface, the layer users interact with.; other options do not match this question.",
+    "knowledgeLevel": "General computing",
+    "optionsJapanese": [
+      "User Interface",
+      "Universal Input",
+      "Unified Identifier",
+      "User Instruction"
+    ]
+  },
+  {
+    "question": "What is two-factor authentication?",
+    "questionJapanese": "二要素認証とは何ですか？",
+    "options": [
+      "Using two independent methods to verify identity",
+      "Logging in from two devices at once",
+      "Encrypting data twice",
+      "Using two usernames"
+    ],
+    "answer": "Using two independent methods to verify identity",
+    "explanation": "Two-factor authentication requires two separate ways to prove identity.",
+    "explanationJapanese": "二要素認証は2つの独立した方法で本人確認を行います。",
+    "vocabulary": [
+      {
+        "word": "authentication",
+        "meaning": "認証",
+        "partOfSpeech": "general",
+        "example": "Use 'authentication' in context: authentication relates to this topic."
+      },
+      {
+        "word": "identity",
+        "meaning": "本人",
+        "partOfSpeech": "general",
+        "example": "Use 'identity' in context: identity relates to this topic."
+      }
+    ],
+    "category": "Technology",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: Two-factor authentication requires two separate ways to prove identity.",
+    "englishExpression": "Choose \"Using two independent methods to verify identity\" because Two-factor authentication requires two separate ways to prove identity.; other options do not match this question.",
+    "knowledgeLevel": "General computing",
+    "optionsJapanese": [
+      "2つの独立した手段で本人確認を行うこと",
+      "Logging in from two devices at once",
+      "Encrypting data twice",
+      "Using two usernames"
+    ]
+  },
+  {
+    "question": "Which layer of the OSI model handles routing and IP addressing?",
+    "questionJapanese": "OSIモデルでルーティングとIPアドレスを扱う層はどれですか？",
+    "options": [
+      "Network layer",
+      "Physical layer",
+      "Application layer",
+      "Presentation layer"
+    ],
+    "answer": "Network layer",
+    "explanation": "The network layer handles routing and logical addressing.",
+    "explanationJapanese": "ネットワーク層がルーティングと論理アドレスを扱います。",
+    "vocabulary": [
+      {
+        "word": "routing",
+        "meaning": "ルーティング",
+        "partOfSpeech": "general",
+        "example": "Use 'routing' in context: routing relates to this topic."
+      },
+      {
+        "word": "network layer",
+        "meaning": "ネットワーク層",
+        "partOfSpeech": "general",
+        "example": "Use 'network layer' in context: network layer relates to this topic."
+      }
+    ],
+    "category": "Technology",
+    "difficulty": "Hard",
+    "knowledgeInsight": "Key takeaway: The network layer handles routing and logical addressing.",
+    "englishExpression": "Choose \"Network layer\" because The network layer handles routing and logical addressing.; other options do not match this question.",
+    "knowledgeLevel": "General computing",
+    "optionsJapanese": [
+      "Network layer",
+      "Physical layer",
+      "Application layer",
+      "Presentation layer"
+    ]
+  },
+  {
+    "question": "What does GPU primarily accelerate?",
+    "questionJapanese": "GPUが主に高速化する処理は何ですか？",
+    "options": [
+      "Graphics and parallel computations",
+      "Database queries",
+      "Audio playback",
+      "Disk encryption"
+    ],
+    "answer": "Graphics and parallel computations",
+    "explanation": "GPUs accelerate graphics rendering and parallel computations.",
+    "explanationJapanese": "GPUはグラフィックス描画や並列計算を高速化します。",
+    "vocabulary": [
+      {
+        "word": "GPU",
+        "meaning": "GPU",
+        "partOfSpeech": "general",
+        "example": "Use 'GPU' in context: GPU relates to this topic."
+      },
+      {
+        "word": "parallel",
+        "meaning": "並列",
+        "partOfSpeech": "general",
+        "example": "Use 'parallel' in context: parallel relates to this topic."
+      }
+    ],
+    "category": "Technology",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: GPUs accelerate graphics rendering and parallel computations.",
+    "englishExpression": "Choose \"Graphics and parallel computations\" because GPUs accelerate graphics rendering and parallel computations.; other options do not match this question.",
+    "knowledgeLevel": "General computing",
+    "optionsJapanese": [
+      "グラフィックスと並列計算",
+      "Database queries",
+      "Audio playback",
+      "Disk encryption"
+    ]
+  },
+  {
+    "question": "What is the basic unit of data on the internet identified by an address?",
+    "questionJapanese": "インターネット上でアドレスで識別される基本データ単位は何ですか？",
+    "options": [
+      "IP packet",
+      "Pixel",
+      "Cluster",
+      "Archive"
+    ],
+    "answer": "IP packet",
+    "explanation": "Network data travels as IP packets identified by source and destination addresses.",
+    "explanationJapanese": "ネットワークデータは送信元と宛先を持つIPパケットとして流れます。",
+    "vocabulary": [
+      {
+        "word": "packet",
+        "meaning": "パケット",
+        "partOfSpeech": "general",
+        "example": "Use 'packet' in context: packet relates to this topic."
+      },
+      {
+        "word": "address",
+        "meaning": "アドレス",
+        "partOfSpeech": "general",
+        "example": "Use 'address' in context: address relates to this topic."
+      }
+    ],
+    "category": "Technology",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: Network data travels as IP packets identified by source and destination addresses.",
+    "englishExpression": "Choose \"IP packet\" because Network data travels as IP packets identified by source and destination addresses.; other options do not match this question.",
+    "knowledgeLevel": "General computing",
+    "optionsJapanese": [
+      "IPパケット",
+      "ピクセル",
+      "クラスター",
+      "アーカイブ"
+    ]
+  },
+  {
+    "question": "Which version control system is widely used for tracking code changes?",
+    "questionJapanese": "コード変更の履歴管理に広く使われるバージョン管理システムはどれですか？",
+    "options": [
+      "Git",
+      "FTP",
+      "SSH",
+      "SMTP"
+    ],
+    "answer": "Git",
+    "explanation": "Git is a distributed version control system widely used for code changes.",
+    "explanationJapanese": "Gitはコード変更の履歴管理に広く使われる分散型バージョン管理システムです。",
+    "vocabulary": [
+      {
+        "word": "version control",
+        "meaning": "バージョン管理",
+        "partOfSpeech": "general",
+        "example": "Use 'version control' in context: version control relates to this topic."
+      },
+      {
+        "word": "repository",
+        "meaning": "リポジトリ",
+        "partOfSpeech": "general",
+        "example": "Use 'repository' in context: repository relates to this topic."
+      }
+    ],
+    "category": "Technology",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: Git is a distributed version control system widely used for code changes.",
+    "englishExpression": "Choose \"Git\" because Git is a distributed version control system widely used for code changes.; other options do not match this question.",
+    "knowledgeLevel": "General computing",
+    "optionsJapanese": [
+      "Git",
+      "FTP",
+      "SSH",
+      "SMTP"
+    ]
+  },
+  {
+    "question": "What is phishing?",
+    "questionJapanese": "フィッシングとは何ですか？",
+    "options": [
+      "Tricking users into revealing sensitive information",
+      "Speeding up web downloads",
+      "Encrypting email content",
+      "Blocking advertisements"
+    ],
+    "answer": "Tricking users into revealing sensitive information",
+    "explanation": "Phishing is a social engineering attack to steal credentials or data.",
+    "explanationJapanese": "フィッシングは利用者をだまして資格情報などを盗む手口です。",
+    "vocabulary": [
+      {
+        "word": "phishing",
+        "meaning": "フィッシング",
+        "partOfSpeech": "general",
+        "example": "Use 'phishing' in context: phishing relates to this topic."
+      },
+      {
+        "word": "credentials",
+        "meaning": "認証情報",
+        "partOfSpeech": "general",
+        "example": "Use 'credentials' in context: credentials relates to this topic."
+      }
+    ],
+    "category": "Technology",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: Phishing is a social engineering attack to steal credentials or data.",
+    "englishExpression": "Choose \"Tricking users into revealing sensitive information\" because Phishing is a social engineering attack to steal credentials or data.; other options do not match this question.",
+    "knowledgeLevel": "General computing",
+    "optionsJapanese": [
+      "Tricking users into revealing sensitive information",
+      "Speeding up web downloads",
+      "Encrypting email content",
+      "Blocking advertisements"
+    ]
+  },
+  {
+    "question": "What type of learning uses labeled data to train models?",
+    "questionJapanese": "ラベル付きデータでモデルを訓練する学習手法はどれですか？",
+    "options": [
+      "Supervised learning",
+      "Unsupervised learning",
+      "Reinforcement learning",
+      "Transfer learning"
+    ],
+    "answer": "Supervised learning",
+    "explanation": "Supervised learning uses labeled examples to teach models to predict outputs.",
+    "explanationJapanese": "教師あり学習はラベル付きデータを使って出力を予測するようモデルを訓練します。",
+    "vocabulary": [
+      {
+        "word": "supervised",
+        "meaning": "教師あり",
+        "partOfSpeech": "general",
+        "example": "Use 'supervised' in context: supervised relates to this topic."
+      },
+      {
+        "word": "labeled data",
+        "meaning": "ラベル付きデータ",
+        "partOfSpeech": "general",
+        "example": "Use 'labeled data' in context: labeled data relates to this topic."
+      }
+    ],
+    "category": "Technology",
+    "difficulty": "Hard",
+    "knowledgeInsight": "Key takeaway: Supervised learning uses labeled examples to teach models to predict outputs.",
+    "englishExpression": "Choose \"Supervised learning\" because Supervised learning uses labeled examples to teach models to predict outputs.; other options do not match this question.",
+    "knowledgeLevel": "General computing",
+    "optionsJapanese": [
+      "Supervised learning",
+      "Unsupervised learning",
+      "Reinforcement learning",
+      "Transfer learning"
+    ]
+  },
+  {
+    "category": "Technology",
+    "difficulty": "Medium",
+    "question": "Which data structure works on a first-in, first-out basis?",
+    "questionJapanese": "先入れ先出しで動作するデータ構造はどれですか？",
+    "options": [
+      "Queue",
+      "Stack",
+      "Tree",
+      "Graph"
+    ],
+    "answer": "Queue",
+    "explanation": "A queue processes elements in first-in, first-out order.",
+    "explanationJapanese": "キューは先に入れた要素が先に取り出される先入れ先出し構造です。",
+    "vocabulary": [
+      {
+        "word": "queue",
+        "meaning": "キュー",
+        "partOfSpeech": "general",
+        "example": "Use 'queue' in context: queue relates to this topic."
+      },
+      {
+        "word": "FIFO",
+        "meaning": "先入れ先出し",
+        "partOfSpeech": "general",
+        "example": "Use 'FIFO' in context: FIFO relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: A queue processes elements in first-in, first-out order.",
+    "englishExpression": "Choose \"Queue\" because A queue processes elements in first-in, first-out order.; other options do not match this question.",
+    "knowledgeLevel": "General computing",
+    "optionsJapanese": [
+      "Queue",
+      "Stack",
+      "Tree",
+      "Graph"
+    ]
+  },
+  {
+    "category": "Technology",
+    "difficulty": "Medium",
+    "question": "What is the main purpose of a CDN?",
+    "questionJapanese": "CDNの主な目的は何ですか？",
+    "options": [
+      "Deliver content from edge servers",
+      "Encrypt emails",
+      "Store passwords",
+      "Compile code"
+    ],
+    "answer": "Deliver content from edge servers",
+    "explanation": "A CDN speeds delivery by serving content from edge servers near users.",
+    "explanationJapanese": "CDNはユーザーに近いエッジサーバーから配信し表示を高速化します。",
+    "vocabulary": [
+      {
+        "word": "CDN",
+        "meaning": "コンテンツ配信ネットワーク",
+        "partOfSpeech": "general",
+        "example": "Use 'CDN' in context: CDN relates to this topic."
+      },
+      {
+        "word": "edge server",
+        "meaning": "エッジサーバー",
+        "partOfSpeech": "general",
+        "example": "Use 'edge server' in context: edge server relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: A CDN speeds delivery by serving content from edge servers near users.",
+    "englishExpression": "Choose \"Deliver content from edge servers\" because A CDN speeds delivery by serving content from edge servers near users.; other options do not match this question.",
+    "knowledgeLevel": "General computing",
+    "optionsJapanese": [
+      "Deliver content from edge servers",
+      "Encrypt emails",
+      "Store passwords",
+      "Compile code"
+    ]
+  },
+  {
+    "category": "Technology",
+    "difficulty": "Easy",
+    "question": "What does RAM stand for?",
+    "questionJapanese": "RAMは何の略ですか？",
+    "options": [
+      "Random Access Memory",
+      "Readily Available Module",
+      "Rapid Action Machine",
+      "Remote Access Mode"
+    ],
+    "answer": "Random Access Memory",
+    "explanation": "RAM stands for Random Access Memory, a computer’s short-term working memory.",
+    "explanationJapanese": "RAMはランダムアクセスメモリの略で、コンピュータの作業用メモリです。",
+    "vocabulary": [
+      {
+        "word": "RAM",
+        "meaning": "メモリ",
+        "partOfSpeech": "general",
+        "example": "Use 'RAM' in context: RAM relates to this topic."
+      },
+      {
+        "word": "memory",
+        "meaning": "記憶装置",
+        "partOfSpeech": "general",
+        "example": "Use 'memory' in context: memory relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: RAM stands for Random Access Memory, a computer’s short-term working memory.",
+    "englishExpression": "Choose \"Random Access Memory\" because RAM stands for Random Access Memory, a computer’s short-term working memory.; other options do not match this question.",
+    "knowledgeLevel": "General computing",
+    "optionsJapanese": [
+      "Random Access Memory",
+      "Readily Available Module",
+      "Rapid Action Machine",
+      "Remote Access Mode"
+    ]
+  },
+  {
+    "category": "Technology",
+    "difficulty": "Hard",
+    "question": "Which hash function family is commonly used for password storage when salted and iterated?",
+    "questionJapanese": "ソルトと反復を伴ってパスワード保存に一般的に使われるハッシュ関数はどれですか？",
+    "options": [
+      "bcrypt",
+      "CRC32",
+      "MD4",
+      "SHA-1"
+    ],
+    "answer": "bcrypt",
+    "explanation": "Bcrypt is a salted, adaptive hash designed for password storage to resist brute force.",
+    "explanationJapanese": "bcryptはソルトとコスト調整が可能なパスワード向けハッシュで総当たり耐性を高めます。",
+    "vocabulary": [
+      {
+        "word": "bcrypt",
+        "meaning": "bcrypt",
+        "partOfSpeech": "general",
+        "example": "Use 'bcrypt' in context: bcrypt relates to this topic."
+      },
+      {
+        "word": "salt",
+        "meaning": "塩(ソルト)",
+        "partOfSpeech": "general",
+        "example": "Use 'salt' in context: salt relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Bcrypt is a salted, adaptive hash designed for password storage to resist brute force.",
+    "englishExpression": "Choose \"bcrypt\" because Bcrypt is a salted, adaptive hash designed for password storage to resist brute force.; other options do not match this question.",
+    "knowledgeLevel": "General computing",
+    "optionsJapanese": [
+      "bcrypt",
+      "CRC32",
+      "MD4",
+      "SHA-1"
+    ]
+  },
+  {
+    "category": "Technology",
+    "difficulty": "Medium",
+    "question": "What command initializes a new Git repository?",
+    "questionJapanese": "新しいGitリポジトリを初期化するコマンドは何ですか？",
+    "options": [
+      "git init",
+      "git clone",
+      "git status",
+      "git pull"
+    ],
+    "answer": "git init",
+    "explanation": "The command `git init` creates a new Git repository in the current directory.",
+    "explanationJapanese": "`git init`は現在のディレクトリに新しいGitリポジトリを作成します。",
+    "vocabulary": [
+      {
+        "word": "repository",
+        "meaning": "リポジトリ",
+        "partOfSpeech": "general",
+        "example": "Use 'repository' in context: repository relates to this topic."
+      },
+      {
+        "word": "initialize",
+        "meaning": "初期化する",
+        "partOfSpeech": "general",
+        "example": "Use 'initialize' in context: initialize relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: The command `git init` creates a new Git repository in the current directory.",
+    "englishExpression": "Choose \"git init\" because The command `git init` creates a new Git repository in the current directory.; other options do not match this question.",
+    "knowledgeLevel": "General computing",
+    "optionsJapanese": [
+      "git init",
+      "git clone",
+      "git status",
+      "git pull"
+    ]
+  },
+  {
+    "category": "Technology",
+    "difficulty": "Medium",
+    "question": "What does IDE stand for in software?",
+    "questionJapanese": "ソフトウェアでIDEは何の略ですか？",
+    "options": [
+      "Integrated Development Environment",
+      "Internal Debug Executor",
+      "Independent Data Engine",
+      "Interactive Design Editor"
+    ],
+    "answer": "Integrated Development Environment",
+    "explanation": "IDE stands for Integrated Development Environment for coding.",
+    "explanationJapanese": "IDEは統合開発環境の略で、開発に用います。",
+    "vocabulary": [
+      {
+        "word": "IDE",
+        "meaning": "IDE",
+        "partOfSpeech": "general",
+        "example": "Use 'IDE' in context: IDE relates to this topic."
+      },
+      {
+        "word": "development",
+        "meaning": "開発",
+        "partOfSpeech": "general",
+        "example": "Use 'development' in context: development relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: IDE stands for Integrated Development Environment for coding.",
+    "englishExpression": "Choose \"Integrated Development Environment\" because IDE stands for Integrated Development Environment for coding.; other options do not match this question.",
+    "knowledgeLevel": "General computing",
+    "optionsJapanese": [
+      "Integrated Development Environment",
+      "Internal Debug Executor",
+      "Independent Data Engine",
+      "Interactive Design Editor"
+    ]
+  },
+  {
+    "category": "Technology",
+    "difficulty": "Easy",
+    "question": "What does URL stand for?",
+    "questionJapanese": "URLは何の略ですか？",
+    "options": [
+      "Uniform Resource Locator",
+      "Universal Router Link",
+      "User Reference List",
+      "Unified Record Locator"
+    ],
+    "answer": "Uniform Resource Locator",
+    "explanation": "URL stands for Uniform Resource Locator, a web address.",
+    "explanationJapanese": "URLはウェブ上の住所を示すUniform Resource Locatorの略です。",
+    "vocabulary": [
+      {
+        "word": "URL",
+        "meaning": "URL",
+        "partOfSpeech": "general",
+        "example": "Use 'URL' in context: URL relates to this topic."
+      },
+      {
+        "word": "address",
+        "meaning": "アドレス",
+        "partOfSpeech": "general",
+        "example": "Use 'address' in context: address relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: URL stands for Uniform Resource Locator, a web address.",
+    "englishExpression": "Choose \"Uniform Resource Locator\" because URL stands for Uniform Resource Locator, a web address.; other options do not match this question.",
+    "knowledgeLevel": "General computing",
+    "optionsJapanese": [
+      "URL（Uniform Resource Locator）",
+      "Universal Router Link",
+      "User Reference List",
+      "Unified Record Locator"
+    ]
+  },
+  {
+    "category": "Technology",
+    "difficulty": "Hard",
+    "question": "Which protocol transfers files securely over SSH?",
+    "questionJapanese": "SSH上でファイルを安全に転送するプロトコルはどれですか？",
+    "options": [
+      "SFTP",
+      "FTP",
+      "HTTP",
+      "SMTP"
+    ],
+    "answer": "SFTP",
+    "explanation": "SFTP is the SSH File Transfer Protocol for secure file transfer.",
+    "explanationJapanese": "SFTPはSSHを用いる安全なファイル転送プロトコルです。",
+    "vocabulary": [
+      {
+        "word": "SFTP",
+        "meaning": "SFTP",
+        "partOfSpeech": "general",
+        "example": "Use 'SFTP' in context: SFTP relates to this topic."
+      },
+      {
+        "word": "secure",
+        "meaning": "安全な",
+        "partOfSpeech": "general",
+        "example": "Use 'secure' in context: secure relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: SFTP is the SSH File Transfer Protocol for secure file transfer.",
+    "englishExpression": "Choose \"SFTP\" because SFTP is the SSH File Transfer Protocol for secure file transfer.; other options do not match this question.",
+    "knowledgeLevel": "General computing",
+    "optionsJapanese": [
+      "SFTP",
+      "FTP",
+      "HTTP",
+      "SMTP"
+    ]
+  },
+  {
+    "category": "Technology",
+    "difficulty": "Medium",
+    "question": "What keyword in SQL retrieves data from a table?",
+    "questionJapanese": "SQLでテーブルからデータを取得するキーワードは何ですか？",
+    "options": [
+      "SELECT",
+      "INSERT",
+      "UPDATE",
+      "DELETE"
+    ],
+    "answer": "SELECT",
+    "explanation": "SELECT retrieves data from a table in SQL.",
+    "explanationJapanese": "SQLのSELECTはテーブルからデータを取得します。",
+    "vocabulary": [
+      {
+        "word": "SELECT",
+        "meaning": "SELECT",
+        "partOfSpeech": "general",
+        "example": "Use 'SELECT' in context: SELECT relates to this topic."
+      },
+      {
+        "word": "query",
+        "meaning": "問い合わせ",
+        "partOfSpeech": "general",
+        "example": "Use 'query' in context: query relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: SELECT retrieves data from a table in SQL.",
+    "englishExpression": "Choose \"SELECT\" because SELECT retrieves data from a table in SQL.; other options do not match this question.",
+    "knowledgeLevel": "General computing",
+    "optionsJapanese": [
+      "SELECT",
+      "INSERT",
+      "UPDATE",
+      "DELETE"
+    ]
+  },
+  {
+    "category": "Technology",
+    "difficulty": "Easy",
+    "question": "What does AI stand for?",
+    "questionJapanese": "AIは何の略ですか？",
+    "options": [
+      "Artificial Intelligence",
+      "Automated Interface",
+      "Analytics Integration",
+      "Applied Information"
+    ],
+    "answer": "Artificial Intelligence",
+    "explanation": "AI stands for Artificial Intelligence.",
+    "explanationJapanese": "AIは人工知能の略です。",
+    "vocabulary": [
+      {
+        "word": "AI",
+        "meaning": "人工知能",
+        "partOfSpeech": "general",
+        "example": "Use 'AI' in context: AI relates to this topic."
+      },
+      {
+        "word": "intelligence",
+        "meaning": "知能",
+        "partOfSpeech": "general",
+        "example": "Use 'intelligence' in context: intelligence relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: AI stands for Artificial Intelligence.",
+    "englishExpression": "Choose \"Artificial Intelligence\" because AI stands for Artificial Intelligence.; other options do not match this question.",
+    "knowledgeLevel": "General computing",
+    "optionsJapanese": [
+      "Artificial Intelligence",
+      "Automated Interface",
+      "Analytics Integration",
+      "Applied Information"
+    ]
+  },
+  {
+    "category": "Technology",
+    "difficulty": "Medium",
+    "question": "What does REST stand for in web APIs?",
+    "questionJapanese": "Web APIでRESTは何の略ですか？",
+    "options": [
+      "Representational State Transfer",
+      "Remote Execution Service Transport",
+      "Reactive Event Streaming Technology",
+      "Reliable Endpoint Service Token"
+    ],
+    "optionsJapanese": [
+      "表現状態転送",
+      "リモート実行サービス転送",
+      "リアクティブイベントストリーミング技術",
+      "信頼できるエンドポイントサービス・トークン"
+    ],
+    "answer": "Representational State Transfer",
+    "explanation": "REST stands for Representational State Transfer, an API design style.",
+    "explanationJapanese": "RESTはAPI設計スタイルの一つで表現状態転送を指します。",
+    "vocabulary": [
+      {
+        "word": "REST",
+        "meaning": "表現状態転送",
+        "partOfSpeech": "general",
+        "example": "Use 'REST' in context: REST relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: REST stands for Representational State Transfer, an API design style.",
+    "englishExpression": "Choose \"Representational State Transfer\" because REST stands for Representational State Transfer, an API design style.; other options do not match this question.",
+    "knowledgeLevel": "General computing"
+  },
+  {
+    "category": "Technology",
+    "difficulty": "Medium",
+    "question": "What does CRUD stand for in databases?",
+    "questionJapanese": "データベースでCRUDは何の略ですか？",
+    "options": [
+      "Create, Read, Update, Delete",
+      "Compile, Run, Undo, Deploy",
+      "Connect, Route, Upload, Download",
+      "Cache, Replicate, Update, Deliver"
+    ],
+    "optionsJapanese": [
+      "作成・読込・更新・削除",
+      "コンパイル・実行・取り消し・デプロイ",
+      "接続・ルート・アップロード・ダウンロード",
+      "キャッシュ・複製・更新・配信"
+    ],
+    "answer": "Create, Read, Update, Delete",
+    "explanation": "CRUD stands for create, read, update, and delete operations.",
+    "explanationJapanese": "CRUDは作成・読込・更新・削除の操作を指します。",
+    "vocabulary": [
+      {
+        "word": "CRUD",
+        "meaning": "作成・読込・更新・削除",
+        "partOfSpeech": "general",
+        "example": "Use 'CRUD' in context: CRUD relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: CRUD stands for create, read, update, and delete operations.",
+    "englishExpression": "Choose \"Create, Read, Update, Delete\" because CRUD stands for create, read, update, and delete operations.; other options do not match this question.",
+    "knowledgeLevel": "General computing"
+  },
+  {
+    "category": "Technology",
+    "difficulty": "Hard",
+    "question": "What does ACID ensure in database transactions?",
+    "questionJapanese": "DBトランザクションでACIDが保証するものは何ですか？",
+    "options": [
+      "Atomicity, Consistency, Isolation, Durability",
+      "Access, Control, Integrity, Discovery",
+      "Atom, Carbon, Iodine, Deuterium",
+      "Authentication, Caching, Indexing, Dispatch"
+    ],
+    "optionsJapanese": [
+      "原子性・一貫性・独立性・持続性",
+      "アクセス・制御・完全性・発見",
+      "原子・炭素・ヨウ素・重水素",
+      "認証・キャッシュ・インデックス・ディスパッチ"
+    ],
+    "answer": "Atomicity, Consistency, Isolation, Durability",
+    "explanation": "ACID ensures database transactions are atomic, consistent, isolated, and durable.",
+    "explanationJapanese": "ACIDはトランザクションの原子性・一貫性・独立性・持続性を保証します。",
+    "vocabulary": [
+      {
+        "word": "ACID",
+        "meaning": "原子性・一貫性・独立性・持続性",
+        "partOfSpeech": "general",
+        "example": "Use 'ACID' in context: ACID relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: ACID ensures database transactions are atomic, consistent, isolated, and durable.",
+    "englishExpression": "Choose \"Atomicity, Consistency, Isolation, Durability\" because ACID ensures database transactions are atomic, consistent, isolated, and durable.; other options do not match this question.",
+    "knowledgeLevel": "General computing"
+  },
+  {
+    "category": "Technology",
+    "difficulty": "Medium",
+    "question": "What does SaaS stand for in cloud services?",
+    "questionJapanese": "クラウドでSaaSは何の略ですか？",
+    "options": [
+      "Software as a Service",
+      "Storage as a System",
+      "Security at scale",
+      "Standard application as service"
+    ],
+    "optionsJapanese": [
+      "サービスとしてのソフトウェア",
+      "システムとしてのストレージ",
+      "スケールでのセキュリティ",
+      "標準アプリケーションサービス"
+    ],
+    "answer": "Software as a Service",
+    "explanation": "SaaS stands for Software as a Service, delivering apps over the internet.",
+    "explanationJapanese": "SaaSはサービスとしてのソフトウェアで、インターネット経由でアプリを提供します。",
+    "vocabulary": [
+      {
+        "word": "SaaS",
+        "meaning": "サービスとしてのソフトウェア",
+        "partOfSpeech": "general",
+        "example": "Use 'SaaS' in context: SaaS relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: SaaS stands for Software as a Service, delivering apps over the internet.",
+    "englishExpression": "Choose \"Software as a Service\" because SaaS stands for Software as a Service, delivering apps over the internet.; other options do not match this question.",
+    "knowledgeLevel": "General computing"
+  },
+  {
+    "category": "Technology",
+    "difficulty": "Easy",
+    "question": "What is the main benefit of using a CDN for websites?",
+    "questionJapanese": "ウェブサイトでCDNを使う主な利点は何ですか？",
+    "options": [
+      "Faster content delivery",
+      "Increasing server CPU speed",
+      "Free database storage",
+      "Offline access"
+    ],
+    "optionsJapanese": [
+      "コンテンツ配送の高速化",
+      "サーバーCPU速度を上げる",
+      "無料のデータベース容量",
+      "オフラインアクセス"
+    ],
+    "answer": "Faster content delivery",
+    "explanation": "A CDN speeds up content delivery by using edge servers near users.",
+    "explanationJapanese": "CDNはユーザーに近いエッジサーバーで配信を高速化します。",
+    "vocabulary": [
+      {
+        "word": "CDN",
+        "meaning": "コンテンツ配信ネットワーク",
+        "partOfSpeech": "general",
+        "example": "Use 'CDN' in context: CDN relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: A CDN speeds up content delivery by using edge servers near users.",
+    "englishExpression": "Choose \"Faster content delivery\" because A CDN speeds up content delivery by using edge servers near users.; other options do not match this question.",
+    "knowledgeLevel": "General computing"
+  },
+  {
+    "category": "Technology",
+    "difficulty": "Medium",
+    "question": "What does DNS translate?",
+    "questionJapanese": "DNSは何を変換しますか？",
+    "options": [
+      "Domain names to IP addresses",
+      "Emails to SMS",
+      "Images to text",
+      "HTML to CSS"
+    ],
+    "optionsJapanese": [
+      "ドメイン名をIPアドレスに変換する",
+      "メールをSMSに",
+      "画像を文字に",
+      "HTMLをCSSに"
+    ],
+    "answer": "Domain names to IP addresses",
+    "explanation": "DNS translates domain names to IP addresses.",
+    "explanationJapanese": "DNSはドメイン名をIPアドレスに変換します。",
+    "vocabulary": [
+      {
+        "word": "DNS",
+        "meaning": "ドメインネームシステム",
+        "partOfSpeech": "general",
+        "example": "Use 'DNS' in context: DNS relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: DNS translates domain names to IP addresses.",
+    "englishExpression": "Choose \"Domain names to IP addresses\" because DNS translates domain names to IP addresses.; other options do not match this question.",
+    "knowledgeLevel": "General computing"
+  },
+  {
+    "category": "Technology",
+    "difficulty": "Hard",
+    "question": "What is the main purpose of a load balancer?",
+    "questionJapanese": "ロードバランサの主な目的は何ですか？",
+    "options": [
+      "Distribute traffic across servers",
+      "Encrypt all traffic",
+      "Store backups",
+      "Compile code"
+    ],
+    "optionsJapanese": [
+      "トラフィックを複数サーバーに分散する",
+      "すべての通信を暗号化する",
+      "バックアップを保存する",
+      "コードをコンパイルする"
+    ],
+    "answer": "Distribute traffic across servers",
+    "explanation": "A load balancer distributes incoming traffic across multiple servers.",
+    "explanationJapanese": "ロードバランサは受信トラフィックを複数サーバーに分散します。",
+    "vocabulary": [
+      {
+        "word": "load balancer",
+        "meaning": "ロードバランサ",
+        "partOfSpeech": "general",
+        "example": "Use 'load balancer' in context: load balancer relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: A load balancer distributes incoming traffic across multiple servers.",
+    "englishExpression": "Choose \"Distribute traffic across servers\" because A load balancer distributes incoming traffic across multiple servers.; other options do not match this question.",
+    "knowledgeLevel": "General computing"
+  },
+  {
+    "category": "Technology",
+    "difficulty": "Easy",
+    "question": "What is the purpose of a firewall?",
+    "questionJapanese": "ファイアウォールの目的は何ですか？",
+    "options": [
+      "Filter network traffic",
+      "Speed up GPUs",
+      "Store backups",
+      "Render graphics"
+    ],
+    "optionsJapanese": [
+      "ネットワークトラフィックをフィルタする",
+      "GPUを高速化する",
+      "バックアップを保存する",
+      "グラフィックスをレンダリングする"
+    ],
+    "answer": "Filter network traffic",
+    "explanation": "A firewall filters network traffic.",
+    "explanationJapanese": "ファイアウォールはネットワークトラフィックをフィルタします。",
+    "vocabulary": [
+      {
+        "word": "firewall",
+        "meaning": "ファイアウォール",
+        "partOfSpeech": "general",
+        "example": "Use 'firewall' in context: firewall relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: A firewall filters network traffic.",
+    "englishExpression": "Choose \"Filter network traffic\" because A firewall filters network traffic.; other options do not match this question.",
+    "knowledgeLevel": "General computing"
+  },
+  {
+    "category": "Technology",
+    "difficulty": "Medium",
+    "question": "What is two-factor authentication (2FA)?",
+    "questionJapanese": "二要素認証(2FA)とは何ですか？",
+    "options": [
+      "Using two methods to verify identity",
+      "Logging in twice",
+      "Encrypting twice",
+      "Backing up data twice"
+    ],
+    "optionsJapanese": [
+      "2つの方法で本人確認する",
+      "2回ログインする",
+      "2回暗号化する",
+      "2回バックアップする"
+    ],
+    "answer": "Using two methods to verify identity",
+    "explanation": "2FA requires two independent methods to verify identity.",
+    "explanationJapanese": "二要素認証は2つの方法で本人確認します。",
+    "vocabulary": [
+      {
+        "word": "two-factor authentication",
+        "meaning": "二要素認証",
+        "partOfSpeech": "general",
+        "example": "Use 'two-factor authentication' in context: two-factor authentication relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: 2FA requires two independent methods to verify identity.",
+    "englishExpression": "Choose \"Using two methods to verify identity\" because 2FA requires two independent methods to verify identity.; other options do not match this question.",
+    "knowledgeLevel": "General computing"
+  },
+  {
+    "category": "Technology",
+    "difficulty": "Medium",
+    "question": "What is cloud computing?",
+    "questionJapanese": "クラウドコンピューティングとは何ですか？",
+    "options": [
+      "Delivering computing services over the internet",
+      "Storing data only locally",
+      "Running only offline apps",
+      "Using only one server"
+    ],
+    "optionsJapanese": [
+      "コンピューティングサービスをインターネット経由で提供する",
+      "データをローカルだけに保存する",
+      "オフラインアプリだけを実行する",
+      "サーバーを1台だけ使う"
+    ],
+    "answer": "Delivering computing services over the internet",
+    "explanation": "Cloud computing provides servers, storage, and apps online.",
+    "explanationJapanese": "クラウドコンピューティングはサーバーやストレージ、アプリをオンラインで提供します。",
+    "vocabulary": [
+      {
+        "word": "cloud computing",
+        "meaning": "クラウドコンピューティング",
+        "partOfSpeech": "general",
+        "example": "Use 'cloud computing' in context: cloud computing relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Cloud computing provides servers, storage, and apps online.",
+    "englishExpression": "Choose \"Delivering computing services over the internet\" because Cloud computing provides servers, storage, and apps online.; other options do not match this question.",
+    "knowledgeLevel": "General computing"
+  },
+  {
+    "category": "Technology",
+    "difficulty": "Hard",
+    "question": "What is container orchestration?",
+    "questionJapanese": "コンテナオーケストレーションとは何ですか？",
+    "options": [
+      "Automating deployment and scaling of containers",
+      "Manually copying files",
+      "Only compiling code",
+      "Encrypting containers only"
+    ],
+    "optionsJapanese": [
+      "コンテナのデプロイとスケーリングを自動化する",
+      "手作業でファイルをコピーする",
+      "コードをコンパイルするだけ",
+      "コンテナを暗号化するだけ"
+    ],
+    "answer": "Automating deployment and scaling of containers",
+    "explanation": "Container orchestration automates deploying and scaling containers.",
+    "explanationJapanese": "コンテナオーケストレーションはコンテナのデプロイとスケーリングを自動化します。",
+    "vocabulary": [
+      {
+        "word": "container orchestration",
+        "meaning": "コンテナオーケストレーション",
+        "partOfSpeech": "general",
+        "example": "Use 'container orchestration' in context: container orchestration relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Container orchestration automates deploying and scaling containers.",
+    "englishExpression": "Choose \"Automating deployment and scaling of containers\" because Container orchestration automates deploying and scaling containers.; other options do not match this question.",
+    "knowledgeLevel": "General computing"
+  },
+  {
+    "category": "Technology",
+    "difficulty": "Easy",
+    "question": "What is the purpose of HTTPS?",
+    "questionJapanese": "HTTPSの目的は何ですか？",
+    "options": [
+      "Encrypt web traffic",
+      "Speed up GPUs",
+      "Store files",
+      "Print documents"
+    ],
+    "optionsJapanese": [
+      "ウェブ通信を暗号化する",
+      "GPUを高速化する",
+      "ファイルを保存する",
+      "文書を印刷する"
+    ],
+    "answer": "Encrypt web traffic",
+    "explanation": "HTTPS encrypts web traffic.",
+    "explanationJapanese": "HTTPSはウェブ通信を暗号化します。",
+    "vocabulary": [
+      {
+        "word": "HTTPS",
+        "meaning": "HTTPS",
+        "partOfSpeech": "general",
+        "example": "Use 'HTTPS' in context: HTTPS relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: HTTPS encrypts web traffic.",
+    "englishExpression": "Choose \"Encrypt web traffic\" because HTTPS encrypts web traffic.; other options do not match this question.",
+    "knowledgeLevel": "General computing"
+  },
+  {
+    "category": "Technology",
+    "difficulty": "Easy",
+    "question": "What device connects a computer to a network?",
+    "questionJapanese": "コンピュータをネットワークに接続する機器はどれですか？",
+    "options": [
+      "Network interface card",
+      "Hard drive",
+      "GPU",
+      "Printer"
+    ],
+    "optionsJapanese": [
+      "ネットワークインターフェースカード",
+      "ハードドライブ",
+      "GPU",
+      "プリンタ"
+    ],
+    "answer": "Network interface card",
+    "explanation": "A NIC connects a computer to a network.",
+    "explanationJapanese": "NICはネットワーク接続に使われます。",
+    "vocabulary": [
+      {
+        "word": "NIC",
+        "meaning": "NIC",
+        "partOfSpeech": "general",
+        "example": "Use 'NIC' in context: NIC relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: A NIC connects a computer to a network.",
+    "englishExpression": "Choose \"Network interface card\" because A NIC connects a computer to a network.; other options do not match this question.",
+    "knowledgeLevel": "General computing"
+  },
+  {
+    "category": "Technology",
+    "difficulty": "Medium",
+    "question": "What does API stand for?",
+    "questionJapanese": "APIは何の略ですか？",
+    "options": [
+      "Application programming interface",
+      "Advanced performance index",
+      "Automated process integration",
+      "Applied protocol instruction"
+    ],
+    "optionsJapanese": [
+      "アプリケーションプログラミングインターフェース",
+      "高度性能指数",
+      "自動プロセス統合",
+      "適用プロトコル命令"
+    ],
+    "answer": "Application programming interface",
+    "explanation": "API stands for application programming interface.",
+    "explanationJapanese": "APIはアプリケーションプログラミングインターフェースです。",
+    "vocabulary": [
+      {
+        "word": "API",
+        "meaning": "API",
+        "partOfSpeech": "general",
+        "example": "Use 'API' in context: API relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: API stands for application programming interface.",
+    "englishExpression": "Choose \"Application programming interface\" because API stands for application programming interface.; other options do not match this question.",
+    "knowledgeLevel": "General computing"
+  },
+  {
+    "category": "Technology",
+    "difficulty": "Medium",
+    "question": "What is latency in networking?",
+    "questionJapanese": "ネットワーキングでレイテンシとは何ですか？",
+    "options": [
+      "Delay in data transfer",
+      "Amount of data",
+      "Encryption strength",
+      "Signal color"
+    ],
+    "optionsJapanese": [
+      "データ転送の遅延",
+      "データ量",
+      "暗号化の強さ",
+      "信号の色"
+    ],
+    "answer": "Delay in data transfer",
+    "explanation": "Latency is delay in data transfer.",
+    "explanationJapanese": "レイテンシはデータ遅延です。",
+    "vocabulary": [
+      {
+        "word": "latency",
+        "meaning": "遅延",
+        "partOfSpeech": "general",
+        "example": "Use 'latency' in context: latency relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Latency is delay in data transfer.",
+    "englishExpression": "Choose \"Delay in data transfer\" because Latency is delay in data transfer.; other options do not match this question.",
+    "knowledgeLevel": "General computing"
+  },
+  {
+    "category": "Technology",
+    "difficulty": "Hard",
+    "question": "What is container orchestration for?",
+    "questionJapanese": "コンテナオーケストレーションは何のために使いますか？",
+    "options": [
+      "Automate deployment and scaling",
+      "Manually copy files",
+      "Encrypt emails only",
+      "Print invoices"
+    ],
+    "optionsJapanese": [
+      "デプロイとスケールを自動化する",
+      "手動でファイルをコピーする",
+      "メールのみ暗号化する",
+      "請求書を印刷する"
+    ],
+    "answer": "Automate deployment and scaling",
+    "explanation": "It automates container deployment and scaling.",
+    "explanationJapanese": "コンテナオーケストレーションはデプロイとスケールを自動化します。",
+    "vocabulary": [
+      {
+        "word": "orchestration",
+        "meaning": "オーケストレーション",
+        "partOfSpeech": "general",
+        "example": "Use 'orchestration' in context: orchestration relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: It automates container deployment and scaling.",
+    "englishExpression": "Choose \"Automate deployment and scaling\" because It automates container deployment and scaling.; other options do not match this question.",
+    "knowledgeLevel": "General computing"
+  },
+  {
+    "category": "Technology",
+    "difficulty": "Hard",
+    "question": "What does RAID 5 provide in storage?",
+    "questionJapanese": "RAID5が提供するものは何ですか？",
+    "options": [
+      "Striping with parity",
+      "Mirroring only",
+      "No redundancy",
+      "Object storage"
+    ],
+    "optionsJapanese": [
+      "パリティ付きストライピング",
+      "ミラーリングのみ",
+      "冗長性なし",
+      "オブジェクトストレージ"
+    ],
+    "answer": "Striping with parity",
+    "explanation": "RAID5 offers striping with parity for redundancy.",
+    "explanationJapanese": "RAID5はパリティ付きストライピングで冗長性を持ちます。",
+    "vocabulary": [
+      {
+        "word": "RAID",
+        "meaning": "RAID",
+        "partOfSpeech": "general",
+        "example": "Use 'RAID' in context: RAID relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: RAID5 offers striping with parity for redundancy.",
+    "englishExpression": "Choose \"Striping with parity\" because RAID5 offers striping with parity for redundancy.; other options do not match this question.",
+    "knowledgeLevel": "General computing"
+  },
+  {
+    "category": "Technology",
+    "difficulty": "Hard",
+    "question": "What is idempotency in HTTP methods?",
+    "questionJapanese": "HTTPメソッドの冪等性とは何ですか？",
+    "options": [
+      "Same result no matter how many times repeated",
+      "Only once allowed",
+      "Must return JSON",
+      "Always cached"
+    ],
+    "optionsJapanese": [
+      "何度実行しても結果が同じ",
+      "1回しか許されない",
+      "必ずJSONを返す",
+      "常にキャッシュされる"
+    ],
+    "answer": "Same result no matter how many times repeated",
+    "explanation": "Idempotent methods give the same effect even if repeated.",
+    "explanationJapanese": "冪等なメソッドは繰り返しても結果が変わりません。",
+    "vocabulary": [
+      {
+        "word": "idempotent",
+        "meaning": "冪等",
+        "partOfSpeech": "general",
+        "example": "Use 'idempotent' in context: idempotent relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Idempotent methods give the same effect even if repeated.",
+    "englishExpression": "Choose \"Same result no matter how many times repeated\" because Idempotent methods give the same effect even if repeated.; other options do not match this question.",
+    "knowledgeLevel": "General computing"
+  },
+  {
+    "category": "Technology",
+    "difficulty": "Medium",
+    "question": "What does SSL/TLS primarily secure?",
+    "questionJapanese": "SSL/TLSが主に保護するものは何ですか？",
+    "options": [
+      "Data in transit",
+      "Data at rest",
+      "CPU speed",
+      "Disk size"
+    ],
+    "optionsJapanese": [
+      "通信中のデータ",
+      "保存中のデータ",
+      "CPU速度",
+      "ディスク容量"
+    ],
+    "answer": "Data in transit",
+    "explanation": "SSL/TLS secures data in transit.",
+    "explanationJapanese": "SSL/TLSは通信中のデータを保護します。",
+    "vocabulary": [
+      {
+        "word": "TLS",
+        "meaning": "TLS",
+        "partOfSpeech": "general",
+        "example": "Use 'TLS' in context: TLS relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: SSL/TLS secures data in transit.",
+    "englishExpression": "Choose \"Data in transit\" because SSL/TLS secures data in transit.; other options do not match this question.",
+    "knowledgeLevel": "General computing"
+  },
+  {
+    "category": "Technology",
+    "difficulty": "Hard",
+    "question": "What does CAP theorem state about distributed systems?",
+    "questionJapanese": "分散システムに関するCAP定理が述べることは何ですか？",
+    "options": [
+      "Cannot have consistency, availability, partition tolerance all at once",
+      "Always achieve zero latency",
+      "Requires only one server",
+      "Must use SQL only"
+    ],
+    "optionsJapanese": [
+      "一度に整合性・可用性・分断耐性の全ては満たせない",
+      "常にレイテンシゼロを達成する",
+      "1台のサーバーのみ必要",
+      "SQLのみ使用すべき"
+    ],
+    "answer": "Cannot have consistency, availability, partition tolerance all at once",
+    "explanation": "CAP theorem says you cannot fully have consistency, availability, and partition tolerance simultaneously.",
+    "explanationJapanese": "CAP定理は整合性・可用性・分断耐性を同時に完全には満たせないと述べます。",
+    "vocabulary": [
+      {
+        "word": "CAP theorem",
+        "meaning": "CAP定理",
+        "partOfSpeech": "general",
+        "example": "Use 'CAP theorem' in context: CAP theorem relates to distributed systems."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: CAP theorem says you cannot fully have consistency, availability, and partition tolerance simultaneously.",
+    "englishExpression": "Choose \"Cannot have consistency, availability, partition tolerance all at once\" because CAP theorem says you cannot fully have consistency, availability, and partition tolerance simultaneously.; other options do not match this question.",
+    "knowledgeLevel": "General computing"
+  }
+]

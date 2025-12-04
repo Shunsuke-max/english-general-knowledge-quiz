@@ -7,6 +7,30 @@ enum GameState {
 struct VocabularyEntry: Codable, Hashable {
     let word: String
     let meaning: String
+    let partOfSpeech: String
+    let example: String
+
+    init(word: String, meaning: String, partOfSpeech: String = "general", example: String = "") {
+        self.word = word
+        self.meaning = meaning
+        self.partOfSpeech = partOfSpeech
+        self.example = example
+    }
+
+    enum CodingKeys: String, CodingKey {
+        case word
+        case meaning
+        case partOfSpeech
+        case example
+    }
+
+    init(from decoder: Decoder) throws {
+        let container = try decoder.container(keyedBy: CodingKeys.self)
+        word = try container.decode(String.self, forKey: .word)
+        meaning = try container.decode(String.self, forKey: .meaning)
+        partOfSpeech = try container.decodeIfPresent(String.self, forKey: .partOfSpeech) ?? "general"
+        example = try container.decodeIfPresent(String.self, forKey: .example) ?? ""
+    }
 }
 
 struct QuizQuestion: Codable, Identifiable, Hashable {
@@ -16,6 +40,7 @@ struct QuizQuestion: Codable, Identifiable, Hashable {
     let question: String
     let questionJapanese: String
     let options: [String]
+    let optionsJapanese: [String]?
     let answer: String
     let explanation: String
     let explanationJapanese: String
@@ -30,6 +55,7 @@ struct QuizQuestion: Codable, Identifiable, Hashable {
         question: String,
         questionJapanese: String,
         options: [String],
+        optionsJapanese: [String]? = nil,
         answer: String,
         explanation: String,
         explanationJapanese: String,
@@ -43,6 +69,7 @@ struct QuizQuestion: Codable, Identifiable, Hashable {
         self.question = question
         self.questionJapanese = questionJapanese
         self.options = options
+        self.optionsJapanese = optionsJapanese
         self.answer = answer
         self.explanation = explanation
         self.explanationJapanese = explanationJapanese
@@ -58,6 +85,7 @@ struct QuizQuestion: Codable, Identifiable, Hashable {
         case question
         case questionJapanese
         case options
+        case optionsJapanese
         case answer
         case explanation
         case explanationJapanese
@@ -74,6 +102,7 @@ struct QuizQuestion: Codable, Identifiable, Hashable {
         question = try container.decode(String.self, forKey: .question)
         questionJapanese = try container.decode(String.self, forKey: .questionJapanese)
         options = try container.decode([String].self, forKey: .options)
+        optionsJapanese = try container.decodeIfPresent([String].self, forKey: .optionsJapanese)
         answer = try container.decode(String.self, forKey: .answer)
         explanation = try container.decode(String.self, forKey: .explanation)
         explanationJapanese = try container.decode(String.self, forKey: .explanationJapanese)
@@ -90,6 +119,7 @@ struct QuizQuestion: Codable, Identifiable, Hashable {
         try container.encode(question, forKey: .question)
         try container.encode(questionJapanese, forKey: .questionJapanese)
         try container.encode(options, forKey: .options)
+        try container.encodeIfPresent(optionsJapanese, forKey: .optionsJapanese)
         try container.encode(answer, forKey: .answer)
         try container.encode(explanation, forKey: .explanation)
         try container.encode(explanationJapanese, forKey: .explanationJapanese)
@@ -118,18 +148,99 @@ struct QuizResult: Codable, Identifiable, Hashable {
     let totalQuestions: Int
     let category: String
     let date: Date
+    let accuracy: Double
+    let literacyLevel: LiteracyLevel
 
     init(
         id: UUID = UUID(),
         score: Int,
         totalQuestions: Int,
         category: String,
-        date: Date = Date()
+        date: Date = Date(),
+        accuracy: Double? = nil,
+        literacyLevel: LiteracyLevel? = nil
     ) {
         self.id = id
         self.score = score
         self.totalQuestions = totalQuestions
         self.category = category
         self.date = date
+        self.accuracy = accuracy ?? (totalQuestions > 0 ? Double(score) / Double(totalQuestions) : 0)
+        self.literacyLevel = literacyLevel ?? LiteracyLevel.from(accuracy: self.accuracy)
+    }
+
+    private enum CodingKeys: String, CodingKey {
+        case id, score, totalQuestions, category, date, accuracy, literacyLevel
+    }
+
+    init(from decoder: Decoder) throws {
+        let container = try decoder.container(keyedBy: CodingKeys.self)
+        id = try container.decodeIfPresent(UUID.self, forKey: .id) ?? UUID()
+        score = try container.decode(Int.self, forKey: .score)
+        totalQuestions = try container.decode(Int.self, forKey: .totalQuestions)
+        category = try container.decode(String.self, forKey: .category)
+        date = try container.decodeIfPresent(Date.self, forKey: .date) ?? Date()
+        if let decodedAccuracy = try container.decodeIfPresent(Double.self, forKey: .accuracy) {
+            accuracy = decodedAccuracy
+        } else {
+            accuracy = totalQuestions > 0 ? Double(score) / Double(totalQuestions) : 0
+        }
+        literacyLevel = try container.decodeIfPresent(LiteracyLevel.self, forKey: .literacyLevel) ?? LiteracyLevel.from(accuracy: accuracy)
+    }
+}
+
+struct WeeklyMissionProgress: Codable, Hashable {
+    var uniqueCategoriesAtTarget: Set<String> = []
+    var targetAccuracy: Double = 0.8
+    var targetCategoryCount: Int = 3
+
+    var completed: Bool {
+        uniqueCategoriesAtTarget.count >= targetCategoryCount
+    }
+
+    var progressRatio: Double {
+        min(1, Double(uniqueCategoriesAtTarget.count) / Double(targetCategoryCount))
+    }
+
+    func updating(with result: QuizResult) -> WeeklyMissionProgress {
+        var updated = self
+        if result.accuracy >= targetAccuracy {
+            updated.uniqueCategoriesAtTarget.insert(result.category)
+        }
+        return updated
+    }
+}
+
+enum LiteracyLevel: String, Codable, Hashable {
+    case starter
+    case explorer
+    case insightful
+    case scholar
+
+    var title: String {
+        switch self {
+        case .starter: return "Starter"
+        case .explorer: return "Explorer"
+        case .insightful: return "Insightful"
+        case .scholar: return "Scholar"
+        }
+    }
+
+    var hint: String {
+        switch self {
+        case .starter: return "Focus on fundamentals and vocabulary."
+        case .explorer: return "Broaden categories and keep practicing."
+        case .insightful: return "Great comprehension—try harder sets."
+        case .scholar: return "Elite accuracy—challenge yourself further."
+        }
+    }
+
+    static func from(accuracy: Double) -> LiteracyLevel {
+        switch accuracy {
+        case 0.85...: return .scholar
+        case 0.7..<0.85: return .insightful
+        case 0.5..<0.7: return .explorer
+        default: return .starter
+        }
     }
 }

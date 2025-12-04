@@ -12,6 +12,8 @@
 	<string>$(CURRENT_PROJECT_VERSION)</string>
 	<key>CFBundleShortVersionString</key>
 	<string>$(MARKETING_VERSION)</string>
+	<key>CFBundleDisplayName</key>
+	<string>WorldWise English</string>
 	<key>CFBundleName</key>
 	<string>$(PRODUCT_NAME)</string>
 	<key>CFBundlePackageType</key>
@@ -41,7 +43,7 @@
 	<key>GADApplicationIdentifier</key>
 	<string>ca-app-pub-9982720117568146~2271842099</string>
 	<key>NSUserTrackingUsageDescription</key>
-	<string>This app uses advertising to support development. Your data will be used to provide personalized ads.</string>
+	<string>We use your data to show you personalized ads and improve your experience.</string>
 	<key>SKAdNetworkItems</key>
 	<array>
 		<dict>

@@ -1,0 +1,2090 @@
+[
+  {
+    "question": "What does GDP primarily measure?",
+    "questionJapanese": "GDPが主に測定するものは何ですか？",
+    "options": [
+      "The total market value of final goods and services produced within a country",
+      "The total money in circulation",
+      "The average income per person",
+      "Only government spending"
+    ],
+    "answer": "The total market value of final goods and services produced within a country",
+    "explanation": "GDP measures the total market value of all final goods and services produced within a country's borders in a given period.",
+    "explanationJapanese": "GDPは、一定期間に国内で生産された最終財・サービスの市場価値の合計を測定します。",
+    "vocabulary": [
+      {
+        "word": "GDP",
+        "meaning": "国内総生産",
+        "partOfSpeech": "general",
+        "example": "Use 'GDP' in context: GDP relates to this topic."
+      },
+      {
+        "word": "final goods",
+        "meaning": "最終財",
+        "partOfSpeech": "general",
+        "example": "Use 'final goods' in context: final goods relates to this topic."
+      },
+      {
+        "word": "market value",
+        "meaning": "市場価値",
+        "partOfSpeech": "general",
+        "example": "Use 'market value' in context: market value relates to this topic."
+      }
+    ],
+    "category": "Business",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: GDP measures the total market value of all final goods and services produced within a country's borders in a given period.",
+    "englishExpression": "Choose \"The total market value of final goods and services produced within a country\" because GDP measures the total market value of all final goods and services produced within a country's borders in a given period.; other options do not match this question.",
+    "knowledgeLevel": "Intro economics",
+    "optionsJapanese": [
+      "The total market value of final goods and services produced within a country",
+      "The total money in circulation",
+      "The average income per person",
+      "Only government spending"
+    ]
+  },
+  {
+    "question": "What is inflation?",
+    "questionJapanese": "インフレとは何ですか？",
+    "options": [
+      "General rise in prices over time",
+      "A sudden drop in stock prices",
+      "A decrease in money supply",
+      "A form of taxation"
+    ],
+    "answer": "General rise in prices over time",
+    "explanation": "Inflation is the general increase in prices over time, reducing purchasing power.",
+    "explanationJapanese": "インフレは物価が時間とともに全般的に上昇し、購買力が落ちることです。",
+    "vocabulary": [
+      {
+        "word": "inflation",
+        "meaning": "インフレ",
+        "partOfSpeech": "general",
+        "example": "Use 'inflation' in context: inflation relates to this topic."
+      },
+      {
+        "word": "purchasing power",
+        "meaning": "購買力",
+        "partOfSpeech": "general",
+        "example": "Use 'purchasing power' in context: purchasing power relates to this topic."
+      }
+    ],
+    "category": "Business",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: Inflation is the general increase in prices over time, reducing purchasing power.",
+    "englishExpression": "Choose \"General rise in prices over time\" because Inflation is the general increase in prices over time, reducing purchasing power.; other options do not match this question.",
+    "knowledgeLevel": "Intro economics",
+    "optionsJapanese": [
+      "General rise in prices over time",
+      "A sudden drop in stock prices",
+      "A decrease in money supply",
+      "A form of taxation"
+    ]
+  },
+  {
+    "question": "What is opportunity cost?",
+    "questionJapanese": "機会費用とは何ですか？",
+    "options": [
+      "The value of the next best alternative forgone",
+      "The explicit money you spend",
+      "The cost of all options combined",
+      "Interest paid on a loan"
+    ],
+    "answer": "The value of the next best alternative forgone",
+    "explanation": "Opportunity cost is the value of the next best option you give up.",
+    "explanationJapanese": "機会費用は放棄した次善の選択肢の価値です。",
+    "vocabulary": [
+      {
+        "word": "opportunity cost",
+        "meaning": "機会費用",
+        "partOfSpeech": "general",
+        "example": "Use 'opportunity cost' in context: opportunity cost relates to this topic."
+      },
+      {
+        "word": "alternative",
+        "meaning": "代替案",
+        "partOfSpeech": "general",
+        "example": "Use 'alternative' in context: alternative relates to this topic."
+      }
+    ],
+    "category": "Business",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: Opportunity cost is the value of the next best option you give up.",
+    "englishExpression": "Choose \"The value of the next best alternative forgone\" because Opportunity cost is the value of the next best option you give up.; other options do not match this question.",
+    "knowledgeLevel": "Intro economics",
+    "optionsJapanese": [
+      "The value of the next best alternative forgone",
+      "The explicit money you spend",
+      "The cost of all options combined",
+      "Interest paid on a loan"
+    ]
+  },
+  {
+    "question": "What does diversification aim to reduce?",
+    "questionJapanese": "分散投資が減らそうとするものは何ですか？",
+    "options": [
+      "Risk",
+      "Taxes",
+      "GDP",
+      "Inflation"
+    ],
+    "answer": "Risk",
+    "explanation": "Diversification spreads investments to reduce risk.",
+    "explanationJapanese": "分散投資は投資先を分けてリスクを減らします。",
+    "vocabulary": [
+      {
+        "word": "diversification",
+        "meaning": "分散投資",
+        "partOfSpeech": "general",
+        "example": "Use 'diversification' in context: diversification relates to this topic."
+      },
+      {
+        "word": "risk",
+        "meaning": "リスク",
+        "partOfSpeech": "general",
+        "example": "Use 'risk' in context: risk relates to this topic."
+      }
+    ],
+    "category": "Business",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: Diversification spreads investments to reduce risk.",
+    "englishExpression": "Choose \"Risk\" because Diversification spreads investments to reduce risk.; other options do not match this question.",
+    "knowledgeLevel": "Intro economics",
+    "optionsJapanese": [
+      "Risk",
+      "Taxes",
+      "GDP",
+      "Inflation"
+    ]
+  },
+  {
+    "question": "What is compound interest?",
+    "questionJapanese": "複利とは何ですか？",
+    "options": [
+      "Earning interest on both principal and accumulated interest",
+      "Interest paid only on principal",
+      "A fixed monthly fee",
+      "An interest-free loan"
+    ],
+    "answer": "Earning interest on both principal and accumulated interest",
+    "explanation": "Compound interest accrues on the principal and on prior interest.",
+    "explanationJapanese": "複利は元本とこれまでの利息の両方に利息が付くことです。",
+    "vocabulary": [
+      {
+        "word": "compound interest",
+        "meaning": "複利",
+        "partOfSpeech": "general",
+        "example": "Use 'compound interest' in context: compound interest relates to this topic."
+      },
+      {
+        "word": "principal",
+        "meaning": "元本",
+        "partOfSpeech": "general",
+        "example": "Use 'principal' in context: principal relates to this topic."
+      }
+    ],
+    "category": "Business",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: Compound interest accrues on the principal and on prior interest.",
+    "englishExpression": "Choose \"Earning interest on both principal and accumulated interest\" because Compound interest accrues on the principal and on prior interest.; other options do not match this question.",
+    "knowledgeLevel": "Intro economics",
+    "optionsJapanese": [
+      "Earning interest on both principal and accumulated interest",
+      "Interest paid only on principal",
+      "A fixed monthly fee",
+      "An interest-free loan"
+    ]
+  },
+  {
+    "question": "What is an ETF?",
+    "questionJapanese": "ETFとは何ですか？",
+    "options": [
+      "Exchange-traded fund",
+      "Electronic tax form",
+      "Equity transfer filing",
+      "Energy trade fee"
+    ],
+    "answer": "Exchange-traded fund",
+    "explanation": "An ETF is an exchange-traded fund that holds a basket of assets.",
+    "explanationJapanese": "ETFは資産のバスケットを保有する上場投資信託です。",
+    "vocabulary": [
+      {
+        "word": "ETF",
+        "meaning": "ETF",
+        "partOfSpeech": "general",
+        "example": "Use 'ETF' in context: ETF relates to this topic."
+      },
+      {
+        "word": "fund",
+        "meaning": "投資信託",
+        "partOfSpeech": "general",
+        "example": "Use 'fund' in context: fund relates to this topic."
+      }
+    ],
+    "category": "Business",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: An ETF is an exchange-traded fund that holds a basket of assets.",
+    "englishExpression": "Choose \"Exchange-traded fund\" because An ETF is an exchange-traded fund that holds a basket of assets.; other options do not match this question.",
+    "knowledgeLevel": "Intro economics",
+    "optionsJapanese": [
+      "Exchange-traded fund",
+      "Electronic tax form",
+      "Equity transfer filing",
+      "Energy trade fee"
+    ]
+  },
+  {
+    "question": "What does IPO stand for?",
+    "questionJapanese": "IPOは何の略ですか？",
+    "options": [
+      "Initial Public Offering",
+      "Internal Price Order",
+      "International Payment Option",
+      "Investment Portfolio Operation"
+    ],
+    "answer": "Initial Public Offering",
+    "explanation": "An IPO is an Initial Public Offering, when shares are first sold to the public.",
+    "explanationJapanese": "IPOは新規株式公開のことで、株式を初めて一般に売り出すことです。",
+    "vocabulary": [
+      {
+        "word": "IPO",
+        "meaning": "IPO",
+        "partOfSpeech": "general",
+        "example": "Use 'IPO' in context: IPO relates to this topic."
+      },
+      {
+        "word": "offering",
+        "meaning": "公開",
+        "partOfSpeech": "general",
+        "example": "Use 'offering' in context: offering relates to this topic."
+      }
+    ],
+    "category": "Business",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: An IPO is an Initial Public Offering, when shares are first sold to the public.",
+    "englishExpression": "Choose \"Initial Public Offering\" because An IPO is an Initial Public Offering, when shares are first sold to the public.; other options do not match this question.",
+    "knowledgeLevel": "Intro economics",
+    "optionsJapanese": [
+      "Initial Public Offering",
+      "Internal Price Order",
+      "International Payment Option",
+      "Investment Portfolio Operation"
+    ]
+  },
+  {
+    "question": "What is a recession typically defined as?",
+    "questionJapanese": "景気後退（リセッション）の典型的な定義は何ですか？",
+    "options": [
+      "A significant decline in economic activity across the economy",
+      "A temporary stock market dip",
+      "A cut in interest rates",
+      "A government shutdown"
+    ],
+    "answer": "A significant decline in economic activity across the economy",
+    "explanation": "A recession is a significant decline in economic activity spread across the economy.",
+    "explanationJapanese": "リセッションは経済全体に及ぶ経済活動の著しい減退です。",
+    "vocabulary": [
+      {
+        "word": "recession",
+        "meaning": "景気後退",
+        "partOfSpeech": "general",
+        "example": "Use 'recession' in context: recession relates to this topic."
+      },
+      {
+        "word": "economic activity",
+        "meaning": "経済活動",
+        "partOfSpeech": "general",
+        "example": "Use 'economic activity' in context: economic activity relates to this topic."
+      }
+    ],
+    "category": "Business",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: A recession is a significant decline in economic activity spread across the economy.",
+    "englishExpression": "Choose \"A significant decline in economic activity across the economy\" because A recession is a significant decline in economic activity spread across the economy.; other options do not match this question.",
+    "knowledgeLevel": "Intro economics",
+    "optionsJapanese": [
+      "経済全体の著しい活動低下",
+      "一時的な株価下落",
+      "金利の引き下げ",
+      "政府閉鎖"
+    ]
+  },
+  {
+    "question": "Who controls monetary policy in most countries?",
+    "questionJapanese": "多くの国で金融政策を担うのは誰ですか？",
+    "options": [
+      "The central bank",
+      "The supreme court",
+      "Private banks",
+      "The legislature"
+    ],
+    "answer": "The central bank",
+    "explanation": "Central banks set monetary policy tools like interest rates.",
+    "explanationJapanese": "中央銀行が金利などの金融政策を運営します。",
+    "vocabulary": [
+      {
+        "word": "central bank",
+        "meaning": "中央銀行",
+        "partOfSpeech": "general",
+        "example": "Use 'central bank' in context: central bank relates to this topic."
+      },
+      {
+        "word": "monetary policy",
+        "meaning": "金融政策",
+        "partOfSpeech": "general",
+        "example": "Use 'monetary policy' in context: monetary policy relates to this topic."
+      }
+    ],
+    "category": "Business",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: Central banks set monetary policy tools like interest rates.",
+    "englishExpression": "Choose \"The central bank\" because Central banks set monetary policy tools like interest rates.; other options do not match this question.",
+    "knowledgeLevel": "Intro economics",
+    "optionsJapanese": [
+      "The central bank",
+      "The supreme court",
+      "Private banks",
+      "The legislature"
+    ]
+  },
+  {
+    "question": "What does GDP per capita indicate?",
+    "questionJapanese": "一人当たりGDPが示すものは何ですか？",
+    "options": [
+      "Average economic output per person",
+      "Total population",
+      "Total exports",
+      "Government spending only"
+    ],
+    "answer": "Average economic output per person",
+    "explanation": "GDP per capita shows average economic output per person.",
+    "explanationJapanese": "一人当たりGDPは一人あたりの経済産出額を示します。",
+    "vocabulary": [
+      {
+        "word": "per capita",
+        "meaning": "一人当たり",
+        "partOfSpeech": "general",
+        "example": "Use 'per capita' in context: per capita relates to this topic."
+      },
+      {
+        "word": "output",
+        "meaning": "産出",
+        "partOfSpeech": "general",
+        "example": "Use 'output' in context: output relates to this topic."
+      }
+    ],
+    "category": "Business",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: GDP per capita shows average economic output per person.",
+    "englishExpression": "Choose \"Average economic output per person\" because GDP per capita shows average economic output per person.; other options do not match this question.",
+    "knowledgeLevel": "Intro economics",
+    "optionsJapanese": [
+      "Average economic output per person",
+      "Total population",
+      "Total exports",
+      "Government spending only"
+    ]
+  },
+  {
+    "question": "What does ROI measure?",
+    "questionJapanese": "ROIは何を測る指標ですか？",
+    "options": [
+      "Return on investment",
+      "Rate of inflation",
+      "Risk of insolvency",
+      "Ratio of inventory"
+    ],
+    "answer": "Return on investment",
+    "explanation": "ROI measures the return on investment relative to its cost.",
+    "explanationJapanese": "ROIは投資に対する収益をコストに対する割合で示します。",
+    "vocabulary": [
+      {
+        "word": "ROI",
+        "meaning": "ROI",
+        "partOfSpeech": "general",
+        "example": "Use 'ROI' in context: ROI relates to this topic."
+      },
+      {
+        "word": "return",
+        "meaning": "収益",
+        "partOfSpeech": "general",
+        "example": "Use 'return' in context: return relates to this topic."
+      }
+    ],
+    "category": "Business",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: ROI measures the return on investment relative to its cost.",
+    "englishExpression": "Choose \"Return on investment\" because ROI measures the return on investment relative to its cost.; other options do not match this question.",
+    "knowledgeLevel": "Intro economics",
+    "optionsJapanese": [
+      "Return on investment",
+      "Rate of inflation",
+      "Risk of insolvency",
+      "Ratio of inventory"
+    ]
+  },
+  {
+    "question": "What is fiscal policy mainly about?",
+    "questionJapanese": "財政政策は主に何に関するものですか？",
+    "options": [
+      "Government spending and taxation",
+      "Foreign exchange rates",
+      "Bank reserve ratios",
+      "Private investment choices"
+    ],
+    "answer": "Government spending and taxation",
+    "explanation": "Fiscal policy focuses on government spending and taxes.",
+    "explanationJapanese": "財政政策は政府支出と税金に関する政策です。",
+    "vocabulary": [
+      {
+        "word": "fiscal policy",
+        "meaning": "財政政策",
+        "partOfSpeech": "general",
+        "example": "Use 'fiscal policy' in context: fiscal policy relates to this topic."
+      },
+      {
+        "word": "taxation",
+        "meaning": "課税",
+        "partOfSpeech": "general",
+        "example": "Use 'taxation' in context: taxation relates to this topic."
+      }
+    ],
+    "category": "Business",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: Fiscal policy focuses on government spending and taxes.",
+    "englishExpression": "Choose \"Government spending and taxation\" because Fiscal policy focuses on government spending and taxes.; other options do not match this question.",
+    "knowledgeLevel": "Intro economics",
+    "optionsJapanese": [
+      "Government spending and taxation",
+      "Foreign exchange rates",
+      "Bank reserve ratios",
+      "Private investment choices"
+    ]
+  },
+  {
+    "question": "What is a budget deficit?",
+    "questionJapanese": "財政赤字とは何ですか？",
+    "options": [
+      "When government spending exceeds revenue",
+      "When exports exceed imports",
+      "When revenue exceeds spending",
+      "When GDP shrinks"
+    ],
+    "answer": "When government spending exceeds revenue",
+    "explanation": "A budget deficit occurs when spending is higher than revenue.",
+    "explanationJapanese": "歳出が歳入を上回ると財政赤字になります。",
+    "vocabulary": [
+      {
+        "word": "deficit",
+        "meaning": "赤字",
+        "partOfSpeech": "general",
+        "example": "Use 'deficit' in context: deficit relates to this topic."
+      },
+      {
+        "word": "revenue",
+        "meaning": "歳入",
+        "partOfSpeech": "general",
+        "example": "Use 'revenue' in context: revenue relates to this topic."
+      }
+    ],
+    "category": "Business",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: A budget deficit occurs when spending is higher than revenue.",
+    "englishExpression": "Choose \"When government spending exceeds revenue\" because A budget deficit occurs when spending is higher than revenue.; other options do not match this question.",
+    "knowledgeLevel": "Intro economics",
+    "optionsJapanese": [
+      "When government spending exceeds revenue",
+      "When exports exceed imports",
+      "When revenue exceeds spending",
+      "When GDP shrinks"
+    ]
+  },
+  {
+    "question": "What is liquidity?",
+    "questionJapanese": "流動性とは何ですか？",
+    "options": [
+      "How easily an asset can be converted to cash",
+      "The profitability of a company",
+      "The growth rate of GDP",
+      "The size of the money supply"
+    ],
+    "answer": "How easily an asset can be converted to cash",
+    "explanation": "Liquidity measures how quickly an asset can be turned into cash.",
+    "explanationJapanese": "流動性は資産がどれだけ素早く現金化できるかを示します。",
+    "vocabulary": [
+      {
+        "word": "liquidity",
+        "meaning": "流動性",
+        "partOfSpeech": "general",
+        "example": "Use 'liquidity' in context: liquidity relates to this topic."
+      },
+      {
+        "word": "asset",
+        "meaning": "資産",
+        "partOfSpeech": "general",
+        "example": "Use 'asset' in context: asset relates to this topic."
+      }
+    ],
+    "category": "Business",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: Liquidity measures how quickly an asset can be turned into cash.",
+    "englishExpression": "Choose \"How easily an asset can be converted to cash\" because Liquidity measures how quickly an asset can be turned into cash.; other options do not match this question.",
+    "knowledgeLevel": "Intro economics",
+    "optionsJapanese": [
+      "How easily an asset can be converted to cash",
+      "The profitability of a company",
+      "The growth rate of GDP",
+      "The size of the money supply"
+    ]
+  },
+  {
+    "question": "What is a stock dividend?",
+    "questionJapanese": "株式配当とは何ですか？",
+    "options": [
+      "Payment to shareholders from a company's profits",
+      "Tax paid on selling stocks",
+      "Fee paid to brokers",
+      "Insurance for investors"
+    ],
+    "answer": "Payment to shareholders from a company's profits",
+    "explanation": "A stock dividend is a payment to shareholders from profits.",
+    "explanationJapanese": "株式配当は会社の利益から株主に支払われるものです。",
+    "vocabulary": [
+      {
+        "word": "dividend",
+        "meaning": "配当",
+        "partOfSpeech": "general",
+        "example": "Use 'dividend' in context: dividend relates to this topic."
+      },
+      {
+        "word": "shareholder",
+        "meaning": "株主",
+        "partOfSpeech": "general",
+        "example": "Use 'shareholder' in context: shareholder relates to this topic."
+      }
+    ],
+    "category": "Business",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: A stock dividend is a payment to shareholders from profits.",
+    "englishExpression": "Choose \"Payment to shareholders from a company's profits\" because A stock dividend is a payment to shareholders from profits.; other options do not match this question.",
+    "knowledgeLevel": "Intro economics",
+    "optionsJapanese": [
+      "Payment to shareholders from a company's profits",
+      "Tax paid on selling stocks",
+      "Fee paid to brokers",
+      "Insurance for investors"
+    ]
+  },
+  {
+    "question": "What does P/E ratio compare?",
+    "questionJapanese": "株式のP/Eレシオが比較するものは何ですか？",
+    "options": [
+      "Share price to earnings per share",
+      "Assets to liabilities",
+      "Revenue to costs",
+      "Cash flow to debt"
+    ],
+    "answer": "Share price to earnings per share",
+    "explanation": "The P/E ratio compares a stock's price to its earnings per share.",
+    "explanationJapanese": "P/Eレシオは株価を1株当たり利益と比較します。",
+    "vocabulary": [
+      {
+        "word": "P/E ratio",
+        "meaning": "株価収益率",
+        "partOfSpeech": "general",
+        "example": "Use 'P/E ratio' in context: P/E ratio relates to this topic."
+      },
+      {
+        "word": "earnings",
+        "meaning": "利益",
+        "partOfSpeech": "general",
+        "example": "Use 'earnings' in context: earnings relates to this topic."
+      }
+    ],
+    "category": "Business",
+    "difficulty": "Hard",
+    "knowledgeInsight": "Key takeaway: The P/E ratio compares a stock's price to its earnings per share.",
+    "englishExpression": "Choose \"Share price to earnings per share\" because The P/E ratio compares a stock's price to its earnings per share.; other options do not match this question.",
+    "knowledgeLevel": "Intro economics",
+    "optionsJapanese": [
+      "Share price to earnings per share",
+      "Assets to liabilities",
+      "Revenue to costs",
+      "Cash flow to debt"
+    ]
+  },
+  {
+    "question": "What is a bond?",
+    "questionJapanese": "債券とは何ですか？",
+    "options": [
+      "A debt instrument issued to raise funds",
+      "A share of company ownership",
+      "A derivative contract on stocks",
+      "A type of insurance"
+    ],
+    "answer": "A debt instrument issued to raise funds",
+    "explanation": "A bond is a debt instrument where investors lend money to an issuer.",
+    "explanationJapanese": "債券は投資家が発行体に資金を貸す債務証書です。",
+    "vocabulary": [
+      {
+        "word": "bond",
+        "meaning": "債券",
+        "partOfSpeech": "general",
+        "example": "Use 'bond' in context: bond relates to this topic."
+      },
+      {
+        "word": "issuer",
+        "meaning": "発行体",
+        "partOfSpeech": "general",
+        "example": "Use 'issuer' in context: issuer relates to this topic."
+      }
+    ],
+    "category": "Business",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: A bond is a debt instrument where investors lend money to an issuer.",
+    "englishExpression": "Choose \"A debt instrument issued to raise funds\" because A bond is a debt instrument where investors lend money to an issuer.; other options do not match this question.",
+    "knowledgeLevel": "Intro economics",
+    "optionsJapanese": [
+      "A debt instrument issued to raise funds",
+      "A share of company ownership",
+      "A derivative contract on stocks",
+      "A type of insurance"
+    ]
+  },
+  {
+    "question": "What is a tariff?",
+    "questionJapanese": "関税とは何ですか？",
+    "options": [
+      "A tax on imported goods",
+      "A subsidy for exports",
+      "A quota on production",
+      "A transport fee"
+    ],
+    "answer": "A tax on imported goods",
+    "explanation": "A tariff is a tax imposed on imported goods.",
+    "explanationJapanese": "関税は輸入品に課される税です。",
+    "vocabulary": [
+      {
+        "word": "tariff",
+        "meaning": "関税",
+        "partOfSpeech": "general",
+        "example": "Use 'tariff' in context: tariff relates to this topic."
+      },
+      {
+        "word": "import",
+        "meaning": "輸入",
+        "partOfSpeech": "general",
+        "example": "Use 'import' in context: import relates to this topic."
+      }
+    ],
+    "category": "Business",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: A tariff is a tax imposed on imported goods.",
+    "englishExpression": "Choose \"A tax on imported goods\" because A tariff is a tax imposed on imported goods.; other options do not match this question.",
+    "knowledgeLevel": "Intro economics",
+    "optionsJapanese": [
+      "A tax on imported goods",
+      "A subsidy for exports",
+      "A quota on production",
+      "A transport fee"
+    ]
+  },
+  {
+    "question": "What is a startup unicorn?",
+    "questionJapanese": "ユニコーン企業とは何ですか？",
+    "options": [
+      "A private startup valued at over $1 billion",
+      "A company older than 100 years",
+      "A monopoly provider",
+      "A government-owned firm"
+    ],
+    "answer": "A private startup valued at over $1 billion",
+    "explanation": "A unicorn is a private startup valued above $1 billion.",
+    "explanationJapanese": "ユニコーン企業は評価額10億ドル超の未上場スタートアップです。",
+    "vocabulary": [
+      {
+        "word": "unicorn",
+        "meaning": "ユニコーン企業",
+        "partOfSpeech": "general",
+        "example": "Use 'unicorn' in context: unicorn relates to this topic."
+      },
+      {
+        "word": "valuation",
+        "meaning": "評価額",
+        "partOfSpeech": "general",
+        "example": "Use 'valuation' in context: valuation relates to this topic."
+      }
+    ],
+    "category": "Business",
+    "difficulty": "Hard",
+    "knowledgeInsight": "Key takeaway: A unicorn is a private startup valued above $1 billion.",
+    "englishExpression": "Choose \"A private startup valued at over $1 billion\" because A unicorn is a private startup valued above $1 billion.; other options do not match this question.",
+    "knowledgeLevel": "Intro economics",
+    "optionsJapanese": [
+      "A private startup valued at over $1 billion",
+      "A company older than 100 years",
+      "A monopoly provider",
+      "A government-owned firm"
+    ]
+  },
+  {
+    "category": "Business",
+    "difficulty": "Medium",
+    "question": "What is break-even point?",
+    "questionJapanese": "損益分岐点とは何ですか？",
+    "options": [
+      "When total revenue equals total costs",
+      "When profits are maximized",
+      "When demand exceeds supply",
+      "When taxes are zero"
+    ],
+    "answer": "When total revenue equals total costs",
+    "explanation": "The break-even point occurs when total revenue equals total costs, yielding zero profit or loss.",
+    "explanationJapanese": "損益分岐点は総収入と総費用が等しく、利益も損失もゼロになる点です。",
+    "vocabulary": [
+      {
+        "word": "break-even",
+        "meaning": "損益分岐",
+        "partOfSpeech": "general",
+        "example": "Use 'break-even' in context: break-even relates to this topic."
+      },
+      {
+        "word": "revenue",
+        "meaning": "収入",
+        "partOfSpeech": "general",
+        "example": "Use 'revenue' in context: revenue relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: The break-even point occurs when total revenue equals total costs, yielding zero profit or loss.",
+    "englishExpression": "Choose \"When total revenue equals total costs\" because The break-even point occurs when total revenue equals total costs, yielding zero profit or loss.; other options do not match this question.",
+    "knowledgeLevel": "Intro economics",
+    "optionsJapanese": [
+      "When total revenue equals total costs",
+      "When profits are maximized",
+      "When demand exceeds supply",
+      "When taxes are zero"
+    ]
+  },
+  {
+    "category": "Business",
+    "difficulty": "Easy",
+    "question": "What is a balance sheet?",
+    "questionJapanese": "バランスシートとは何ですか？",
+    "options": [
+      "A statement of assets, liabilities, and equity",
+      "A list of employees",
+      "A marketing plan",
+      "A production schedule"
+    ],
+    "answer": "A statement of assets, liabilities, and equity",
+    "explanation": "A balance sheet reports a company’s assets, liabilities, and equity at a point in time.",
+    "explanationJapanese": "バランスシートはある時点の資産・負債・資本を示します。",
+    "vocabulary": [
+      {
+        "word": "assets",
+        "meaning": "資産",
+        "partOfSpeech": "general",
+        "example": "Use 'assets' in context: assets relates to this topic."
+      },
+      {
+        "word": "liabilities",
+        "meaning": "負債",
+        "partOfSpeech": "general",
+        "example": "Use 'liabilities' in context: liabilities relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: A balance sheet reports a company’s assets, liabilities, and equity at a point in time.",
+    "englishExpression": "Choose \"A statement of assets, liabilities, and equity\" because A balance sheet reports a company’s assets, liabilities, and equity at a point in time.; other options do not match this question.",
+    "knowledgeLevel": "Intro economics",
+    "optionsJapanese": [
+      "A statement of assets, liabilities, and equity",
+      "A list of employees",
+      "A marketing plan",
+      "A production schedule"
+    ]
+  },
+  {
+    "category": "Business",
+    "difficulty": "Hard",
+    "question": "What is price elasticity of demand?",
+    "questionJapanese": "需要の価格弾力性とは何ですか？",
+    "options": [
+      "Responsiveness of quantity demanded to price changes",
+      "Relationship between income and savings",
+      "Cost structure of production",
+      "Effect of advertising on sales"
+    ],
+    "answer": "Responsiveness of quantity demanded to price changes",
+    "explanation": "Price elasticity of demand measures how quantity demanded responds to price changes.",
+    "explanationJapanese": "需要の価格弾力性は価格変化に対する需要量の反応度を測ります。",
+    "vocabulary": [
+      {
+        "word": "elasticity",
+        "meaning": "弾力性",
+        "partOfSpeech": "general",
+        "example": "Use 'elasticity' in context: elasticity relates to this topic."
+      },
+      {
+        "word": "demand",
+        "meaning": "需要",
+        "partOfSpeech": "general",
+        "example": "Use 'demand' in context: demand relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Price elasticity of demand measures how quantity demanded responds to price changes.",
+    "englishExpression": "Choose \"Responsiveness of quantity demanded to price changes\" because Price elasticity of demand measures how quantity demanded responds to price changes.; other options do not match this question.",
+    "knowledgeLevel": "Intro economics",
+    "optionsJapanese": [
+      "Responsiveness of quantity demanded to price changes",
+      "Relationship between income and savings",
+      "Cost structure of production",
+      "Effect of advertising on sales"
+    ]
+  },
+  {
+    "category": "Business",
+    "difficulty": "Medium",
+    "question": "What does CAGR stand for?",
+    "questionJapanese": "CAGRは何の略ですか？",
+    "options": [
+      "Compound Annual Growth Rate",
+      "Corporate Average Growth Ratio",
+      "Calculated Annual Gross Revenue",
+      "Customer Acquisition Gross Rate"
+    ],
+    "answer": "Compound Annual Growth Rate",
+    "explanation": "CAGR stands for Compound Annual Growth Rate, showing average yearly growth.",
+    "explanationJapanese": "CAGRは年平均成長率(Compound Annual Growth Rate)の略です。",
+    "vocabulary": [
+      {
+        "word": "growth rate",
+        "meaning": "成長率",
+        "partOfSpeech": "general",
+        "example": "Use 'growth rate' in context: growth rate relates to this topic."
+      },
+      {
+        "word": "compound",
+        "meaning": "複利の",
+        "partOfSpeech": "general",
+        "example": "Use 'compound' in context: compound relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: CAGR stands for Compound Annual Growth Rate, showing average yearly growth.",
+    "englishExpression": "Choose \"Compound Annual Growth Rate\" because CAGR stands for Compound Annual Growth Rate, showing average yearly growth.; other options do not match this question.",
+    "knowledgeLevel": "Intro economics",
+    "optionsJapanese": [
+      "Compound Annual Growth Rate",
+      "Corporate Average Growth Ratio",
+      "Calculated Annual Gross Revenue",
+      "Customer Acquisition Gross Rate"
+    ]
+  },
+  {
+    "category": "Business",
+    "difficulty": "Medium",
+    "question": "What is working capital?",
+    "questionJapanese": "運転資本とは何ですか？",
+    "options": [
+      "Current assets minus current liabilities",
+      "Total assets minus total liabilities",
+      "Cash only",
+      "Shareholder dividends"
+    ],
+    "answer": "Current assets minus current liabilities",
+    "explanation": "Working capital is current assets minus current liabilities.",
+    "explanationJapanese": "運転資本は流動資産から流動負債を差し引いたものです。",
+    "vocabulary": [
+      {
+        "word": "working capital",
+        "meaning": "運転資本",
+        "partOfSpeech": "general",
+        "example": "Use 'working capital' in context: working capital relates to this topic."
+      },
+      {
+        "word": "liability",
+        "meaning": "負債",
+        "partOfSpeech": "general",
+        "example": "Use 'liability' in context: liability relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Working capital is current assets minus current liabilities.",
+    "englishExpression": "Choose \"Current assets minus current liabilities\" because Working capital is current assets minus current liabilities.; other options do not match this question.",
+    "knowledgeLevel": "Intro economics",
+    "optionsJapanese": [
+      "Current assets minus current liabilities",
+      "Total assets minus total liabilities",
+      "Cash only",
+      "Shareholder dividends"
+    ]
+  },
+  {
+    "category": "Business",
+    "difficulty": "Easy",
+    "question": "What does ROI stand for?",
+    "questionJapanese": "ROIは何の略ですか？",
+    "options": [
+      "Return on Investment",
+      "Rate of Inflation",
+      "Risk of Insolvency",
+      "Ratio of Inventory"
+    ],
+    "answer": "Return on Investment",
+    "explanation": "ROI means Return on Investment.",
+    "explanationJapanese": "ROIは投資収益率のことです。",
+    "vocabulary": [
+      {
+        "word": "ROI",
+        "meaning": "投資収益率",
+        "partOfSpeech": "general",
+        "example": "Use 'ROI' in context: ROI relates to this topic."
+      },
+      {
+        "word": "investment",
+        "meaning": "投資",
+        "partOfSpeech": "general",
+        "example": "Use 'investment' in context: investment relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: ROI means Return on Investment.",
+    "englishExpression": "Choose \"Return on Investment\" because ROI means Return on Investment.; other options do not match this question.",
+    "knowledgeLevel": "Intro economics",
+    "optionsJapanese": [
+      "Return on Investment",
+      "Rate of Inflation",
+      "Risk of Insolvency",
+      "Ratio of Inventory"
+    ]
+  },
+  {
+    "category": "Business",
+    "difficulty": "Hard",
+    "question": "What is a credit default swap?",
+    "questionJapanese": "クレジット・デフォルト・スワップとは何ですか？",
+    "options": [
+      "A derivative that insures against bond default",
+      "A type of savings account",
+      "A currency exchange fee",
+      "A stock index fund"
+    ],
+    "answer": "A derivative that insures against bond default",
+    "explanation": "A CDS is a derivative contract that insures against default.",
+    "explanationJapanese": "CDSは債券のデフォルトに備えるデリバティブ契約です。",
+    "vocabulary": [
+      {
+        "word": "credit default swap",
+        "meaning": "クレジット・デフォルト・スワップ",
+        "partOfSpeech": "general",
+        "example": "Use 'credit default swap' in context: credit default swap relates to this topic."
+      },
+      {
+        "word": "derivative",
+        "meaning": "デリバティブ",
+        "partOfSpeech": "general",
+        "example": "Use 'derivative' in context: derivative relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: A CDS is a derivative contract that insures against default.",
+    "englishExpression": "Choose \"A derivative that insures against bond default\" because A CDS is a derivative contract that insures against default.; other options do not match this question.",
+    "knowledgeLevel": "Intro economics",
+    "optionsJapanese": [
+      "A derivative that insures against bond default",
+      "A type of savings account",
+      "A currency exchange fee",
+      "A stock index fund"
+    ]
+  },
+  {
+    "category": "Business",
+    "difficulty": "Medium",
+    "question": "What does EBITDA represent in finance?",
+    "questionJapanese": "ファイナンスでEBITDAが表すものは何ですか？",
+    "options": [
+      "Earnings before interest, taxes, depreciation, and amortization",
+      "Net profit after tax",
+      "Revenue minus cost of goods sold",
+      "Cash on hand"
+    ],
+    "optionsJapanese": [
+      "利払前・税引前・減価償却前利益",
+      "税引後利益",
+      "売上高−売上原価",
+      "手元現金"
+    ],
+    "answer": "Earnings before interest, taxes, depreciation, and amortization",
+    "explanation": "EBITDA measures operating performance before interest, taxes, and non-cash expenses.",
+    "explanationJapanese": "EBITDAは利息・税金・非現金費用を除いた営業パフォーマンスを示します。",
+    "vocabulary": [
+      {
+        "word": "EBITDA",
+        "meaning": "利払前・税引前・減価償却前利益",
+        "partOfSpeech": "general",
+        "example": "Use 'EBITDA' in context: EBITDA relates to this topic."
+      },
+      {
+        "word": "depreciation",
+        "meaning": "減価償却",
+        "partOfSpeech": "general",
+        "example": "Use 'depreciation' in context: depreciation relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: EBITDA measures operating performance before interest, taxes, and non-cash expenses.",
+    "englishExpression": "Choose \"Earnings before interest, taxes, depreciation, and amortization\" because EBITDA measures operating performance before interest, taxes, and non-cash expenses.; other options do not match this question.",
+    "knowledgeLevel": "Intro economics"
+  },
+  {
+    "category": "Business",
+    "difficulty": "Easy",
+    "question": "What is a stock split?",
+    "questionJapanese": "株式分割とは何ですか？",
+    "options": [
+      "Increasing shares without changing total value",
+      "Merging two companies",
+      "Paying cash dividends",
+      "Issuing bonds"
+    ],
+    "optionsJapanese": [
+      "総価値を変えず株式数を増やす",
+      "2社を合併する",
+      "現金配当を払う",
+      "債券を発行する"
+    ],
+    "answer": "Increasing shares without changing total value",
+    "explanation": "A stock split increases the number of shares while keeping total market value the same.",
+    "explanationJapanese": "株式分割は株数を増やしつつ時価総額を変えません。",
+    "vocabulary": [
+      {
+        "word": "stock split",
+        "meaning": "株式分割",
+        "partOfSpeech": "general",
+        "example": "Use 'stock split' in context: stock split relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: A stock split increases the number of shares while keeping total market value the same.",
+    "englishExpression": "Choose \"Increasing shares without changing total value\" because A stock split increases the number of shares while keeping total market value the same.; other options do not match this question.",
+    "knowledgeLevel": "Intro economics"
+  },
+  {
+    "category": "Business",
+    "difficulty": "Medium",
+    "question": "What is SWOT analysis used to evaluate?",
+    "questionJapanese": "SWOT分析は何を評価するために使われますか？",
+    "options": [
+      "Strengths, weaknesses, opportunities, threats",
+      "Share prices",
+      "Tax rates",
+      "Loan interest"
+    ],
+    "optionsJapanese": [
+      "強み・弱み・機会・脅威",
+      "株価",
+      "税率",
+      "ローン金利"
+    ],
+    "answer": "Strengths, weaknesses, opportunities, threats",
+    "explanation": "SWOT analysis evaluates strengths, weaknesses, opportunities, and threats of a business or project.",
+    "explanationJapanese": "SWOT分析は事業やプロジェクトの強み・弱み・機会・脅威を評価します。",
+    "vocabulary": [
+      {
+        "word": "SWOT",
+        "meaning": "SWOT（強み・弱み・機会・脅威）",
+        "partOfSpeech": "general",
+        "example": "Use 'SWOT' in context: SWOT relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: SWOT analysis evaluates strengths, weaknesses, opportunities, and threats of a business or project.",
+    "englishExpression": "Choose \"Strengths, weaknesses, opportunities, threats\" because SWOT analysis evaluates strengths, weaknesses, opportunities, and threats of a business or project.; other options do not match this question.",
+    "knowledgeLevel": "Intro economics"
+  },
+  {
+    "category": "Business",
+    "difficulty": "Medium",
+    "question": "What is a bond coupon?",
+    "questionJapanese": "債券のクーポンとは何ですか？",
+    "options": [
+      "The interest payment on a bond",
+      "The price of a bond",
+      "The maturity date",
+      "The issuer of a bond"
+    ],
+    "optionsJapanese": [
+      "債券の利払い",
+      "債券価格",
+      "償還日",
+      "発行体"
+    ],
+    "answer": "The interest payment on a bond",
+    "explanation": "A bond coupon is the periodic interest payment to bondholders.",
+    "explanationJapanese": "債券のクーポンは保有者に支払われる定期的な利息です。",
+    "vocabulary": [
+      {
+        "word": "coupon",
+        "meaning": "利札・利息",
+        "partOfSpeech": "general",
+        "example": "Use 'coupon' in context: coupon relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: A bond coupon is the periodic interest payment to bondholders.",
+    "englishExpression": "Choose \"The interest payment on a bond\" because A bond coupon is the periodic interest payment to bondholders.; other options do not match this question.",
+    "knowledgeLevel": "Intro economics"
+  },
+  {
+    "category": "Business",
+    "difficulty": "Hard",
+    "question": "Which ratio compares total debt to shareholder equity?",
+    "questionJapanese": "総負債を株主資本と比較する指標はどれですか？",
+    "options": [
+      "Debt-to-equity ratio",
+      "Price-to-earnings ratio",
+      "Current ratio",
+      "Return on equity"
+    ],
+    "optionsJapanese": [
+      "負債資本倍率",
+      "株価収益率",
+      "流動比率",
+      "自己資本利益率"
+    ],
+    "answer": "Debt-to-equity ratio",
+    "explanation": "The debt-to-equity ratio compares total debt to shareholder equity.",
+    "explanationJapanese": "負債資本倍率は総負債を株主資本と比較します。",
+    "vocabulary": [
+      {
+        "word": "debt-to-equity ratio",
+        "meaning": "負債資本倍率",
+        "partOfSpeech": "general",
+        "example": "Use 'debt-to-equity ratio' in context: debt-to-equity ratio relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: The debt-to-equity ratio compares total debt to shareholder equity.",
+    "englishExpression": "Choose \"Debt-to-equity ratio\" because The debt-to-equity ratio compares total debt to shareholder equity.; other options do not match this question.",
+    "knowledgeLevel": "Intro economics"
+  },
+  {
+    "category": "Business",
+    "difficulty": "Medium",
+    "question": "What does KPI stand for in management?",
+    "questionJapanese": "経営でKPIは何の略ですか？",
+    "options": [
+      "Key performance indicator",
+      "Knowledge process integration",
+      "Known product inventory",
+      "Key price index"
+    ],
+    "optionsJapanese": [
+      "重要業績評価指標",
+      "ナレッジプロセス統合",
+      "既知の製品在庫",
+      "主要価格指数"
+    ],
+    "answer": "Key performance indicator",
+    "explanation": "KPI stands for key performance indicator, a measurable value to track goals.",
+    "explanationJapanese": "KPIは目標進捗を測る重要業績評価指標です。",
+    "vocabulary": [
+      {
+        "word": "KPI",
+        "meaning": "重要業績評価指標",
+        "partOfSpeech": "general",
+        "example": "Use 'KPI' in context: KPI relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: KPI stands for key performance indicator, a measurable value to track goals.",
+    "englishExpression": "Choose \"Key performance indicator\" because KPI stands for key performance indicator, a measurable value to track goals.; other options do not match this question.",
+    "knowledgeLevel": "Intro economics"
+  },
+  {
+    "category": "Business",
+    "difficulty": "Medium",
+    "question": "What is a moat in business?",
+    "questionJapanese": "ビジネスでいうモートとは何ですか？",
+    "options": [
+      "Sustainable competitive advantage",
+      "High cash balance",
+      "Low tax rate",
+      "Large office building"
+    ],
+    "optionsJapanese": [
+      "持続的な競争優位",
+      "潤沢な現金残高",
+      "低い税率",
+      "大きなオフィスビル"
+    ],
+    "answer": "Sustainable competitive advantage",
+    "explanation": "A moat is a sustainable competitive advantage that protects a business.",
+    "explanationJapanese": "モートは事業を守る持続的な競争優位です。",
+    "vocabulary": [
+      {
+        "word": "moat",
+        "meaning": "競争上の堀（参入障壁）",
+        "partOfSpeech": "general",
+        "example": "Use 'moat' in context: moat relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: A moat is a sustainable competitive advantage that protects a business.",
+    "englishExpression": "Choose \"Sustainable competitive advantage\" because A moat is a sustainable competitive advantage that protects a business.; other options do not match this question.",
+    "knowledgeLevel": "Intro economics"
+  },
+  {
+    "category": "Business",
+    "difficulty": "Medium",
+    "question": "What is net present value (NPV)?",
+    "questionJapanese": "正味現在価値(NPV)とは何ですか？",
+    "options": [
+      "Value of future cash flows discounted to today",
+      "Total cash in bank",
+      "Yearly profit",
+      "Depreciated asset value"
+    ],
+    "optionsJapanese": [
+      "将来キャッシュフローを現在価値に割り引いた合計",
+      "銀行の現金総額",
+      "年間利益",
+      "減価償却後の資産価値"
+    ],
+    "answer": "Value of future cash flows discounted to today",
+    "explanation": "NPV discounts future cash flows back to present value.",
+    "explanationJapanese": "NPVは将来キャッシュフローを現在価値に割り引いた合計です。",
+    "vocabulary": [
+      {
+        "word": "NPV",
+        "meaning": "正味現在価値",
+        "partOfSpeech": "general",
+        "example": "Use 'NPV' in context: NPV relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: NPV discounts future cash flows back to present value.",
+    "englishExpression": "Choose \"Value of future cash flows discounted to today\" because NPV discounts future cash flows back to present value.; other options do not match this question.",
+    "knowledgeLevel": "Intro economics"
+  },
+  {
+    "category": "Business",
+    "difficulty": "Hard",
+    "question": "What does CAGR measure?",
+    "questionJapanese": "CAGRは何を測る指標ですか？",
+    "options": [
+      "Compound annual growth rate",
+      "Current account growth rate",
+      "Corporate average gross revenue",
+      "Cost allocation growth ratio"
+    ],
+    "optionsJapanese": [
+      "年平均成長率",
+      "経常収支成長率",
+      "企業平均総収入",
+      "コスト配分成長比率"
+    ],
+    "answer": "Compound annual growth rate",
+    "explanation": "CAGR measures the mean annual growth rate of an investment over time.",
+    "explanationJapanese": "CAGRは一定期間の年平均成長率を示します。",
+    "vocabulary": [
+      {
+        "word": "compound annual growth rate",
+        "meaning": "年平均成長率",
+        "partOfSpeech": "general",
+        "example": "Use 'compound annual growth rate' in context: compound annual growth rate relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: CAGR measures the mean annual growth rate of an investment over time.",
+    "englishExpression": "Choose \"Compound annual growth rate\" because CAGR measures the mean annual growth rate of an investment over time.; other options do not match this question.",
+    "knowledgeLevel": "Intro economics"
+  },
+  {
+    "category": "Business",
+    "difficulty": "Medium",
+    "question": "What is the breakeven point?",
+    "questionJapanese": "損益分岐点とは何ですか？",
+    "options": [
+      "When total revenue equals total costs",
+      "When profit doubles",
+      "When taxes are zero",
+      "When sales stop"
+    ],
+    "optionsJapanese": [
+      "総収入が総費用に等しいとき",
+      "利益が倍になるとき",
+      "税金がゼロのとき",
+      "売上が止まるとき"
+    ],
+    "answer": "When total revenue equals total costs",
+    "explanation": "At breakeven, total revenue equals total costs with zero profit.",
+    "explanationJapanese": "損益分岐点では総収入と総費用が等しく利益がゼロです。",
+    "vocabulary": [
+      {
+        "word": "breakeven",
+        "meaning": "損益分岐",
+        "partOfSpeech": "general",
+        "example": "Use 'breakeven' in context: breakeven relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: At breakeven, total revenue equals total costs with zero profit.",
+    "englishExpression": "Choose \"When total revenue equals total costs\" because At breakeven, total revenue equals total costs with zero profit.; other options do not match this question.",
+    "knowledgeLevel": "Intro economics"
+  },
+  {
+    "category": "Business",
+    "difficulty": "Medium",
+    "question": "What is a unicorn company?",
+    "questionJapanese": "ユニコーン企業とは何ですか？",
+    "options": [
+      "Private startup valued over $1B",
+      "Company older than 100 years",
+      "Government-owned monopoly",
+      "Non-profit charity"
+    ],
+    "optionsJapanese": [
+      "時価総額10億ドル超の未上場スタートアップ",
+      "創業100年以上の会社",
+      "政府所有の独占企業",
+      "非営利慈善団体"
+    ],
+    "answer": "Private startup valued over $1B",
+    "explanation": "A unicorn is a private startup valued above $1 billion.",
+    "explanationJapanese": "ユニコーン企業は評価額10億ドル超の未上場スタートアップです。",
+    "vocabulary": [
+      {
+        "word": "unicorn",
+        "meaning": "ユニコーン企業",
+        "partOfSpeech": "general",
+        "example": "Use 'unicorn' in context: unicorn relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: A unicorn is a private startup valued above $1 billion.",
+    "englishExpression": "Choose \"Private startup valued over $1B\" because A unicorn is a private startup valued above $1 billion.; other options do not match this question.",
+    "knowledgeLevel": "Intro economics"
+  },
+  {
+    "category": "Business",
+    "difficulty": "Medium",
+    "question": "What is a leveraged buyout (LBO)?",
+    "questionJapanese": "レバレッジド・バイアウトとは何ですか？",
+    "options": [
+      "Buying a company mostly with borrowed funds",
+      "Paying only with cash reserves",
+      "Merging two public companies",
+      "Buying government bonds"
+    ],
+    "optionsJapanese": [
+      "借入金を主に用いて企業を買収すること",
+      "現金準備だけで支払うこと",
+      "2つの上場企業を合併すること",
+      "国債を購入すること"
+    ],
+    "answer": "Buying a company mostly with borrowed funds",
+    "explanation": "An LBO acquires a company using significant borrowed money.",
+    "explanationJapanese": "LBOは多額の借入で企業を買収する手法です。",
+    "vocabulary": [
+      {
+        "word": "leveraged buyout",
+        "meaning": "レバレッジド・バイアウト",
+        "partOfSpeech": "general",
+        "example": "Use 'leveraged buyout' in context: leveraged buyout relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: An LBO acquires a company using significant borrowed money.",
+    "englishExpression": "Choose \"Buying a company mostly with borrowed funds\" because An LBO acquires a company using significant borrowed money.; other options do not match this question.",
+    "knowledgeLevel": "Intro economics"
+  },
+  {
+    "category": "Business",
+    "difficulty": "Hard",
+    "question": "What is a sovereign wealth fund?",
+    "questionJapanese": "ソブリン・ウェルス・ファンドとは何ですか？",
+    "options": [
+      "State-owned investment fund",
+      "Private hedge fund",
+      "Bank savings account",
+      "Life insurance pool"
+    ],
+    "optionsJapanese": [
+      "政府系投資ファンド",
+      "民間ヘッジファンド",
+      "銀行預金口座",
+      "生命保険プール"
+    ],
+    "answer": "State-owned investment fund",
+    "explanation": "A sovereign wealth fund is a state-owned investment fund.",
+    "explanationJapanese": "ソブリン・ウェルス・ファンドは政府系投資ファンドです。",
+    "vocabulary": [
+      {
+        "word": "sovereign wealth fund",
+        "meaning": "政府系ファンド",
+        "partOfSpeech": "general",
+        "example": "Use 'sovereign wealth fund' in context: sovereign wealth fund relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: A sovereign wealth fund is a state-owned investment fund.",
+    "englishExpression": "Choose \"State-owned investment fund\" because A sovereign wealth fund is a state-owned investment fund.; other options do not match this question.",
+    "knowledgeLevel": "Intro economics"
+  },
+  {
+    "category": "Business",
+    "difficulty": "Hard",
+    "question": "What is mezzanine financing?",
+    "questionJapanese": "メザニンファイナンスとは何ですか？",
+    "options": [
+      "Hybrid of debt and equity financing",
+      "Pure equity",
+      "Government grant",
+      "Unsecured donation"
+    ],
+    "optionsJapanese": [
+      "負債と株式のハイブリッド資金調達",
+      "純粋な株式",
+      "政府補助金",
+      "無担保の寄付"
+    ],
+    "answer": "Hybrid of debt and equity financing",
+    "explanation": "Mezzanine financing is hybrid funding between debt and equity.",
+    "explanationJapanese": "メザニンファイナンスは負債と株式の中間的資金調達です。",
+    "vocabulary": [
+      {
+        "word": "mezzanine financing",
+        "meaning": "メザニンファイナンス",
+        "partOfSpeech": "general",
+        "example": "Use 'mezzanine financing' in context: mezzanine financing relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Mezzanine financing is hybrid funding between debt and equity.",
+    "englishExpression": "Choose \"Hybrid of debt and equity financing\" because Mezzanine financing is hybrid funding between debt and equity.; other options do not match this question.",
+    "knowledgeLevel": "Intro economics"
+  },
+  {
+    "category": "Business",
+    "difficulty": "Easy",
+    "question": "What does P&L stand for?",
+    "questionJapanese": "P&Lは何の略ですか？",
+    "options": [
+      "Profit and loss",
+      "Price and leverage",
+      "Pay and leave",
+      "Product and logistics"
+    ],
+    "optionsJapanese": [
+      "損益計算書",
+      "価格とレバレッジ",
+      "支払いと休暇",
+      "製品と物流"
+    ],
+    "answer": "Profit and loss",
+    "explanation": "P&L stands for profit and loss statement.",
+    "explanationJapanese": "P&Lは損益を示す計算書です。",
+    "vocabulary": [
+      {
+        "word": "P&L",
+        "meaning": "損益計算書",
+        "partOfSpeech": "general",
+        "example": "Use 'P&L' in context: P&L relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: P&L stands for profit and loss statement.",
+    "englishExpression": "Choose \"Profit and loss\" because P&L stands for profit and loss statement.; other options do not match this question.",
+    "knowledgeLevel": "Intro economics"
+  },
+  {
+    "category": "Business",
+    "difficulty": "Easy",
+    "question": "What is a dividend?",
+    "questionJapanese": "配当とは何ですか？",
+    "options": [
+      "Payment to shareholders",
+      "Tax on profits",
+      "Loan repayment",
+      "Bond premium"
+    ],
+    "optionsJapanese": [
+      "株主への支払い",
+      "利益への税金",
+      "ローン返済",
+      "債券プレミアム"
+    ],
+    "answer": "Payment to shareholders",
+    "explanation": "A dividend is a payment to shareholders from profits.",
+    "explanationJapanese": "配当は利益から株主へ支払われるものです。",
+    "vocabulary": [
+      {
+        "word": "dividend",
+        "meaning": "配当",
+        "partOfSpeech": "general",
+        "example": "Use 'dividend' in context: dividend relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: A dividend is a payment to shareholders from profits.",
+    "englishExpression": "Choose \"Payment to shareholders\" because A dividend is a payment to shareholders from profits.; other options do not match this question.",
+    "knowledgeLevel": "Intro economics"
+  },
+  {
+    "category": "Business",
+    "difficulty": "Medium",
+    "question": "What is a SPAC?",
+    "questionJapanese": "SPACとは何ですか？",
+    "options": [
+      "Special purpose acquisition company",
+      "Standard product accounting code",
+      "Strategic profit allocation committee",
+      "Sales performance award club"
+    ],
+    "optionsJapanese": [
+      "特別買収目的会社",
+      "標準製品会計コード",
+      "戦略的利益配分委員会",
+      "販売実績表彰クラブ"
+    ],
+    "answer": "Special purpose acquisition company",
+    "explanation": "A SPAC is a special purpose acquisition company that raises funds to acquire another firm.",
+    "explanationJapanese": "SPACは別の企業を買収するために資金を調達する特別買収目的会社です。",
+    "vocabulary": [
+      {
+        "word": "SPAC",
+        "meaning": "特別買収目的会社",
+        "partOfSpeech": "general",
+        "example": "Use 'SPAC' in context: SPAC relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: A SPAC is a special purpose acquisition company that raises funds to acquire another firm.",
+    "englishExpression": "Choose \"Special purpose acquisition company\" because A SPAC is a special purpose acquisition company that raises funds to acquire another firm.; other options do not match this question.",
+    "knowledgeLevel": "Intro economics"
+  },
+  {
+    "category": "Business",
+    "difficulty": "Medium",
+    "question": "What does EBITDA margin measure?",
+    "questionJapanese": "EBITDAマージンは何を測る指標ですか？",
+    "options": [
+      "EBITDA as a percentage of revenue",
+      "Tax rate",
+      "Debt ratio",
+      "Asset turnover"
+    ],
+    "optionsJapanese": [
+      "売上に対するEBITDA比率",
+      "税率",
+      "負債比率",
+      "総資産回転率"
+    ],
+    "answer": "EBITDA as a percentage of revenue",
+    "explanation": "EBITDA margin measures EBITDA as a share of revenue.",
+    "explanationJapanese": "EBITDAマージンは売上に対するEBITDAの比率です。",
+    "vocabulary": [
+      {
+        "word": "EBITDA margin",
+        "meaning": "EBITDAマージン",
+        "partOfSpeech": "general",
+        "example": "Use 'EBITDA margin' in context: EBITDA margin relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: EBITDA margin measures EBITDA as a share of revenue.",
+    "englishExpression": "Choose \"EBITDA as a percentage of revenue\" because EBITDA margin measures EBITDA as a share of revenue.; other options do not match this question.",
+    "knowledgeLevel": "Intro economics"
+  },
+  {
+    "category": "Business",
+    "difficulty": "Medium",
+    "question": "What is cash flow?",
+    "questionJapanese": "キャッシュフローとは何ですか？",
+    "options": [
+      "Money moving in and out of a business",
+      "Only profits",
+      "Only expenses",
+      "Only assets"
+    ],
+    "optionsJapanese": [
+      "事業に出入りする資金",
+      "利益だけ",
+      "費用だけ",
+      "資産だけ"
+    ],
+    "answer": "Money moving in and out of a business",
+    "explanation": "Cash flow is the money moving in and out of a business.",
+    "explanationJapanese": "キャッシュフローは事業に出入りする資金の流れです。",
+    "vocabulary": [
+      {
+        "word": "cash flow",
+        "meaning": "キャッシュフロー",
+        "partOfSpeech": "general",
+        "example": "Use 'cash flow' in context: cash flow relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Cash flow is the money moving in and out of a business.",
+    "englishExpression": "Choose \"Money moving in and out of a business\" because Cash flow is the money moving in and out of a business.; other options do not match this question.",
+    "knowledgeLevel": "Intro economics"
+  },
+  {
+    "category": "Business",
+    "difficulty": "Medium",
+    "question": "What is gross margin?",
+    "questionJapanese": "粗利率とは何ですか？",
+    "options": [
+      "(Revenue - cost of goods sold) / revenue",
+      "Net income / revenue",
+      "Operating income / assets",
+      "Debt / equity"
+    ],
+    "optionsJapanese": [
+      "（売上−売上原価）/売上",
+      "純利益/売上",
+      "営業利益/資産",
+      "負債/資本"
+    ],
+    "answer": "(Revenue - cost of goods sold) / revenue",
+    "explanation": "Gross margin is (revenue minus cost of goods sold) divided by revenue.",
+    "explanationJapanese": "粗利率は（売上−原価）/売上です。",
+    "vocabulary": [
+      {
+        "word": "gross margin",
+        "meaning": "粗利率",
+        "partOfSpeech": "general",
+        "example": "Use 'gross margin' in context: gross margin relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Gross margin is (revenue minus cost of goods sold) divided by revenue.",
+    "englishExpression": "Choose \"(Revenue - cost of goods sold) / revenue\" because Gross margin is (revenue minus cost of goods sold) divided by revenue.; other options do not match this question.",
+    "knowledgeLevel": "Intro economics"
+  },
+  {
+    "category": "Business",
+    "difficulty": "Hard",
+    "question": "What is a convertible bond?",
+    "questionJapanese": "転換社債とは何ですか？",
+    "options": [
+      "Bond that can be converted into stock",
+      "Bond with floating rate only",
+      "Bond that never matures",
+      "Bond only for governments"
+    ],
+    "optionsJapanese": [
+      "株式に転換できる債券",
+      "変動金利のみの債券",
+      "満期のない債券",
+      "政府だけの債券"
+    ],
+    "answer": "Bond that can be converted into stock",
+    "explanation": "A convertible bond can be turned into shares.",
+    "explanationJapanese": "転換社債は株式に転換できる債券です。",
+    "vocabulary": [
+      {
+        "word": "convertible bond",
+        "meaning": "転換社債",
+        "partOfSpeech": "general",
+        "example": "Use 'convertible bond' in context: convertible bond relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: A convertible bond can be turned into shares.",
+    "englishExpression": "Choose \"Bond that can be converted into stock\" because A convertible bond can be turned into shares.; other options do not match this question.",
+    "knowledgeLevel": "Intro economics"
+  },
+  {
+    "category": "Business",
+    "difficulty": "Hard",
+    "question": "What is enterprise value (EV)?",
+    "questionJapanese": "企業価値(EV)とは何ですか？",
+    "options": [
+      "Market cap + debt - cash",
+      "Market cap only",
+      "Debt only",
+      "Cash only"
+    ],
+    "optionsJapanese": [
+      "時価総額+負債−現金",
+      "時価総額のみ",
+      "負債のみ",
+      "現金のみ"
+    ],
+    "answer": "Market cap + debt - cash",
+    "explanation": "EV equals market cap plus debt minus cash.",
+    "explanationJapanese": "EVは時価総額に負債を加え現金を差し引いたものです。",
+    "vocabulary": [
+      {
+        "word": "enterprise value",
+        "meaning": "企業価値",
+        "partOfSpeech": "general",
+        "example": "Use 'enterprise value' in context: enterprise value relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: EV equals market cap plus debt minus cash.",
+    "englishExpression": "Choose \"Market cap + debt - cash\" because EV equals market cap plus debt minus cash.; other options do not match this question.",
+    "knowledgeLevel": "Intro economics"
+  },
+  {
+    "category": "Business",
+    "difficulty": "Hard",
+    "question": "What is free cash flow (FCF)?",
+    "questionJapanese": "フリーキャッシュフロー(FCF)とは何ですか？",
+    "options": [
+      "Cash left after operations and investments",
+      "Cash before expenses",
+      "Only profit after tax",
+      "Inventory value"
+    ],
+    "optionsJapanese": [
+      "営業・投資後に残る現金",
+      "費用前の現金",
+      "税引後利益だけ",
+      "在庫の価値"
+    ],
+    "answer": "Cash left after operations and investments",
+    "explanation": "FCF is cash remaining after operations and capital spending.",
+    "explanationJapanese": "FCFは営業・投資後に残る現金です。",
+    "vocabulary": [
+      {
+        "word": "free cash flow",
+        "meaning": "フリーキャッシュフロー",
+        "partOfSpeech": "general",
+        "example": "Use 'free cash flow' in context: free cash flow relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: FCF is cash remaining after operations and capital spending.",
+    "englishExpression": "Choose \"Cash left after operations and investments\" because FCF is cash remaining after operations and capital spending.; other options do not match this question.",
+    "knowledgeLevel": "Intro economics"
+  },
+  {
+    "category": "Business",
+    "difficulty": "Hard",
+    "question": "What is a hedge in finance?",
+    "questionJapanese": "金融でヘッジとは何ですか？",
+    "options": [
+      "Investment to reduce risk",
+      "Bet to increase risk",
+      "Only buying insurance",
+      "Holding only cash"
+    ],
+    "optionsJapanese": [
+      "リスクを減らす投資",
+      "リスクを高める賭け",
+      "保険だけを買う",
+      "現金だけを持つ"
+    ],
+    "answer": "Investment to reduce risk",
+    "explanation": "A hedge reduces risk exposure.",
+    "explanationJapanese": "ヘッジはリスクを減らす投資です。",
+    "vocabulary": [
+      {
+        "word": "hedge",
+        "meaning": "ヘッジ",
+        "partOfSpeech": "general",
+        "example": "Use 'hedge' in context: hedge relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: A hedge reduces risk exposure.",
+    "englishExpression": "Choose \"Investment to reduce risk\" because A hedge reduces risk exposure.; other options do not match this question.",
+    "knowledgeLevel": "Intro economics"
+  },
+  {
+    "category": "Business",
+    "difficulty": "Easy",
+    "question": "What does CEO stand for?",
+    "questionJapanese": "CEOは何の略ですか？",
+    "options": [
+      "Chief executive officer",
+      "Chief engineering officer",
+      "Central equity organizer",
+      "Customer experience owner"
+    ],
+    "optionsJapanese": [
+      "最高経営責任者",
+      "最高技術責任者",
+      "中央株式担当",
+      "顧客体験担当"
+    ],
+    "answer": "Chief executive officer",
+    "explanation": "CEO means chief executive officer.",
+    "explanationJapanese": "CEOは最高経営責任者を意味します。",
+    "vocabulary": [
+      {
+        "word": "CEO",
+        "meaning": "最高経営責任者",
+        "partOfSpeech": "general",
+        "example": "Use 'CEO' in context: CEO relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: CEO means chief executive officer.",
+    "englishExpression": "Choose \"Chief executive officer\" because CEO means chief executive officer.; other options do not match this question.",
+    "knowledgeLevel": "Intro economics"
+  },
+  {
+    "category": "Business",
+    "difficulty": "Hard",
+    "question": "What is capital expenditure (CapEx)?",
+    "questionJapanese": "設備投資（CapEx）とは何ですか？",
+    "options": [
+      "Spending on long-term assets",
+      "Day-to-day wages",
+      "Dividends to shareholders",
+      "Tax payments"
+    ],
+    "optionsJapanese": [
+      "長期資産への支出",
+      "日常の賃金",
+      "株主への配当",
+      "税金の支払い"
+    ],
+    "answer": "Spending on long-term assets",
+    "explanation": "CapEx is spending on long-term assets.",
+    "explanationJapanese": "CapExは長期資産への支出です。",
+    "vocabulary": [
+      {
+        "word": "CapEx",
+        "meaning": "設備投資",
+        "partOfSpeech": "general",
+        "example": "Use 'CapEx' in context: CapEx relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: CapEx is spending on long-term assets.",
+    "englishExpression": "Choose \"Spending on long-term assets\" because CapEx is spending on long-term assets.; other options do not match this question.",
+    "knowledgeLevel": "Intro economics"
+  },
+  {
+    "category": "Business",
+    "difficulty": "Hard",
+    "question": "What is goodwill in accounting?",
+    "questionJapanese": "会計でグッドウィルとは何ですか？",
+    "options": [
+      "Excess purchase price over fair value",
+      "Cash on hand",
+      "Stock dividend",
+      "Deferred tax asset"
+    ],
+    "optionsJapanese": [
+      "公正価値を上回る買収差益",
+      "手元現金",
+      "株式配当",
+      "繰延税金資産"
+    ],
+    "answer": "Excess purchase price over fair value",
+    "explanation": "Goodwill is excess purchase price over fair value in acquisitions.",
+    "explanationJapanese": "グッドウィルは買収時に公正価値を上回る差益です。",
+    "vocabulary": [
+      {
+        "word": "goodwill",
+        "meaning": "のれん",
+        "partOfSpeech": "general",
+        "example": "Use 'goodwill' in context: goodwill relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Goodwill is excess purchase price over fair value in acquisitions.",
+    "englishExpression": "Choose \"Excess purchase price over fair value\" because Goodwill is excess purchase price over fair value in acquisitions.; other options do not match this question.",
+    "knowledgeLevel": "Intro economics"
+  },
+  {
+    "category": "Business",
+    "difficulty": "Easy",
+    "question": "What does CFO stand for?",
+    "questionJapanese": "CFOは何の略ですか？",
+    "options": [
+      "Chief financial officer",
+      "Chief fun officer",
+      "Customer field officer",
+      "Control finance office"
+    ],
+    "optionsJapanese": [
+      "最高財務責任者",
+      "チーフファンオフィサー",
+      "顧客担当責任者",
+      "財務管理室"
+    ],
+    "answer": "Chief financial officer",
+    "explanation": "CFO stands for chief financial officer.",
+    "explanationJapanese": "CFOは最高財務責任者を意味します。",
+    "vocabulary": [
+      {
+        "word": "CFO",
+        "meaning": "最高財務責任者",
+        "partOfSpeech": "general",
+        "example": "Use 'CFO' in context: CFO relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: CFO stands for chief financial officer.",
+    "englishExpression": "Choose \"Chief financial officer\" because CFO stands for chief financial officer.; other options do not match this question.",
+    "knowledgeLevel": "Intro economics"
+  },
+  {
+    "category": "Business",
+    "difficulty": "Easy",
+    "question": "What is revenue?",
+    "questionJapanese": "収益とは何ですか？",
+    "options": [
+      "Income from sales",
+      "Total debt",
+      "Employee count",
+      "Tax rate"
+    ],
+    "optionsJapanese": [
+      "販売による所得",
+      "総負債",
+      "従業員数",
+      "税率"
+    ],
+    "answer": "Income from sales",
+    "explanation": "Revenue is income from sales.",
+    "explanationJapanese": "収益は販売による所得です。",
+    "vocabulary": [
+      {
+        "word": "revenue",
+        "meaning": "収益",
+        "partOfSpeech": "general",
+        "example": "Use 'revenue' in context: revenue relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Revenue is income from sales.",
+    "englishExpression": "Choose \"Income from sales\" because Revenue is income from sales.; other options do not match this question.",
+    "knowledgeLevel": "Intro economics"
+  },
+  {
+    "category": "Business",
+    "difficulty": "Medium",
+    "question": "What is depreciation?",
+    "questionJapanese": "減価償却とは何ですか？",
+    "options": [
+      "Allocating asset cost over time",
+      "Paying dividends",
+      "Raising equity",
+      "Paying taxes"
+    ],
+    "optionsJapanese": [
+      "資産コストを期間配分",
+      "配当支払い",
+      "株式発行",
+      "税金支払い"
+    ],
+    "answer": "Allocating asset cost over time",
+    "explanation": "Depreciation allocates asset cost over time.",
+    "explanationJapanese": "減価償却は資産コストを期間配分します。",
+    "vocabulary": [
+      {
+        "word": "depreciation",
+        "meaning": "減価償却",
+        "partOfSpeech": "general",
+        "example": "Use 'depreciation' in context: depreciation relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Depreciation allocates asset cost over time.",
+    "englishExpression": "Choose \"Allocating asset cost over time\" because Depreciation allocates asset cost over time.; other options do not match this question.",
+    "knowledgeLevel": "Intro economics"
+  },
+  {
+    "category": "Business",
+    "difficulty": "Medium",
+    "question": "What is a merger?",
+    "questionJapanese": "合併とは何ですか？",
+    "options": [
+      "Combining two companies",
+      "Issuing bonds",
+      "Paying salaries",
+      "Renting equipment"
+    ],
+    "optionsJapanese": [
+      "2社を統合すること",
+      "債券を発行する",
+      "給与を払う",
+      "設備をレンタルする"
+    ],
+    "answer": "Combining two companies",
+    "explanation": "A merger combines two companies.",
+    "explanationJapanese": "合併は2社を統合することです。",
+    "vocabulary": [
+      {
+        "word": "merger",
+        "meaning": "合併",
+        "partOfSpeech": "general",
+        "example": "Use 'merger' in context: merger relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: A merger combines two companies.",
+    "englishExpression": "Choose \"Combining two companies\" because A merger combines two companies.; other options do not match this question.",
+    "knowledgeLevel": "Intro economics"
+  },
+  {
+    "category": "Business",
+    "difficulty": "Hard",
+    "question": "What is net margin?",
+    "questionJapanese": "純利益率とは何ですか？",
+    "options": [
+      "Net income divided by revenue",
+      "Revenue divided by assets",
+      "Debt divided by equity",
+      "Cash divided by liabilities"
+    ],
+    "optionsJapanese": [
+      "純利益÷売上",
+      "売上÷資産",
+      "負債÷資本",
+      "現金÷負債"
+    ],
+    "answer": "Net income divided by revenue",
+    "explanation": "Net margin is net income divided by revenue.",
+    "explanationJapanese": "純利益率は純利益/売上です。",
+    "vocabulary": [
+      {
+        "word": "net margin",
+        "meaning": "純利益率",
+        "partOfSpeech": "general",
+        "example": "Use 'net margin' in context: net margin relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Net margin is net income divided by revenue.",
+    "englishExpression": "Choose \"Net income divided by revenue\" because Net margin is net income divided by revenue.; other options do not match this question.",
+    "knowledgeLevel": "Intro economics"
+  },
+  {
+    "category": "Business",
+    "difficulty": "Hard",
+    "question": "What is EBITDA to interest coverage ratio used for?",
+    "questionJapanese": "EBITDA利払い倍率は何を見る指標ですか？",
+    "options": [
+      "Ability to cover interest expense",
+      "Dividend payout capacity",
+      "Tax rate level",
+      "Inventory turnover"
+    ],
+    "optionsJapanese": [
+      "利息支払い能力",
+      "配当支払い能力",
+      "税率の水準",
+      "在庫回転"
+    ],
+    "answer": "Ability to cover interest expense",
+    "explanation": "It shows how many times EBITDA covers interest.",
+    "explanationJapanese": "EBITDAで利払いを何倍カバーできるかを示します。",
+    "vocabulary": [
+      {
+        "word": "interest coverage",
+        "meaning": "インタレストカバレッジ",
+        "partOfSpeech": "general",
+        "example": "Use 'interest coverage' in context: interest coverage relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: It shows how many times EBITDA covers interest.",
+    "englishExpression": "Choose \"Ability to cover interest expense\" because It shows how many times EBITDA covers interest.; other options do not match this question.",
+    "knowledgeLevel": "Intro economics"
+  },
+  {
+    "category": "Business",
+    "difficulty": "Medium",
+    "question": "What is a poison pill in corporate defense?",
+    "questionJapanese": "企業防衛におけるポイズンピルとは何ですか？",
+    "options": [
+      "Tactic to deter hostile takeovers",
+      "Tax exemption",
+      "Share buyback program",
+      "Annual report"
+    ],
+    "optionsJapanese": [
+      "敵対的買収を防ぐ策",
+      "免税",
+      "自社株買いプログラム",
+      "年次報告書"
+    ],
+    "answer": "Tactic to deter hostile takeovers",
+    "explanation": "A poison pill deters hostile takeovers.",
+    "explanationJapanese": "ポイズンピルは敵対的買収を防ぐ策です。",
+    "vocabulary": [
+      {
+        "word": "poison pill",
+        "meaning": "ポイズンピル",
+        "partOfSpeech": "general",
+        "example": "Use 'poison pill' in context: poison pill relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: A poison pill deters hostile takeovers.",
+    "englishExpression": "Choose \"Tactic to deter hostile takeovers\" because A poison pill deters hostile takeovers.; other options do not match this question.",
+    "knowledgeLevel": "Intro economics"
+  }
+]

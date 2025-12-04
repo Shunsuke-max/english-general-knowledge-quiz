@@ -1,0 +1,2258 @@
+[
+  {
+    "question": "Which composer is famous for the Fifth Symphony with the short-short-short-long motif?",
+    "questionJapanese": "短短短長の動機で有名な交響曲 第5番の作曲家は誰ですか？",
+    "options": [
+      "Mozart",
+      "Beethoven",
+      "Brahms",
+      "Bach"
+    ],
+    "answer": "Beethoven",
+    "explanation": "Ludwig van Beethoven composed the Fifth Symphony, one of the best-known pieces of classical music.",
+    "explanationJapanese": "ルートヴィヒ・ヴァン・ベートーヴェンは、クラシック音楽の代表作のひとつである交響曲第5番を作曲しました。",
+    "vocabulary": [
+      {
+        "word": "motif",
+        "meaning": "動機",
+        "partOfSpeech": "general",
+        "example": "Use 'motif' in context: motif relates to this topic."
+      },
+      {
+        "word": "classical",
+        "meaning": "クラシックの",
+        "partOfSpeech": "general",
+        "example": "Use 'classical' in context: classical relates to this topic."
+      },
+      {
+        "word": "composer",
+        "meaning": "作曲家",
+        "partOfSpeech": "general",
+        "example": "Use 'composer' in context: composer relates to this topic."
+      }
+    ],
+    "category": "Pop Culture",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: Ludwig van Beethoven composed the Fifth Symphony, one of the best-known pieces of classical music.",
+    "englishExpression": "Choose \"Beethoven\" because Ludwig van Beethoven composed the Fifth Symphony, one of the best-known pieces of classical music.; other options do not match this question.",
+    "knowledgeLevel": "General culture",
+    "optionsJapanese": [
+      "Mozart",
+      "Beethoven",
+      "Brahms",
+      "Bach"
+    ]
+  },
+  {
+    "question": "Which pop culture franchise features a wizarding school called Hogwarts?",
+    "questionJapanese": "ホグワーツという魔法学校を登場させるポップカルチャーフランチャイズは何ですか？",
+    "options": [
+      "Harry Potter",
+      "Lord of the Rings",
+      "Percy Jackson",
+      "Star Wars"
+    ],
+    "answer": "Harry Potter",
+    "explanation": "The Harry Potter series centers on students at Hogwarts School of Witchcraft and Wizardry.",
+    "explanationJapanese": "ハリー・ポッターシリーズはホグワーツ魔法魔術学校の生徒たちを描いています。",
+    "vocabulary": [
+      {
+        "word": "series",
+        "meaning": "シリーズ",
+        "partOfSpeech": "general",
+        "example": "Use 'series' in context: series relates to this topic."
+      },
+      {
+        "word": "center",
+        "meaning": "中心とする",
+        "partOfSpeech": "general",
+        "example": "Use 'center' in context: center relates to this topic."
+      },
+      {
+        "word": "witchcraft",
+        "meaning": "魔術",
+        "partOfSpeech": "general",
+        "example": "Use 'witchcraft' in context: witchcraft relates to this topic."
+      }
+    ],
+    "category": "Pop Culture",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: The Harry Potter series centers on students at Hogwarts School of Witchcraft and Wizardry.",
+    "englishExpression": "Choose \"Harry Potter\" because The Harry Potter series centers on students at Hogwarts School of Witchcraft and Wizardry.; other options do not match this question.",
+    "knowledgeLevel": "General culture",
+    "optionsJapanese": [
+      "Harry Potter",
+      "Lord of the Rings",
+      "Percy Jackson",
+      "Star Wars"
+    ]
+  },
+  {
+    "question": "Which wizarding school appears in the Harry Potter series?",
+    "questionJapanese": "ハリー・ポッターシリーズに登場する魔法学校の名前は？",
+    "options": [
+      "Hogwarts",
+      "Beauxbatons",
+      "Durmstrang",
+      "Ilvermorny"
+    ],
+    "answer": "Hogwarts",
+    "explanation": "Hogwarts School of Witchcraft and Wizardry trains young wizards in Britain.",
+    "explanationJapanese": "ホグワーツ魔法魔術学校はイギリスで若い魔法使いを育てます。",
+    "vocabulary": [
+      {
+        "word": "witchcraft",
+        "meaning": "魔法術",
+        "partOfSpeech": "general",
+        "example": "Use 'witchcraft' in context: witchcraft relates to this topic."
+      },
+      {
+        "word": "wizardry",
+        "meaning": "魔法",
+        "partOfSpeech": "general",
+        "example": "Use 'wizardry' in context: wizardry relates to this topic."
+      },
+      {
+        "word": "train",
+        "meaning": "育てる",
+        "partOfSpeech": "general",
+        "example": "Use 'train' in context: train relates to this topic."
+      }
+    ],
+    "category": "Pop Culture",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: Hogwarts School of Witchcraft and Wizardry trains young wizards in Britain.",
+    "englishExpression": "Choose \"Hogwarts\" because Hogwarts School of Witchcraft and Wizardry trains young wizards in Britain.; other options do not match this question.",
+    "knowledgeLevel": "General culture",
+    "optionsJapanese": [
+      "Hogwarts",
+      "Beauxbatons",
+      "Durmstrang",
+      "Ilvermorny"
+    ]
+  },
+  {
+    "question": "What film features the song 'Let It Go'?",
+    "questionJapanese": "『Let It Go』という曲が登場する映画は？",
+    "options": [
+      "Frozen",
+      "Moana",
+      "Tangled",
+      "Coco"
+    ],
+    "answer": "Frozen",
+    "explanation": "Frozen is a Disney film where Elsa sings 'Let It Go' to accept her powers.",
+    "explanationJapanese": "『アナと雪の女王』でエルサは力を受け入れるため『Let It Go』を歌います。",
+    "vocabulary": [
+      {
+        "word": "accept",
+        "meaning": "受け入れる",
+        "partOfSpeech": "general",
+        "example": "Use 'accept' in context: accept relates to this topic."
+      },
+      {
+        "word": "power",
+        "meaning": "力",
+        "partOfSpeech": "general",
+        "example": "Use 'power' in context: power relates to this topic."
+      },
+      {
+        "word": "sing",
+        "meaning": "歌う",
+        "partOfSpeech": "general",
+        "example": "Use 'sing' in context: sing relates to this topic."
+      }
+    ],
+    "category": "Pop Culture",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: Frozen is a Disney film where Elsa sings 'Let It Go' to accept her powers.",
+    "englishExpression": "Choose \"Frozen\" because Frozen is a Disney film where Elsa sings 'Let It Go' to accept her powers.; other options do not match this question.",
+    "knowledgeLevel": "General culture",
+    "optionsJapanese": [
+      "Frozen",
+      "Moana",
+      "Tangled",
+      "Coco"
+    ]
+  },
+  {
+    "question": "Which superhero uses a shield made of vibranium?",
+    "questionJapanese": "ビブラニウムでできた盾を使うスーパーヒーローは？",
+    "options": [
+      "Captain America",
+      "Iron Man",
+      "Thor",
+      "Black Panther"
+    ],
+    "answer": "Captain America",
+    "explanation": "Captain America's shield is nearly indestructible and returns like a boomerang.",
+    "explanationJapanese": "キャプテン・アメリカの盾はほぼ破壊できず、ブーメランのように戻ります。",
+    "vocabulary": [
+      {
+        "word": "indestructible",
+        "meaning": "破壊できない",
+        "partOfSpeech": "general",
+        "example": "Use 'indestructible' in context: indestructible relates to this topic."
+      },
+      {
+        "word": "return",
+        "meaning": "戻る",
+        "partOfSpeech": "general",
+        "example": "Use 'return' in context: return relates to this topic."
+      },
+      {
+        "word": "boomerang",
+        "meaning": "ブーメラン",
+        "partOfSpeech": "general",
+        "example": "Use 'boomerang' in context: boomerang relates to this topic."
+      }
+    ],
+    "category": "Pop Culture",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: Captain America's shield is nearly indestructible and returns like a boomerang.",
+    "englishExpression": "Choose \"Captain America\" because Captain America's shield is nearly indestructible and returns like a boomerang.; other options do not match this question.",
+    "knowledgeLevel": "General culture",
+    "optionsJapanese": [
+      "Captain America",
+      "Iron Man",
+      "Thor",
+      "Black Panther"
+    ]
+  },
+  {
+    "question": "Which singer is known as the 'King of Pop'?",
+    "questionJapanese": "『キング・オブ・ポップ』として知られる歌手は誰ですか？",
+    "options": [
+      "Michael Jackson",
+      "Prince",
+      "Madonna",
+      "Elvis Presley"
+    ],
+    "answer": "Michael Jackson",
+    "explanation": "Michael Jackson popularized dance moves like the moonwalk and albums like Thriller.",
+    "explanationJapanese": "マイケル・ジャクソンはムーンウォークや『スリラー』などで大衆文化に影響を与えました。",
+    "vocabulary": [
+      {
+        "word": "popularize",
+        "meaning": "普及させる",
+        "partOfSpeech": "general",
+        "example": "Use 'popularize' in context: popularize relates to this topic."
+      },
+      {
+        "word": "dance",
+        "meaning": "ダンス",
+        "partOfSpeech": "general",
+        "example": "Use 'dance' in context: dance relates to this topic."
+      },
+      {
+        "word": "album",
+        "meaning": "アルバム",
+        "partOfSpeech": "general",
+        "example": "Use 'album' in context: album relates to this topic."
+      }
+    ],
+    "category": "Pop Culture",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: Michael Jackson popularized dance moves like the moonwalk and albums like Thriller.",
+    "englishExpression": "Choose \"Michael Jackson\" because Michael Jackson popularized dance moves like the moonwalk and albums like Thriller.; other options do not match this question.",
+    "knowledgeLevel": "General culture",
+    "optionsJapanese": [
+      "Michael Jackson",
+      "Prince",
+      "Madonna",
+      "Elvis Presley"
+    ]
+  },
+  {
+    "question": "Which sitcom centers around friends meeting at Central Perk coffee shop?",
+    "questionJapanese": "セントラルパークのコーヒーショップで友人たちが集まるシットコムは？",
+    "options": [
+      "Friends",
+      "Seinfeld",
+      "How I Met Your Mother",
+      "The Big Bang Theory"
+    ],
+    "answer": "Friends",
+    "explanation": "Friends focuses on six New Yorkers who share life and coffees at Central Perk.",
+    "explanationJapanese": "『フレンズ』は中央パークで人生とコーヒーを共有する6人のニューヨーカーの物語です。",
+    "vocabulary": [
+      {
+        "word": "focus",
+        "meaning": "焦点",
+        "partOfSpeech": "general",
+        "example": "Use 'focus' in context: focus relates to this topic."
+      },
+      {
+        "word": "share",
+        "meaning": "共有する",
+        "partOfSpeech": "general",
+        "example": "Use 'share' in context: share relates to this topic."
+      },
+      {
+        "word": "coffee",
+        "meaning": "コーヒー",
+        "partOfSpeech": "general",
+        "example": "Use 'coffee' in context: coffee relates to this topic."
+      }
+    ],
+    "category": "Pop Culture",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: Friends focuses on six New Yorkers who share life and coffees at Central Perk.",
+    "englishExpression": "Choose \"Friends\" because Friends focuses on six New Yorkers who share life and coffees at Central Perk.; other options do not match this question.",
+    "knowledgeLevel": "General culture",
+    "optionsJapanese": [
+      "Friends",
+      "Seinfeld",
+      "How I Met Your Mother",
+      "The Big Bang Theory"
+    ]
+  },
+  {
+    "question": "Which superhero film follows a hero from Wakanda?",
+    "questionJapanese": "ワカンダ出身のヒーローを描く映画は？",
+    "options": [
+      "Black Panther",
+      "Guardians of the Galaxy",
+      "Doctor Strange",
+      "Ant-Man"
+    ],
+    "answer": "Black Panther",
+    "explanation": "Black Panther highlights Wakanda's advanced technology and vibranium resources.",
+    "explanationJapanese": "『ブラックパンサー』はワカンダの高度な技術とビブラニウムを描きます。",
+    "vocabulary": [
+      {
+        "word": "highlight",
+        "meaning": "強調する",
+        "partOfSpeech": "general",
+        "example": "Use 'highlight' in context: highlight relates to this topic."
+      },
+      {
+        "word": "advanced",
+        "meaning": "進んだ",
+        "partOfSpeech": "general",
+        "example": "Use 'advanced' in context: advanced relates to this topic."
+      },
+      {
+        "word": "resource",
+        "meaning": "資源",
+        "partOfSpeech": "general",
+        "example": "Use 'resource' in context: resource relates to this topic."
+      }
+    ],
+    "category": "Pop Culture",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: Black Panther highlights Wakanda's advanced technology and vibranium resources.",
+    "englishExpression": "Choose \"Black Panther\" because Black Panther highlights Wakanda's advanced technology and vibranium resources.; other options do not match this question.",
+    "knowledgeLevel": "General culture",
+    "optionsJapanese": [
+      "Black Panther",
+      "Guardians of the Galaxy",
+      "Doctor Strange",
+      "Ant-Man"
+    ]
+  },
+  {
+    "question": "Which studio produced 'My Neighbor Totoro'?",
+    "questionJapanese": "『となりのトトロ』を制作したスタジオは？",
+    "options": [
+      "Studio Ghibli",
+      "Toei Animation",
+      "Sunrise",
+      "Madhouse"
+    ],
+    "answer": "Studio Ghibli",
+    "explanation": "Studio Ghibli is famous for Hayao Miyazaki's imaginative storytelling.",
+    "explanationJapanese": "スタジオジブリは宮崎駿の想像力豊かな物語で知られています。",
+    "vocabulary": [
+      {
+        "word": "imaginative",
+        "meaning": "想像力豊かな",
+        "partOfSpeech": "general",
+        "example": "Use 'imaginative' in context: imaginative relates to this topic."
+      },
+      {
+        "word": "storytelling",
+        "meaning": "物語ること",
+        "partOfSpeech": "general",
+        "example": "Use 'storytelling' in context: storytelling relates to this topic."
+      },
+      {
+        "word": "famous",
+        "meaning": "有名な",
+        "partOfSpeech": "general",
+        "example": "Use 'famous' in context: famous relates to this topic."
+      }
+    ],
+    "category": "Pop Culture",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: Studio Ghibli is famous for Hayao Miyazaki's imaginative storytelling.",
+    "englishExpression": "Choose \"Studio Ghibli\" because Studio Ghibli is famous for Hayao Miyazaki's imaginative storytelling.; other options do not match this question.",
+    "knowledgeLevel": "General culture",
+    "optionsJapanese": [
+      "Studio Ghibli",
+      "Toei Animation",
+      "Sunrise",
+      "Madhouse"
+    ]
+  },
+  {
+    "question": "Which platform debuted 'Stranger Things'?",
+    "questionJapanese": "『ストレンジャー・シングス』を配信したプラットフォームは？",
+    "options": [
+      "Netflix",
+      "Disney+",
+      "HBO Max",
+      "Amazon Prime"
+    ],
+    "answer": "Netflix",
+    "explanation": "Netflix released Stranger Things with a nostalgic 1980s sci-fi vibe.",
+    "explanationJapanese": "Netflixは1980年代風のSFで『ストレンジャー・シングス』を配信しました。",
+    "vocabulary": [
+      {
+        "word": "nostalgic",
+        "meaning": "懐かしい",
+        "partOfSpeech": "general",
+        "example": "Use 'nostalgic' in context: nostalgic relates to this topic."
+      },
+      {
+        "word": "vibe",
+        "meaning": "雰囲気",
+        "partOfSpeech": "general",
+        "example": "Use 'vibe' in context: vibe relates to this topic."
+      },
+      {
+        "word": "sci-fi",
+        "meaning": "SF",
+        "partOfSpeech": "general",
+        "example": "Use 'sci-fi' in context: sci-fi relates to this topic."
+      }
+    ],
+    "category": "Pop Culture",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: Netflix released Stranger Things with a nostalgic 1980s sci-fi vibe.",
+    "englishExpression": "Choose \"Netflix\" because Netflix released Stranger Things with a nostalgic 1980s sci-fi vibe.; other options do not match this question.",
+    "knowledgeLevel": "General culture",
+    "optionsJapanese": [
+      "Netflix",
+      "Disney+",
+      "HBO Max",
+      "Amazon Prime"
+    ]
+  },
+  {
+    "question": "Which British singer recorded 'Rehab' and 'Back to Black'?",
+    "questionJapanese": "『Rehab』『Back to Black』を歌ったイギリスの歌手は？",
+    "options": [
+      "Amy Winehouse",
+      "Adele",
+      "Ellie Goulding",
+      "Dua Lipa"
+    ],
+    "answer": "Amy Winehouse",
+    "explanation": "Amy Winehouse combined jazz, soul, and personal lyrics to leave a lasting legacy.",
+    "explanationJapanese": "エイミー・ワインハウスはジャズとソウルを融合し、個人的な歌詞で強い印象を残しました。",
+    "vocabulary": [
+      {
+        "word": "personal",
+        "meaning": "個人的な",
+        "partOfSpeech": "general",
+        "example": "Use 'personal' in context: personal relates to this topic."
+      },
+      {
+        "word": "lyrics",
+        "meaning": "歌詞",
+        "partOfSpeech": "general",
+        "example": "Use 'lyrics' in context: lyrics relates to this topic."
+      },
+      {
+        "word": "legacy",
+        "meaning": "遺産",
+        "partOfSpeech": "general",
+        "example": "Use 'legacy' in context: legacy relates to this topic."
+      }
+    ],
+    "category": "Pop Culture",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: Amy Winehouse combined jazz, soul, and personal lyrics to leave a lasting legacy.",
+    "englishExpression": "Choose \"Amy Winehouse\" because Amy Winehouse combined jazz, soul, and personal lyrics to leave a lasting legacy.; other options do not match this question.",
+    "knowledgeLevel": "General culture",
+    "optionsJapanese": [
+      "Amy Winehouse",
+      "Adele",
+      "Ellie Goulding",
+      "Dua Lipa"
+    ]
+  },
+  {
+    "question": "Which book series inspired the TV show Game of Thrones?",
+    "questionJapanese": "『ゲーム・オブ・スローンズ』の原作となった本のシリーズは？",
+    "options": [
+      "A Song of Ice and Fire",
+      "The Lord of the Rings",
+      "Harry Potter",
+      "The Wheel of Time"
+    ],
+    "answer": "A Song of Ice and Fire",
+    "explanation": "George R. R. Martin's saga features dragons and political intrigue for HBO's show.",
+    "explanationJapanese": "ジョージ・R・R・マーティンの『氷と炎の歌』はドラゴンと政治的陰謀を描き、HBOのドラマになりました。",
+    "vocabulary": [
+      {
+        "word": "saga",
+        "meaning": "叙事詩",
+        "partOfSpeech": "general",
+        "example": "Use 'saga' in context: saga relates to this topic."
+      },
+      {
+        "word": "intrigue",
+        "meaning": "陰謀",
+        "partOfSpeech": "general",
+        "example": "Use 'intrigue' in context: intrigue relates to this topic."
+      },
+      {
+        "word": "dragon",
+        "meaning": "ドラゴン",
+        "partOfSpeech": "general",
+        "example": "Use 'dragon' in context: dragon relates to this topic."
+      }
+    ],
+    "category": "Pop Culture",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: George R.",
+    "englishExpression": "Choose \"A Song of Ice and Fire\" because George R. R. Martin's saga features dragons and political intrigue for HBO's show.; other options do not match this question.",
+    "knowledgeLevel": "General culture",
+    "optionsJapanese": [
+      "A Song of Ice and Fire",
+      "The Lord of the Rings",
+      "Harry Potter",
+      "The Wheel of Time"
+    ]
+  },
+  {
+    "question": "Which artist painted the Mona Lisa?",
+    "questionJapanese": "モナ・リザを描いた画家は？",
+    "options": [
+      "Leonardo da Vinci",
+      "Michelangelo",
+      "Raphael",
+      "Sandro Botticelli"
+    ],
+    "answer": "Leonardo da Vinci",
+    "explanation": "Leonardo painted the Mona Lisa during the Renaissance, famous for her smile.",
+    "explanationJapanese": "レオナルド・ダ・ヴィンチはルネサンス期に微笑みで有名なモナ・リザを描きました。",
+    "vocabulary": [
+      {
+        "word": "Renaissance",
+        "meaning": "ルネサンス",
+        "partOfSpeech": "general",
+        "example": "Use 'Renaissance' in context: Renaissance relates to this topic."
+      },
+      {
+        "word": "famous",
+        "meaning": "有名",
+        "partOfSpeech": "general",
+        "example": "Use 'famous' in context: famous relates to this topic."
+      },
+      {
+        "word": "smile",
+        "meaning": "微笑み",
+        "partOfSpeech": "general",
+        "example": "Use 'smile' in context: smile relates to this topic."
+      }
+    ],
+    "category": "Pop Culture",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: Leonardo painted the Mona Lisa during the Renaissance, famous for her smile.",
+    "englishExpression": "Choose \"Leonardo da Vinci\" because Leonardo painted the Mona Lisa during the Renaissance, famous for her smile.; other options do not match this question.",
+    "knowledgeLevel": "General culture",
+    "optionsJapanese": [
+      "Leonardo da Vinci",
+      "Michelangelo",
+      "Raphael",
+      "Sandro Botticelli"
+    ]
+  },
+  {
+    "question": "Which streaming service releases Marvel shows like 'WandaVision'?",
+    "questionJapanese": "『ワンダヴィジョン』のようなマーベル作品を配信するサービスは？",
+    "options": [
+      "Disney+",
+      "Netflix",
+      "HBO Max",
+      "Amazon Prime"
+    ],
+    "answer": "Disney+",
+    "explanation": "Disney+ hosts Marvel series that connect to the larger movie universe.",
+    "explanationJapanese": "Disney+では映画の宇宙とつながるマーベルのシリーズを提供しています。",
+    "vocabulary": [
+      {
+        "word": "host",
+        "meaning": "配信する",
+        "partOfSpeech": "general",
+        "example": "Use 'host' in context: host relates to this topic."
+      },
+      {
+        "word": "connect",
+        "meaning": "つながる",
+        "partOfSpeech": "general",
+        "example": "Use 'connect' in context: connect relates to this topic."
+      },
+      {
+        "word": "universe",
+        "meaning": "宇宙",
+        "partOfSpeech": "general",
+        "example": "Use 'universe' in context: universe relates to this topic."
+      }
+    ],
+    "category": "Pop Culture",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: Disney+ hosts Marvel series that connect to the larger movie universe.",
+    "englishExpression": "Choose \"Disney+\" because Disney+ hosts Marvel series that connect to the larger movie universe.; other options do not match this question.",
+    "knowledgeLevel": "General culture",
+    "optionsJapanese": [
+      "Disney+",
+      "Netflix",
+      "HBO Max",
+      "Amazon Prime"
+    ]
+  },
+  {
+    "question": "Which movie won the Academy Award for Best Picture in 1994?",
+    "questionJapanese": "1994年のアカデミー賞作品賞を受賞した映画はどれですか？",
+    "options": [
+      "Forrest Gump",
+      "Pulp Fiction",
+      "The Shawshank Redemption",
+      "Quiz Show"
+    ],
+    "answer": "Forrest Gump",
+    "explanation": "Forrest Gump won Best Picture at the 1994 Academy Awards.",
+    "explanationJapanese": "「フォレスト・ガンプ」が1994年のアカデミー賞作品賞を受賞しました。",
+    "vocabulary": [
+      {
+        "word": "Academy Award",
+        "meaning": "アカデミー賞",
+        "partOfSpeech": "general",
+        "example": "Use 'Academy Award' in context: Academy Award relates to this topic."
+      },
+      {
+        "word": "Best Picture",
+        "meaning": "作品賞",
+        "partOfSpeech": "general",
+        "example": "Use 'Best Picture' in context: Best Picture relates to this topic."
+      }
+    ],
+    "category": "Pop Culture",
+    "difficulty": "Hard",
+    "knowledgeInsight": "Key takeaway: Forrest Gump won Best Picture at the 1994 Academy Awards.",
+    "englishExpression": "Choose \"Forrest Gump\" because Forrest Gump won Best Picture at the 1994 Academy Awards.; other options do not match this question.",
+    "knowledgeLevel": "General culture",
+    "optionsJapanese": [
+      "Forrest Gump",
+      "Pulp Fiction",
+      "The Shawshank Redemption",
+      "Quiz Show"
+    ]
+  },
+  {
+    "question": "Which band released the album Abbey Road?",
+    "questionJapanese": "アルバム『アビイ・ロード』をリリースしたバンドはどれですか？",
+    "options": [
+      "The Beatles",
+      "The Rolling Stones",
+      "Pink Floyd",
+      "Queen"
+    ],
+    "answer": "The Beatles",
+    "explanation": "The Beatles released Abbey Road in 1969.",
+    "explanationJapanese": "ザ・ビートルズが1969年に『アビイ・ロード』をリリースしました。",
+    "vocabulary": [
+      {
+        "word": "album",
+        "meaning": "アルバム",
+        "partOfSpeech": "general",
+        "example": "Use 'album' in context: album relates to this topic."
+      },
+      {
+        "word": "band",
+        "meaning": "バンド",
+        "partOfSpeech": "general",
+        "example": "Use 'band' in context: band relates to this topic."
+      }
+    ],
+    "category": "Pop Culture",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: The Beatles released Abbey Road in 1969.",
+    "englishExpression": "Choose \"The Beatles\" because The Beatles released Abbey Road in 1969.; other options do not match this question.",
+    "knowledgeLevel": "General culture",
+    "optionsJapanese": [
+      "The Beatles",
+      "The Rolling Stones",
+      "Pink Floyd",
+      "Queen"
+    ]
+  },
+  {
+    "question": "Which streaming platform released the series Stranger Things?",
+    "questionJapanese": "『ストレンジャー・シングス』を配信しているストリーミングサービスはどれですか？",
+    "options": [
+      "Netflix",
+      "Amazon Prime Video",
+      "Hulu",
+      "Disney+"
+    ],
+    "answer": "Netflix",
+    "explanation": "Stranger Things is released on Netflix.",
+    "explanationJapanese": "『ストレンジャー・シングス』はNetflixで配信されています。",
+    "vocabulary": [
+      {
+        "word": "streaming",
+        "meaning": "ストリーミング",
+        "partOfSpeech": "general",
+        "example": "Use 'streaming' in context: streaming relates to this topic."
+      },
+      {
+        "word": "series",
+        "meaning": "シリーズ",
+        "partOfSpeech": "general",
+        "example": "Use 'series' in context: series relates to this topic."
+      }
+    ],
+    "category": "Pop Culture",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: Stranger Things is released on Netflix.",
+    "englishExpression": "Choose \"Netflix\" because Stranger Things is released on Netflix.; other options do not match this question.",
+    "knowledgeLevel": "General culture",
+    "optionsJapanese": [
+      "Netflix",
+      "Amazon Prime Video",
+      "Hulu",
+      "Disney+"
+    ]
+  },
+  {
+    "question": "Who is the creator of the Star Wars franchise?",
+    "questionJapanese": "スター・ウォーズを生み出したのは誰ですか？",
+    "options": [
+      "George Lucas",
+      "Steven Spielberg",
+      "James Cameron",
+      "Christopher Nolan"
+    ],
+    "answer": "George Lucas",
+    "explanation": "George Lucas created the Star Wars franchise.",
+    "explanationJapanese": "ジョージ・ルーカスがスター・ウォーズを生み出しました。",
+    "vocabulary": [
+      {
+        "word": "franchise",
+        "meaning": "シリーズ",
+        "partOfSpeech": "general",
+        "example": "Use 'franchise' in context: franchise relates to this topic."
+      },
+      {
+        "word": "director",
+        "meaning": "監督",
+        "partOfSpeech": "general",
+        "example": "Use 'director' in context: director relates to this topic."
+      }
+    ],
+    "category": "Pop Culture",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: George Lucas created the Star Wars franchise.",
+    "englishExpression": "Choose \"George Lucas\" because George Lucas created the Star Wars franchise.; other options do not match this question.",
+    "knowledgeLevel": "General culture",
+    "optionsJapanese": [
+      "George Lucas",
+      "Steven Spielberg",
+      "James Cameron",
+      "Christopher Nolan"
+    ]
+  },
+  {
+    "question": "Which singer is known as the King of Pop?",
+    "questionJapanese": "キング・オブ・ポップとして知られる歌手は誰ですか？",
+    "options": [
+      "Michael Jackson",
+      "Elvis Presley",
+      "Prince",
+      "Madonna"
+    ],
+    "answer": "Michael Jackson",
+    "explanation": "Michael Jackson is called the King of Pop.",
+    "explanationJapanese": "マイケル・ジャクソンはキング・オブ・ポップと呼ばれます。",
+    "vocabulary": [
+      {
+        "word": "pop",
+        "meaning": "ポップ",
+        "partOfSpeech": "general",
+        "example": "Use 'pop' in context: pop relates to this topic."
+      },
+      {
+        "word": "singer",
+        "meaning": "歌手",
+        "partOfSpeech": "general",
+        "example": "Use 'singer' in context: singer relates to this topic."
+      }
+    ],
+    "category": "Pop Culture",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: Michael Jackson is called the King of Pop.",
+    "englishExpression": "Choose \"Michael Jackson\" because Michael Jackson is called the King of Pop.; other options do not match this question.",
+    "knowledgeLevel": "General culture",
+    "optionsJapanese": [
+      "Michael Jackson",
+      "Elvis Presley",
+      "Prince",
+      "Madonna"
+    ]
+  },
+  {
+    "question": "Which TV show features the character Sherlock Holmes in modern London?",
+    "questionJapanese": "現代ロンドンを舞台にシャーロック・ホームズが登場するドラマはどれですか？",
+    "options": [
+      "Sherlock",
+      "House of Cards",
+      "Breaking Bad",
+      "Suits"
+    ],
+    "answer": "Sherlock",
+    "explanation": "Sherlock places the Holmes stories in modern London.",
+    "explanationJapanese": "『SHERLOCK/シャーロック』はホームズの物語を現代ロンドンに置き換えています。",
+    "vocabulary": [
+      {
+        "word": "detective",
+        "meaning": "探偵",
+        "partOfSpeech": "general",
+        "example": "Use 'detective' in context: detective relates to this topic."
+      },
+      {
+        "word": "London",
+        "meaning": "ロンドン",
+        "partOfSpeech": "general",
+        "example": "Use 'London' in context: London relates to this topic."
+      }
+    ],
+    "category": "Pop Culture",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: Sherlock places the Holmes stories in modern London.",
+    "englishExpression": "Choose \"Sherlock\" because Sherlock places the Holmes stories in modern London.; other options do not match this question.",
+    "knowledgeLevel": "General culture",
+    "optionsJapanese": [
+      "Sherlock",
+      "House of Cards",
+      "Breaking Bad",
+      "Suits"
+    ]
+  },
+  {
+    "question": "Which animated film features the song Let It Go?",
+    "questionJapanese": "『レット・イット・ゴー』が登場するアニメ映画はどれですか？",
+    "options": [
+      "Frozen",
+      "Moana",
+      "Tangled",
+      "Coco"
+    ],
+    "answer": "Frozen",
+    "explanation": "Let It Go is featured in the film Frozen.",
+    "explanationJapanese": "「レット・イット・ゴー」は映画『アナと雪の女王』の劇中歌です。",
+    "vocabulary": [
+      {
+        "word": "animation",
+        "meaning": "アニメーション",
+        "partOfSpeech": "general",
+        "example": "Use 'animation' in context: animation relates to this topic."
+      },
+      {
+        "word": "song",
+        "meaning": "曲",
+        "partOfSpeech": "general",
+        "example": "Use 'song' in context: song relates to this topic."
+      }
+    ],
+    "category": "Pop Culture",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: Let It Go is featured in the film Frozen.",
+    "englishExpression": "Choose \"Frozen\" because Let It Go is featured in the film Frozen.; other options do not match this question.",
+    "knowledgeLevel": "General culture",
+    "optionsJapanese": [
+      "Frozen",
+      "Moana",
+      "Tangled",
+      "Coco"
+    ]
+  },
+  {
+    "category": "Pop Culture",
+    "difficulty": "Medium",
+    "question": "Which film series features the wizarding school Hogwarts?",
+    "questionJapanese": "ホグワーツ魔法学校が登場する映画シリーズはどれですか？",
+    "options": [
+      "Harry Potter",
+      "The Lord of the Rings",
+      "Fantastic Beasts",
+      "Percy Jackson"
+    ],
+    "answer": "Harry Potter",
+    "explanation": "Hogwarts is the main magical school in the Harry Potter film series.",
+    "explanationJapanese": "ホグワーツは映画「ハリー・ポッター」シリーズの主要な魔法学校です。",
+    "vocabulary": [
+      {
+        "word": "wizard",
+        "meaning": "魔法使い",
+        "partOfSpeech": "general",
+        "example": "Use 'wizard' in context: wizard relates to this topic."
+      },
+      {
+        "word": "school",
+        "meaning": "学校",
+        "partOfSpeech": "general",
+        "example": "Use 'school' in context: school relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Hogwarts is the main magical school in the Harry Potter film series.",
+    "englishExpression": "Choose \"Harry Potter\" because Hogwarts is the main magical school in the Harry Potter film series.; other options do not match this question.",
+    "knowledgeLevel": "General culture",
+    "optionsJapanese": [
+      "Harry Potter",
+      "The Lord of the Rings",
+      "Fantastic Beasts",
+      "Percy Jackson"
+    ]
+  },
+  {
+    "category": "Pop Culture",
+    "difficulty": "Medium",
+    "question": "Which franchise features the character Indiana Jones?",
+    "questionJapanese": "インディ・ジョーンズが登場するフランチャイズはどれですか？",
+    "options": [
+      "Indiana Jones",
+      "Mission: Impossible",
+      "Die Hard",
+      "Pirates of the Caribbean"
+    ],
+    "answer": "Indiana Jones",
+    "explanation": "Indiana Jones is the main character of the Indiana Jones film series.",
+    "explanationJapanese": "インディ・ジョーンズは映画シリーズ「インディ・ジョーンズ」の主人公です。",
+    "vocabulary": [
+      {
+        "word": "adventurer",
+        "meaning": "冒険家",
+        "partOfSpeech": "general",
+        "example": "Use 'adventurer' in context: adventurer relates to this topic."
+      },
+      {
+        "word": "franchise",
+        "meaning": "シリーズ",
+        "partOfSpeech": "general",
+        "example": "Use 'franchise' in context: franchise relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Indiana Jones is the main character of the Indiana Jones film series.",
+    "englishExpression": "Choose \"Indiana Jones\" because Indiana Jones is the main character of the Indiana Jones film series.; other options do not match this question.",
+    "knowledgeLevel": "General culture",
+    "optionsJapanese": [
+      "Indiana Jones",
+      "Mission: Impossible",
+      "Die Hard",
+      "Pirates of the Caribbean"
+    ]
+  },
+  {
+    "category": "Pop Culture",
+    "difficulty": "Easy",
+    "question": "Which singer performed the hit song Thriller?",
+    "questionJapanese": "ヒット曲「スリラー」を歌った歌手は誰ですか？",
+    "options": [
+      "Michael Jackson",
+      "Elton John",
+      "Freddie Mercury",
+      "David Bowie"
+    ],
+    "answer": "Michael Jackson",
+    "explanation": "Michael Jackson performed the hit song Thriller.",
+    "explanationJapanese": "マイケル・ジャクソンが「スリラー」を歌いました。",
+    "vocabulary": [
+      {
+        "word": "thriller",
+        "meaning": "スリラー",
+        "partOfSpeech": "general",
+        "example": "Use 'thriller' in context: thriller relates to this topic."
+      },
+      {
+        "word": "singer",
+        "meaning": "歌手",
+        "partOfSpeech": "general",
+        "example": "Use 'singer' in context: singer relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Michael Jackson performed the hit song Thriller.",
+    "englishExpression": "Choose \"Michael Jackson\" because Michael Jackson performed the hit song Thriller.; other options do not match this question.",
+    "knowledgeLevel": "General culture",
+    "optionsJapanese": [
+      "Michael Jackson",
+      "Elton John",
+      "Freddie Mercury",
+      "David Bowie"
+    ]
+  },
+  {
+    "category": "Pop Culture",
+    "difficulty": "Easy",
+    "question": "Which series features Hobbits and the One Ring?",
+    "questionJapanese": "ホビットと一つの指輪が登場するシリーズはどれですか？",
+    "options": [
+      "The Lord of the Rings",
+      "Harry Potter",
+      "Game of Thrones",
+      "Narnia"
+    ],
+    "answer": "The Lord of the Rings",
+    "explanation": "The Lord of the Rings features Hobbits and the One Ring.",
+    "explanationJapanese": "ホビットと一つの指輪は「ロード・オブ・ザ・リング」に登場します。",
+    "vocabulary": [
+      {
+        "word": "hobbit",
+        "meaning": "ホビット",
+        "partOfSpeech": "general",
+        "example": "Use 'hobbit' in context: hobbit relates to this topic."
+      },
+      {
+        "word": "ring",
+        "meaning": "指輪",
+        "partOfSpeech": "general",
+        "example": "Use 'ring' in context: ring relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: The Lord of the Rings features Hobbits and the One Ring.",
+    "englishExpression": "Choose \"The Lord of the Rings\" because The Lord of the Rings features Hobbits and the One Ring.; other options do not match this question.",
+    "knowledgeLevel": "General culture",
+    "optionsJapanese": [
+      "The Lord of the Rings",
+      "Harry Potter",
+      "Game of Thrones",
+      "Narnia"
+    ]
+  },
+  {
+    "category": "Pop Culture",
+    "difficulty": "Medium",
+    "question": "Which streaming service releases The Mandalorian?",
+    "questionJapanese": "『マンダロリアン』を配信しているサービスはどれですか？",
+    "options": [
+      "Disney+",
+      "Netflix",
+      "Hulu",
+      "Amazon Prime Video"
+    ],
+    "optionsJapanese": [
+      "ディズニープラス",
+      "ネットフリックス",
+      "フールー",
+      "アマゾンプライムビデオ"
+    ],
+    "answer": "Disney+",
+    "explanation": "The Mandalorian streams on Disney+.",
+    "explanationJapanese": "『マンダロリアン』はディズニープラスで配信されています。",
+    "vocabulary": [
+      {
+        "word": "streaming",
+        "meaning": "配信",
+        "partOfSpeech": "general",
+        "example": "Use 'streaming' in context: streaming relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: The Mandalorian streams on Disney+.",
+    "englishExpression": "Choose \"Disney+\" because The Mandalorian streams on Disney+.; other options do not match this question.",
+    "knowledgeLevel": "General culture"
+  },
+  {
+    "category": "Pop Culture",
+    "difficulty": "Easy",
+    "question": "Which singer released the album 1989?",
+    "questionJapanese": "アルバム「1989」をリリースした歌手は誰ですか？",
+    "options": [
+      "Taylor Swift",
+      "Adele",
+      "Ariana Grande",
+      "Billie Eilish"
+    ],
+    "optionsJapanese": [
+      "テイラー・スウィフト",
+      "アデル",
+      "アリアナ・グランデ",
+      "ビリー・アイリッシュ"
+    ],
+    "answer": "Taylor Swift",
+    "explanation": "Taylor Swift released the album 1989.",
+    "explanationJapanese": "テイラー・スウィフトがアルバム「1989」をリリースしました。",
+    "vocabulary": [
+      {
+        "word": "album",
+        "meaning": "アルバム",
+        "partOfSpeech": "general",
+        "example": "Use 'album' in context: album relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Taylor Swift released the album 1989.",
+    "englishExpression": "Choose \"Taylor Swift\" because Taylor Swift released the album 1989.; other options do not match this question.",
+    "knowledgeLevel": "General culture"
+  },
+  {
+    "category": "Pop Culture",
+    "difficulty": "Medium",
+    "question": "Which franchise features Wakanda?",
+    "questionJapanese": "ワカンダが登場するフランチャイズはどれですか？",
+    "options": [
+      "Black Panther",
+      "Star Wars",
+      "Avatar",
+      "Jurassic Park"
+    ],
+    "optionsJapanese": [
+      "ブラックパンサー",
+      "スター・ウォーズ",
+      "アバター",
+      "ジュラシック・パーク"
+    ],
+    "answer": "Black Panther",
+    "explanation": "Wakanda is the fictional nation in Black Panther.",
+    "explanationJapanese": "ワカンダは「ブラックパンサー」に登場する架空の国です。",
+    "vocabulary": [
+      {
+        "word": "franchise",
+        "meaning": "シリーズ",
+        "partOfSpeech": "general",
+        "example": "Use 'franchise' in context: franchise relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Wakanda is the fictional nation in Black Panther.",
+    "englishExpression": "Choose \"Black Panther\" because Wakanda is the fictional nation in Black Panther.; other options do not match this question.",
+    "knowledgeLevel": "General culture"
+  },
+  {
+    "category": "Pop Culture",
+    "difficulty": "Medium",
+    "question": "Which video game series features Master Chief?",
+    "questionJapanese": "マスターチーフが登場するゲームシリーズはどれですか？",
+    "options": [
+      "Halo",
+      "Call of Duty",
+      "Fortnite",
+      "Overwatch"
+    ],
+    "optionsJapanese": [
+      "ヘイロー",
+      "コールオブデューティ",
+      "フォートナイト",
+      "オーバーウォッチ"
+    ],
+    "answer": "Halo",
+    "explanation": "Master Chief is the protagonist of the Halo series.",
+    "explanationJapanese": "マスターチーフは「ヘイロー」シリーズの主人公です。",
+    "vocabulary": [
+      {
+        "word": "protagonist",
+        "meaning": "主人公",
+        "partOfSpeech": "general",
+        "example": "Use 'protagonist' in context: protagonist relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Master Chief is the protagonist of the Halo series.",
+    "englishExpression": "Choose \"Halo\" because Master Chief is the protagonist of the Halo series.; other options do not match this question.",
+    "knowledgeLevel": "General culture"
+  },
+  {
+    "category": "Pop Culture",
+    "difficulty": "Easy",
+    "question": "Which movie features a DeLorean time machine?",
+    "questionJapanese": "デロリアンのタイムマシンが登場する映画はどれですか？",
+    "options": [
+      "Back to the Future",
+      "Terminator",
+      "Inception",
+      "Interstellar"
+    ],
+    "optionsJapanese": [
+      "バック・トゥ・ザ・フューチャー",
+      "ターミネーター",
+      "インセプション",
+      "インターステラー"
+    ],
+    "answer": "Back to the Future",
+    "explanation": "Back to the Future features a DeLorean time machine.",
+    "explanationJapanese": "デロリアンのタイムマシンは「バック・トゥ・ザ・フューチャー」に登場します。",
+    "vocabulary": [
+      {
+        "word": "time machine",
+        "meaning": "タイムマシン",
+        "partOfSpeech": "general",
+        "example": "Use 'time machine' in context: time machine relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Back to the Future features a DeLorean time machine.",
+    "englishExpression": "Choose \"Back to the Future\" because Back to the Future features a DeLorean time machine.; other options do not match this question.",
+    "knowledgeLevel": "General culture"
+  },
+  {
+    "category": "Pop Culture",
+    "difficulty": "Easy",
+    "question": "Which K-pop group released Dynamite?",
+    "questionJapanese": "DynamiteをリリースしたK-popグループはどれですか？",
+    "options": [
+      "BTS",
+      "Blackpink",
+      "Twice",
+      "EXO"
+    ],
+    "optionsJapanese": [
+      "BTS",
+      "ブラックピンク",
+      "トゥワイス",
+      "EXO"
+    ],
+    "answer": "BTS",
+    "explanation": "BTS released the song Dynamite.",
+    "explanationJapanese": "BTSが「Dynamite」をリリースしました。",
+    "vocabulary": [
+      {
+        "word": "BTS",
+        "meaning": "BTS",
+        "partOfSpeech": "general",
+        "example": "Use 'BTS' in context: BTS relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: BTS released the song Dynamite.",
+    "englishExpression": "Choose \"BTS\" because BTS released the song Dynamite.; other options do not match this question.",
+    "knowledgeLevel": "General culture"
+  },
+  {
+    "category": "Pop Culture",
+    "difficulty": "Medium",
+    "question": "Which TV series features Walter White turning to cooking meth?",
+    "questionJapanese": "ウォルター・ホワイトがメス製造に手を染めるドラマはどれですか？",
+    "options": [
+      "Breaking Bad",
+      "Better Call Saul",
+      "The Wire",
+      "Ozark"
+    ],
+    "optionsJapanese": [
+      "ブレイキング・バッド",
+      "ベター・コール・ソウル",
+      "ザ・ワイヤー",
+      "オザーク"
+    ],
+    "answer": "Breaking Bad",
+    "explanation": "Breaking Bad follows Walter White making meth.",
+    "explanationJapanese": "「ブレイキング・バッド」はウォルター・ホワイトがメスを作る物語です。",
+    "vocabulary": [
+      {
+        "word": "meth",
+        "meaning": "メス",
+        "partOfSpeech": "general",
+        "example": "Use 'meth' in context: meth relates to this topic."
+      },
+      {
+        "word": "Breaking Bad",
+        "meaning": "ブレイキング・バッド",
+        "partOfSpeech": "general",
+        "example": "Use 'Breaking Bad' in context: Breaking Bad relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Breaking Bad follows Walter White making meth.",
+    "englishExpression": "Choose \"Breaking Bad\" because Breaking Bad follows Walter White making meth.; other options do not match this question.",
+    "knowledgeLevel": "General culture"
+  },
+  {
+    "category": "Pop Culture",
+    "difficulty": "Medium",
+    "question": "Which animated series features the town of Springfield?",
+    "questionJapanese": "スプリングフィールドの町が舞台のアニメはどれですか？",
+    "options": [
+      "The Simpsons",
+      "Family Guy",
+      "South Park",
+      "Rick and Morty"
+    ],
+    "optionsJapanese": [
+      "ザ・シンプソンズ",
+      "ファミリー・ガイ",
+      "サウスパーク",
+      "リック・アンド・モーティ"
+    ],
+    "answer": "The Simpsons",
+    "explanation": "The Simpsons is set in Springfield.",
+    "explanationJapanese": "「ザ・シンプソンズ」はスプリングフィールドが舞台です。",
+    "vocabulary": [
+      {
+        "word": "The Simpsons",
+        "meaning": "ザ・シンプソンズ",
+        "partOfSpeech": "general",
+        "example": "Use 'The Simpsons' in context: The Simpsons relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: The Simpsons is set in Springfield.",
+    "englishExpression": "Choose \"The Simpsons\" because The Simpsons is set in Springfield.; other options do not match this question.",
+    "knowledgeLevel": "General culture"
+  },
+  {
+    "category": "Pop Culture",
+    "difficulty": "Easy",
+    "question": "Which singer is known as the Queen of Pop?",
+    "questionJapanese": "クイーン・オブ・ポップとして知られる歌手は誰ですか？",
+    "options": [
+      "Madonna",
+      "Taylor Swift",
+      "Beyoncé",
+      "Lady Gaga"
+    ],
+    "optionsJapanese": [
+      "マドンナ",
+      "テイラー・スウィフト",
+      "ビヨンセ",
+      "レディー・ガガ"
+    ],
+    "answer": "Madonna",
+    "explanation": "Madonna is often called the Queen of Pop.",
+    "explanationJapanese": "マドンナはクイーン・オブ・ポップと呼ばれます。",
+    "vocabulary": [
+      {
+        "word": "Madonna",
+        "meaning": "マドンナ",
+        "partOfSpeech": "general",
+        "example": "Use 'Madonna' in context: Madonna relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Madonna is often called the Queen of Pop.",
+    "englishExpression": "Choose \"Madonna\" because Madonna is often called the Queen of Pop.; other options do not match this question.",
+    "knowledgeLevel": "General culture"
+  },
+  {
+    "category": "Pop Culture",
+    "difficulty": "Medium",
+    "question": "Which franchise features the character Master Yoda?",
+    "questionJapanese": "ヨーダが登場するフランチャイズはどれですか？",
+    "options": [
+      "Star Wars",
+      "Star Trek",
+      "Harry Potter",
+      "Lord of the Rings"
+    ],
+    "optionsJapanese": [
+      "スター・ウォーズ",
+      "スター・トレック",
+      "ハリー・ポッター",
+      "ロード・オブ・ザ・リング"
+    ],
+    "answer": "Star Wars",
+    "explanation": "Yoda is a key character in Star Wars.",
+    "explanationJapanese": "ヨーダは「スター・ウォーズ」の重要キャラクターです。",
+    "vocabulary": [
+      {
+        "word": "Yoda",
+        "meaning": "ヨーダ",
+        "partOfSpeech": "general",
+        "example": "Use 'Yoda' in context: Yoda relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Yoda is a key character in Star Wars.",
+    "englishExpression": "Choose \"Star Wars\" because Yoda is a key character in Star Wars.; other options do not match this question.",
+    "knowledgeLevel": "General culture"
+  },
+  {
+    "category": "Pop Culture",
+    "difficulty": "Easy",
+    "question": "Which film features the song Circle of Life?",
+    "questionJapanese": "「サークル・オブ・ライフ」が登場する映画はどれですか？",
+    "options": [
+      "The Lion King",
+      "Frozen",
+      "Aladdin",
+      "Moana"
+    ],
+    "optionsJapanese": [
+      "ライオン・キング",
+      "アナと雪の女王",
+      "アラジン",
+      "モアナ"
+    ],
+    "answer": "The Lion King",
+    "explanation": "Circle of Life is featured in The Lion King.",
+    "explanationJapanese": "「サークル・オブ・ライフ」は「ライオン・キング」で歌われます。",
+    "vocabulary": [
+      {
+        "word": "Circle of Life",
+        "meaning": "サークル・オブ・ライフ",
+        "partOfSpeech": "general",
+        "example": "Use 'Circle of Life' in context: Circle of Life relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Circle of Life is featured in The Lion King.",
+    "englishExpression": "Choose \"The Lion King\" because Circle of Life is featured in The Lion King.; other options do not match this question.",
+    "knowledgeLevel": "General culture"
+  },
+  {
+    "category": "Pop Culture",
+    "difficulty": "Medium",
+    "question": "Which artist created the character Spider-Man?",
+    "questionJapanese": "スパイダーマンを生み出した作家は誰ですか？",
+    "options": [
+      "Stan Lee and Steve Ditko",
+      "Bob Kane",
+      "Alan Moore",
+      "Frank Miller"
+    ],
+    "optionsJapanese": [
+      "スタン・リーとスティーブ・ディッコ",
+      "ボブ・ケイン",
+      "アラン・ムーア",
+      "フランク・ミラー"
+    ],
+    "answer": "Stan Lee and Steve Ditko",
+    "explanation": "Stan Lee and Steve Ditko created Spider-Man.",
+    "explanationJapanese": "スタン・リーとスティーブ・ディッコがスパイダーマンを作りました。",
+    "vocabulary": [
+      {
+        "word": "Spider-Man",
+        "meaning": "スパイダーマン",
+        "partOfSpeech": "general",
+        "example": "Use 'Spider-Man' in context: Spider-Man relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Stan Lee and Steve Ditko created Spider-Man.",
+    "englishExpression": "Choose \"Stan Lee and Steve Ditko\" because Stan Lee and Steve Ditko created Spider-Man.; other options do not match this question.",
+    "knowledgeLevel": "General culture"
+  },
+  {
+    "category": "Pop Culture",
+    "difficulty": "Easy",
+    "question": "Which band released Bohemian Rhapsody?",
+    "questionJapanese": "「ボヘミアン・ラプソディ」をリリースしたバンドはどれですか？",
+    "options": [
+      "Queen",
+      "The Beatles",
+      "Pink Floyd",
+      "ABBA"
+    ],
+    "optionsJapanese": [
+      "クイーン",
+      "ビートルズ",
+      "ピンク・フロイド",
+      "アバ"
+    ],
+    "answer": "Queen",
+    "explanation": "Queen released Bohemian Rhapsody.",
+    "explanationJapanese": "「ボヘミアン・ラプソディ」はクイーンの曲です。",
+    "vocabulary": [
+      {
+        "word": "Queen",
+        "meaning": "クイーン",
+        "partOfSpeech": "general",
+        "example": "Use 'Queen' in context: Queen relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Queen released Bohemian Rhapsody.",
+    "englishExpression": "Choose \"Queen\" because Queen released Bohemian Rhapsody.; other options do not match this question.",
+    "knowledgeLevel": "General culture"
+  },
+  {
+    "category": "Pop Culture",
+    "difficulty": "Medium",
+    "question": "Which show features the Upside Down and Demogorgon?",
+    "questionJapanese": "アップサイドダウンとデモゴルゴンが登場するドラマはどれですか？",
+    "options": [
+      "Stranger Things",
+      "Lost",
+      "The X-Files",
+      "The Witcher"
+    ],
+    "optionsJapanese": [
+      "ストレンジャー・シングス",
+      "ロスト",
+      "X-ファイル",
+      "ウィッチャー"
+    ],
+    "answer": "Stranger Things",
+    "explanation": "The Upside Down and Demogorgon appear in Stranger Things.",
+    "explanationJapanese": "アップサイドダウンとデモゴルゴンは「ストレンジャー・シングス」に登場します。",
+    "vocabulary": [
+      {
+        "word": "Upside Down",
+        "meaning": "アップサイドダウン",
+        "partOfSpeech": "general",
+        "example": "Use 'Upside Down' in context: Upside Down relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: The Upside Down and Demogorgon appear in Stranger Things.",
+    "englishExpression": "Choose \"Stranger Things\" because The Upside Down and Demogorgon appear in Stranger Things.; other options do not match this question.",
+    "knowledgeLevel": "General culture"
+  },
+  {
+    "category": "Pop Culture",
+    "difficulty": "Medium",
+    "question": "Which singer is known as the King of Reggae?",
+    "questionJapanese": "キング・オブ・レゲエとして知られる歌手は誰ですか？",
+    "options": [
+      "Bob Marley",
+      "Peter Tosh",
+      "Jimmy Cliff",
+      "Toots Hibbert"
+    ],
+    "optionsJapanese": [
+      "ボブ・マーリー",
+      "ピーター・トッシュ",
+      "ジミー・クリフ",
+      "トゥーツ・ヒバート"
+    ],
+    "answer": "Bob Marley",
+    "explanation": "Bob Marley is called the King of Reggae.",
+    "explanationJapanese": "ボブ・マーリーはキング・オブ・レゲエと呼ばれます。",
+    "vocabulary": [
+      {
+        "word": "reggae",
+        "meaning": "レゲエ",
+        "partOfSpeech": "general",
+        "example": "Use 'reggae' in context: reggae relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Bob Marley is called the King of Reggae.",
+    "englishExpression": "Choose \"Bob Marley\" because Bob Marley is called the King of Reggae.; other options do not match this question.",
+    "knowledgeLevel": "General culture"
+  },
+  {
+    "category": "Pop Culture",
+    "difficulty": "Medium",
+    "question": "Which film series features Agent 007?",
+    "questionJapanese": "エージェント007が登場する映画シリーズはどれですか？",
+    "options": [
+      "James Bond",
+      "Mission: Impossible",
+      "Bourne",
+      "Kingsman"
+    ],
+    "optionsJapanese": [
+      "ジェームズ・ボンド",
+      "ミッション：インポッシブル",
+      "ボーン",
+      "キングスマン"
+    ],
+    "answer": "James Bond",
+    "explanation": "Agent 007 is James Bond.",
+    "explanationJapanese": "エージェント007はジェームズ・ボンドです。",
+    "vocabulary": [
+      {
+        "word": "James Bond",
+        "meaning": "ジェームズ・ボンド",
+        "partOfSpeech": "general",
+        "example": "Use 'James Bond' in context: James Bond relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Agent 007 is James Bond.",
+    "englishExpression": "Choose \"James Bond\" because Agent 007 is James Bond.; other options do not match this question.",
+    "knowledgeLevel": "General culture"
+  },
+  {
+    "category": "Pop Culture",
+    "difficulty": "Hard",
+    "question": "Which director created Spirited Away?",
+    "questionJapanese": "「千と千尋の神隠し」を制作した監督は誰ですか？",
+    "options": [
+      "Hayao Miyazaki",
+      "Makoto Shinkai",
+      "Isao Takahata",
+      "Mamoru Hosoda"
+    ],
+    "optionsJapanese": [
+      "宮崎駿",
+      "新海誠",
+      "高畑勲",
+      "細田守"
+    ],
+    "answer": "Hayao Miyazaki",
+    "explanation": "Hayao Miyazaki directed Spirited Away.",
+    "explanationJapanese": "「千と千尋の神隠し」は宮崎駿が監督しました。",
+    "vocabulary": [
+      {
+        "word": "Spirited Away",
+        "meaning": "千と千尋の神隠し",
+        "partOfSpeech": "general",
+        "example": "Use 'Spirited Away' in context: Spirited Away relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Hayao Miyazaki directed Spirited Away.",
+    "englishExpression": "Choose \"Hayao Miyazaki\" because Hayao Miyazaki directed Spirited Away.; other options do not match this question.",
+    "knowledgeLevel": "General culture"
+  },
+  {
+    "category": "Pop Culture",
+    "difficulty": "Hard",
+    "question": "Which graphic novel writer created Watchmen?",
+    "questionJapanese": "「ウォッチメン」を生んだグラフィックノベル作家は誰ですか？",
+    "options": [
+      "Alan Moore",
+      "Frank Miller",
+      "Neil Gaiman",
+      "Grant Morrison"
+    ],
+    "optionsJapanese": [
+      "アラン・ムーア",
+      "フランク・ミラー",
+      "ニール・ゲイマン",
+      "グラント・モリソン"
+    ],
+    "answer": "Alan Moore",
+    "explanation": "Alan Moore wrote Watchmen.",
+    "explanationJapanese": "「ウォッチメン」はアラン・ムーアが執筆しました。",
+    "vocabulary": [
+      {
+        "word": "Watchmen",
+        "meaning": "ウォッチメン",
+        "partOfSpeech": "general",
+        "example": "Use 'Watchmen' in context: Watchmen relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Alan Moore wrote Watchmen.",
+    "englishExpression": "Choose \"Alan Moore\" because Alan Moore wrote Watchmen.; other options do not match this question.",
+    "knowledgeLevel": "General culture"
+  },
+  {
+    "category": "Pop Culture",
+    "difficulty": "Easy",
+    "question": "Which movie features the phrase “May the Force be with you”?",
+    "questionJapanese": "「フォースと共にあらんことを」が登場する映画はどれですか？",
+    "options": [
+      "Star Wars",
+      "Star Trek",
+      "Matrix",
+      "Alien"
+    ],
+    "optionsJapanese": [
+      "スター・ウォーズ",
+      "スター・トレック",
+      "マトリックス",
+      "エイリアン"
+    ],
+    "answer": "Star Wars",
+    "explanation": "“May the Force be with you” is from Star Wars.",
+    "explanationJapanese": "「フォースと共にあらんことを」はスター・ウォーズの台詞です。",
+    "vocabulary": [
+      {
+        "word": "Force",
+        "meaning": "フォース",
+        "partOfSpeech": "general",
+        "example": "Use 'Force' in context: Force relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: “May the Force be with you” is from Star Wars.",
+    "englishExpression": "Choose \"Star Wars\" because “May the Force be with you” is from Star Wars.; other options do not match this question.",
+    "knowledgeLevel": "General culture"
+  },
+  {
+    "category": "Pop Culture",
+    "difficulty": "Easy",
+    "question": "Which superhero is also known as the Dark Knight?",
+    "questionJapanese": "ダークナイトとして知られるスーパーヒーローは誰ですか？",
+    "options": [
+      "Batman",
+      "Superman",
+      "Iron Man",
+      "Spider-Man"
+    ],
+    "optionsJapanese": [
+      "バットマン",
+      "スーパーマン",
+      "アイアンマン",
+      "スパイダーマン"
+    ],
+    "answer": "Batman",
+    "explanation": "Batman is called the Dark Knight.",
+    "explanationJapanese": "バットマンはダークナイトと呼ばれます。",
+    "vocabulary": [
+      {
+        "word": "Batman",
+        "meaning": "バットマン",
+        "partOfSpeech": "general",
+        "example": "Use 'Batman' in context: Batman relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Batman is called the Dark Knight.",
+    "englishExpression": "Choose \"Batman\" because Batman is called the Dark Knight.; other options do not match this question.",
+    "knowledgeLevel": "General culture"
+  },
+  {
+    "category": "Pop Culture",
+    "difficulty": "Medium",
+    "question": "Which series is set in the Seven Kingdoms of Westeros?",
+    "questionJapanese": "七王国ウェスタロスが舞台のシリーズはどれですか？",
+    "options": [
+      "Game of Thrones",
+      "The Witcher",
+      "The Expanse",
+      "Wheel of Time"
+    ],
+    "optionsJapanese": [
+      "ゲーム・オブ・スローンズ",
+      "ウィッチャー",
+      "エクスパンス",
+      "時の車輪"
+    ],
+    "answer": "Game of Thrones",
+    "explanation": "Game of Thrones is set in Westeros.",
+    "explanationJapanese": "「ゲーム・オブ・スローンズ」はウェスタロスが舞台です。",
+    "vocabulary": [
+      {
+        "word": "Westeros",
+        "meaning": "ウェスタロス",
+        "partOfSpeech": "general",
+        "example": "Use 'Westeros' in context: Westeros relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Game of Thrones is set in Westeros.",
+    "englishExpression": "Choose \"Game of Thrones\" because Game of Thrones is set in Westeros.; other options do not match this question.",
+    "knowledgeLevel": "General culture"
+  },
+  {
+    "category": "Pop Culture",
+    "difficulty": "Medium",
+    "question": "Which artist sang Purple Rain?",
+    "questionJapanese": "「パープル・レイン」を歌ったアーティストは誰ですか？",
+    "options": [
+      "Prince",
+      "Michael Jackson",
+      "Madonna",
+      "Elton John"
+    ],
+    "optionsJapanese": [
+      "プリンス",
+      "マイケル・ジャクソン",
+      "マドンナ",
+      "エルトン・ジョン"
+    ],
+    "answer": "Prince",
+    "explanation": "Prince sang Purple Rain.",
+    "explanationJapanese": "「パープル・レイン」はプリンスが歌いました。",
+    "vocabulary": [
+      {
+        "word": "Purple Rain",
+        "meaning": "パープル・レイン",
+        "partOfSpeech": "general",
+        "example": "Use 'Purple Rain' in context: Purple Rain relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Prince sang Purple Rain.",
+    "englishExpression": "Choose \"Prince\" because Prince sang Purple Rain.; other options do not match this question.",
+    "knowledgeLevel": "General culture"
+  },
+  {
+    "category": "Pop Culture",
+    "difficulty": "Medium",
+    "question": "Which streaming platform debuted Squid Game?",
+    "questionJapanese": "「イカゲーム」を配信開始したプラットフォームはどれですか？",
+    "options": [
+      "Netflix",
+      "Disney+",
+      "HBO Max",
+      "Hulu"
+    ],
+    "optionsJapanese": [
+      "ネットフリックス",
+      "ディズニープラス",
+      "HBO Max",
+      "フールー"
+    ],
+    "answer": "Netflix",
+    "explanation": "Squid Game debuted on Netflix.",
+    "explanationJapanese": "「イカゲーム」はNetflixで配信されました。",
+    "vocabulary": [
+      {
+        "word": "Squid Game",
+        "meaning": "イカゲーム",
+        "partOfSpeech": "general",
+        "example": "Use 'Squid Game' in context: Squid Game relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Squid Game debuted on Netflix.",
+    "englishExpression": "Choose \"Netflix\" because Squid Game debuted on Netflix.; other options do not match this question.",
+    "knowledgeLevel": "General culture"
+  },
+  {
+    "category": "Pop Culture",
+    "difficulty": "Hard",
+    "question": "Which director made Pulp Fiction?",
+    "questionJapanese": "「パルプ・フィクション」を監督したのは誰ですか？",
+    "options": [
+      "Quentin Tarantino",
+      "Steven Spielberg",
+      "Christopher Nolan",
+      "James Cameron"
+    ],
+    "optionsJapanese": [
+      "クエンティン・タランティーノ",
+      "スティーブン・スピルバーグ",
+      "クリストファー・ノーラン",
+      "ジェームズ・キャメロン"
+    ],
+    "answer": "Quentin Tarantino",
+    "explanation": "Quentin Tarantino directed Pulp Fiction.",
+    "explanationJapanese": "「パルプ・フィクション」はクエンティン・タランティーノが監督しました。",
+    "vocabulary": [
+      {
+        "word": "Pulp Fiction",
+        "meaning": "パルプ・フィクション",
+        "partOfSpeech": "general",
+        "example": "Use 'Pulp Fiction' in context: Pulp Fiction relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Quentin Tarantino directed Pulp Fiction.",
+    "englishExpression": "Choose \"Quentin Tarantino\" because Quentin Tarantino directed Pulp Fiction.; other options do not match this question.",
+    "knowledgeLevel": "General culture"
+  },
+  {
+    "category": "Pop Culture",
+    "difficulty": "Hard",
+    "question": "Which manga/anime features the Survey Corps fighting Titans?",
+    "questionJapanese": "調査兵団が巨人と戦う作品はどれですか？",
+    "options": [
+      "Attack on Titan",
+      "Naruto",
+      "One Piece",
+      "Bleach"
+    ],
+    "optionsJapanese": [
+      "進撃の巨人",
+      "ナルト",
+      "ワンピース",
+      "ブリーチ"
+    ],
+    "answer": "Attack on Titan",
+    "explanation": "Attack on Titan features the Survey Corps vs Titans.",
+    "explanationJapanese": "調査兵団と巨人の戦いは「進撃の巨人」に登場します。",
+    "vocabulary": [
+      {
+        "word": "Attack on Titan",
+        "meaning": "進撃の巨人",
+        "partOfSpeech": "general",
+        "example": "Use 'Attack on Titan' in context: Attack on Titan relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Attack on Titan features the Survey Corps vs Titans.",
+    "englishExpression": "Choose \"Attack on Titan\" because Attack on Titan features the Survey Corps vs Titans.; other options do not match this question.",
+    "knowledgeLevel": "General culture"
+  },
+  {
+    "category": "Pop Culture",
+    "difficulty": "Hard",
+    "question": "Which cyberpunk anime is set in Neo-Tokyo with psychic powers?",
+    "questionJapanese": "ネオ東京を舞台に超能力が描かれるサイバーパンクアニメはどれですか？",
+    "options": [
+      "Akira",
+      "Ghost in the Shell",
+      "Cowboy Bebop",
+      "Trigun"
+    ],
+    "optionsJapanese": [
+      "AKIRA",
+      "攻殻機動隊",
+      "カウボーイビバップ",
+      "トライガン"
+    ],
+    "answer": "Akira",
+    "explanation": "Akira is set in Neo-Tokyo with psychic themes.",
+    "explanationJapanese": "「AKIRA」はネオ東京を舞台に超能力が描かれます。",
+    "vocabulary": [
+      {
+        "word": "Akira",
+        "meaning": "AKIRA",
+        "partOfSpeech": "general",
+        "example": "Use 'Akira' in context: Akira relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Akira is set in Neo-Tokyo with psychic themes.",
+    "englishExpression": "Choose \"Akira\" because Akira is set in Neo-Tokyo with psychic themes.; other options do not match this question.",
+    "knowledgeLevel": "General culture"
+  },
+  {
+    "category": "Pop Culture",
+    "difficulty": "Easy",
+    "question": "Which movie has a wizard boy named Harry?",
+    "questionJapanese": "ハリーという少年魔法使いが登場する映画はどれですか？",
+    "options": [
+      "Harry Potter",
+      "Star Wars",
+      "Twilight",
+      "Matrix"
+    ],
+    "optionsJapanese": [
+      "ハリー・ポッター",
+      "スター・ウォーズ",
+      "トワイライト",
+      "マトリックス"
+    ],
+    "answer": "Harry Potter",
+    "explanation": "Harry Potter features a boy wizard.",
+    "explanationJapanese": "ハリー・ポッターには少年魔法使いが登場します。",
+    "vocabulary": [
+      {
+        "word": "Harry Potter",
+        "meaning": "ハリー・ポッター",
+        "partOfSpeech": "general",
+        "example": "Use 'Harry Potter' in context: Harry Potter relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Harry Potter features a boy wizard.",
+    "englishExpression": "Choose \"Harry Potter\" because Harry Potter features a boy wizard.; other options do not match this question.",
+    "knowledgeLevel": "General culture"
+  },
+  {
+    "category": "Pop Culture",
+    "difficulty": "Easy",
+    "question": "Which superhero swings between buildings with webs?",
+    "questionJapanese": "クモの糸でビル間を移動するヒーローは誰ですか？",
+    "options": [
+      "Spider-Man",
+      "Batman",
+      "Superman",
+      "Hulk"
+    ],
+    "optionsJapanese": [
+      "スパイダーマン",
+      "バットマン",
+      "スーパーマン",
+      "ハルク"
+    ],
+    "answer": "Spider-Man",
+    "explanation": "Spider-Man swings with webs.",
+    "explanationJapanese": "スパイダーマンは糸で移動します。",
+    "vocabulary": [
+      {
+        "word": "web",
+        "meaning": "糸",
+        "partOfSpeech": "general",
+        "example": "Use 'web' in context: web relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Spider-Man swings with webs.",
+    "englishExpression": "Choose \"Spider-Man\" because Spider-Man swings with webs.; other options do not match this question.",
+    "knowledgeLevel": "General culture"
+  },
+  {
+    "category": "Pop Culture",
+    "difficulty": "Medium",
+    "question": "Which series is set in the Star Trek universe?",
+    "questionJapanese": "スター・トレックの世界を舞台にしたシリーズはどれですか？",
+    "options": [
+      "Star Trek",
+      "Star Wars",
+      "Battlestar Galactica",
+      "Firefly"
+    ],
+    "optionsJapanese": [
+      "スター・トレック",
+      "スター・ウォーズ",
+      "バトルスター・ギャラクティカ",
+      "ファイヤーフライ"
+    ],
+    "answer": "Star Trek",
+    "explanation": "Star Trek is set in its own universe.",
+    "explanationJapanese": "スター・トレックは独自の宇宙を舞台にしています。",
+    "vocabulary": [
+      {
+        "word": "Star Trek",
+        "meaning": "スター・トレック",
+        "partOfSpeech": "general",
+        "example": "Use 'Star Trek' in context: Star Trek relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Star Trek is set in its own universe.",
+    "englishExpression": "Choose \"Star Trek\" because Star Trek is set in its own universe.; other options do not match this question.",
+    "knowledgeLevel": "General culture"
+  },
+  {
+    "category": "Pop Culture",
+    "difficulty": "Medium",
+    "question": "Which singer is known as the King of Rock and Roll?",
+    "questionJapanese": "ロックの王様として知られる歌手は誰ですか？",
+    "options": [
+      "Elvis Presley",
+      "Prince",
+      "Bob Dylan",
+      "Bruno Mars"
+    ],
+    "optionsJapanese": [
+      "エルヴィス・プレスリー",
+      "プリンス",
+      "ボブ・ディラン",
+      "ブルーノ・マーズ"
+    ],
+    "answer": "Elvis Presley",
+    "explanation": "Elvis is the King of Rock and Roll.",
+    "explanationJapanese": "エルヴィスはロックの王様と呼ばれます。",
+    "vocabulary": [
+      {
+        "word": "Elvis Presley",
+        "meaning": "エルヴィス・プレスリー",
+        "partOfSpeech": "general",
+        "example": "Use 'Elvis Presley' in context: Elvis Presley relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Elvis is the King of Rock and Roll.",
+    "englishExpression": "Choose \"Elvis Presley\" because Elvis is the King of Rock and Roll.; other options do not match this question.",
+    "knowledgeLevel": "General culture"
+  },
+  {
+    "category": "Pop Culture",
+    "difficulty": "Medium",
+    "question": "Which streaming platform released The Crown?",
+    "questionJapanese": "「ザ・クラウン」を配信しているプラットフォームはどれですか？",
+    "options": [
+      "Netflix",
+      "Disney+",
+      "HBO Max",
+      "Hulu"
+    ],
+    "optionsJapanese": [
+      "ネットフリックス",
+      "ディズニープラス",
+      "HBO Max",
+      "フールー"
+    ],
+    "answer": "Netflix",
+    "explanation": "The Crown streams on Netflix.",
+    "explanationJapanese": "ザ・クラウンはNetflixで配信されています。",
+    "vocabulary": [
+      {
+        "word": "The Crown",
+        "meaning": "ザ・クラウン",
+        "partOfSpeech": "general",
+        "example": "Use 'The Crown' in context: The Crown relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: The Crown streams on Netflix.",
+    "englishExpression": "Choose \"Netflix\" because The Crown streams on Netflix.; other options do not match this question.",
+    "knowledgeLevel": "General culture"
+  },
+  {
+    "category": "Pop Culture",
+    "difficulty": "Hard",
+    "question": "Which anime features the Straw Hat Pirates?",
+    "questionJapanese": "麦わらの一味が登場するアニメはどれですか？",
+    "options": [
+      "One Piece",
+      "Bleach",
+      "Naruto",
+      "Dragon Ball"
+    ],
+    "optionsJapanese": [
+      "ワンピース",
+      "ブリーチ",
+      "ナルト",
+      "ドラゴンボール"
+    ],
+    "answer": "One Piece",
+    "explanation": "One Piece follows the Straw Hat Pirates.",
+    "explanationJapanese": "ワンピースは麦わらの一味の物語です。",
+    "vocabulary": [
+      {
+        "word": "Straw Hat Pirates",
+        "meaning": "麦わらの一味",
+        "partOfSpeech": "general",
+        "example": "Use 'Straw Hat Pirates' in context: Straw Hat Pirates relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: One Piece follows the Straw Hat Pirates.",
+    "englishExpression": "Choose \"One Piece\" because One Piece follows the Straw Hat Pirates.; other options do not match this question.",
+    "knowledgeLevel": "General culture"
+  },
+  {
+    "category": "Pop Culture",
+    "difficulty": "Hard",
+    "question": "Which director created Schindler’s List?",
+    "questionJapanese": "「シンドラーのリスト」を監督したのは誰ですか？",
+    "options": [
+      "Steven Spielberg",
+      "David Fincher",
+      "Ridley Scott",
+      "Ang Lee"
+    ],
+    "optionsJapanese": [
+      "スティーブン・スピルバーグ",
+      "デヴィッド・フィンチャー",
+      "リドリー・スコット",
+      "アン・リー"
+    ],
+    "answer": "Steven Spielberg",
+    "explanation": "Spielberg directed Schindler’s List.",
+    "explanationJapanese": "スピルバーグが「シンドラーのリスト」を監督しました。",
+    "vocabulary": [
+      {
+        "word": "Schindler’s List",
+        "meaning": "シンドラーのリスト",
+        "partOfSpeech": "general",
+        "example": "Use 'Schindler’s List' in context: Schindler’s List relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Spielberg directed Schindler’s List.",
+    "englishExpression": "Choose \"Steven Spielberg\" because Spielberg directed Schindler’s List.; other options do not match this question.",
+    "knowledgeLevel": "General culture"
+  },
+  {
+    "category": "Pop Culture",
+    "difficulty": "Hard",
+    "question": "Which series features the Doctor traveling in a TARDIS?",
+    "questionJapanese": "ドクターがTARDISで旅するシリーズはどれですか？",
+    "options": [
+      "Doctor Who",
+      "Black Mirror",
+      "Lost",
+      "Fringe"
+    ],
+    "optionsJapanese": [
+      "ドクター・フー",
+      "ブラック・ミラー",
+      "ロスト",
+      "フリンジ"
+    ],
+    "answer": "Doctor Who",
+    "explanation": "Doctor Who features the TARDIS.",
+    "explanationJapanese": "ドクター・フーはTARDISで旅します。",
+    "vocabulary": [
+      {
+        "word": "TARDIS",
+        "meaning": "TARDIS",
+        "partOfSpeech": "general",
+        "example": "Use 'TARDIS' in context: TARDIS relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Doctor Who features the TARDIS.",
+    "englishExpression": "Choose \"Doctor Who\" because Doctor Who features the TARDIS.; other options do not match this question.",
+    "knowledgeLevel": "General culture"
+  },
+  {
+    "category": "Pop Culture",
+    "difficulty": "Hard",
+    "question": "Which manga/anime follows Tanjiro fighting demons?",
+    "questionJapanese": "炭治郎が鬼と戦う漫画/アニメはどれですか？",
+    "options": [
+      "Demon Slayer",
+      "Bleach",
+      "Attack on Titan",
+      "Yu Yu Hakusho"
+    ],
+    "optionsJapanese": [
+      "鬼滅の刃",
+      "ブリーチ",
+      "進撃の巨人",
+      "幽☆遊☆白書"
+    ],
+    "answer": "Demon Slayer",
+    "explanation": "Demon Slayer follows Tanjiro.",
+    "explanationJapanese": "鬼滅の刃は炭治郎の物語です。",
+    "vocabulary": [
+      {
+        "word": "Demon Slayer",
+        "meaning": "鬼滅の刃",
+        "partOfSpeech": "general",
+        "example": "Use 'Demon Slayer' in context: Demon Slayer relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Demon Slayer follows Tanjiro.",
+    "englishExpression": "Choose \"Demon Slayer\" because Demon Slayer follows Tanjiro.; other options do not match this question.",
+    "knowledgeLevel": "General culture"
+  },
+  {
+    "category": "Pop Culture",
+    "difficulty": "Hard",
+    "question": "Which composer created the opera The Magic Flute?",
+    "questionJapanese": "オペラ「魔笛」を作曲したのは誰ですか？",
+    "options": [
+      "Mozart",
+      "Beethoven",
+      "Verdi",
+      "Wagner"
+    ],
+    "optionsJapanese": [
+      "モーツァルト",
+      "ベートーヴェン",
+      "ヴェルディ",
+      "ワーグナー"
+    ],
+    "answer": "Mozart",
+    "explanation": "Mozart composed The Magic Flute.",
+    "explanationJapanese": "モーツァルトが「魔笛」を作曲しました。",
+    "vocabulary": [
+      {
+        "word": "Magic Flute",
+        "meaning": "魔笛",
+        "partOfSpeech": "general",
+        "example": "Use 'Magic Flute' in context: Magic Flute relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Mozart composed The Magic Flute.",
+    "englishExpression": "Choose \"Mozart\" because Mozart composed The Magic Flute.; other options do not match this question.",
+    "knowledgeLevel": "General culture"
+  },
+  {
+    "category": "Pop Culture",
+    "difficulty": "Hard",
+    "question": "Which film features replicants and questions of humanity set in 2019 Los Angeles?",
+    "questionJapanese": "2019年のロサンゼルスを舞台にレプリカントと人間性を描く映画はどれですか？",
+    "options": [
+      "Blade Runner",
+      "Minority Report",
+      "Her",
+      "Gattaca"
+    ],
+    "optionsJapanese": [
+      "ブレードランナー",
+      "マイノリティ・リポート",
+      "her／世界でひとつの彼女",
+      "ガタカ"
+    ],
+    "answer": "Blade Runner",
+    "explanation": "Blade Runner features replicants in 2019 LA.",
+    "explanationJapanese": "ブレードランナーは2019年のLAでレプリカントを描きます。",
+    "vocabulary": [
+      {
+        "word": "replicant",
+        "meaning": "レプリカント",
+        "partOfSpeech": "general",
+        "example": "Use 'replicant' in context: replicant relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Blade Runner features replicants in 2019 LA.",
+    "englishExpression": "Choose \"Blade Runner\" because Blade Runner features replicants in 2019 LA.; other options do not match this question.",
+    "knowledgeLevel": "General culture"
+  },
+  {
+    "category": "Pop Culture",
+    "difficulty": "Medium",
+    "question": "Which band released Hotel California?",
+    "questionJapanese": "「ホテル・カリフォルニア」をリリースしたバンドはどれですか？",
+    "options": [
+      "Eagles",
+      "The Rolling Stones",
+      "Aerosmith",
+      "U2"
+    ],
+    "optionsJapanese": [
+      "イーグルス",
+      "ローリング・ストーンズ",
+      "エアロスミス",
+      "U2"
+    ],
+    "answer": "Eagles",
+    "explanation": "The Eagles released Hotel California.",
+    "explanationJapanese": "イーグルスが「ホテル・カリフォルニア」をリリースしました。",
+    "vocabulary": [
+      {
+        "word": "Hotel California",
+        "meaning": "ホテル・カリフォルニア",
+        "partOfSpeech": "general",
+        "example": "Use 'Hotel California' in context: Hotel California relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: The Eagles released Hotel California.",
+    "englishExpression": "Choose \"Eagles\" because The Eagles released Hotel California.; other options do not match this question.",
+    "knowledgeLevel": "General culture"
+  }
+]

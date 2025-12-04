@@ -1,0 +1,2380 @@
+[
+  {
+    "question": "Which country hosted the 2020 Summer Olympics?",
+    "questionJapanese": "2020年の夏季オリンピックを開催した国はどこですか？",
+    "options": [
+      "China",
+      "Japan",
+      "South Korea",
+      "Brazil"
+    ],
+    "answer": "Japan",
+    "explanation": "Tokyo, Japan hosted the 2020 Summer Olympics in 2021 after the Games were postponed by the pandemic.",
+    "explanationJapanese": "東京（日本）はパンデミックのため延長された2020年夏季オリンピックを2021年に開催しました。",
+    "vocabulary": [
+      {
+        "word": "postpone",
+        "meaning": "延期する",
+        "partOfSpeech": "general",
+        "example": "Use 'postpone' in context: postpone relates to this topic."
+      },
+      {
+        "word": "pandemic",
+        "meaning": "パンデミック",
+        "partOfSpeech": "general",
+        "example": "Use 'pandemic' in context: pandemic relates to this topic."
+      },
+      {
+        "word": "host",
+        "meaning": "開催する",
+        "partOfSpeech": "general",
+        "example": "Use 'host' in context: host relates to this topic."
+      }
+    ],
+    "category": "Sports",
+    "difficulty": "Hard",
+    "knowledgeInsight": "Key takeaway: Tokyo, Japan hosted the 2020 Summer Olympics in 2021 after the Games were postponed by the pandemic.",
+    "englishExpression": "Choose \"Japan\" because Tokyo, Japan hosted the 2020 Summer Olympics in 2021 after the Games were postponed by the pandemic.; other options do not match this question.",
+    "knowledgeLevel": "General sports trivia",
+    "optionsJapanese": [
+      "China",
+      "Japan",
+      "South Korea",
+      "Brazil"
+    ]
+  },
+  {
+    "question": "In which sport do players aim to score 'goals' and cannot touch the ball with their hands?",
+    "questionJapanese": "選手は『ゴール』を目指し、手でボールに触れてはいけないスポーツは何ですか？",
+    "options": [
+      "Basketball",
+      "Baseball",
+      "Football (Soccer)",
+      "Volleyball"
+    ],
+    "answer": "Football (Soccer)",
+    "explanation": "In soccer, players (except the goalkeeper) cannot use their hands and must score by shooting into the opponent's goal.",
+    "explanationJapanese": "サッカーではゴールキーパー以外の選手が手を使えず、相手ゴールにシュートして得点します。",
+    "vocabulary": [
+      {
+        "word": "goalkeeper",
+        "meaning": "ゴールキーパー",
+        "partOfSpeech": "general",
+        "example": "Use 'goalkeeper' in context: goalkeeper relates to this topic."
+      },
+      {
+        "word": "shoot",
+        "meaning": "シュートする",
+        "partOfSpeech": "general",
+        "example": "Use 'shoot' in context: shoot relates to this topic."
+      },
+      {
+        "word": "opponent",
+        "meaning": "相手",
+        "partOfSpeech": "general",
+        "example": "Use 'opponent' in context: opponent relates to this topic."
+      }
+    ],
+    "category": "Sports",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: In soccer, players (except the goalkeeper) cannot use their hands and must score by shooting into the opponent's goal.",
+    "englishExpression": "Choose \"Football (Soccer)\" because In soccer, players (except the goalkeeper) cannot use their hands and must score by shooting into the opponent's goal.; other options do not match this question.",
+    "knowledgeLevel": "General sports trivia",
+    "optionsJapanese": [
+      "Basketball",
+      "Baseball",
+      "Football (Soccer)",
+      "Volleyball"
+    ]
+  },
+  {
+    "question": "Which sport is played on a diamond-shaped field with bases?",
+    "questionJapanese": "ダイヤモンド形のフィールドと塁を使うスポーツは何ですか？",
+    "options": [
+      "Baseball",
+      "Cricket",
+      "Golf",
+      "Rugby"
+    ],
+    "answer": "Baseball",
+    "explanation": "Baseball uses four bases arranged in a diamond, and teams alternate batting and fielding.",
+    "explanationJapanese": "野球は4つの塁をダイヤモンド型に並べて、打撃と守備を交互に行います。",
+    "vocabulary": [
+      {
+        "word": "arrange",
+        "meaning": "並べる",
+        "partOfSpeech": "general",
+        "example": "Use 'arrange' in context: arrange relates to this topic."
+      },
+      {
+        "word": "alternate",
+        "meaning": "交互に",
+        "partOfSpeech": "general",
+        "example": "Use 'alternate' in context: alternate relates to this topic."
+      },
+      {
+        "word": "bat",
+        "meaning": "打つ",
+        "partOfSpeech": "general",
+        "example": "Use 'bat' in context: bat relates to this topic."
+      }
+    ],
+    "category": "Sports",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: Baseball uses four bases arranged in a diamond, and teams alternate batting and fielding.",
+    "englishExpression": "Choose \"Baseball\" because Baseball uses four bases arranged in a diamond, and teams alternate batting and fielding.; other options do not match this question.",
+    "knowledgeLevel": "General sports trivia",
+    "optionsJapanese": [
+      "Baseball",
+      "Cricket",
+      "Golf",
+      "Rugby"
+    ]
+  },
+  {
+    "question": "How many players are on a soccer team on the field?",
+    "questionJapanese": "サッカーのチームはフィールドに何人立ちますか？",
+    "options": [
+      "11",
+      "9",
+      "7",
+      "5"
+    ],
+    "answer": "11",
+    "explanation": "Soccer teams have 11 players, including one goalkeeper.",
+    "explanationJapanese": "サッカーではキーパーを含め11人がプレーします。",
+    "vocabulary": [
+      {
+        "word": "include",
+        "meaning": "含む",
+        "partOfSpeech": "general",
+        "example": "Use 'include' in context: include relates to this topic."
+      },
+      {
+        "word": "goalkeeper",
+        "meaning": "ゴールキーパー",
+        "partOfSpeech": "general",
+        "example": "Use 'goalkeeper' in context: goalkeeper relates to this topic."
+      },
+      {
+        "word": "player",
+        "meaning": "選手",
+        "partOfSpeech": "general",
+        "example": "Use 'player' in context: player relates to this topic."
+      }
+    ],
+    "category": "Sports",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: Soccer teams have 11 players, including one goalkeeper.",
+    "englishExpression": "Choose \"11\" because Soccer teams have 11 players, including one goalkeeper.; other options do not match this question.",
+    "knowledgeLevel": "General sports trivia",
+    "optionsJapanese": [
+      "11",
+      "9",
+      "7",
+      "5"
+    ]
+  },
+  {
+    "question": "What score term describes both players at 40 points in tennis?",
+    "questionJapanese": "テニスで両プレーヤーが40点のときに使う用語は？",
+    "options": [
+      "Deuce",
+      "Advantage",
+      "Love",
+      "Set"
+    ],
+    "answer": "Deuce",
+    "explanation": "At deuce, a player must win two consecutive points to take the game.",
+    "explanationJapanese": "デュースでは2ポイント連続で取らないとゲームに勝てません。",
+    "vocabulary": [
+      {
+        "word": "consecutive",
+        "meaning": "連続した",
+        "partOfSpeech": "general",
+        "example": "Use 'consecutive' in context: consecutive relates to this topic."
+      },
+      {
+        "word": "point",
+        "meaning": "ポイント",
+        "partOfSpeech": "general",
+        "example": "Use 'point' in context: point relates to this topic."
+      },
+      {
+        "word": "game",
+        "meaning": "ゲーム",
+        "partOfSpeech": "general",
+        "example": "Use 'game' in context: game relates to this topic."
+      }
+    ],
+    "category": "Sports",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: At deuce, a player must win two consecutive points to take the game.",
+    "englishExpression": "Choose \"Deuce\" because At deuce, a player must win two consecutive points to take the game.; other options do not match this question.",
+    "knowledgeLevel": "General sports trivia",
+    "optionsJapanese": [
+      "Deuce",
+      "Advantage",
+      "Love",
+      "Set"
+    ]
+  },
+  {
+    "question": "Where were the 2016 Summer Olympics held?",
+    "questionJapanese": "2016年夏季オリンピックはどこで開催されましたか？",
+    "options": [
+      "Rio de Janeiro",
+      "Tokyo",
+      "London",
+      "Beijing"
+    ],
+    "answer": "Rio de Janeiro",
+    "explanation": "Rio became the first South American city to host the Summer Olympics.",
+    "explanationJapanese": "リオは南米初の夏季オリンピック開催都市になりました。",
+    "vocabulary": [
+      {
+        "word": "host",
+        "meaning": "開催する",
+        "partOfSpeech": "general",
+        "example": "Use 'host' in context: host relates to this topic."
+      },
+      {
+        "word": "city",
+        "meaning": "都市",
+        "partOfSpeech": "general",
+        "example": "Use 'city' in context: city relates to this topic."
+      },
+      {
+        "word": "Summer",
+        "meaning": "夏",
+        "partOfSpeech": "general",
+        "example": "Use 'Summer' in context: Summer relates to this topic."
+      }
+    ],
+    "category": "Sports",
+    "difficulty": "Hard",
+    "knowledgeInsight": "Key takeaway: Rio became the first South American city to host the Summer Olympics.",
+    "englishExpression": "Choose \"Rio de Janeiro\" because Rio became the first South American city to host the Summer Olympics.; other options do not match this question.",
+    "knowledgeLevel": "General sports trivia",
+    "optionsJapanese": [
+      "Rio de Janeiro",
+      "Tokyo",
+      "ロンドン",
+      "Beijing"
+    ]
+  },
+  {
+    "question": "How many players are on the court for each basketball team?",
+    "questionJapanese": "バスケットボールではチームごとに何人がコートに立ちますか？",
+    "options": [
+      "5",
+      "6",
+      "4",
+      "7"
+    ],
+    "answer": "5",
+    "explanation": "Basketball uses five players: two guards, two forwards, and a center.",
+    "explanationJapanese": "バスケットボールはガード2人、フォワード2人、センター1人の計5人です。",
+    "vocabulary": [
+      {
+        "word": "guard",
+        "meaning": "ガード",
+        "partOfSpeech": "general",
+        "example": "Use 'guard' in context: guard relates to this topic."
+      },
+      {
+        "word": "forward",
+        "meaning": "フォワード",
+        "partOfSpeech": "general",
+        "example": "Use 'forward' in context: forward relates to this topic."
+      },
+      {
+        "word": "center",
+        "meaning": "センター",
+        "partOfSpeech": "general",
+        "example": "Use 'center' in context: center relates to this topic."
+      }
+    ],
+    "category": "Sports",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: Basketball uses five players: two guards, two forwards, and a center.",
+    "englishExpression": "Choose \"5\" because Basketball uses five players: two guards, two forwards, and a center.; other options do not match this question.",
+    "knowledgeLevel": "General sports trivia",
+    "optionsJapanese": [
+      "5",
+      "6",
+      "4",
+      "7"
+    ]
+  },
+  {
+    "question": "Which country won the 2018 FIFA World Cup?",
+    "questionJapanese": "2018年FIFAワールドカップを優勝した国は？",
+    "options": [
+      "France",
+      "Brazil",
+      "Germany",
+      "Argentina"
+    ],
+    "answer": "France",
+    "explanation": "France defeated Croatia 4-2 in the final held in Russia.",
+    "explanationJapanese": "フランスはロシアの決勝でクロアチアを4-2で破りました。",
+    "vocabulary": [
+      {
+        "word": "defeat",
+        "meaning": "打ち負かす",
+        "partOfSpeech": "general",
+        "example": "Use 'defeat' in context: defeat relates to this topic."
+      },
+      {
+        "word": "final",
+        "meaning": "決勝",
+        "partOfSpeech": "general",
+        "example": "Use 'final' in context: final relates to this topic."
+      },
+      {
+        "word": "hold",
+        "meaning": "開催する",
+        "partOfSpeech": "general",
+        "example": "Use 'hold' in context: hold relates to this topic."
+      }
+    ],
+    "category": "Sports",
+    "difficulty": "Hard",
+    "knowledgeInsight": "Key takeaway: France defeated Croatia 4-2 in the final held in Russia.",
+    "englishExpression": "Choose \"France\" because France defeated Croatia 4-2 in the final held in Russia.; other options do not match this question.",
+    "knowledgeLevel": "General sports trivia",
+    "optionsJapanese": [
+      "フランス",
+      "Brazil",
+      "ドイツ",
+      "Argentina"
+    ]
+  },
+  {
+    "question": "Which sport sends a puck instead of a ball?",
+    "questionJapanese": "ボールの代わりにパックを使うスポーツは何ですか？",
+    "options": [
+      "Ice hockey",
+      "Field hockey",
+      "Baseball",
+      "Cricket"
+    ],
+    "answer": "Ice hockey",
+    "explanation": "Ice hockey players skate on ice while moving a rubber puck with sticks.",
+    "explanationJapanese": "アイスホッケーは氷上をスケートし、スティックでラバーパックを扱います。",
+    "vocabulary": [
+      {
+        "word": "puck",
+        "meaning": "パック",
+        "partOfSpeech": "general",
+        "example": "Use 'puck' in context: puck relates to this topic."
+      },
+      {
+        "word": "stick",
+        "meaning": "スティック",
+        "partOfSpeech": "general",
+        "example": "Use 'stick' in context: stick relates to this topic."
+      },
+      {
+        "word": "skate",
+        "meaning": "スケート",
+        "partOfSpeech": "general",
+        "example": "Use 'skate' in context: skate relates to this topic."
+      }
+    ],
+    "category": "Sports",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: Ice hockey players skate on ice while moving a rubber puck with sticks.",
+    "englishExpression": "Choose \"Ice hockey\" because Ice hockey players skate on ice while moving a rubber puck with sticks.; other options do not match this question.",
+    "knowledgeLevel": "General sports trivia",
+    "optionsJapanese": [
+      "Ice hockey",
+      "Field hockey",
+      "Baseball",
+      "Cricket"
+    ]
+  },
+  {
+    "question": "Which Grand Slam tennis tournament is played on clay courts?",
+    "questionJapanese": "クレーコートで行われるグランドスラム大会は？",
+    "options": [
+      "French Open",
+      "Wimbledon",
+      "US Open",
+      "Australian Open"
+    ],
+    "answer": "French Open",
+    "explanation": "The French Open uses clay courts that slow the ball and favor endurance.",
+    "explanationJapanese": "フレンチオープンはボールが遅くなり持久力が試されるクレーコートです。",
+    "vocabulary": [
+      {
+        "word": "endurance",
+        "meaning": "持久力",
+        "partOfSpeech": "general",
+        "example": "Use 'endurance' in context: endurance relates to this topic."
+      },
+      {
+        "word": "slow",
+        "meaning": "遅い",
+        "partOfSpeech": "general",
+        "example": "Use 'slow' in context: slow relates to this topic."
+      },
+      {
+        "word": "favor",
+        "meaning": "有利にする",
+        "partOfSpeech": "general",
+        "example": "Use 'favor' in context: favor relates to this topic."
+      }
+    ],
+    "category": "Sports",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: The French Open uses clay courts that slow the ball and favor endurance.",
+    "englishExpression": "Choose \"French Open\" because The French Open uses clay courts that slow the ball and favor endurance.; other options do not match this question.",
+    "knowledgeLevel": "General sports trivia",
+    "optionsJapanese": [
+      "French Open",
+      "Wimbledon",
+      "US Open",
+      "Australian Open"
+    ]
+  },
+  {
+    "question": "Which event gathers track and field athletes worldwide every four years?",
+    "questionJapanese": "4年ごとに陸上競技選手を世界から集める大会は？",
+    "options": [
+      "Olympic Games",
+      "Commonwealth Games",
+      "Asian Games",
+      "World Championships"
+    ],
+    "answer": "Olympic Games",
+    "explanation": "The Olympic Games showcase track, field, and other sports with nations competing peacefully.",
+    "explanationJapanese": "オリンピックは陸上やさまざまな競技を平和的に行う国際大会です。",
+    "vocabulary": [
+      {
+        "word": "showcase",
+        "meaning": "披露する",
+        "partOfSpeech": "general",
+        "example": "Use 'showcase' in context: showcase relates to this topic."
+      },
+      {
+        "word": "compete",
+        "meaning": "競う",
+        "partOfSpeech": "general",
+        "example": "Use 'compete' in context: compete relates to this topic."
+      },
+      {
+        "word": "peacefully",
+        "meaning": "平和的に",
+        "partOfSpeech": "general",
+        "example": "Use 'peacefully' in context: peacefully relates to this topic."
+      }
+    ],
+    "category": "Sports",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: The Olympic Games showcase track, field, and other sports with nations competing peacefully.",
+    "englishExpression": "Choose \"Olympic Games\" because The Olympic Games showcase track, field, and other sports with nations competing peacefully.; other options do not match this question.",
+    "knowledgeLevel": "General sports trivia",
+    "optionsJapanese": [
+      "Olympic Games",
+      "Commonwealth Games",
+      "Asian Games",
+      "World Championships"
+    ]
+  },
+  {
+    "question": "Which martial art from Japan emphasizes throws and pins?",
+    "questionJapanese": "投げ技と抑え込みを重視する日本発祥の武道は？",
+    "options": [
+      "Judo",
+      "Karate",
+      "Taekwondo",
+      "Aikido"
+    ],
+    "answer": "Judo",
+    "explanation": "Judo uses an opponent's force against them and has been an Olympic sport since 1964.",
+    "explanationJapanese": "柔道は敵の力を利用し、1964年からオリンピック種目です。",
+    "vocabulary": [
+      {
+        "word": "force",
+        "meaning": "力",
+        "partOfSpeech": "general",
+        "example": "Use 'force' in context: force relates to this topic."
+      },
+      {
+        "word": "against",
+        "meaning": "〜に対して",
+        "partOfSpeech": "general",
+        "example": "Use 'against' in context: against relates to this topic."
+      },
+      {
+        "word": "Olympic",
+        "meaning": "オリンピックの",
+        "partOfSpeech": "general",
+        "example": "Use 'Olympic' in context: Olympic relates to this topic."
+      }
+    ],
+    "category": "Sports",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: Judo uses an opponent's force against them and has been an Olympic sport since 1964.",
+    "englishExpression": "Choose \"Judo\" because Judo uses an opponent's force against them and has been an Olympic sport since 1964.; other options do not match this question.",
+    "knowledgeLevel": "General sports trivia",
+    "optionsJapanese": [
+      "Judo",
+      "Karate",
+      "Taekwondo",
+      "Aikido"
+    ]
+  },
+  {
+    "question": "Who broke the four-minute mile barrier?",
+    "questionJapanese": "4分の1マイルの壁を破った選手は？",
+    "options": [
+      "Roger Bannister",
+      "Usain Bolt",
+      "Mo Farah",
+      "Hicham El Guerrouj"
+    ],
+    "answer": "Roger Bannister",
+    "explanation": "Bannister ran 3 minutes 59.4 seconds in 1954, becoming the first to run under four minutes.",
+    "explanationJapanese": "バニスターは1954年に3分59秒4を記録し、4分以内でマイルを走った最初の人になりました。",
+    "vocabulary": [
+      {
+        "word": "barrier",
+        "meaning": "障壁",
+        "partOfSpeech": "general",
+        "example": "Use 'barrier' in context: barrier relates to this topic."
+      },
+      {
+        "word": "record",
+        "meaning": "記録",
+        "partOfSpeech": "general",
+        "example": "Use 'record' in context: record relates to this topic."
+      },
+      {
+        "word": "run",
+        "meaning": "走る",
+        "partOfSpeech": "general",
+        "example": "Use 'run' in context: run relates to this topic."
+      }
+    ],
+    "category": "Sports",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: Bannister ran 3 minutes 59.4 seconds in 1954, becoming the first to run under four minutes.",
+    "englishExpression": "Choose \"Roger Bannister\" because Bannister ran 3 minutes 59.4 seconds in 1954, becoming the first to run under four minutes.; other options do not match this question.",
+    "knowledgeLevel": "General sports trivia",
+    "optionsJapanese": [
+      "Roger Bannister",
+      "Usain Bolt",
+      "Mo Farah",
+      "Hicham El Guerrouj"
+    ]
+  },
+  {
+    "question": "Which Spanish city hosts the Barcelona Open tennis tournament?",
+    "questionJapanese": "バルセロナオープンを開催するスペインの都市は？",
+    "options": [
+      "Barcelona",
+      "Madrid",
+      "Valencia",
+      "Seville"
+    ],
+    "answer": "Barcelona",
+    "explanation": "Barcelona hosts the clay-court Barcelona Open every spring as part of the ATP Tour.",
+    "explanationJapanese": "バルセロナは春にATPツアーのクレー大会バルセロナオープンを開催します。",
+    "vocabulary": [
+      {
+        "word": "host",
+        "meaning": "開催する",
+        "partOfSpeech": "general",
+        "example": "Use 'host' in context: host relates to this topic."
+      },
+      {
+        "word": "clay",
+        "meaning": "クレー",
+        "partOfSpeech": "general",
+        "example": "Use 'clay' in context: clay relates to this topic."
+      },
+      {
+        "word": "tour",
+        "meaning": "ツアー",
+        "partOfSpeech": "general",
+        "example": "Use 'tour' in context: tour relates to this topic."
+      }
+    ],
+    "category": "Sports",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: Barcelona hosts the clay-court Barcelona Open every spring as part of the ATP Tour.",
+    "englishExpression": "Choose \"Barcelona\" because Barcelona hosts the clay-court Barcelona Open every spring as part of the ATP Tour.; other options do not match this question.",
+    "knowledgeLevel": "General sports trivia",
+    "optionsJapanese": [
+      "Barcelona",
+      "マドリード",
+      "Valencia",
+      "Seville"
+    ]
+  },
+  {
+    "question": "Which sport uses a puck and ice skates?",
+    "questionJapanese": "パックとアイススケートを使うスポーツは？",
+    "options": [
+      "Ice hockey",
+      "Field hockey",
+      "Skating",
+      "Curling"
+    ],
+    "answer": "Ice hockey",
+    "explanation": "In ice hockey, players skate on ice and use sticks to pass a puck.",
+    "explanationJapanese": "アイスホッケーでは選手が氷上をスケートし、スティックでパックを扱います。",
+    "vocabulary": [
+      {
+        "word": "stick",
+        "meaning": "スティック",
+        "partOfSpeech": "general",
+        "example": "Use 'stick' in context: stick relates to this topic."
+      },
+      {
+        "word": "puck",
+        "meaning": "パック",
+        "partOfSpeech": "general",
+        "example": "Use 'puck' in context: puck relates to this topic."
+      },
+      {
+        "word": "pass",
+        "meaning": "パスする",
+        "partOfSpeech": "general",
+        "example": "Use 'pass' in context: pass relates to this topic."
+      }
+    ],
+    "category": "Sports",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: In ice hockey, players skate on ice and use sticks to pass a puck.",
+    "englishExpression": "Choose \"Ice hockey\" because In ice hockey, players skate on ice and use sticks to pass a puck.; other options do not match this question.",
+    "knowledgeLevel": "General sports trivia",
+    "optionsJapanese": [
+      "Ice hockey",
+      "Field hockey",
+      "Skating",
+      "Curling"
+    ]
+  },
+  {
+    "question": "How many players start on each side in a soccer match?",
+    "questionJapanese": "サッカーの試合で1チームの出場人数は何人ですか？",
+    "options": [
+      "11",
+      "10",
+      "9",
+      "12"
+    ],
+    "answer": "11",
+    "explanation": "Soccer teams start with 11 players on the field.",
+    "explanationJapanese": "サッカーは1チーム11人で開始します。",
+    "vocabulary": [
+      {
+        "word": "soccer",
+        "meaning": "サッカー",
+        "partOfSpeech": "general",
+        "example": "Use 'soccer' in context: soccer relates to this topic."
+      },
+      {
+        "word": "players",
+        "meaning": "選手",
+        "partOfSpeech": "general",
+        "example": "Use 'players' in context: players relates to this topic."
+      }
+    ],
+    "category": "Sports",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: Soccer teams start with 11 players on the field.",
+    "englishExpression": "Choose \"11\" because Soccer teams start with 11 players on the field.; other options do not match this question.",
+    "knowledgeLevel": "General sports trivia",
+    "optionsJapanese": [
+      "11",
+      "10",
+      "9",
+      "12"
+    ]
+  },
+  {
+    "question": "In basketball, how many points is a shot from beyond the arc worth?",
+    "questionJapanese": "バスケットボールで3ポイントラインの外から決めたシュートの得点は？",
+    "options": [
+      "Three points",
+      "Two points",
+      "One point",
+      "Four points"
+    ],
+    "answer": "Three points",
+    "explanation": "A shot beyond the three-point arc is worth three points.",
+    "explanationJapanese": "3ポイントラインの外からのシュートは3点です。",
+    "vocabulary": [
+      {
+        "word": "three-point",
+        "meaning": "3ポイント",
+        "partOfSpeech": "general",
+        "example": "Use 'three-point' in context: three-point relates to this topic."
+      },
+      {
+        "word": "arc",
+        "meaning": "アーク",
+        "partOfSpeech": "general",
+        "example": "Use 'arc' in context: arc relates to this topic."
+      }
+    ],
+    "category": "Sports",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: A shot beyond the three-point arc is worth three points.",
+    "englishExpression": "Choose \"Three points\" because A shot beyond the three-point arc is worth three points.; other options do not match this question.",
+    "knowledgeLevel": "General sports trivia",
+    "optionsJapanese": [
+      "Three points",
+      "Two points",
+      "One point",
+      "Four points"
+    ]
+  },
+  {
+    "question": "Which country has won the most FIFA World Cups?",
+    "questionJapanese": "FIFAワールドカップ優勝回数が最も多い国はどこですか？",
+    "options": [
+      "Brazil",
+      "Germany",
+      "Italy",
+      "Argentina"
+    ],
+    "answer": "Brazil",
+    "explanation": "Brazil has won the FIFA World Cup the most times.",
+    "explanationJapanese": "ブラジルがFIFAワールドカップを最多優勝しています。",
+    "vocabulary": [
+      {
+        "word": "World Cup",
+        "meaning": "ワールドカップ",
+        "partOfSpeech": "general",
+        "example": "Use 'World Cup' in context: World Cup relates to this topic."
+      },
+      {
+        "word": "champion",
+        "meaning": "優勝",
+        "partOfSpeech": "general",
+        "example": "Use 'champion' in context: champion relates to this topic."
+      }
+    ],
+    "category": "Sports",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: Brazil has won the FIFA World Cup the most times.",
+    "englishExpression": "Choose \"Brazil\" because Brazil has won the FIFA World Cup the most times.; other options do not match this question.",
+    "knowledgeLevel": "General sports trivia",
+    "optionsJapanese": [
+      "Brazil",
+      "ドイツ",
+      "イタリア",
+      "Argentina"
+    ]
+  },
+  {
+    "question": "In tennis, what is the term for zero points?",
+    "questionJapanese": "テニスで0点を示す言葉は何ですか？",
+    "options": [
+      "Love",
+      "Nil",
+      "Zero",
+      "Blank"
+    ],
+    "answer": "Love",
+    "explanation": "The term love is used for zero in tennis scoring.",
+    "explanationJapanese": "テニスのスコアで0点は「ラブ」と呼ばれます。",
+    "vocabulary": [
+      {
+        "word": "love",
+        "meaning": "ラブ",
+        "partOfSpeech": "general",
+        "example": "Use 'love' in context: love relates to this topic."
+      },
+      {
+        "word": "score",
+        "meaning": "スコア",
+        "partOfSpeech": "general",
+        "example": "Use 'score' in context: score relates to this topic."
+      }
+    ],
+    "category": "Sports",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: The term love is used for zero in tennis scoring.",
+    "englishExpression": "Choose \"Love\" because The term love is used for zero in tennis scoring.; other options do not match this question.",
+    "knowledgeLevel": "General sports trivia",
+    "optionsJapanese": [
+      "Love",
+      "Nil",
+      "Zero",
+      "Blank"
+    ]
+  },
+  {
+    "question": "Which event combines swimming, cycling, and running?",
+    "questionJapanese": "水泳・自転車・ランニングを組み合わせた競技はどれですか？",
+    "options": [
+      "Triathlon",
+      "Pentathlon",
+      "Decathlon",
+      "Biathlon"
+    ],
+    "answer": "Triathlon",
+    "explanation": "A triathlon combines swimming, cycling, and running.",
+    "explanationJapanese": "トライアスロンは水泳・自転車・ランニングを組み合わせた競技です。",
+    "vocabulary": [
+      {
+        "word": "triathlon",
+        "meaning": "トライアスロン",
+        "partOfSpeech": "general",
+        "example": "Use 'triathlon' in context: triathlon relates to this topic."
+      },
+      {
+        "word": "endurance",
+        "meaning": "持久力",
+        "partOfSpeech": "general",
+        "example": "Use 'endurance' in context: endurance relates to this topic."
+      }
+    ],
+    "category": "Sports",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: A triathlon combines swimming, cycling, and running.",
+    "englishExpression": "Choose \"Triathlon\" because A triathlon combines swimming, cycling, and running.; other options do not match this question.",
+    "knowledgeLevel": "General sports trivia",
+    "optionsJapanese": [
+      "Triathlon",
+      "Pentathlon",
+      "Decathlon",
+      "Biathlon"
+    ]
+  },
+  {
+    "category": "Sports",
+    "difficulty": "Easy",
+    "question": "How many minutes are in a standard soccer match excluding stoppage time?",
+    "questionJapanese": "サッカーの通常の試合時間（ロスタイム除く）は何分ですか？",
+    "options": [
+      "90 minutes",
+      "60 minutes",
+      "80 minutes",
+      "100 minutes"
+    ],
+    "answer": "90 minutes",
+    "explanation": "A standard soccer match is 90 minutes, split into two 45-minute halves.",
+    "explanationJapanese": "サッカーの通常の試合時間は45分ハーフの計90分です。",
+    "vocabulary": [
+      {
+        "word": "half",
+        "meaning": "ハーフ",
+        "partOfSpeech": "general",
+        "example": "Use 'half' in context: half relates to this topic."
+      },
+      {
+        "word": "stoppage time",
+        "meaning": "ロスタイム",
+        "partOfSpeech": "general",
+        "example": "Use 'stoppage time' in context: stoppage time relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: A standard soccer match is 90 minutes, split into two 45-minute halves.",
+    "englishExpression": "Choose \"90 minutes\" because A standard soccer match is 90 minutes, split into two 45-minute halves.; other options do not match this question.",
+    "knowledgeLevel": "General sports trivia",
+    "optionsJapanese": [
+      "90 minutes",
+      "60 minutes",
+      "80 minutes",
+      "100 minutes"
+    ]
+  },
+  {
+    "category": "Sports",
+    "difficulty": "Easy",
+    "question": "How many players are on the court per team in volleyball?",
+    "questionJapanese": "バレーボールは1チーム何人がコートに出ますか？",
+    "options": [
+      "6",
+      "5",
+      "7",
+      "4"
+    ],
+    "answer": "6",
+    "explanation": "Volleyball has six players on the court per team.",
+    "explanationJapanese": "バレーボールは1チーム6人がコートに立ちます。",
+    "vocabulary": [
+      {
+        "word": "volleyball",
+        "meaning": "バレーボール",
+        "partOfSpeech": "general",
+        "example": "Use 'volleyball' in context: volleyball relates to this topic."
+      },
+      {
+        "word": "player",
+        "meaning": "選手",
+        "partOfSpeech": "general",
+        "example": "Use 'player' in context: player relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Volleyball has six players on the court per team.",
+    "englishExpression": "Choose \"6\" because Volleyball has six players on the court per team.; other options do not match this question.",
+    "knowledgeLevel": "General sports trivia",
+    "optionsJapanese": [
+      "6",
+      "5",
+      "7",
+      "4"
+    ]
+  },
+  {
+    "category": "Sports",
+    "difficulty": "Medium",
+    "question": "What is a perfect score in a single game of bowling?",
+    "questionJapanese": "ボウリング1ゲームの満点は何点ですか？",
+    "options": [
+      "300",
+      "200",
+      "250",
+      "400"
+    ],
+    "answer": "300",
+    "explanation": "A perfect bowling game scores 300.",
+    "explanationJapanese": "ボウリングの満点は300点です。",
+    "vocabulary": [
+      {
+        "word": "bowling",
+        "meaning": "ボウリング",
+        "partOfSpeech": "general",
+        "example": "Use 'bowling' in context: bowling relates to this topic."
+      },
+      {
+        "word": "perfect game",
+        "meaning": "パーフェクトゲーム",
+        "partOfSpeech": "general",
+        "example": "Use 'perfect game' in context: perfect game relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: A perfect bowling game scores 300.",
+    "englishExpression": "Choose \"300\" because A perfect bowling game scores 300.; other options do not match this question.",
+    "knowledgeLevel": "General sports trivia",
+    "optionsJapanese": [
+      "300",
+      "200",
+      "250",
+      "400"
+    ]
+  },
+  {
+    "category": "Sports",
+    "difficulty": "Medium",
+    "question": "In baseball, how many strikes result in an out?",
+    "questionJapanese": "野球で何ストライクでアウトになりますか？",
+    "options": [
+      "Three",
+      "Two",
+      "Four",
+      "Five"
+    ],
+    "answer": "Three",
+    "explanation": "Three strikes make an out in baseball.",
+    "explanationJapanese": "野球では3ストライクでアウトです。",
+    "vocabulary": [
+      {
+        "word": "strike",
+        "meaning": "ストライク",
+        "partOfSpeech": "general",
+        "example": "Use 'strike' in context: strike relates to this topic."
+      },
+      {
+        "word": "out",
+        "meaning": "アウト",
+        "partOfSpeech": "general",
+        "example": "Use 'out' in context: out relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Three strikes make an out in baseball.",
+    "englishExpression": "Choose \"Three\" because Three strikes make an out in baseball.; other options do not match this question.",
+    "knowledgeLevel": "General sports trivia",
+    "optionsJapanese": [
+      "Three",
+      "Two",
+      "Four",
+      "Five"
+    ]
+  },
+  {
+    "category": "Sports",
+    "difficulty": "Easy",
+    "question": "How many bases are on a baseball field?",
+    "questionJapanese": "野球のグラウンドに塁はいくつありますか？",
+    "options": [
+      "Four",
+      "Three",
+      "Two",
+      "Five"
+    ],
+    "optionsJapanese": [
+      "4つ",
+      "3つ",
+      "2つ",
+      "5つ"
+    ],
+    "answer": "Four",
+    "explanation": "Baseball has four bases.",
+    "explanationJapanese": "野球では塁は4つあります。",
+    "vocabulary": [
+      {
+        "word": "base",
+        "meaning": "塁",
+        "partOfSpeech": "general",
+        "example": "Use 'base' in context: base relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Baseball has four bases.",
+    "englishExpression": "Choose \"Four\" because Baseball has four bases.; other options do not match this question.",
+    "knowledgeLevel": "General sports trivia"
+  },
+  {
+    "category": "Sports",
+    "difficulty": "Medium",
+    "question": "What score is a birdie in golf?",
+    "questionJapanese": "ゴルフでバーディは何打ですか？",
+    "options": [
+      "One under par on a hole",
+      "Two under par",
+      "Par",
+      "One over par"
+    ],
+    "optionsJapanese": [
+      "そのホールのパーより1打少ない",
+      "2打少ない",
+      "パー",
+      "1打多い"
+    ],
+    "answer": "One under par on a hole",
+    "explanation": "A birdie is one stroke under par on a hole.",
+    "explanationJapanese": "バーディはパーより1打少ないスコアです。",
+    "vocabulary": [
+      {
+        "word": "birdie",
+        "meaning": "バーディ",
+        "partOfSpeech": "general",
+        "example": "Use 'birdie' in context: birdie relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: A birdie is one stroke under par on a hole.",
+    "englishExpression": "Choose \"One under par on a hole\" because A birdie is one stroke under par on a hole.; other options do not match this question.",
+    "knowledgeLevel": "General sports trivia"
+  },
+  {
+    "category": "Sports",
+    "difficulty": "Medium",
+    "question": "Which event includes the vault apparatus?",
+    "questionJapanese": "跳馬が含まれる競技種目はどれですか？",
+    "options": [
+      "Artistic gymnastics",
+      "Swimming",
+      "Basketball",
+      "Tennis"
+    ],
+    "optionsJapanese": [
+      "体操競技",
+      "水泳",
+      "バスケットボール",
+      "テニス"
+    ],
+    "answer": "Artistic gymnastics",
+    "explanation": "Vault is an apparatus in artistic gymnastics.",
+    "explanationJapanese": "跳馬は体操競技の種目です。",
+    "vocabulary": [
+      {
+        "word": "vault",
+        "meaning": "跳馬",
+        "partOfSpeech": "general",
+        "example": "Use 'vault' in context: vault relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Vault is an apparatus in artistic gymnastics.",
+    "englishExpression": "Choose \"Artistic gymnastics\" because Vault is an apparatus in artistic gymnastics.; other options do not match this question.",
+    "knowledgeLevel": "General sports trivia"
+  },
+  {
+    "category": "Sports",
+    "difficulty": "Easy",
+    "question": "How long is a marathon race?",
+    "questionJapanese": "マラソンの距離は何kmですか？",
+    "options": [
+      "42.195 km",
+      "21.0975 km",
+      "10 km",
+      "5 km"
+    ],
+    "optionsJapanese": [
+      "42.195キロ",
+      "21.0975キロ",
+      "10キロ",
+      "5キロ"
+    ],
+    "answer": "42.195 km",
+    "explanation": "A marathon is 42.195 kilometers.",
+    "explanationJapanese": "マラソンは42.195キロです。",
+    "vocabulary": [
+      {
+        "word": "marathon",
+        "meaning": "マラソン",
+        "partOfSpeech": "general",
+        "example": "Use 'marathon' in context: marathon relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: A marathon is 42.195 kilometers.",
+    "englishExpression": "Choose \"42.195 km\" because A marathon is 42.195 kilometers.; other options do not match this question.",
+    "knowledgeLevel": "General sports trivia"
+  },
+  {
+    "category": "Sports",
+    "difficulty": "Easy",
+    "question": "Which card signals a player’s dismissal in football (soccer)?",
+    "questionJapanese": "サッカーで退場を示すカードはどれですか？",
+    "options": [
+      "Red card",
+      "Yellow card",
+      "Green card",
+      "Blue card"
+    ],
+    "optionsJapanese": [
+      "レッドカード",
+      "イエローカード",
+      "グリーンカード",
+      "ブルーカード"
+    ],
+    "answer": "Red card",
+    "explanation": "A red card dismisses a player from a soccer match.",
+    "explanationJapanese": "レッドカードは選手の退場を意味します。",
+    "vocabulary": [
+      {
+        "word": "red card",
+        "meaning": "レッドカード",
+        "partOfSpeech": "general",
+        "example": "Use 'red card' in context: red card relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: A red card dismisses a player from a soccer match.",
+    "englishExpression": "Choose \"Red card\" because A red card dismisses a player from a soccer match.; other options do not match this question.",
+    "knowledgeLevel": "General sports trivia"
+  },
+  {
+    "category": "Sports",
+    "difficulty": "Easy",
+    "question": "How many points is a touchdown worth in American football?",
+    "questionJapanese": "アメリカンフットボールでタッチダウンは何点ですか？",
+    "options": [
+      "6 points",
+      "3 points",
+      "7 points",
+      "1 point"
+    ],
+    "optionsJapanese": [
+      "6点",
+      "3点",
+      "7点",
+      "1点"
+    ],
+    "answer": "6 points",
+    "explanation": "A touchdown is worth 6 points.",
+    "explanationJapanese": "タッチダウンは6点です。",
+    "vocabulary": [
+      {
+        "word": "touchdown",
+        "meaning": "タッチダウン",
+        "partOfSpeech": "general",
+        "example": "Use 'touchdown' in context: touchdown relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: A touchdown is worth 6 points.",
+    "englishExpression": "Choose \"6 points\" because A touchdown is worth 6 points.; other options do not match this question.",
+    "knowledgeLevel": "General sports trivia"
+  },
+  {
+    "category": "Sports",
+    "difficulty": "Medium",
+    "question": "What stroke is used in the individual medley swimming event?",
+    "questionJapanese": "個人メドレーで泳ぐ泳法はどれですか？",
+    "options": [
+      "Butterfly, backstroke, breaststroke, freestyle",
+      "Backstroke, freestyle, butterfly, breaststroke",
+      "Freestyle only",
+      "Breaststroke only"
+    ],
+    "optionsJapanese": [
+      "バタフライ→背泳ぎ→平泳ぎ→自由形",
+      "背泳ぎ→自由形→バタフライ→平泳ぎ",
+      "自由形のみ",
+      "平泳ぎのみ"
+    ],
+    "answer": "Butterfly, backstroke, breaststroke, freestyle",
+    "explanation": "Individual medley uses butterfly, backstroke, breaststroke, and freestyle in order.",
+    "explanationJapanese": "個人メドレーはバタフライ・背泳ぎ・平泳ぎ・自由形の順で泳ぎます。",
+    "vocabulary": [
+      {
+        "word": "individual medley",
+        "meaning": "個人メドレー",
+        "partOfSpeech": "general",
+        "example": "Use 'individual medley' in context: individual medley relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Individual medley uses butterfly, backstroke, breaststroke, and freestyle in order.",
+    "englishExpression": "Choose \"Butterfly, backstroke, breaststroke, freestyle\" because Individual medley uses butterfly, backstroke, breaststroke, and freestyle in order.; other options do not match this question.",
+    "knowledgeLevel": "General sports trivia"
+  },
+  {
+    "category": "Sports",
+    "difficulty": "Medium",
+    "question": "What is the distance of an Olympic pool?",
+    "questionJapanese": "オリンピックプールの長さは何メートルですか？",
+    "options": [
+      "50 meters",
+      "25 meters",
+      "75 meters",
+      "100 meters"
+    ],
+    "optionsJapanese": [
+      "50メートル",
+      "25メートル",
+      "75メートル",
+      "100メートル"
+    ],
+    "answer": "50 meters",
+    "explanation": "An Olympic pool is 50 meters long.",
+    "explanationJapanese": "オリンピックプールは50メートルです。",
+    "vocabulary": [
+      {
+        "word": "Olympic pool",
+        "meaning": "オリンピックプール",
+        "partOfSpeech": "general",
+        "example": "Use 'Olympic pool' in context: Olympic pool relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: An Olympic pool is 50 meters long.",
+    "englishExpression": "Choose \"50 meters\" because An Olympic pool is 50 meters long.; other options do not match this question.",
+    "knowledgeLevel": "General sports trivia"
+  },
+  {
+    "category": "Sports",
+    "difficulty": "Hard",
+    "question": "In chess, what term describes a situation where a king is not in check but cannot move without entering check?",
+    "questionJapanese": "チェスで王がチェックされておらず、動くと必ずチェックになる状態を何と呼びますか？",
+    "options": [
+      "Stalemate",
+      "Checkmate",
+      "En passant",
+      "Castling"
+    ],
+    "optionsJapanese": [
+      "ステイルメイト",
+      "チェックメイト",
+      "アンパッサン",
+      "キャスリング"
+    ],
+    "answer": "Stalemate",
+    "explanation": "A stalemate occurs when the king has no legal moves and is not in check.",
+    "explanationJapanese": "ステイルメイトは王がチェックされず合法手がない状態です。",
+    "vocabulary": [
+      {
+        "word": "stalemate",
+        "meaning": "ステイルメイト",
+        "partOfSpeech": "general",
+        "example": "Use 'stalemate' in context: stalemate relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: A stalemate occurs when the king has no legal moves and is not in check.",
+    "englishExpression": "Choose \"Stalemate\" because A stalemate occurs when the king has no legal moves and is not in check.; other options do not match this question.",
+    "knowledgeLevel": "General sports trivia"
+  },
+  {
+    "category": "Sports",
+    "difficulty": "Easy",
+    "question": "How many players per side in a standard basketball game on court?",
+    "questionJapanese": "バスケットボールで1チーム何人がコートに出ますか？",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "4"
+    ],
+    "optionsJapanese": [
+      "5人",
+      "6人",
+      "7人",
+      "4人"
+    ],
+    "answer": "5",
+    "explanation": "Basketball has five players on court per team.",
+    "explanationJapanese": "バスケットボールは1チーム5人でプレーします。",
+    "vocabulary": [
+      {
+        "word": "basketball",
+        "meaning": "バスケットボール",
+        "partOfSpeech": "general",
+        "example": "Use 'basketball' in context: basketball relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Basketball has five players on court per team.",
+    "englishExpression": "Choose \"5\" because Basketball has five players on court per team.; other options do not match this question.",
+    "knowledgeLevel": "General sports trivia"
+  },
+  {
+    "category": "Sports",
+    "difficulty": "Medium",
+    "question": "What is the term for scoring three goals by the same player in one hockey game?",
+    "questionJapanese": "ホッケーで同じ選手が1試合に3得点することを何と呼びますか？",
+    "options": [
+      "Hat trick",
+      "Power play",
+      "Shutout",
+      "Faceoff"
+    ],
+    "optionsJapanese": [
+      "ハットトリック",
+      "パワープレー",
+      "完封",
+      "フェイスオフ"
+    ],
+    "answer": "Hat trick",
+    "explanation": "Three goals by one player in a game is a hat trick.",
+    "explanationJapanese": "1試合に3得点するとハットトリックと呼びます。",
+    "vocabulary": [
+      {
+        "word": "hat trick",
+        "meaning": "ハットトリック",
+        "partOfSpeech": "general",
+        "example": "Use 'hat trick' in context: hat trick relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Three goals by one player in a game is a hat trick.",
+    "englishExpression": "Choose \"Hat trick\" because Three goals by one player in a game is a hat trick.; other options do not match this question.",
+    "knowledgeLevel": "General sports trivia"
+  },
+  {
+    "category": "Sports",
+    "difficulty": "Easy",
+    "question": "How many holes are in a standard round of golf?",
+    "questionJapanese": "通常のゴルフラウンドは何ホールですか？",
+    "options": [
+      "18",
+      "9",
+      "12",
+      "24"
+    ],
+    "optionsJapanese": [
+      "18ホール",
+      "9ホール",
+      "12ホール",
+      "24ホール"
+    ],
+    "answer": "18",
+    "explanation": "A standard round of golf has 18 holes.",
+    "explanationJapanese": "通常のゴルフは18ホールです。",
+    "vocabulary": [
+      {
+        "word": "hole",
+        "meaning": "ホール",
+        "partOfSpeech": "general",
+        "example": "Use 'hole' in context: hole relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: A standard round of golf has 18 holes.",
+    "englishExpression": "Choose \"18\" because A standard round of golf has 18 holes.; other options do not match this question.",
+    "knowledgeLevel": "General sports trivia"
+  },
+  {
+    "category": "Sports",
+    "difficulty": "Easy",
+    "question": "What is the target score in ten-pin bowling for a perfect game?",
+    "questionJapanese": "テンピンボウリングでパーフェクトゲームのスコアは何点ですか？",
+    "options": [
+      "300",
+      "200",
+      "250",
+      "400"
+    ],
+    "optionsJapanese": [
+      "300",
+      "200",
+      "250",
+      "400"
+    ],
+    "answer": "300",
+    "explanation": "A perfect game in bowling scores 300.",
+    "explanationJapanese": "ボウリングのパーフェクトは300点です。",
+    "vocabulary": [
+      {
+        "word": "bowling",
+        "meaning": "ボウリング",
+        "partOfSpeech": "general",
+        "example": "Use 'bowling' in context: bowling relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: A perfect game in bowling scores 300.",
+    "englishExpression": "Choose \"300\" because A perfect game in bowling scores 300.; other options do not match this question.",
+    "knowledgeLevel": "General sports trivia"
+  },
+  {
+    "category": "Sports",
+    "difficulty": "Medium",
+    "question": "Which stroke is swum on the back?",
+    "questionJapanese": "仰向けで泳ぐ泳法はどれですか？",
+    "options": [
+      "Backstroke",
+      "Freestyle",
+      "Breaststroke",
+      "Butterfly"
+    ],
+    "optionsJapanese": [
+      "背泳ぎ",
+      "自由形",
+      "平泳ぎ",
+      "バタフライ"
+    ],
+    "answer": "Backstroke",
+    "explanation": "Backstroke is swum on the back.",
+    "explanationJapanese": "背泳ぎは仰向けで泳ぎます。",
+    "vocabulary": [
+      {
+        "word": "backstroke",
+        "meaning": "背泳ぎ",
+        "partOfSpeech": "general",
+        "example": "Use 'backstroke' in context: backstroke relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Backstroke is swum on the back.",
+    "englishExpression": "Choose \"Backstroke\" because Backstroke is swum on the back.; other options do not match this question.",
+    "knowledgeLevel": "General sports trivia"
+  },
+  {
+    "category": "Sports",
+    "difficulty": "Hard",
+    "question": "What is the term for an extra period when a game is tied at the end?",
+    "questionJapanese": "試合が同点で終わったときの延長戦を何と呼びますか？",
+    "options": [
+      "Overtime",
+      "Timeout",
+      "Intermission",
+      "Forfeit"
+    ],
+    "optionsJapanese": [
+      "オーバータイム",
+      "タイムアウト",
+      "インターミッション",
+      "棄権"
+    ],
+    "answer": "Overtime",
+    "explanation": "Overtime is an extra period played after a tie.",
+    "explanationJapanese": "オーバータイムは同点後に行う延長戦です。",
+    "vocabulary": [
+      {
+        "word": "overtime",
+        "meaning": "延長戦",
+        "partOfSpeech": "general",
+        "example": "Use 'overtime' in context: overtime relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Overtime is an extra period played after a tie.",
+    "englishExpression": "Choose \"Overtime\" because Overtime is an extra period played after a tie.; other options do not match this question.",
+    "knowledgeLevel": "General sports trivia"
+  },
+  {
+    "category": "Sports",
+    "difficulty": "Easy",
+    "question": "Which sport is played at Wimbledon?",
+    "questionJapanese": "ウィンブルドンで行われるスポーツはどれですか？",
+    "options": [
+      "Tennis",
+      "Soccer",
+      "Cricket",
+      "Rugby"
+    ],
+    "optionsJapanese": [
+      "テニス",
+      "サッカー",
+      "クリケット",
+      "ラグビー"
+    ],
+    "answer": "Tennis",
+    "explanation": "Wimbledon hosts tennis.",
+    "explanationJapanese": "ウィンブルドンはテニスの大会です。",
+    "vocabulary": [
+      {
+        "word": "Wimbledon",
+        "meaning": "ウィンブルドン",
+        "partOfSpeech": "general",
+        "example": "Use 'Wimbledon' in context: Wimbledon relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Wimbledon hosts tennis.",
+    "englishExpression": "Choose \"Tennis\" because Wimbledon hosts tennis.; other options do not match this question.",
+    "knowledgeLevel": "General sports trivia"
+  },
+  {
+    "category": "Sports",
+    "difficulty": "Easy",
+    "question": "How many players are on a rugby union team on the field?",
+    "questionJapanese": "ラグビーユニオンは1チーム何人でプレーしますか？",
+    "options": [
+      "15",
+      "13",
+      "11",
+      "7"
+    ],
+    "optionsJapanese": [
+      "15人",
+      "13人",
+      "11人",
+      "7人"
+    ],
+    "answer": "15",
+    "explanation": "Rugby union teams have 15 players on the field.",
+    "explanationJapanese": "ラグビーユニオンは1チーム15人です。",
+    "vocabulary": [
+      {
+        "word": "rugby union",
+        "meaning": "ラグビーユニオン",
+        "partOfSpeech": "general",
+        "example": "Use 'rugby union' in context: rugby union relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Rugby union teams have 15 players on the field.",
+    "englishExpression": "Choose \"15\" because Rugby union teams have 15 players on the field.; other options do not match this question.",
+    "knowledgeLevel": "General sports trivia"
+  },
+  {
+    "category": "Sports",
+    "difficulty": "Medium",
+    "question": "What is the penalty area distance from the goal line in soccer?",
+    "questionJapanese": "サッカーのペナルティエリア奥行きはゴールラインから何メートルですか？",
+    "options": [
+      "16.5 meters",
+      "11 meters",
+      "20 meters",
+      "25 meters"
+    ],
+    "optionsJapanese": [
+      "16.5メートル",
+      "11メートル",
+      "20メートル",
+      "25メートル"
+    ],
+    "answer": "16.5 meters",
+    "explanation": "The penalty area extends 16.5 meters from the goal line.",
+    "explanationJapanese": "ペナルティエリアはゴールラインから16.5メートルです。",
+    "vocabulary": [
+      {
+        "word": "penalty area",
+        "meaning": "ペナルティエリア",
+        "partOfSpeech": "general",
+        "example": "Use 'penalty area' in context: penalty area relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: The penalty area extends 16.5 meters from the goal line.",
+    "englishExpression": "Choose \"16.5 meters\" because The penalty area extends 16.5 meters from the goal line.; other options do not match this question.",
+    "knowledgeLevel": "General sports trivia"
+  },
+  {
+    "category": "Sports",
+    "difficulty": "Medium",
+    "question": "Which stroke is used in breaststroke kick combined with butterfly arms?",
+    "questionJapanese": "平泳ぎのキックとバタフライの腕を組み合わせた泳ぎはどれですか？",
+    "options": [
+      "Butterfrog (illegal)",
+      "Freestyle",
+      "Backstroke",
+      "Sidestroke"
+    ],
+    "optionsJapanese": [
+      "バタフロッグ（ルール違反）",
+      "自由形",
+      "背泳ぎ",
+      "横泳ぎ"
+    ],
+    "answer": "Butterfrog (illegal)",
+    "explanation": "Combining breaststroke kick with fly arms is an illegal “butterfrog.”",
+    "explanationJapanese": "平泳ぎキックとバタフライの腕を組み合わせる泳ぎは反則の「バタフロッグ」です。",
+    "vocabulary": [
+      {
+        "word": "butterfrog",
+        "meaning": "バタフロッグ",
+        "partOfSpeech": "general",
+        "example": "Use 'butterfrog' in context: butterfrog relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Combining breaststroke kick with fly arms is an illegal “butterfrog.”.",
+    "englishExpression": "Choose \"Butterfrog (illegal)\" because Combining breaststroke kick with fly arms is an illegal “butterfrog.”; other options do not match this question.",
+    "knowledgeLevel": "General sports trivia"
+  },
+  {
+    "category": "Sports",
+    "difficulty": "Hard",
+    "question": "In baseball, what is the distance between bases?",
+    "questionJapanese": "野球で塁間の距離は何フィートですか？",
+    "options": [
+      "90 feet",
+      "60 feet",
+      "80 feet",
+      "100 feet"
+    ],
+    "optionsJapanese": [
+      "90フィート",
+      "60フィート",
+      "80フィート",
+      "100フィート"
+    ],
+    "answer": "90 feet",
+    "explanation": "The distance between bases in baseball is 90 feet.",
+    "explanationJapanese": "野球の塁間距離は90フィートです。",
+    "vocabulary": [
+      {
+        "word": "base path",
+        "meaning": "塁間",
+        "partOfSpeech": "general",
+        "example": "Use 'base path' in context: base path relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: The distance between bases in baseball is 90 feet.",
+    "englishExpression": "Choose \"90 feet\" because The distance between bases in baseball is 90 feet.; other options do not match this question.",
+    "knowledgeLevel": "General sports trivia"
+  },
+  {
+    "category": "Sports",
+    "difficulty": "Hard",
+    "question": "Which chess move switches king and rook positions?",
+    "questionJapanese": "チェスで王とルークを入れ替える動きはどれですか？",
+    "options": [
+      "Castling",
+      "En passant",
+      "Promotion",
+      "Fork"
+    ],
+    "optionsJapanese": [
+      "キャスリング",
+      "アンパッサン",
+      "昇格",
+      "フォーク"
+    ],
+    "answer": "Castling",
+    "explanation": "Castling swaps the king and rook.",
+    "explanationJapanese": "キャスリングは王とルークを入れ替える手です。",
+    "vocabulary": [
+      {
+        "word": "castling",
+        "meaning": "キャスリング",
+        "partOfSpeech": "general",
+        "example": "Use 'castling' in context: castling relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Castling swaps the king and rook.",
+    "englishExpression": "Choose \"Castling\" because Castling swaps the king and rook.; other options do not match this question.",
+    "knowledgeLevel": "General sports trivia"
+  },
+  {
+    "category": "Sports",
+    "difficulty": "Easy",
+    "question": "In basketball, how many points is a free throw worth?",
+    "questionJapanese": "バスケットボールでフリースローは何点ですか？",
+    "options": [
+      "1 point",
+      "2 points",
+      "3 points",
+      "4 points"
+    ],
+    "optionsJapanese": [
+      "1点",
+      "2点",
+      "3点",
+      "4点"
+    ],
+    "answer": "1 point",
+    "explanation": "A free throw is worth 1 point.",
+    "explanationJapanese": "フリースローは1点です。",
+    "vocabulary": [
+      {
+        "word": "free throw",
+        "meaning": "フリースロー",
+        "partOfSpeech": "general",
+        "example": "Use 'free throw' in context: free throw relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: A free throw is worth 1 point.",
+    "englishExpression": "Choose \"1 point\" because A free throw is worth 1 point.; other options do not match this question.",
+    "knowledgeLevel": "General sports trivia"
+  },
+  {
+    "category": "Sports",
+    "difficulty": "Easy",
+    "question": "Which sport uses a shuttlecock?",
+    "questionJapanese": "シャトルコックを使うスポーツはどれですか？",
+    "options": [
+      "Badminton",
+      "Tennis",
+      "Table tennis",
+      "Squash"
+    ],
+    "optionsJapanese": [
+      "バドミントン",
+      "テニス",
+      "卓球",
+      "スカッシュ"
+    ],
+    "answer": "Badminton",
+    "explanation": "Badminton uses a shuttlecock.",
+    "explanationJapanese": "バドミントンはシャトルコックを使います。",
+    "vocabulary": [
+      {
+        "word": "shuttlecock",
+        "meaning": "シャトルコック",
+        "partOfSpeech": "general",
+        "example": "Use 'shuttlecock' in context: shuttlecock relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Badminton uses a shuttlecock.",
+    "englishExpression": "Choose \"Badminton\" because Badminton uses a shuttlecock.; other options do not match this question.",
+    "knowledgeLevel": "General sports trivia"
+  },
+  {
+    "category": "Sports",
+    "difficulty": "Medium",
+    "question": "In tennis, what does “love” mean?",
+    "questionJapanese": "テニスで「ラブ」は何点を意味しますか？",
+    "options": [
+      "Zero",
+      "One",
+      "Two",
+      "Forty"
+    ],
+    "optionsJapanese": [
+      "ゼロ",
+      "15",
+      "30",
+      "40"
+    ],
+    "answer": "Zero",
+    "explanation": "Love in tennis means zero points.",
+    "explanationJapanese": "テニスでラブは0点です。",
+    "vocabulary": [
+      {
+        "word": "love",
+        "meaning": "ラブ",
+        "partOfSpeech": "general",
+        "example": "Use 'love' in context: love relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Love in tennis means zero points.",
+    "englishExpression": "Choose \"Zero\" because Love in tennis means zero points.; other options do not match this question.",
+    "knowledgeLevel": "General sports trivia"
+  },
+  {
+    "category": "Sports",
+    "difficulty": "Medium",
+    "question": "Which sport awards the yellow jersey?",
+    "questionJapanese": "イエロージャージが授与されるスポーツはどれですか？",
+    "options": [
+      "Cycling",
+      "Soccer",
+      "Rugby",
+      "Cricket"
+    ],
+    "optionsJapanese": [
+      "自転車競技",
+      "サッカー",
+      "ラグビー",
+      "クリケット"
+    ],
+    "answer": "Cycling",
+    "explanation": "The Tour de France awards the yellow jersey in cycling.",
+    "explanationJapanese": "ツール・ド・フランスでイエロージャージが授与されます。",
+    "vocabulary": [
+      {
+        "word": "yellow jersey",
+        "meaning": "イエロージャージ",
+        "partOfSpeech": "general",
+        "example": "Use 'yellow jersey' in context: yellow jersey relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: The Tour de France awards the yellow jersey in cycling.",
+    "englishExpression": "Choose \"Cycling\" because The Tour de France awards the yellow jersey in cycling.; other options do not match this question.",
+    "knowledgeLevel": "General sports trivia"
+  },
+  {
+    "category": "Sports",
+    "difficulty": "Medium",
+    "question": "Which event combines shooting and skiing?",
+    "questionJapanese": "射撃とスキーを組み合わせた競技はどれですか？",
+    "options": [
+      "Biathlon",
+      "Pentathlon",
+      "Triathlon",
+      "Decathlon"
+    ],
+    "optionsJapanese": [
+      "バイアスロン",
+      "近代五種",
+      "トライアスロン",
+      "十種競技"
+    ],
+    "answer": "Biathlon",
+    "explanation": "Biathlon combines cross-country skiing and rifle shooting.",
+    "explanationJapanese": "バイアスロンはクロカンスキーと射撃を組み合わせます。",
+    "vocabulary": [
+      {
+        "word": "biathlon",
+        "meaning": "バイアスロン",
+        "partOfSpeech": "general",
+        "example": "Use 'biathlon' in context: biathlon relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Biathlon combines cross-country skiing and rifle shooting.",
+    "englishExpression": "Choose \"Biathlon\" because Biathlon combines cross-country skiing and rifle shooting.; other options do not match this question.",
+    "knowledgeLevel": "General sports trivia"
+  },
+  {
+    "category": "Sports",
+    "difficulty": "Medium",
+    "question": "What distance is a standard 800m run on track?",
+    "questionJapanese": "陸上の800m走はトラック何周ですか？",
+    "options": [
+      "Two laps",
+      "One lap",
+      "Three laps",
+      "Half lap"
+    ],
+    "optionsJapanese": [
+      "2周",
+      "1周",
+      "3周",
+      "半周"
+    ],
+    "answer": "Two laps",
+    "explanation": "An 800m run is two laps on a 400m track.",
+    "explanationJapanese": "800m走は400mトラックを2周します。",
+    "vocabulary": [
+      {
+        "word": "lap",
+        "meaning": "周回",
+        "partOfSpeech": "general",
+        "example": "Use 'lap' in context: lap relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: An 800m run is two laps on a 400m track.",
+    "englishExpression": "Choose \"Two laps\" because An 800m run is two laps on a 400m track.; other options do not match this question.",
+    "knowledgeLevel": "General sports trivia"
+  },
+  {
+    "category": "Sports",
+    "difficulty": "Hard",
+    "question": "What is a perfect score in gymnastics?",
+    "questionJapanese": "体操での満点は何点ですか？",
+    "options": [
+      "10.0",
+      "9.0",
+      "5.0",
+      "15.0"
+    ],
+    "optionsJapanese": [
+      "10.0",
+      "9.0",
+      "5.0",
+      "15.0"
+    ],
+    "answer": "10.0",
+    "explanation": "Traditionally a perfect gymnastics score is 10.0.",
+    "explanationJapanese": "体操の満点は10.0とされています。",
+    "vocabulary": [
+      {
+        "word": "perfect score",
+        "meaning": "満点",
+        "partOfSpeech": "general",
+        "example": "Use 'perfect score' in context: perfect score relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Traditionally a perfect gymnastics score is 10.0.",
+    "englishExpression": "Choose \"10.0\" because Traditionally a perfect gymnastics score is 10.0.; other options do not match this question.",
+    "knowledgeLevel": "General sports trivia"
+  },
+  {
+    "category": "Sports",
+    "difficulty": "Hard",
+    "question": "Which chess tactic forks two pieces at once?",
+    "questionJapanese": "チェスで同時に2つの駒を攻撃する戦術はどれですか？",
+    "options": [
+      "Fork",
+      "Pin",
+      "Skewer",
+      "Discovered attack"
+    ],
+    "optionsJapanese": [
+      "フォーク",
+      "ピン",
+      "串刺し",
+      "発見攻撃"
+    ],
+    "answer": "Fork",
+    "explanation": "A fork attacks two pieces at once.",
+    "explanationJapanese": "フォークは2つの駒を同時に攻撃します。",
+    "vocabulary": [
+      {
+        "word": "fork",
+        "meaning": "フォーク",
+        "partOfSpeech": "general",
+        "example": "Use 'fork' in context: fork relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: A fork attacks two pieces at once.",
+    "englishExpression": "Choose \"Fork\" because A fork attacks two pieces at once.; other options do not match this question.",
+    "knowledgeLevel": "General sports trivia"
+  },
+  {
+    "category": "Sports",
+    "difficulty": "Hard",
+    "question": "Which martial art features the rear naked choke?",
+    "questionJapanese": "裸絞め（リアネイキッドチョーク）が使われる武道はどれですか？",
+    "options": [
+      "Brazilian jiu-jitsu",
+      "Karate",
+      "Taekwondo",
+      "Judo"
+    ],
+    "optionsJapanese": [
+      "ブラジリアン柔術",
+      "空手",
+      "テコンドー",
+      "柔道"
+    ],
+    "answer": "Brazilian jiu-jitsu",
+    "explanation": "Rear naked choke is common in Brazilian jiu-jitsu.",
+    "explanationJapanese": "リアネイキッドチョークはブラジリアン柔術で使われます。",
+    "vocabulary": [
+      {
+        "word": "rear naked choke",
+        "meaning": "裸絞め",
+        "partOfSpeech": "general",
+        "example": "Use 'rear naked choke' in context: rear naked choke relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Rear naked choke is common in Brazilian jiu-jitsu.",
+    "englishExpression": "Choose \"Brazilian jiu-jitsu\" because Rear naked choke is common in Brazilian jiu-jitsu.; other options do not match this question.",
+    "knowledgeLevel": "General sports trivia"
+  },
+  {
+    "category": "Sports",
+    "difficulty": "Hard",
+    "question": "What distance is a standard track oval lane?",
+    "questionJapanese": "陸上トラックの1周は何メートルですか？",
+    "options": [
+      "400 meters",
+      "200 meters",
+      "600 meters",
+      "800 meters"
+    ],
+    "optionsJapanese": [
+      "400メートル",
+      "200メートル",
+      "600メートル",
+      "800メートル"
+    ],
+    "answer": "400 meters",
+    "explanation": "One lap on a standard track is 400 meters.",
+    "explanationJapanese": "陸上トラック1周は400メートルです。",
+    "vocabulary": [
+      {
+        "word": "track",
+        "meaning": "トラック",
+        "partOfSpeech": "general",
+        "example": "Use 'track' in context: track relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: One lap on a standard track is 400 meters.",
+    "englishExpression": "Choose \"400 meters\" because One lap on a standard track is 400 meters.; other options do not match this question.",
+    "knowledgeLevel": "General sports trivia"
+  },
+  {
+    "category": "Sports",
+    "difficulty": "Easy",
+    "question": "Which sport uses a bat and wickets?",
+    "questionJapanese": "バットとウィケットを使うスポーツはどれですか？",
+    "options": [
+      "Cricket",
+      "Baseball",
+      "Hockey",
+      "Lacrosse"
+    ],
+    "optionsJapanese": [
+      "クリケット",
+      "野球",
+      "ホッケー",
+      "ラクロス"
+    ],
+    "answer": "Cricket",
+    "explanation": "Cricket uses a bat and wickets.",
+    "explanationJapanese": "クリケットはバットとウィケットを使います。",
+    "vocabulary": [
+      {
+        "word": "cricket",
+        "meaning": "クリケット",
+        "partOfSpeech": "general",
+        "example": "Use 'cricket' in context: cricket relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Cricket uses a bat and wickets.",
+    "englishExpression": "Choose \"Cricket\" because Cricket uses a bat and wickets.; other options do not match this question.",
+    "knowledgeLevel": "General sports trivia"
+  },
+  {
+    "category": "Sports",
+    "difficulty": "Easy",
+    "question": "Which game’s goal is checkmate?",
+    "questionJapanese": "チェックメイトを目標とするゲームはどれですか？",
+    "options": [
+      "Chess",
+      "Go",
+      "Checkers",
+      "Backgammon"
+    ],
+    "optionsJapanese": [
+      "チェス",
+      "囲碁",
+      "チェッカー",
+      "バックギャモン"
+    ],
+    "answer": "Chess",
+    "explanation": "Chess aims to checkmate the king.",
+    "explanationJapanese": "チェスは王をチェックメイトすることが目的です。",
+    "vocabulary": [
+      {
+        "word": "checkmate",
+        "meaning": "チェックメイト",
+        "partOfSpeech": "general",
+        "example": "Use 'checkmate' in context: checkmate relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Chess aims to checkmate the king.",
+    "englishExpression": "Choose \"Chess\" because Chess aims to checkmate the king.; other options do not match this question.",
+    "knowledgeLevel": "General sports trivia"
+  },
+  {
+    "category": "Sports",
+    "difficulty": "Medium",
+    "question": "Which Olympic sport uses foil, épée, or sabre?",
+    "questionJapanese": "フルーレ、エペ、サーブルを使うオリンピック競技はどれですか？",
+    "options": [
+      "Fencing",
+      "Archery",
+      "Shooting",
+      "Boxing"
+    ],
+    "optionsJapanese": [
+      "フェンシング",
+      "アーチェリー",
+      "射撃",
+      "ボクシング"
+    ],
+    "answer": "Fencing",
+    "explanation": "Fencing uses foil, épée, or sabre.",
+    "explanationJapanese": "フェンシングはフルーレ、エペ、サーブルを使います。",
+    "vocabulary": [
+      {
+        "word": "fencing",
+        "meaning": "フェンシング",
+        "partOfSpeech": "general",
+        "example": "Use 'fencing' in context: fencing relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Fencing uses foil, épée, or sabre.",
+    "englishExpression": "Choose \"Fencing\" because Fencing uses foil, épée, or sabre.; other options do not match this question.",
+    "knowledgeLevel": "General sports trivia"
+  },
+  {
+    "category": "Sports",
+    "difficulty": "Medium",
+    "question": "Which sport includes pommel horse and rings?",
+    "questionJapanese": "あん馬と吊り輪を含む競技はどれですか？",
+    "options": [
+      "Artistic gymnastics",
+      "Track and field",
+      "Rowing",
+      "Boxing"
+    ],
+    "optionsJapanese": [
+      "体操競技",
+      "陸上競技",
+      "ボート",
+      "ボクシング"
+    ],
+    "answer": "Artistic gymnastics",
+    "explanation": "Pommel horse and rings are in artistic gymnastics.",
+    "explanationJapanese": "あん馬と吊り輪は体操競技です。",
+    "vocabulary": [
+      {
+        "word": "pommel horse",
+        "meaning": "あん馬",
+        "partOfSpeech": "general",
+        "example": "Use 'pommel horse' in context: pommel horse relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Pommel horse and rings are in artistic gymnastics.",
+    "englishExpression": "Choose \"Artistic gymnastics\" because Pommel horse and rings are in artistic gymnastics.; other options do not match this question.",
+    "knowledgeLevel": "General sports trivia"
+  },
+  {
+    "category": "Sports",
+    "difficulty": "Medium",
+    "question": "Which event throws a spear-like object?",
+    "questionJapanese": "槍状の物を投げる競技はどれですか？",
+    "options": [
+      "Javelin",
+      "Discus",
+      "Shot put",
+      "Hammer throw"
+    ],
+    "optionsJapanese": [
+      "やり投げ",
+      "円盤投げ",
+      "砲丸投げ",
+      "ハンマー投げ"
+    ],
+    "answer": "Javelin",
+    "explanation": "Javelin throw uses a spear-like object.",
+    "explanationJapanese": "やり投げは槍状のやりを投げます。",
+    "vocabulary": [
+      {
+        "word": "javelin",
+        "meaning": "やり投げ",
+        "partOfSpeech": "general",
+        "example": "Use 'javelin' in context: javelin relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Javelin throw uses a spear-like object.",
+    "englishExpression": "Choose \"Javelin\" because Javelin throw uses a spear-like object.; other options do not match this question.",
+    "knowledgeLevel": "General sports trivia"
+  },
+  {
+    "category": "Sports",
+    "difficulty": "Hard",
+    "question": "Which racing series includes Monaco and Suzuka?",
+    "questionJapanese": "モナコや鈴鹿を含むレースシリーズはどれですか？",
+    "options": [
+      "Formula One",
+      "IndyCar",
+      "NASCAR",
+      "MotoGP"
+    ],
+    "optionsJapanese": [
+      "F1",
+      "インディカー",
+      "ナスカー",
+      "モトGP"
+    ],
+    "answer": "Formula One",
+    "explanation": "Monaco and Suzuka are in F1.",
+    "explanationJapanese": "モナコと鈴鹿はF1に含まれます。",
+    "vocabulary": [
+      {
+        "word": "Formula One",
+        "meaning": "F1",
+        "partOfSpeech": "general",
+        "example": "Use 'Formula One' in context: Formula One relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Monaco and Suzuka are in F1.",
+    "englishExpression": "Choose \"Formula One\" because Monaco and Suzuka are in F1.; other options do not match this question.",
+    "knowledgeLevel": "General sports trivia"
+  },
+  {
+    "category": "Sports",
+    "difficulty": "Hard",
+    "question": "Which judo throw is osoto gari?",
+    "questionJapanese": "大外刈はどの武道の技ですか？",
+    "options": [
+      "Judo",
+      "Karate",
+      "Taekwondo",
+      "Aikido"
+    ],
+    "optionsJapanese": [
+      "柔道",
+      "空手",
+      "テコンドー",
+      "合気道"
+    ],
+    "answer": "Judo",
+    "explanation": "Osoto gari is a judo throw.",
+    "explanationJapanese": "大外刈は柔道の技です。",
+    "vocabulary": [
+      {
+        "word": "osoto gari",
+        "meaning": "大外刈",
+        "partOfSpeech": "general",
+        "example": "Use 'osoto gari' in context: osoto gari relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Osoto gari is a judo throw.",
+    "englishExpression": "Choose \"Judo\" because Osoto gari is a judo throw.; other options do not match this question.",
+    "knowledgeLevel": "General sports trivia"
+  },
+  {
+    "category": "Sports",
+    "difficulty": "Hard",
+    "question": "Which cue sport is played on a pocketless table?",
+    "questionJapanese": "ポケットなしの台で行うキュー競技はどれですか？",
+    "options": [
+      "Carom billiards",
+      "Pool",
+      "Snooker",
+      "English billiards"
+    ],
+    "optionsJapanese": [
+      "キャロムビリヤード",
+      "プール",
+      "スヌーカー",
+      "イングリッシュビリヤード"
+    ],
+    "answer": "Carom billiards",
+    "explanation": "Carom billiards uses a pocketless table.",
+    "explanationJapanese": "キャロムビリヤードはポケットのない台で行います。",
+    "vocabulary": [
+      {
+        "word": "carom",
+        "meaning": "キャロム",
+        "partOfSpeech": "general",
+        "example": "Use 'carom' in context: carom relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Carom billiards uses a pocketless table.",
+    "englishExpression": "Choose \"Carom billiards\" because Carom billiards uses a pocketless table.; other options do not match this question.",
+    "knowledgeLevel": "General sports trivia"
+  },
+  {
+    "category": "Sports",
+    "difficulty": "Hard",
+    "question": "Which cycling discipline is keirin part of?",
+    "questionJapanese": "ケイリンはどの自転車競技の一部ですか？",
+    "options": [
+      "Track cycling",
+      "Road cycling",
+      "Mountain biking",
+      "BMX"
+    ],
+    "optionsJapanese": [
+      "トラック競技",
+      "ロード",
+      "マウンテンバイク",
+      "BMX"
+    ],
+    "answer": "Track cycling",
+    "explanation": "Keirin is a track cycling event.",
+    "explanationJapanese": "ケイリンはトラック競技です。",
+    "vocabulary": [
+      {
+        "word": "keirin",
+        "meaning": "ケイリン",
+        "partOfSpeech": "general",
+        "example": "Use 'keirin' in context: keirin relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Keirin is a track cycling event.",
+    "englishExpression": "Choose \"Track cycling\" because Keirin is a track cycling event.; other options do not match this question.",
+    "knowledgeLevel": "General sports trivia"
+  },
+  {
+    "category": "Sports",
+    "difficulty": "Hard",
+    "question": "Which chess move switches king and rook?",
+    "questionJapanese": "チェスで王とルークを入れ替える手はどれですか？",
+    "options": [
+      "Castling",
+      "En passant",
+      "Promotion",
+      "Fork"
+    ],
+    "optionsJapanese": [
+      "キャスリング",
+      "アンパッサン",
+      "昇格",
+      "フォーク"
+    ],
+    "answer": "Castling",
+    "explanation": "Castling swaps king and rook.",
+    "explanationJapanese": "キャスリングは王とルークを入れ替えます。",
+    "vocabulary": [
+      {
+        "word": "castling",
+        "meaning": "キャスリング",
+        "partOfSpeech": "general",
+        "example": "Use 'castling' in context: castling relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Castling swaps king and rook.",
+    "englishExpression": "Choose \"Castling\" because Castling swaps king and rook.; other options do not match this question.",
+    "knowledgeLevel": "General sports trivia"
+  },
+  {
+    "category": "Sports",
+    "difficulty": "Medium",
+    "question": "In baseball, what is a sacrifice fly?",
+    "questionJapanese": "野球で犠牲フライとは何ですか？",
+    "options": [
+      "Fly ball that scores a runner",
+      "Bunt that advances runners",
+      "Strikeout looking",
+      "Double play"
+    ],
+    "optionsJapanese": [
+      "走者を生還させるフライ",
+      "走者を進めるバント",
+      "見逃し三振",
+      "ダブルプレー"
+    ],
+    "answer": "Fly ball that scores a runner",
+    "explanation": "A sacrifice fly scores a runner from third.",
+    "explanationJapanese": "犠牲フライは三塁走者を生還させるフライです。",
+    "vocabulary": [
+      {
+        "word": "sacrifice fly",
+        "meaning": "犠牲フライ",
+        "partOfSpeech": "general",
+        "example": "Use 'sacrifice fly' in context: sacrifice fly relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: A sacrifice fly scores a runner from third.",
+    "englishExpression": "Choose \"Fly ball that scores a runner\" because A sacrifice fly scores a runner from third.; other options do not match this question.",
+    "knowledgeLevel": "General sports trivia"
+  },
+  {
+    "category": "Sports",
+    "difficulty": "Hard",
+    "question": "What is the en passant move in chess?",
+    "questionJapanese": "チェスのアンパッサンとは何ですか？",
+    "options": [
+      "Special pawn capture",
+      "Castling",
+      "Promotion",
+      "Stalemate"
+    ],
+    "optionsJapanese": [
+      "ポーンの特殊な取り方",
+      "キャスリング",
+      "昇格",
+      "ステイルメイト"
+    ],
+    "answer": "Special pawn capture",
+    "explanation": "En passant is a special pawn capture.",
+    "explanationJapanese": "アンパッサンはポーンの特殊な取り方です。",
+    "vocabulary": [
+      {
+        "word": "en passant",
+        "meaning": "アンパッサン",
+        "partOfSpeech": "general",
+        "example": "Use 'en passant' in context: en passant relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: En passant is a special pawn capture.",
+    "englishExpression": "Choose \"Special pawn capture\" because En passant is a special pawn capture.; other options do not match this question.",
+    "knowledgeLevel": "General sports trivia"
+  }
+]

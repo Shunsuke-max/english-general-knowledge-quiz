@@ -255,11 +255,30 @@ final class AIQuizService {
     }
 
     private static func loadBundledQuestions() -> [QuizQuestion] {
-        guard let url = Bundle.main.url(forResource: "questions", withExtension: "json"),
-              let data = try? Data(contentsOf: url) else {
-            return []
+        let bundle = Bundle.main
+        let questionFiles = (bundle.urls(forResourcesWithExtension: "json", subdirectory: nil) ?? [])
+            .filter { $0.lastPathComponent.hasPrefix("questions_") }
+
+        var allQuestions: [QuizQuestion] = []
+        for url in questionFiles {
+            if let data = try? Data(contentsOf: url),
+               let decoded = try? JSONDecoder().decode([QuizQuestion].self, from: data) {
+                allQuestions.append(contentsOf: decoded)
+            }
         }
-        return (try? JSONDecoder().decode([QuizQuestion].self, from: data)) ?? []
+
+        if !allQuestions.isEmpty {
+            return allQuestions
+        }
+
+        // Backward compatibility: fall back to single-file questions.json if split files are missing.
+        if let url = bundle.url(forResource: "questions", withExtension: "json"),
+           let data = try? Data(contentsOf: url),
+           let decoded = try? JSONDecoder().decode([QuizQuestion].self, from: data) {
+            return decoded
+        }
+
+        return []
     }
 
     private static let sampleQuestion: QuizQuestion = {

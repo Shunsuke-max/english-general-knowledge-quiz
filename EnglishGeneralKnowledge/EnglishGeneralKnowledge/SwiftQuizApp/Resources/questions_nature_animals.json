@@ -1,0 +1,2354 @@
+[
+  {
+    "question": "Which part of a plant carries water from the roots to the leaves?",
+    "questionJapanese": "植物のどの部分が根から葉に水を運びますか？",
+    "options": [
+      "Xylem",
+      "Phloem",
+      "Stem",
+      "Petal"
+    ],
+    "answer": "Xylem",
+    "explanation": "Xylem vessels transport water and minerals upward through the plant from the roots.",
+    "explanationJapanese": "木部（キシレム）は根から植物全体に水とミネラルを運ぶ管です。",
+    "vocabulary": [
+      {
+        "word": "vessel",
+        "meaning": "管",
+        "partOfSpeech": "general",
+        "example": "Use 'vessel' in context: vessel relates to this topic."
+      },
+      {
+        "word": "transport",
+        "meaning": "輸送する",
+        "partOfSpeech": "general",
+        "example": "Use 'transport' in context: transport relates to this topic."
+      },
+      {
+        "word": "mineral",
+        "meaning": "ミネラル",
+        "partOfSpeech": "general",
+        "example": "Use 'mineral' in context: mineral relates to this topic."
+      }
+    ],
+    "category": "Nature & Animals",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: Xylem vessels transport water and minerals upward through the plant from the roots.",
+    "englishExpression": "Choose \"Xylem\" because Xylem vessels transport water and minerals upward through the plant from the roots.; other options do not match this question.",
+    "knowledgeLevel": "General biology",
+    "optionsJapanese": [
+      "Xylem",
+      "Phloem",
+      "茎",
+      "Petal"
+    ]
+  },
+  {
+    "question": "What is the fastest land animal?",
+    "questionJapanese": "陸上で最も速い動物は何ですか？",
+    "options": [
+      "Lion",
+      "Gazelle",
+      "Cheetah",
+      "Ostrich"
+    ],
+    "answer": "Cheetah",
+    "explanation": "Cheetahs can sprint up to 70 mph in short bursts, using their flexible spine and long legs.",
+    "explanationJapanese": "チーターは柔軟な背骨と長い脚を使って最大時速約112キロで走ることができます。",
+    "vocabulary": [
+      {
+        "word": "sprint",
+        "meaning": "全力疾走",
+        "partOfSpeech": "general",
+        "example": "Use 'sprint' in context: sprint relates to this topic."
+      },
+      {
+        "word": "burst",
+        "meaning": "短時間",
+        "partOfSpeech": "general",
+        "example": "Use 'burst' in context: burst relates to this topic."
+      },
+      {
+        "word": "flexible",
+        "meaning": "柔軟な",
+        "partOfSpeech": "general",
+        "example": "Use 'flexible' in context: flexible relates to this topic."
+      }
+    ],
+    "category": "Nature & Animals",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: Cheetahs can sprint up to 70 mph in short bursts, using their flexible spine and long legs.",
+    "englishExpression": "Choose \"Cheetah\" because Cheetahs can sprint up to 70 mph in short bursts, using their flexible spine and long legs.; other options do not match this question.",
+    "knowledgeLevel": "General biology",
+    "optionsJapanese": [
+      "Lion",
+      "Gazelle",
+      "Cheetah",
+      "Ostrich"
+    ]
+  },
+  {
+    "question": "What is the largest mammal currently living on Earth?",
+    "questionJapanese": "現在地球上で生きている最大の哺乳類は何ですか？",
+    "options": [
+      "Elephant",
+      "Blue Whale",
+      "Giraffe",
+      "Hippopotamus"
+    ],
+    "answer": "Blue Whale",
+    "explanation": "The blue whale is the largest mammal ever recorded, reaching lengths over 100 feet.",
+    "explanationJapanese": "シロナガスクジラは記録された中で最大の哺乳類で、全長は30メートルを超えます。",
+    "vocabulary": [
+      {
+        "word": "mammal",
+        "meaning": "哺乳類",
+        "partOfSpeech": "general",
+        "example": "Use 'mammal' in context: mammal relates to this topic."
+      },
+      {
+        "word": "length",
+        "meaning": "長さ",
+        "partOfSpeech": "general",
+        "example": "Use 'length' in context: length relates to this topic."
+      },
+      {
+        "word": "record",
+        "meaning": "記録",
+        "partOfSpeech": "general",
+        "example": "Use 'record' in context: record relates to this topic."
+      }
+    ],
+    "category": "Nature & Animals",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: The blue whale is the largest mammal ever recorded, reaching lengths over 100 feet.",
+    "englishExpression": "Choose \"Blue Whale\" because The blue whale is the largest mammal ever recorded, reaching lengths over 100 feet.; other options do not match this question.",
+    "knowledgeLevel": "General biology",
+    "optionsJapanese": [
+      "Elephant",
+      "Blue Whale",
+      "Giraffe",
+      "Hippopotamus"
+    ]
+  },
+  {
+    "question": "Which bird is known for hovering in mid-air to feed on nectar?",
+    "questionJapanese": "空中でホバリングして蜜を吸うことで知られる鳥は何ですか？",
+    "options": [
+      "Hummingbird",
+      "Penguin",
+      "Falcon",
+      "Flamingo"
+    ],
+    "answer": "Hummingbird",
+    "explanation": "Hummingbirds flap their wings rapidly and can hover while sipping nectar.",
+    "explanationJapanese": "ハチドリは羽を素早く羽ばたかせ、蜜を吸うときもホバリングできます。",
+    "vocabulary": [
+      {
+        "word": "hover",
+        "meaning": "ホバリングする",
+        "partOfSpeech": "general",
+        "example": "Use 'hover' in context: hover relates to this topic."
+      },
+      {
+        "word": "nectar",
+        "meaning": "花の蜜",
+        "partOfSpeech": "general",
+        "example": "Use 'nectar' in context: nectar relates to this topic."
+      },
+      {
+        "word": "rapidly",
+        "meaning": "素早く",
+        "partOfSpeech": "general",
+        "example": "Use 'rapidly' in context: rapidly relates to this topic."
+      }
+    ],
+    "category": "Nature & Animals",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: Hummingbirds flap their wings rapidly and can hover while sipping nectar.",
+    "englishExpression": "Choose \"Hummingbird\" because Hummingbirds flap their wings rapidly and can hover while sipping nectar.; other options do not match this question.",
+    "knowledgeLevel": "General biology",
+    "optionsJapanese": [
+      "Hummingbird",
+      "Penguin",
+      "Falcon",
+      "Flamingo"
+    ]
+  },
+  {
+    "question": "Which mammal can fly?",
+    "questionJapanese": "飛ぶことができる哺乳類はどれですか？",
+    "options": [
+      "Bat",
+      "Sparrow",
+      "Falcon",
+      "Squirrel"
+    ],
+    "answer": "Bat",
+    "explanation": "Bats are the only mammals that achieve powered flight using flexible-wing membranes.",
+    "explanationJapanese": "コウモリは柔軟な翼膜を使って動力飛行できる唯一の哺乳類です。",
+    "vocabulary": [
+      {
+        "word": "membrane",
+        "meaning": "膜",
+        "partOfSpeech": "general",
+        "example": "Use 'membrane' in context: membrane relates to this topic."
+      },
+      {
+        "word": "powered",
+        "meaning": "動力付きの",
+        "partOfSpeech": "general",
+        "example": "Use 'powered' in context: powered relates to this topic."
+      },
+      {
+        "word": "achieve",
+        "meaning": "達成する",
+        "partOfSpeech": "general",
+        "example": "Use 'achieve' in context: achieve relates to this topic."
+      }
+    ],
+    "category": "Nature & Animals",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: Bats are the only mammals that achieve powered flight using flexible-wing membranes.",
+    "englishExpression": "Choose \"Bat\" because Bats are the only mammals that achieve powered flight using flexible-wing membranes.; other options do not match this question.",
+    "knowledgeLevel": "General biology",
+    "optionsJapanese": [
+      "Bat",
+      "Sparrow",
+      "Falcon",
+      "Squirrel"
+    ]
+  },
+  {
+    "question": "What is the main food of giant pandas?",
+    "questionJapanese": "ジャイアントパンダの主食は何ですか？",
+    "options": [
+      "Bamboo",
+      "Fruits",
+      "Insects",
+      "Fish"
+    ],
+    "answer": "Bamboo",
+    "explanation": "Although pandas are bears, they eat bamboo almost exclusively and have strong molars to chew it.",
+    "explanationJapanese": "パンダは熊ですが、ほとんど竹だけを食べるため、それを噛む強い臼歯を持っています。",
+    "vocabulary": [
+      {
+        "word": "molars",
+        "meaning": "臼歯",
+        "partOfSpeech": "general",
+        "example": "Use 'molars' in context: molars relates to this topic."
+      },
+      {
+        "word": "exclusively",
+        "meaning": "専ら",
+        "partOfSpeech": "general",
+        "example": "Use 'exclusively' in context: exclusively relates to this topic."
+      },
+      {
+        "word": "chew",
+        "meaning": "噛む",
+        "partOfSpeech": "general",
+        "example": "Use 'chew' in context: chew relates to this topic."
+      }
+    ],
+    "category": "Nature & Animals",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: Although pandas are bears, they eat bamboo almost exclusively and have strong molars to chew it.",
+    "englishExpression": "Choose \"Bamboo\" because Although pandas are bears, they eat bamboo almost exclusively and have strong molars to chew it.; other options do not match this question.",
+    "knowledgeLevel": "General biology",
+    "optionsJapanese": [
+      "Bamboo",
+      "Fruits",
+      "Insects",
+      "Fish"
+    ]
+  },
+  {
+    "question": "Which fish uses electric shocks to stun prey?",
+    "questionJapanese": "電気ショックで獲物を気絶させる魚はどれですか？",
+    "options": [
+      "Electric eel",
+      "Clownfish",
+      "Piranha",
+      "Catfish"
+    ],
+    "answer": "Electric eel",
+    "explanation": "Electric eels generate electricity with organs along their body to navigate and capture prey.",
+    "explanationJapanese": "電気ウナギは体に沿った器官で電気を作り、獲物を捕らえます。",
+    "vocabulary": [
+      {
+        "word": "organ",
+        "meaning": "器官",
+        "partOfSpeech": "general",
+        "example": "Use 'organ' in context: organ relates to this topic."
+      },
+      {
+        "word": "generate",
+        "meaning": "発生させる",
+        "partOfSpeech": "general",
+        "example": "Use 'generate' in context: generate relates to this topic."
+      },
+      {
+        "word": "capture",
+        "meaning": "捕らえる",
+        "partOfSpeech": "general",
+        "example": "Use 'capture' in context: capture relates to this topic."
+      }
+    ],
+    "category": "Nature & Animals",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: Electric eels generate electricity with organs along their body to navigate and capture prey.",
+    "englishExpression": "Choose \"Electric eel\" because Electric eels generate electricity with organs along their body to navigate and capture prey.; other options do not match this question.",
+    "knowledgeLevel": "General biology",
+    "optionsJapanese": [
+      "Electric eel",
+      "Clownfish",
+      "Piranha",
+      "Catfish"
+    ]
+  },
+  {
+    "question": "Which desert animal has two humps and stores fat in them?",
+    "questionJapanese": "2つのこぶを持ち、その中に脂肪を蓄える砂漠の動物は何ですか？",
+    "options": [
+      "Dromedary camel",
+      "Bactrian camel",
+      "Llama",
+      "Alpaca"
+    ],
+    "answer": "Bactrian camel",
+    "explanation": "Bactrian camels have two humps that store fat and water, enabling them to survive harsh deserts.",
+    "explanationJapanese": "バクトリアンキャメルは脂肪と水を蓄える2つのこぶがあり、過酷な砂漠でも生き残れます。",
+    "vocabulary": [
+      {
+        "word": "harsh",
+        "meaning": "厳しい",
+        "partOfSpeech": "general",
+        "example": "Use 'harsh' in context: harsh relates to this topic."
+      },
+      {
+        "word": "enable",
+        "meaning": "可能にする",
+        "partOfSpeech": "general",
+        "example": "Use 'enable' in context: enable relates to this topic."
+      },
+      {
+        "word": "survive",
+        "meaning": "生き残る",
+        "partOfSpeech": "general",
+        "example": "Use 'survive' in context: survive relates to this topic."
+      }
+    ],
+    "category": "Nature & Animals",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: Bactrian camels have two humps that store fat and water, enabling them to survive harsh deserts.",
+    "englishExpression": "Choose \"Bactrian camel\" because Bactrian camels have two humps that store fat and water, enabling them to survive harsh deserts.; other options do not match this question.",
+    "knowledgeLevel": "General biology",
+    "optionsJapanese": [
+      "Dromedary camel",
+      "Bactrian camel",
+      "Llama",
+      "Alpaca"
+    ]
+  },
+  {
+    "question": "Which tree produces cones and keeps its needles year-round?",
+    "questionJapanese": "球果をつけ、葉を一年中保つ樹木はどれですか？",
+    "options": [
+      "Pine",
+      "Maple",
+      "Birch",
+      "Oak"
+    ],
+    "answer": "Pine",
+    "explanation": "Pine trees keep their needles and release seeds from cones, thriving in cold climates.",
+    "explanationJapanese": "松の木は針葉を一年中維持し、球果から種を放出し寒冷気候でも育ちます。",
+    "vocabulary": [
+      {
+        "word": "release",
+        "meaning": "放出する",
+        "partOfSpeech": "general",
+        "example": "Use 'release' in context: release relates to this topic."
+      },
+      {
+        "word": "seed",
+        "meaning": "種",
+        "partOfSpeech": "general",
+        "example": "Use 'seed' in context: seed relates to this topic."
+      },
+      {
+        "word": "climate",
+        "meaning": "気候",
+        "partOfSpeech": "general",
+        "example": "Use 'climate' in context: climate relates to this topic."
+      }
+    ],
+    "category": "Nature & Animals",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: Pine trees keep their needles and release seeds from cones, thriving in cold climates.",
+    "englishExpression": "Choose \"Pine\" because Pine trees keep their needles and release seeds from cones, thriving in cold climates.; other options do not match this question.",
+    "knowledgeLevel": "General biology",
+    "optionsJapanese": [
+      "Pine",
+      "Maple",
+      "Birch",
+      "Oak"
+    ]
+  },
+  {
+    "question": "Which land carnivore is the largest in Africa?",
+    "questionJapanese": "アフリカで最大の陸上肉食動物はどれですか？",
+    "options": [
+      "Spotted hyena",
+      "Lion",
+      "Cheetah",
+      "Leopard"
+    ],
+    "answer": "Spotted hyena",
+    "explanation": "Spotted hyenas have powerful jaws and hunt or scavenge in clans ruled by females.",
+    "explanationJapanese": "ブチハイエナは強靭な顎を持ち、メスが統率する群れで狩りや死骸狩りをします。",
+    "vocabulary": [
+      {
+        "word": "clan",
+        "meaning": "群れ",
+        "partOfSpeech": "general",
+        "example": "Use 'clan' in context: clan relates to this topic."
+      },
+      {
+        "word": "scavenge",
+        "meaning": "死骸をあさる",
+        "partOfSpeech": "general",
+        "example": "Use 'scavenge' in context: scavenge relates to this topic."
+      },
+      {
+        "word": "female",
+        "meaning": "雌",
+        "partOfSpeech": "general",
+        "example": "Use 'female' in context: female relates to this topic."
+      }
+    ],
+    "category": "Nature & Animals",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: Spotted hyenas have powerful jaws and hunt or scavenge in clans ruled by females.",
+    "englishExpression": "Choose \"Spotted hyena\" because Spotted hyenas have powerful jaws and hunt or scavenge in clans ruled by females.; other options do not match this question.",
+    "knowledgeLevel": "General biology",
+    "optionsJapanese": [
+      "Spotted hyena",
+      "Lion",
+      "Cheetah",
+      "Leopard"
+    ]
+  },
+  {
+    "question": "Which marine animal uses eight arms and is highly intelligent?",
+    "questionJapanese": "8本の腕を使い、非常に知能が高い海の生き物は何ですか？",
+    "options": [
+      "Octopus",
+      "Squid",
+      "Seal",
+      "Dolphin"
+    ],
+    "answer": "Octopus",
+    "explanation": "Octopuses solve puzzles, use tools, and escape enclosures, showing advanced cognition.",
+    "explanationJapanese": "タコはパズルを解き、道具を使い、隙間から逃げるほど高度な知能を持ちます。",
+    "vocabulary": [
+      {
+        "word": "cognition",
+        "meaning": "認知",
+        "partOfSpeech": "general",
+        "example": "Use 'cognition' in context: cognition relates to this topic."
+      },
+      {
+        "word": "escape",
+        "meaning": "逃げる",
+        "partOfSpeech": "general",
+        "example": "Use 'escape' in context: escape relates to this topic."
+      },
+      {
+        "word": "tool",
+        "meaning": "道具",
+        "partOfSpeech": "general",
+        "example": "Use 'tool' in context: tool relates to this topic."
+      }
+    ],
+    "category": "Nature & Animals",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: Octopuses solve puzzles, use tools, and escape enclosures, showing advanced cognition.",
+    "englishExpression": "Choose \"Octopus\" because Octopuses solve puzzles, use tools, and escape enclosures, showing advanced cognition.; other options do not match this question.",
+    "knowledgeLevel": "General biology",
+    "optionsJapanese": [
+      "Octopus",
+      "Squid",
+      "Seal",
+      "Dolphin"
+    ]
+  },
+  {
+    "question": "Which bird migrates from the Arctic to the Antarctic each year?",
+    "questionJapanese": "北極から南極まで毎年移動する鳥はどれですか？",
+    "options": [
+      "Arctic tern",
+      "Albatross",
+      "Wandering albatross",
+      "Canada goose"
+    ],
+    "answer": "Arctic tern",
+    "explanation": "The Arctic tern travels about 44,000 miles between polar regions, the longest migration of any bird.",
+    "explanationJapanese": "アラスカオオトウゾクカモメは北極と南極の間を約44,000マイル移動し、鳥類で最も長い渡りをします。",
+    "vocabulary": [
+      {
+        "word": "migrate",
+        "meaning": "移動する",
+        "partOfSpeech": "general",
+        "example": "Use 'migrate' in context: migrate relates to this topic."
+      },
+      {
+        "word": "polar",
+        "meaning": "極地の",
+        "partOfSpeech": "general",
+        "example": "Use 'polar' in context: polar relates to this topic."
+      },
+      {
+        "word": "region",
+        "meaning": "地域",
+        "partOfSpeech": "general",
+        "example": "Use 'region' in context: region relates to this topic."
+      }
+    ],
+    "category": "Nature & Animals",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: The Arctic tern travels about 44,000 miles between polar regions, the longest migration of any bird.",
+    "englishExpression": "Choose \"Arctic tern\" because The Arctic tern travels about 44,000 miles between polar regions, the longest migration of any bird.; other options do not match this question.",
+    "knowledgeLevel": "General biology",
+    "optionsJapanese": [
+      "Arctic tern",
+      "Albatross",
+      "Wandering albatross",
+      "Canada goose"
+    ]
+  },
+  {
+    "question": "Which reptile changes color to blend into its surroundings?",
+    "questionJapanese": "周囲に溶け込むために体色を変える爬虫類はどれですか？",
+    "options": [
+      "Chameleon",
+      "Anole",
+      "Iguana",
+      "Gecko"
+    ],
+    "answer": "Chameleon",
+    "explanation": "Chameleons adjust pigment cells to hide from predators and signal mates.",
+    "explanationJapanese": "カメレオンは色素細胞を変えて捕食者から隠れたり仲間に合図を送ったりします。",
+    "vocabulary": [
+      {
+        "word": "predator",
+        "meaning": "捕食者",
+        "partOfSpeech": "general",
+        "example": "Use 'predator' in context: predator relates to this topic."
+      },
+      {
+        "word": "signal",
+        "meaning": "合図",
+        "partOfSpeech": "general",
+        "example": "Use 'signal' in context: signal relates to this topic."
+      },
+      {
+        "word": "adapt",
+        "meaning": "適応する",
+        "partOfSpeech": "general",
+        "example": "Use 'adapt' in context: adapt relates to this topic."
+      }
+    ],
+    "category": "Nature & Animals",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: Chameleons adjust pigment cells to hide from predators and signal mates.",
+    "englishExpression": "Choose \"Chameleon\" because Chameleons adjust pigment cells to hide from predators and signal mates.; other options do not match this question.",
+    "knowledgeLevel": "General biology",
+    "optionsJapanese": [
+      "Chameleon",
+      "Anole",
+      "Iguana",
+      "Gecko"
+    ]
+  },
+  {
+    "question": "Which aquatic animal uses echolocation to find prey at night?",
+    "questionJapanese": "夜にエコーロケーションで獲物を探す水生動物はどれですか？",
+    "options": [
+      "Dolphin",
+      "Whale",
+      "Seal",
+      "Shark"
+    ],
+    "answer": "Dolphin",
+    "explanation": "Dolphins emit clicks that bounce off objects, letting them locate fish and obstacles.",
+    "explanationJapanese": "イルカはクリック音を出し、それが反射して魚や障害物の位置を知ることができます。",
+    "vocabulary": [
+      {
+        "word": "click",
+        "meaning": "クリック音",
+        "partOfSpeech": "general",
+        "example": "Use 'click' in context: click relates to this topic."
+      },
+      {
+        "word": "bounce",
+        "meaning": "跳ね返る",
+        "partOfSpeech": "general",
+        "example": "Use 'bounce' in context: bounce relates to this topic."
+      },
+      {
+        "word": "object",
+        "meaning": "対象",
+        "partOfSpeech": "general",
+        "example": "Use 'object' in context: object relates to this topic."
+      }
+    ],
+    "category": "Nature & Animals",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: Dolphins emit clicks that bounce off objects, letting them locate fish and obstacles.",
+    "englishExpression": "Choose \"Dolphin\" because Dolphins emit clicks that bounce off objects, letting them locate fish and obstacles.; other options do not match this question.",
+    "knowledgeLevel": "General biology",
+    "optionsJapanese": [
+      "Dolphin",
+      "Whale",
+      "Seal",
+      "Shark"
+    ]
+  },
+  {
+    "question": "Which mammal is known for carrying its young in a pouch?",
+    "questionJapanese": "幼獣を袋の中で育てることで知られている哺乳類は何ですか？",
+    "options": [
+      "Kangaroo",
+      "Koala",
+      "Opossum",
+      "All of the above"
+    ],
+    "answer": "All of the above",
+    "explanation": "Kangaroos, koalas, and opossums are marsupials that carry joeys in pouches.",
+    "explanationJapanese": "カンガルー、コアラ、オポッサムはいずれも袋から幼獣を育てる有袋類です。",
+    "vocabulary": [
+      {
+        "word": "marsupial",
+        "meaning": "有袋類",
+        "partOfSpeech": "general",
+        "example": "Use 'marsupial' in context: marsupial relates to this topic."
+      },
+      {
+        "word": "joey",
+        "meaning": "幼獣",
+        "partOfSpeech": "general",
+        "example": "Use 'joey' in context: joey relates to this topic."
+      },
+      {
+        "word": "pouch",
+        "meaning": "袋",
+        "partOfSpeech": "general",
+        "example": "Use 'pouch' in context: pouch relates to this topic."
+      }
+    ],
+    "category": "Nature & Animals",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: Kangaroos, koalas, and opossums are marsupials that carry joeys in pouches.",
+    "englishExpression": "Choose \"All of the above\" because Kangaroos, koalas, and opossums are marsupials that carry joeys in pouches.; other options do not match this question.",
+    "knowledgeLevel": "General biology",
+    "optionsJapanese": [
+      "Kangaroo",
+      "Koala",
+      "Opossum",
+      "上記すべて"
+    ]
+  },
+  {
+    "question": "Which animal is famed for swimming with a distinctive black-and-white stripe pattern and a panda-like face?",
+    "questionJapanese": "白黒のストライプ模様とパンダのような顔で知られる泳ぎの得意な動物は何ですか？",
+    "options": [
+      "Orca",
+      "Dolphin",
+      "Seal",
+      "Penguin"
+    ],
+    "answer": "Orca",
+    "explanation": "Orcas, or killer whales, are toothed whales that live in pods around the world.",
+    "explanationJapanese": "シャチは歯を持つクジラで、世界中の群れで暮らしています。",
+    "vocabulary": [
+      {
+        "word": "pod",
+        "meaning": "群れ",
+        "partOfSpeech": "general",
+        "example": "Use 'pod' in context: pod relates to this topic."
+      },
+      {
+        "word": "toothed",
+        "meaning": "歯を持つ",
+        "partOfSpeech": "general",
+        "example": "Use 'toothed' in context: toothed relates to this topic."
+      },
+      {
+        "word": "killer whale",
+        "meaning": "シャチ",
+        "partOfSpeech": "general",
+        "example": "Use 'killer whale' in context: killer whale relates to this topic."
+      }
+    ],
+    "category": "Nature & Animals",
+    "difficulty": "Hard",
+    "knowledgeInsight": "Key takeaway: Orcas, or killer whales, are toothed whales that live in pods around the world.",
+    "englishExpression": "Choose \"Orca\" because Orcas, or killer whales, are toothed whales that live in pods around the world.; other options do not match this question.",
+    "knowledgeLevel": "General biology",
+    "optionsJapanese": [
+      "Orca",
+      "Dolphin",
+      "Seal",
+      "Penguin"
+    ]
+  },
+  {
+    "question": "What is the largest living species of shark?",
+    "questionJapanese": "現存する最大のサメはどの種ですか？",
+    "options": [
+      "Whale shark",
+      "Great white shark",
+      "Tiger shark",
+      "Hammerhead shark"
+    ],
+    "answer": "Whale shark",
+    "explanation": "The whale shark is the largest living shark species.",
+    "explanationJapanese": "ジンベエザメは現存する最大のサメです。",
+    "vocabulary": [
+      {
+        "word": "whale shark",
+        "meaning": "ジンベエザメ",
+        "partOfSpeech": "general",
+        "example": "Use 'whale shark' in context: whale shark relates to this topic."
+      },
+      {
+        "word": "largest",
+        "meaning": "最大",
+        "partOfSpeech": "general",
+        "example": "Use 'largest' in context: largest relates to this topic."
+      }
+    ],
+    "category": "Nature & Animals",
+    "difficulty": "Medium",
+    "knowledgeInsight": "Key takeaway: The whale shark is the largest living shark species.",
+    "englishExpression": "Choose \"Whale shark\" because The whale shark is the largest living shark species.; other options do not match this question.",
+    "knowledgeLevel": "General biology",
+    "optionsJapanese": [
+      "Whale shark",
+      "Great white shark",
+      "Tiger shark",
+      "Hammerhead shark"
+    ]
+  },
+  {
+    "question": "What do bees collect from flowers to make honey?",
+    "questionJapanese": "ハチがハチミツを作るため花から集めるものは何ですか？",
+    "options": [
+      "Nectar",
+      "Pollen",
+      "Leaves",
+      "Seeds"
+    ],
+    "answer": "Nectar",
+    "explanation": "Bees collect nectar from flowers to make honey.",
+    "explanationJapanese": "ハチは花から蜜を集めてハチミツを作ります。",
+    "vocabulary": [
+      {
+        "word": "nectar",
+        "meaning": "蜜",
+        "partOfSpeech": "general",
+        "example": "Use 'nectar' in context: nectar relates to this topic."
+      },
+      {
+        "word": "honey",
+        "meaning": "ハチミツ",
+        "partOfSpeech": "general",
+        "example": "Use 'honey' in context: honey relates to this topic."
+      }
+    ],
+    "category": "Nature & Animals",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: Bees collect nectar from flowers to make honey.",
+    "englishExpression": "Choose \"Nectar\" because Bees collect nectar from flowers to make honey.; other options do not match this question.",
+    "knowledgeLevel": "General biology",
+    "optionsJapanese": [
+      "Nectar",
+      "Pollen",
+      "Leaves",
+      "Seeds"
+    ]
+  },
+  {
+    "question": "Which process turns a caterpillar into a butterfly?",
+    "questionJapanese": "イモムシがチョウになる過程は何と呼ばれますか？",
+    "options": [
+      "Metamorphosis",
+      "Photosynthesis",
+      "Fermentation",
+      "Evaporation"
+    ],
+    "answer": "Metamorphosis",
+    "explanation": "Metamorphosis transforms a caterpillar into a butterfly.",
+    "explanationJapanese": "変態によってイモムシがチョウへと姿を変えます。",
+    "vocabulary": [
+      {
+        "word": "metamorphosis",
+        "meaning": "変態",
+        "partOfSpeech": "general",
+        "example": "Use 'metamorphosis' in context: metamorphosis relates to this topic."
+      },
+      {
+        "word": "caterpillar",
+        "meaning": "イモムシ",
+        "partOfSpeech": "general",
+        "example": "Use 'caterpillar' in context: caterpillar relates to this topic."
+      }
+    ],
+    "category": "Nature & Animals",
+    "difficulty": "Easy",
+    "knowledgeInsight": "Key takeaway: Metamorphosis transforms a caterpillar into a butterfly.",
+    "englishExpression": "Choose \"Metamorphosis\" because Metamorphosis transforms a caterpillar into a butterfly.; other options do not match this question.",
+    "knowledgeLevel": "General biology",
+    "optionsJapanese": [
+      "Metamorphosis",
+      "光合成",
+      "Fermentation",
+      "蒸発"
+    ]
+  },
+  {
+    "question": "Which biome is characterized by permafrost and low vegetation?",
+    "questionJapanese": "永久凍土と低い植生が特徴のバイオームはどれですか？",
+    "options": [
+      "Tundra",
+      "Rainforest",
+      "Savanna",
+      "Desert"
+    ],
+    "answer": "Tundra",
+    "explanation": "Tundra biomes have permafrost and sparse vegetation.",
+    "explanationJapanese": "ツンドラは永久凍土と疎らな植生が特徴です。",
+    "vocabulary": [
+      {
+        "word": "tundra",
+        "meaning": "ツンドラ",
+        "partOfSpeech": "general",
+        "example": "Use 'tundra' in context: tundra relates to this topic."
+      },
+      {
+        "word": "permafrost",
+        "meaning": "永久凍土",
+        "partOfSpeech": "general",
+        "example": "Use 'permafrost' in context: permafrost relates to this topic."
+      }
+    ],
+    "category": "Nature & Animals",
+    "difficulty": "Hard",
+    "knowledgeInsight": "Key takeaway: Tundra biomes have permafrost and sparse vegetation.",
+    "englishExpression": "Choose \"Tundra\" because Tundra biomes have permafrost and sparse vegetation.; other options do not match this question.",
+    "knowledgeLevel": "General biology",
+    "optionsJapanese": [
+      "Tundra",
+      "Rainforest",
+      "Savanna",
+      "砂漠"
+    ]
+  },
+  {
+    "category": "Nature & Animals",
+    "difficulty": "Medium",
+    "question": "What adaptation allows camels to survive with scarce water?",
+    "questionJapanese": "ラクダが少ない水で生き残れる適応は何ですか？",
+    "options": [
+      "Storing fat in humps",
+      "Breathing underwater",
+      "Producing chlorophyll",
+      "Cold blooded metabolism"
+    ],
+    "answer": "Storing fat in humps",
+    "explanation": "Camels store fat in their humps, letting them go long periods without water.",
+    "explanationJapanese": "ラクダはこぶに脂肪を蓄え、水が少なくても長期間生きられます。",
+    "vocabulary": [
+      {
+        "word": "hump",
+        "meaning": "こぶ",
+        "partOfSpeech": "general",
+        "example": "Use 'hump' in context: hump relates to this topic."
+      },
+      {
+        "word": "fat",
+        "meaning": "脂肪",
+        "partOfSpeech": "general",
+        "example": "Use 'fat' in context: fat relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Camels store fat in their humps, letting them go long periods without water.",
+    "englishExpression": "Choose \"Storing fat in humps\" because Camels store fat in their humps, letting them go long periods without water.; other options do not match this question.",
+    "knowledgeLevel": "General biology",
+    "optionsJapanese": [
+      "Storing fat in humps",
+      "Breathing underwater",
+      "Producing chlorophyll",
+      "Cold blooded metabolism"
+    ]
+  },
+  {
+    "category": "Nature & Animals",
+    "difficulty": "Easy",
+    "question": "What is the largest land animal?",
+    "questionJapanese": "最も大きな陸上動物は何ですか？",
+    "options": [
+      "African elephant",
+      "Hippopotamus",
+      "Giraffe",
+      "White rhinoceros"
+    ],
+    "answer": "African elephant",
+    "explanation": "The African elephant is the largest land animal.",
+    "explanationJapanese": "アフリカゾウは最大の陸上動物です。",
+    "vocabulary": [
+      {
+        "word": "elephant",
+        "meaning": "ゾウ",
+        "partOfSpeech": "general",
+        "example": "Use 'elephant' in context: elephant relates to this topic."
+      },
+      {
+        "word": "land animal",
+        "meaning": "陸上動物",
+        "partOfSpeech": "general",
+        "example": "Use 'land animal' in context: land animal relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: The African elephant is the largest land animal.",
+    "englishExpression": "Choose \"African elephant\" because The African elephant is the largest land animal.; other options do not match this question.",
+    "knowledgeLevel": "General biology",
+    "optionsJapanese": [
+      "African elephant",
+      "Hippopotamus",
+      "Giraffe",
+      "White rhinoceros"
+    ]
+  },
+  {
+    "category": "Nature & Animals",
+    "difficulty": "Medium",
+    "question": "Which animal is known for building dams?",
+    "questionJapanese": "ダムを作ることで知られる動物はどれですか？",
+    "options": [
+      "Beaver",
+      "Otter",
+      "Badger",
+      "Raccoon"
+    ],
+    "answer": "Beaver",
+    "explanation": "Beavers build dams in rivers and streams.",
+    "explanationJapanese": "ビーバーは川や小川にダムを作ります。",
+    "vocabulary": [
+      {
+        "word": "beaver",
+        "meaning": "ビーバー",
+        "partOfSpeech": "general",
+        "example": "Use 'beaver' in context: beaver relates to this topic."
+      },
+      {
+        "word": "dam",
+        "meaning": "ダム",
+        "partOfSpeech": "general",
+        "example": "Use 'dam' in context: dam relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Beavers build dams in rivers and streams.",
+    "englishExpression": "Choose \"Beaver\" because Beavers build dams in rivers and streams.; other options do not match this question.",
+    "knowledgeLevel": "General biology",
+    "optionsJapanese": [
+      "Beaver",
+      "Otter",
+      "Badger",
+      "Raccoon"
+    ]
+  },
+  {
+    "category": "Nature & Animals",
+    "difficulty": "Medium",
+    "question": "What is the largest living reptile?",
+    "questionJapanese": "現存する最大の爬虫類はどれですか？",
+    "options": [
+      "Saltwater crocodile",
+      "Komodo dragon",
+      "Galápagos tortoise",
+      "Anaconda"
+    ],
+    "optionsJapanese": [
+      "イリエワニ",
+      "コモドドラゴン",
+      "ガラパゴスゾウガメ",
+      "アナコンダ"
+    ],
+    "answer": "Saltwater crocodile",
+    "explanation": "The saltwater crocodile is the largest living reptile.",
+    "explanationJapanese": "イリエワニは現存する最大の爬虫類です。",
+    "vocabulary": [
+      {
+        "word": "reptile",
+        "meaning": "爬虫類",
+        "partOfSpeech": "general",
+        "example": "Use 'reptile' in context: reptile relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: The saltwater crocodile is the largest living reptile.",
+    "englishExpression": "Choose \"Saltwater crocodile\" because The saltwater crocodile is the largest living reptile.; other options do not match this question.",
+    "knowledgeLevel": "General biology"
+  },
+  {
+    "category": "Nature & Animals",
+    "difficulty": "Medium",
+    "question": "What is the only marsupial native to North America?",
+    "questionJapanese": "北米原産の唯一の有袋類はどれですか？",
+    "options": [
+      "Virginia opossum",
+      "Koala",
+      "Kangaroo",
+      "Tasmanian devil"
+    ],
+    "optionsJapanese": [
+      "バージニアオポッサム",
+      "コアラ",
+      "カンガルー",
+      "タスマニアデビル"
+    ],
+    "answer": "Virginia opossum",
+    "explanation": "The Virginia opossum is the only native marsupial in North America.",
+    "explanationJapanese": "バージニアオポッサムは北米に生息する唯一の有袋類です。",
+    "vocabulary": [
+      {
+        "word": "marsupial",
+        "meaning": "有袋類",
+        "partOfSpeech": "general",
+        "example": "Use 'marsupial' in context: marsupial relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: The Virginia opossum is the only native marsupial in North America.",
+    "englishExpression": "Choose \"Virginia opossum\" because The Virginia opossum is the only native marsupial in North America.; other options do not match this question.",
+    "knowledgeLevel": "General biology"
+  },
+  {
+    "category": "Nature & Animals",
+    "difficulty": "Easy",
+    "question": "Which animal is known for black and white stripes?",
+    "questionJapanese": "白黒の縞模様で知られる動物はどれですか？",
+    "options": [
+      "Zebra",
+      "Panda",
+      "Skunk",
+      "Orca"
+    ],
+    "optionsJapanese": [
+      "シマウマ",
+      "パンダ",
+      "スカンク",
+      "シャチ"
+    ],
+    "answer": "Zebra",
+    "explanation": "Zebras are known for their black and white stripes.",
+    "explanationJapanese": "シマウマは白黒の縞模様で知られます。",
+    "vocabulary": [
+      {
+        "word": "stripe",
+        "meaning": "縞",
+        "partOfSpeech": "general",
+        "example": "Use 'stripe' in context: stripe relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Zebras are known for their black and white stripes.",
+    "englishExpression": "Choose \"Zebra\" because Zebras are known for their black and white stripes.; other options do not match this question.",
+    "knowledgeLevel": "General biology"
+  },
+  {
+    "category": "Nature & Animals",
+    "difficulty": "Medium",
+    "question": "What process allows insects like butterflies to transform completely?",
+    "questionJapanese": "チョウなどの昆虫が完全に姿を変える過程は何ですか？",
+    "options": [
+      "Complete metamorphosis",
+      "Moulting",
+      "Hibernation",
+      "Photosynthesis"
+    ],
+    "optionsJapanese": [
+      "完全変態",
+      "脱皮",
+      "冬眠",
+      "光合成"
+    ],
+    "answer": "Complete metamorphosis",
+    "explanation": "Butterflies undergo complete metamorphosis from larva to adult.",
+    "explanationJapanese": "チョウは幼虫から成虫へ完全変態を行います。",
+    "vocabulary": [
+      {
+        "word": "metamorphosis",
+        "meaning": "変態",
+        "partOfSpeech": "general",
+        "example": "Use 'metamorphosis' in context: metamorphosis relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Butterflies undergo complete metamorphosis from larva to adult.",
+    "englishExpression": "Choose \"Complete metamorphosis\" because Butterflies undergo complete metamorphosis from larva to adult.; other options do not match this question.",
+    "knowledgeLevel": "General biology"
+  },
+  {
+    "category": "Nature & Animals",
+    "difficulty": "Medium",
+    "question": "How do bees communicate food locations to the hive?",
+    "questionJapanese": "ミツバチは餌の場所をどのように巣に伝えますか？",
+    "options": [
+      "Waggle dance",
+      "Loud buzzing",
+      "Changing color",
+      "Releasing heat"
+    ],
+    "optionsJapanese": [
+      "8の字ダンス",
+      "大きな羽音",
+      "体色変化",
+      "熱を出す"
+    ],
+    "answer": "Waggle dance",
+    "explanation": "Bees share food locations with a waggle dance.",
+    "explanationJapanese": "ミツバチは8の字ダンスで餌の場所を伝えます。",
+    "vocabulary": [
+      {
+        "word": "waggle dance",
+        "meaning": "8の字ダンス",
+        "partOfSpeech": "general",
+        "example": "Use 'waggle dance' in context: waggle dance relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Bees share food locations with a waggle dance.",
+    "englishExpression": "Choose \"Waggle dance\" because Bees share food locations with a waggle dance.; other options do not match this question.",
+    "knowledgeLevel": "General biology"
+  },
+  {
+    "category": "Nature & Animals",
+    "difficulty": "Easy",
+    "question": "Which bird cannot fly but is the fastest on land?",
+    "questionJapanese": "飛べないが地上で最速の鳥はどれですか？",
+    "options": [
+      "Ostrich",
+      "Penguin",
+      "Emu",
+      "Kiwi"
+    ],
+    "optionsJapanese": [
+      "ダチョウ",
+      "ペンギン",
+      "エミュー",
+      "キーウィ"
+    ],
+    "answer": "Ostrich",
+    "explanation": "The ostrich cannot fly but is the fastest running bird.",
+    "explanationJapanese": "ダチョウは飛べませんが最速の走る鳥です。",
+    "vocabulary": [
+      {
+        "word": "ostrich",
+        "meaning": "ダチョウ",
+        "partOfSpeech": "general",
+        "example": "Use 'ostrich' in context: ostrich relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: The ostrich cannot fly but is the fastest running bird.",
+    "englishExpression": "Choose \"Ostrich\" because The ostrich cannot fly but is the fastest running bird.; other options do not match this question.",
+    "knowledgeLevel": "General biology"
+  },
+  {
+    "category": "Nature & Animals",
+    "difficulty": "Easy",
+    "question": "Which animal can regenerate its limbs?",
+    "questionJapanese": "手足を再生できる動物はどれですか？",
+    "options": [
+      "Axolotl",
+      "Elephant",
+      "Horse",
+      "Dolphin"
+    ],
+    "optionsJapanese": [
+      "ウーパールーパー",
+      "ゾウ",
+      "ウマ",
+      "イルカ"
+    ],
+    "answer": "Axolotl",
+    "explanation": "Axolotls can regenerate limbs.",
+    "explanationJapanese": "ウーパールーパーは手足を再生できます。",
+    "vocabulary": [
+      {
+        "word": "regenerate",
+        "meaning": "再生する",
+        "partOfSpeech": "general",
+        "example": "Use 'regenerate' in context: regenerate relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Axolotls can regenerate limbs.",
+    "englishExpression": "Choose \"Axolotl\" because Axolotls can regenerate limbs.; other options do not match this question.",
+    "knowledgeLevel": "General biology"
+  },
+  {
+    "category": "Nature & Animals",
+    "difficulty": "Medium",
+    "question": "Which fish is known for its ability to inflate when threatened?",
+    "questionJapanese": "危険を感じると膨らむ魚はどれですか？",
+    "options": [
+      "Pufferfish",
+      "Salmon",
+      "Trout",
+      "Shark"
+    ],
+    "optionsJapanese": [
+      "フグ",
+      "サケ",
+      "マス",
+      "サメ"
+    ],
+    "answer": "Pufferfish",
+    "explanation": "Pufferfish inflate to deter predators.",
+    "explanationJapanese": "フグは膨らんで捕食者を威嚇します。",
+    "vocabulary": [
+      {
+        "word": "pufferfish",
+        "meaning": "フグ",
+        "partOfSpeech": "general",
+        "example": "Use 'pufferfish' in context: pufferfish relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Pufferfish inflate to deter predators.",
+    "englishExpression": "Choose \"Pufferfish\" because Pufferfish inflate to deter predators.; other options do not match this question.",
+    "knowledgeLevel": "General biology"
+  },
+  {
+    "category": "Nature & Animals",
+    "difficulty": "Medium",
+    "question": "Which insect is critical for silk production?",
+    "questionJapanese": "絹の生産に欠かせない昆虫はどれですか？",
+    "options": [
+      "Silkworm",
+      "Beetle",
+      "Dragonfly",
+      "Bee"
+    ],
+    "optionsJapanese": [
+      "カイコ",
+      "カブトムシ",
+      "トンボ",
+      "ハチ"
+    ],
+    "answer": "Silkworm",
+    "explanation": "Silkworms produce silk.",
+    "explanationJapanese": "カイコは絹を生産します。",
+    "vocabulary": [
+      {
+        "word": "silkworm",
+        "meaning": "カイコ",
+        "partOfSpeech": "general",
+        "example": "Use 'silkworm' in context: silkworm relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Silkworms produce silk.",
+    "englishExpression": "Choose \"Silkworm\" because Silkworms produce silk.; other options do not match this question.",
+    "knowledgeLevel": "General biology"
+  },
+  {
+    "category": "Nature & Animals",
+    "difficulty": "Medium",
+    "question": "Which mammal lays eggs?",
+    "questionJapanese": "卵を産む哺乳類はどれですか？",
+    "options": [
+      "Platypus",
+      "Kangaroo",
+      "Koala",
+      "Panda"
+    ],
+    "optionsJapanese": [
+      "カモノハシ",
+      "カンガルー",
+      "コアラ",
+      "パンダ"
+    ],
+    "answer": "Platypus",
+    "explanation": "The platypus is a mammal that lays eggs.",
+    "explanationJapanese": "カモノハシは卵を産む哺乳類です。",
+    "vocabulary": [
+      {
+        "word": "platypus",
+        "meaning": "カモノハシ",
+        "partOfSpeech": "general",
+        "example": "Use 'platypus' in context: platypus relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: The platypus is a mammal that lays eggs.",
+    "englishExpression": "Choose \"Platypus\" because The platypus is a mammal that lays eggs.; other options do not match this question.",
+    "knowledgeLevel": "General biology"
+  },
+  {
+    "category": "Nature & Animals",
+    "difficulty": "Hard",
+    "question": "What phenomenon causes monarch butterflies to migrate thousands of kilometers?",
+    "questionJapanese": "オオカバマダラが数千キロ移動する現象は何が原因ですか？",
+    "options": [
+      "Seasonal migration for breeding",
+      "Magnetic storms",
+      "Predation pressure",
+      "Lunar cycles"
+    ],
+    "optionsJapanese": [
+      "繁殖のための季節移動",
+      "磁気嵐",
+      "捕食圧",
+      "月の周期"
+    ],
+    "answer": "Seasonal migration for breeding",
+    "explanation": "Monarch butterflies migrate long distances seasonally to breed.",
+    "explanationJapanese": "オオカバマダラは繁殖のため季節的に長距離移動します。",
+    "vocabulary": [
+      {
+        "word": "migration",
+        "meaning": "渡り",
+        "partOfSpeech": "general",
+        "example": "Use 'migration' in context: migration relates to this topic."
+      },
+      {
+        "word": "monarch butterfly",
+        "meaning": "オオカバマダラ",
+        "partOfSpeech": "general",
+        "example": "Use 'monarch butterfly' in context: monarch butterfly relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Monarch butterflies migrate long distances seasonally to breed.",
+    "englishExpression": "Choose \"Seasonal migration for breeding\" because Monarch butterflies migrate long distances seasonally to breed.; other options do not match this question.",
+    "knowledgeLevel": "General biology"
+  },
+  {
+    "category": "Nature & Animals",
+    "difficulty": "Easy",
+    "question": "Which mammal is known for carrying its baby in a pouch?",
+    "questionJapanese": "袋で子どもを運ぶことで知られる哺乳類はどれですか？",
+    "options": [
+      "Kangaroo",
+      "Elephant",
+      "Horse",
+      "Camel"
+    ],
+    "optionsJapanese": [
+      "カンガルー",
+      "ゾウ",
+      "ウマ",
+      "ラクダ"
+    ],
+    "answer": "Kangaroo",
+    "explanation": "Kangaroos carry their young in a pouch.",
+    "explanationJapanese": "カンガルーは袋で子どもを運びます。",
+    "vocabulary": [
+      {
+        "word": "pouch",
+        "meaning": "袋",
+        "partOfSpeech": "general",
+        "example": "Use 'pouch' in context: pouch relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Kangaroos carry their young in a pouch.",
+    "englishExpression": "Choose \"Kangaroo\" because Kangaroos carry their young in a pouch.; other options do not match this question.",
+    "knowledgeLevel": "General biology"
+  },
+  {
+    "category": "Nature & Animals",
+    "difficulty": "Medium",
+    "question": "Which bird is a national symbol of the United States?",
+    "questionJapanese": "アメリカ合衆国の国鳥はどれですか？",
+    "options": [
+      "Bald eagle",
+      "Condor",
+      "Swan",
+      "Crane"
+    ],
+    "optionsJapanese": [
+      "ハクトウワシ",
+      "コンドル",
+      "ハクチョウ",
+      "ツル"
+    ],
+    "answer": "Bald eagle",
+    "explanation": "The bald eagle is the national bird of the United States.",
+    "explanationJapanese": "ハクトウワシはアメリカ合衆国の国鳥です。",
+    "vocabulary": [
+      {
+        "word": "bald eagle",
+        "meaning": "ハクトウワシ",
+        "partOfSpeech": "general",
+        "example": "Use 'bald eagle' in context: bald eagle relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: The bald eagle is the national bird of the United States.",
+    "englishExpression": "Choose \"Bald eagle\" because The bald eagle is the national bird of the United States.; other options do not match this question.",
+    "knowledgeLevel": "General biology"
+  },
+  {
+    "category": "Nature & Animals",
+    "difficulty": "Easy",
+    "question": "Which mammal is the largest in the ocean?",
+    "questionJapanese": "海で最大の哺乳類はどれですか？",
+    "options": [
+      "Blue whale",
+      "Orca",
+      "Humpback whale",
+      "Sperm whale"
+    ],
+    "optionsJapanese": [
+      "シロナガスクジラ",
+      "シャチ",
+      "ザトウクジラ",
+      "マッコウクジラ"
+    ],
+    "answer": "Blue whale",
+    "explanation": "The blue whale is the largest mammal in the ocean.",
+    "explanationJapanese": "シロナガスクジラは海で最大の哺乳類です。",
+    "vocabulary": [
+      {
+        "word": "blue whale",
+        "meaning": "シロナガスクジラ",
+        "partOfSpeech": "general",
+        "example": "Use 'blue whale' in context: blue whale relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: The blue whale is the largest mammal in the ocean.",
+    "englishExpression": "Choose \"Blue whale\" because The blue whale is the largest mammal in the ocean.; other options do not match this question.",
+    "knowledgeLevel": "General biology"
+  },
+  {
+    "category": "Nature & Animals",
+    "difficulty": "Medium",
+    "question": "Which animal is famous for changing color to camouflage?",
+    "questionJapanese": "擬態のために色を変えることで有名な動物はどれですか？",
+    "options": [
+      "Chameleon",
+      "Octopus",
+      "Salmon",
+      "Rabbit"
+    ],
+    "optionsJapanese": [
+      "カメレオン",
+      "タコ",
+      "サケ",
+      "ウサギ"
+    ],
+    "answer": "Chameleon",
+    "explanation": "Chameleons can change color to camouflage.",
+    "explanationJapanese": "カメレオンは擬態のために色を変えます。",
+    "vocabulary": [
+      {
+        "word": "chameleon",
+        "meaning": "カメレオン",
+        "partOfSpeech": "general",
+        "example": "Use 'chameleon' in context: chameleon relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Chameleons can change color to camouflage.",
+    "englishExpression": "Choose \"Chameleon\" because Chameleons can change color to camouflage.; other options do not match this question.",
+    "knowledgeLevel": "General biology"
+  },
+  {
+    "category": "Nature & Animals",
+    "difficulty": "Medium",
+    "question": "Which insect is essential for pollinating many crops?",
+    "questionJapanese": "多くの作物の受粉に不可欠な昆虫はどれですか？",
+    "options": [
+      "Honeybee",
+      "Mosquito",
+      "Ant",
+      "Cockroach"
+    ],
+    "optionsJapanese": [
+      "ミツバチ",
+      "蚊",
+      "アリ",
+      "ゴキブリ"
+    ],
+    "answer": "Honeybee",
+    "explanation": "Honeybees pollinate many crops.",
+    "explanationJapanese": "ミツバチは多くの作物を受粉します。",
+    "vocabulary": [
+      {
+        "word": "pollinate",
+        "meaning": "受粉する",
+        "partOfSpeech": "general",
+        "example": "Use 'pollinate' in context: pollinate relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Honeybees pollinate many crops.",
+    "englishExpression": "Choose \"Honeybee\" because Honeybees pollinate many crops.; other options do not match this question.",
+    "knowledgeLevel": "General biology"
+  },
+  {
+    "category": "Nature & Animals",
+    "difficulty": "Hard",
+    "question": "Which deep-sea fish is known for its bioluminescent lure?",
+    "questionJapanese": "発光する疑似餌で知られる深海魚はどれですか？",
+    "options": [
+      "Anglerfish",
+      "Tuna",
+      "Cod",
+      "Trout"
+    ],
+    "optionsJapanese": [
+      "チョウチンアンコウ",
+      "マグロ",
+      "タラ",
+      "マス"
+    ],
+    "answer": "Anglerfish",
+    "explanation": "Anglerfish use a bioluminescent lure to attract prey.",
+    "explanationJapanese": "チョウチンアンコウは発光する疑似餌で獲物を引きつけます。",
+    "vocabulary": [
+      {
+        "word": "anglerfish",
+        "meaning": "チョウチンアンコウ",
+        "partOfSpeech": "general",
+        "example": "Use 'anglerfish' in context: anglerfish relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Anglerfish use a bioluminescent lure to attract prey.",
+    "englishExpression": "Choose \"Anglerfish\" because Anglerfish use a bioluminescent lure to attract prey.; other options do not match this question.",
+    "knowledgeLevel": "General biology"
+  },
+  {
+    "category": "Nature & Animals",
+    "difficulty": "Easy",
+    "question": "Which bear species is native to the Arctic?",
+    "questionJapanese": "北極に生息するクマの種はどれですか？",
+    "options": [
+      "Polar bear",
+      "Grizzly bear",
+      "Panda",
+      "Black bear"
+    ],
+    "optionsJapanese": [
+      "ホッキョクグマ",
+      "ハイイログマ",
+      "パンダ",
+      "ツキノワグマ"
+    ],
+    "answer": "Polar bear",
+    "explanation": "Polar bears live in the Arctic.",
+    "explanationJapanese": "ホッキョクグマは北極に生息します。",
+    "vocabulary": [
+      {
+        "word": "polar bear",
+        "meaning": "ホッキョクグマ",
+        "partOfSpeech": "general",
+        "example": "Use 'polar bear' in context: polar bear relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Polar bears live in the Arctic.",
+    "englishExpression": "Choose \"Polar bear\" because Polar bears live in the Arctic.; other options do not match this question.",
+    "knowledgeLevel": "General biology"
+  },
+  {
+    "category": "Nature & Animals",
+    "difficulty": "Easy",
+    "question": "Which animal is the largest rodent?",
+    "questionJapanese": "最大の齧歯類はどの動物ですか？",
+    "options": [
+      "Capybara",
+      "Beaver",
+      "Rat",
+      "Guinea pig"
+    ],
+    "optionsJapanese": [
+      "カピバラ",
+      "ビーバー",
+      "ネズミ",
+      "モルモット"
+    ],
+    "answer": "Capybara",
+    "explanation": "Capybaras are the largest rodents.",
+    "explanationJapanese": "カピバラは最大の齧歯類です。",
+    "vocabulary": [
+      {
+        "word": "rodent",
+        "meaning": "齧歯類",
+        "partOfSpeech": "general",
+        "example": "Use 'rodent' in context: rodent relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Capybaras are the largest rodents.",
+    "englishExpression": "Choose \"Capybara\" because Capybaras are the largest rodents.; other options do not match this question.",
+    "knowledgeLevel": "General biology"
+  },
+  {
+    "category": "Nature & Animals",
+    "difficulty": "Medium",
+    "question": "Which primate is known for loud howls in South America?",
+    "questionJapanese": "南米で大きな遠吠えで知られる霊長類はどれですか？",
+    "options": [
+      "Howler monkey",
+      "Chimpanzee",
+      "Gibbon",
+      "Macaque"
+    ],
+    "optionsJapanese": [
+      "ホエザル",
+      "チンパンジー",
+      "テナガザル",
+      "マカク"
+    ],
+    "answer": "Howler monkey",
+    "explanation": "Howler monkeys are known for their loud calls.",
+    "explanationJapanese": "ホエザルは大きな声で知られます。",
+    "vocabulary": [
+      {
+        "word": "howler monkey",
+        "meaning": "ホエザル",
+        "partOfSpeech": "general",
+        "example": "Use 'howler monkey' in context: howler monkey relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Howler monkeys are known for their loud calls.",
+    "englishExpression": "Choose \"Howler monkey\" because Howler monkeys are known for their loud calls.; other options do not match this question.",
+    "knowledgeLevel": "General biology"
+  },
+  {
+    "category": "Nature & Animals",
+    "difficulty": "Medium",
+    "question": "Which reptile can glide with skin flaps between ribs?",
+    "questionJapanese": "肋骨間の皮膜で滑空できる爬虫類はどれですか？",
+    "options": [
+      "Draco lizard",
+      "Gecko",
+      "Iguana",
+      "Crocodile"
+    ],
+    "optionsJapanese": [
+      "トビトカゲ",
+      "ヤモリ",
+      "イグアナ",
+      "ワニ"
+    ],
+    "answer": "Draco lizard",
+    "explanation": "Draco lizards glide with skin flaps.",
+    "explanationJapanese": "トビトカゲは皮膜で滑空します。",
+    "vocabulary": [
+      {
+        "word": "glide",
+        "meaning": "滑空する",
+        "partOfSpeech": "general",
+        "example": "Use 'glide' in context: glide relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Draco lizards glide with skin flaps.",
+    "englishExpression": "Choose \"Draco lizard\" because Draco lizards glide with skin flaps.; other options do not match this question.",
+    "knowledgeLevel": "General biology"
+  },
+  {
+    "category": "Nature & Animals",
+    "difficulty": "Hard",
+    "question": "Which fish migrates from the Sargasso Sea to Europe?",
+    "questionJapanese": "サルガッソー海から欧州へ回遊する魚はどれですか？",
+    "options": [
+      "European eel",
+      "Salmon",
+      "Herring",
+      "Mackerel"
+    ],
+    "optionsJapanese": [
+      "ヨーロッパウナギ",
+      "サケ",
+      "ニシン",
+      "サバ"
+    ],
+    "answer": "European eel",
+    "explanation": "European eels migrate from the Sargasso Sea.",
+    "explanationJapanese": "ヨーロッパウナギはサルガッソー海から回遊します。",
+    "vocabulary": [
+      {
+        "word": "eel",
+        "meaning": "ウナギ",
+        "partOfSpeech": "general",
+        "example": "Use 'eel' in context: eel relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: European eels migrate from the Sargasso Sea.",
+    "englishExpression": "Choose \"European eel\" because European eels migrate from the Sargasso Sea.; other options do not match this question.",
+    "knowledgeLevel": "General biology"
+  },
+  {
+    "category": "Nature & Animals",
+    "difficulty": "Hard",
+    "question": "Which bird makes the longest migration from Arctic to Antarctic?",
+    "questionJapanese": "北極から南極まで最長の渡りをする鳥はどれですか？",
+    "options": [
+      "Arctic tern",
+      "Albatross",
+      "Pelican",
+      "Swan"
+    ],
+    "optionsJapanese": [
+      "キョクアジサシ",
+      "アホウドリ",
+      "ペリカン",
+      "ハクチョウ"
+    ],
+    "answer": "Arctic tern",
+    "explanation": "The Arctic tern migrates from the Arctic to the Antarctic.",
+    "explanationJapanese": "キョクアジサシは北極から南極まで渡ります。",
+    "vocabulary": [
+      {
+        "word": "Arctic tern",
+        "meaning": "キョクアジサシ",
+        "partOfSpeech": "general",
+        "example": "Use 'Arctic tern' in context: Arctic tern relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: The Arctic tern migrates from the Arctic to the Antarctic.",
+    "englishExpression": "Choose \"Arctic tern\" because The Arctic tern migrates from the Arctic to the Antarctic.; other options do not match this question.",
+    "knowledgeLevel": "General biology"
+  },
+  {
+    "category": "Nature & Animals",
+    "difficulty": "Easy",
+    "question": "Which animal is known as man’s best friend?",
+    "questionJapanese": "人間の最良の友と呼ばれる動物はどれですか？",
+    "options": [
+      "Dog",
+      "Cat",
+      "Horse",
+      "Parrot"
+    ],
+    "optionsJapanese": [
+      "犬",
+      "猫",
+      "馬",
+      "オウム"
+    ],
+    "answer": "Dog",
+    "explanation": "Dogs are often called man’s best friend.",
+    "explanationJapanese": "犬は人間の最良の友と呼ばれます。",
+    "vocabulary": [
+      {
+        "word": "dog",
+        "meaning": "犬",
+        "partOfSpeech": "general",
+        "example": "Use 'dog' in context: dog relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Dogs are often called man’s best friend.",
+    "englishExpression": "Choose \"Dog\" because Dogs are often called man’s best friend.; other options do not match this question.",
+    "knowledgeLevel": "General biology"
+  },
+  {
+    "category": "Nature & Animals",
+    "difficulty": "Easy",
+    "question": "Which animal has a pouch and hops?",
+    "questionJapanese": "袋を持ち跳ねる動物はどれですか？",
+    "options": [
+      "Kangaroo",
+      "Deer",
+      "Wolf",
+      "Bear"
+    ],
+    "optionsJapanese": [
+      "カンガルー",
+      "シカ",
+      "オオカミ",
+      "クマ"
+    ],
+    "answer": "Kangaroo",
+    "explanation": "Kangaroos hop and have pouches.",
+    "explanationJapanese": "カンガルーは跳ね、袋を持ちます。",
+    "vocabulary": [
+      {
+        "word": "hop",
+        "meaning": "跳ねる",
+        "partOfSpeech": "general",
+        "example": "Use 'hop' in context: hop relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Kangaroos hop and have pouches.",
+    "englishExpression": "Choose \"Kangaroo\" because Kangaroos hop and have pouches.; other options do not match this question.",
+    "knowledgeLevel": "General biology"
+  },
+  {
+    "category": "Nature & Animals",
+    "difficulty": "Medium",
+    "question": "Which bird is known for its mimicry, especially of sounds?",
+    "questionJapanese": "特に音まねで知られる鳥はどれですか？",
+    "options": [
+      "Lyrebird",
+      "Eagle",
+      "Sparrow",
+      "Owl"
+    ],
+    "optionsJapanese": [
+      "コトドリ",
+      "ワシ",
+      "スズメ",
+      "フクロウ"
+    ],
+    "answer": "Lyrebird",
+    "explanation": "Lyrebirds mimic many sounds.",
+    "explanationJapanese": "コトドリは多くの音をまねします。",
+    "vocabulary": [
+      {
+        "word": "mimicry",
+        "meaning": "擬態",
+        "partOfSpeech": "general",
+        "example": "Use 'mimicry' in context: mimicry relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Lyrebirds mimic many sounds.",
+    "englishExpression": "Choose \"Lyrebird\" because Lyrebirds mimic many sounds.; other options do not match this question.",
+    "knowledgeLevel": "General biology"
+  },
+  {
+    "category": "Nature & Animals",
+    "difficulty": "Medium",
+    "question": "Which mammal sleeps upside down in caves?",
+    "questionJapanese": "洞窟で逆さに眠る哺乳類はどれですか？",
+    "options": [
+      "Bat",
+      "Fox",
+      "Sheep",
+      "Lion"
+    ],
+    "optionsJapanese": [
+      "コウモリ",
+      "キツネ",
+      "ヒツジ",
+      "ライオン"
+    ],
+    "answer": "Bat",
+    "explanation": "Bats sleep upside down in caves.",
+    "explanationJapanese": "コウモリは洞窟で逆さに眠ります。",
+    "vocabulary": [
+      {
+        "word": "bat",
+        "meaning": "コウモリ",
+        "partOfSpeech": "general",
+        "example": "Use 'bat' in context: bat relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Bats sleep upside down in caves.",
+    "englishExpression": "Choose \"Bat\" because Bats sleep upside down in caves.; other options do not match this question.",
+    "knowledgeLevel": "General biology"
+  },
+  {
+    "category": "Nature & Animals",
+    "difficulty": "Medium",
+    "question": "Which marine mammal uses echolocation to navigate?",
+    "questionJapanese": "反響定位で航行する海洋哺乳類はどれですか？",
+    "options": [
+      "Dolphin",
+      "Seal",
+      "Walrus",
+      "Sea otter"
+    ],
+    "optionsJapanese": [
+      "イルカ",
+      "アザラシ",
+      "セイウチ",
+      "ラッコ"
+    ],
+    "answer": "Dolphin",
+    "explanation": "Dolphins use echolocation to navigate.",
+    "explanationJapanese": "イルカは反響定位で航行します。",
+    "vocabulary": [
+      {
+        "word": "echolocation",
+        "meaning": "反響定位",
+        "partOfSpeech": "general",
+        "example": "Use 'echolocation' in context: echolocation relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Dolphins use echolocation to navigate.",
+    "englishExpression": "Choose \"Dolphin\" because Dolphins use echolocation to navigate.; other options do not match this question.",
+    "knowledgeLevel": "General biology"
+  },
+  {
+    "category": "Nature & Animals",
+    "difficulty": "Medium",
+    "question": "Which insect forms colonies with a queen and workers?",
+    "questionJapanese": "女王と働きバチのコロニーを作る昆虫はどれですか？",
+    "options": [
+      "Honeybee",
+      "Butterfly",
+      "Mosquito",
+      "Ladybug"
+    ],
+    "optionsJapanese": [
+      "ミツバチ",
+      "チョウ",
+      "蚊",
+      "テントウムシ"
+    ],
+    "answer": "Honeybee",
+    "explanation": "Honeybees form colonies with queens and workers.",
+    "explanationJapanese": "ミツバチは女王と働きバチのコロニーを作ります。",
+    "vocabulary": [
+      {
+        "word": "colony",
+        "meaning": "コロニー",
+        "partOfSpeech": "general",
+        "example": "Use 'colony' in context: colony relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Honeybees form colonies with queens and workers.",
+    "englishExpression": "Choose \"Honeybee\" because Honeybees form colonies with queens and workers.; other options do not match this question.",
+    "knowledgeLevel": "General biology"
+  },
+  {
+    "category": "Nature & Animals",
+    "difficulty": "Hard",
+    "question": "Which animal can survive extreme dryness by estivating?",
+    "questionJapanese": "乾燥に強く夏眠で生き延びる動物はどれですか？",
+    "options": [
+      "African lungfish",
+      "Polar bear",
+      "Shark",
+      "Penguin"
+    ],
+    "optionsJapanese": [
+      "アフリカハイギョ",
+      "ホッキョクグマ",
+      "サメ",
+      "ペンギン"
+    ],
+    "answer": "African lungfish",
+    "explanation": "African lungfish estivate to survive drought.",
+    "explanationJapanese": "アフリカハイギョは夏眠で干ばつを生き延びます。",
+    "vocabulary": [
+      {
+        "word": "estivation",
+        "meaning": "夏眠",
+        "partOfSpeech": "general",
+        "example": "Use 'estivation' in context: estivation relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: African lungfish estivate to survive drought.",
+    "englishExpression": "Choose \"African lungfish\" because African lungfish estivate to survive drought.; other options do not match this question.",
+    "knowledgeLevel": "General biology"
+  },
+  {
+    "category": "Nature & Animals",
+    "difficulty": "Hard",
+    "question": "Which bird can sleep while gliding long distances over the ocean?",
+    "questionJapanese": "海上を長距離滑空しながら眠れる鳥はどれですか？",
+    "options": [
+      "Albatross",
+      "Penguin",
+      "Pelican",
+      "Seagull"
+    ],
+    "optionsJapanese": [
+      "アルバトロス",
+      "ペンギン",
+      "ペリカン",
+      "カモメ"
+    ],
+    "answer": "Albatross",
+    "explanation": "Albatrosses can sleep while gliding.",
+    "explanationJapanese": "アルバトロスは滑空しながら眠ることがあります。",
+    "vocabulary": [
+      {
+        "word": "albatross",
+        "meaning": "アルバトロス",
+        "partOfSpeech": "general",
+        "example": "Use 'albatross' in context: albatross relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Albatrosses can sleep while gliding.",
+    "englishExpression": "Choose \"Albatross\" because Albatrosses can sleep while gliding.; other options do not match this question.",
+    "knowledgeLevel": "General biology"
+  },
+  {
+    "category": "Nature & Animals",
+    "difficulty": "Hard",
+    "question": "Which reptile is famous for temperature-dependent sex determination?",
+    "questionJapanese": "温度によって性が決まることで有名な爬虫類はどれですか？",
+    "options": [
+      "Sea turtle",
+      "Snake",
+      "Chameleon",
+      "Komodo dragon"
+    ],
+    "optionsJapanese": [
+      "ウミガメ",
+      "ヘビ",
+      "カメレオン",
+      "コモドドラゴン"
+    ],
+    "answer": "Sea turtle",
+    "explanation": "Sea turtle sex can depend on nest temperature.",
+    "explanationJapanese": "ウミガメは巣の温度で性が決まることがあります。",
+    "vocabulary": [
+      {
+        "word": "temperature-dependent",
+        "meaning": "温度依存",
+        "partOfSpeech": "general",
+        "example": "Use 'temperature-dependent' in context: temperature-dependent relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Sea turtle sex can depend on nest temperature.",
+    "englishExpression": "Choose \"Sea turtle\" because Sea turtle sex can depend on nest temperature.; other options do not match this question.",
+    "knowledgeLevel": "General biology"
+  },
+  {
+    "category": "Nature & Animals",
+    "difficulty": "Hard",
+    "question": "Which fish has a symbiotic relationship cleaning larger fish?",
+    "questionJapanese": "大型魚を掃除する共生関係で知られる魚はどれですか？",
+    "options": [
+      "Cleaner wrasse",
+      "Shark",
+      "Tuna",
+      "Carp"
+    ],
+    "optionsJapanese": [
+      "ホンソメワケベラ",
+      "サメ",
+      "マグロ",
+      "コイ"
+    ],
+    "answer": "Cleaner wrasse",
+    "explanation": "Cleaner wrasse cleans other fish in symbiosis.",
+    "explanationJapanese": "ホンソメワケベラは他の魚を掃除する共生で知られます。",
+    "vocabulary": [
+      {
+        "word": "symbiosis",
+        "meaning": "共生",
+        "partOfSpeech": "general",
+        "example": "Use 'symbiosis' in context: symbiosis relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Cleaner wrasse cleans other fish in symbiosis.",
+    "englishExpression": "Choose \"Cleaner wrasse\" because Cleaner wrasse cleans other fish in symbiosis.; other options do not match this question.",
+    "knowledgeLevel": "General biology"
+  },
+  {
+    "category": "Nature & Animals",
+    "difficulty": "Easy",
+    "question": "Which animal eats bamboo and has black and white fur?",
+    "questionJapanese": "竹を食べ白黒の毛を持つ動物はどれですか？",
+    "options": [
+      "Giant panda",
+      "Koala",
+      "Sloth",
+      "Otter"
+    ],
+    "optionsJapanese": [
+      "ジャイアントパンダ",
+      "コアラ",
+      "ナマケモノ",
+      "カワウソ"
+    ],
+    "answer": "Giant panda",
+    "explanation": "Pandas eat bamboo and have black-white fur.",
+    "explanationJapanese": "パンダは竹を食べ白黒の体です。",
+    "vocabulary": [
+      {
+        "word": "panda",
+        "meaning": "パンダ",
+        "partOfSpeech": "general",
+        "example": "Use 'panda' in context: panda relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Pandas eat bamboo and have black-white fur.",
+    "englishExpression": "Choose \"Giant panda\" because Pandas eat bamboo and have black-white fur.; other options do not match this question.",
+    "knowledgeLevel": "General biology"
+  },
+  {
+    "category": "Nature & Animals",
+    "difficulty": "Easy",
+    "question": "Which mammal flies and uses echolocation?",
+    "questionJapanese": "飛び反響定位を使う哺乳類はどれですか？",
+    "options": [
+      "Bat",
+      "Dolphin",
+      "Rabbit",
+      "Cow"
+    ],
+    "optionsJapanese": [
+      "コウモリ",
+      "イルカ",
+      "ウサギ",
+      "ウシ"
+    ],
+    "answer": "Bat",
+    "explanation": "Bats fly and echolocate.",
+    "explanationJapanese": "コウモリは飛び反響定位します。",
+    "vocabulary": [
+      {
+        "word": "bat",
+        "meaning": "コウモリ",
+        "partOfSpeech": "general",
+        "example": "Use 'bat' in context: bat relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Bats fly and echolocate.",
+    "englishExpression": "Choose \"Bat\" because Bats fly and echolocate.; other options do not match this question.",
+    "knowledgeLevel": "General biology"
+  },
+  {
+    "category": "Nature & Animals",
+    "difficulty": "Medium",
+    "question": "Which bird mimics sounds impressively?",
+    "questionJapanese": "音をよくまねる鳥はどれですか？",
+    "options": [
+      "Lyrebird",
+      "Eagle",
+      "Pigeon",
+      "Swan"
+    ],
+    "optionsJapanese": [
+      "コトドリ",
+      "ワシ",
+      "ハト",
+      "ハクチョウ"
+    ],
+    "answer": "Lyrebird",
+    "explanation": "Lyrebirds mimic many sounds.",
+    "explanationJapanese": "コトドリは多くの音をまねます。",
+    "vocabulary": [
+      {
+        "word": "mimic",
+        "meaning": "まねる",
+        "partOfSpeech": "general",
+        "example": "Use 'mimic' in context: mimic relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Lyrebirds mimic many sounds.",
+    "englishExpression": "Choose \"Lyrebird\" because Lyrebirds mimic many sounds.; other options do not match this question.",
+    "knowledgeLevel": "General biology"
+  },
+  {
+    "category": "Nature & Animals",
+    "difficulty": "Medium",
+    "question": "Which primate uses sticks to fish for termites?",
+    "questionJapanese": "棒でシロアリを捕る霊長類はどれですか？",
+    "options": [
+      "Chimpanzee",
+      "Orangutan",
+      "Gibbon",
+      "Macaque"
+    ],
+    "optionsJapanese": [
+      "チンパンジー",
+      "オランウータン",
+      "テナガザル",
+      "マカク"
+    ],
+    "answer": "Chimpanzee",
+    "explanation": "Chimps use sticks to fish termites.",
+    "explanationJapanese": "チンパンジーは棒でシロアリを捕ります。",
+    "vocabulary": [
+      {
+        "word": "termite",
+        "meaning": "シロアリ",
+        "partOfSpeech": "general",
+        "example": "Use 'termite' in context: termite relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Chimps use sticks to fish termites.",
+    "englishExpression": "Choose \"Chimpanzee\" because Chimps use sticks to fish termites.; other options do not match this question.",
+    "knowledgeLevel": "General biology"
+  },
+  {
+    "category": "Nature & Animals",
+    "difficulty": "Medium",
+    "question": "Which marine mammal has tusks and lives in Arctic seas?",
+    "questionJapanese": "牙を持ち北極海に住む海洋哺乳類はどれですか？",
+    "options": [
+      "Walrus",
+      "Seal",
+      "Dolphin",
+      "Whale"
+    ],
+    "optionsJapanese": [
+      "セイウチ",
+      "アザラシ",
+      "イルカ",
+      "クジラ"
+    ],
+    "answer": "Walrus",
+    "explanation": "Walruses have tusks and live in the Arctic.",
+    "explanationJapanese": "セイウチは牙を持ち北極に住みます。",
+    "vocabulary": [
+      {
+        "word": "walrus",
+        "meaning": "セイウチ",
+        "partOfSpeech": "general",
+        "example": "Use 'walrus' in context: walrus relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Walruses have tusks and live in the Arctic.",
+    "englishExpression": "Choose \"Walrus\" because Walruses have tusks and live in the Arctic.; other options do not match this question.",
+    "knowledgeLevel": "General biology"
+  },
+  {
+    "category": "Nature & Animals",
+    "difficulty": "Hard",
+    "question": "Which fish makes bioluminescent lure in deep sea?",
+    "questionJapanese": "深海で発光する疑似餌を使う魚はどれですか？",
+    "options": [
+      "Anglerfish",
+      "Salmon",
+      "Tuna",
+      "Bass"
+    ],
+    "optionsJapanese": [
+      "チョウチンアンコウ",
+      "サケ",
+      "マグロ",
+      "スズキ"
+    ],
+    "answer": "Anglerfish",
+    "explanation": "Anglerfish use bioluminescent lures.",
+    "explanationJapanese": "チョウチンアンコウは発光する疑似餌を使います。",
+    "vocabulary": [
+      {
+        "word": "bioluminescent",
+        "meaning": "生物発光",
+        "partOfSpeech": "general",
+        "example": "Use 'bioluminescent' in context: bioluminescent relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Anglerfish use bioluminescent lures.",
+    "englishExpression": "Choose \"Anglerfish\" because Anglerfish use bioluminescent lures.; other options do not match this question.",
+    "knowledgeLevel": "General biology"
+  },
+  {
+    "category": "Nature & Animals",
+    "difficulty": "Hard",
+    "question": "Which bird migrates from Arctic to Antarctic longest distance?",
+    "questionJapanese": "北極から南極まで最長の渡りをする鳥はどれですか？",
+    "options": [
+      "Arctic tern",
+      "Albatross",
+      "Penguin",
+      "Pelican"
+    ],
+    "optionsJapanese": [
+      "キョクアジサシ",
+      "アルバトロス",
+      "ペンギン",
+      "ペリカン"
+    ],
+    "answer": "Arctic tern",
+    "explanation": "Arctic terns migrate pole to pole.",
+    "explanationJapanese": "キョクアジサシは極から極へ渡ります。",
+    "vocabulary": [
+      {
+        "word": "Arctic tern",
+        "meaning": "キョクアジサシ",
+        "partOfSpeech": "general",
+        "example": "Use 'Arctic tern' in context: Arctic tern relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Arctic terns migrate pole to pole.",
+    "englishExpression": "Choose \"Arctic tern\" because Arctic terns migrate pole to pole.; other options do not match this question.",
+    "knowledgeLevel": "General biology"
+  },
+  {
+    "category": "Nature & Animals",
+    "difficulty": "Hard",
+    "question": "Which reptile lays eggs and glides between trees?",
+    "questionJapanese": "卵を産み木々を滑空する爬虫類はどれですか？",
+    "options": [
+      "Draco lizard",
+      "Crocodile",
+      "Snake",
+      "Tortoise"
+    ],
+    "optionsJapanese": [
+      "トビトカゲ",
+      "ワニ",
+      "ヘビ",
+      "リクガメ"
+    ],
+    "answer": "Draco lizard",
+    "explanation": "Draco lizards glide with skin flaps.",
+    "explanationJapanese": "トビトカゲは皮膜で滑空します。",
+    "vocabulary": [
+      {
+        "word": "glide",
+        "meaning": "滑空",
+        "partOfSpeech": "general",
+        "example": "Use 'glide' in context: glide relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Draco lizards glide with skin flaps.",
+    "englishExpression": "Choose \"Draco lizard\" because Draco lizards glide with skin flaps.; other options do not match this question.",
+    "knowledgeLevel": "General biology"
+  },
+  {
+    "category": "Nature & Animals",
+    "difficulty": "Hard",
+    "question": "Which mammal can survive drought by estivating in mud?",
+    "questionJapanese": "泥に潜って夏眠し干ばつを生き延びる哺乳類はどれですか？",
+    "options": [
+      "African lungfish",
+      "Camel",
+      "Elephant",
+      "Tiger"
+    ],
+    "optionsJapanese": [
+      "アフリカハイギョ",
+      "ラクダ",
+      "ゾウ",
+      "トラ"
+    ],
+    "answer": "African lungfish",
+    "explanation": "Lungfish estivate in mud.",
+    "explanationJapanese": "ハイギョは泥で夏眠します。",
+    "vocabulary": [
+      {
+        "word": "estivation",
+        "meaning": "夏眠",
+        "partOfSpeech": "general",
+        "example": "Use 'estivation' in context: estivation relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Lungfish estivate in mud.",
+    "englishExpression": "Choose \"African lungfish\" because Lungfish estivate in mud.; other options do not match this question.",
+    "knowledgeLevel": "General biology"
+  },
+  {
+    "category": "Nature & Animals",
+    "difficulty": "Hard",
+    "question": "Which insect performs a waggle dance to share food locations?",
+    "questionJapanese": "餌の場所を共有するために8の字ダンスを行う昆虫はどれですか？",
+    "options": [
+      "Honeybee",
+      "Ant",
+      "Butterfly",
+      "Moth"
+    ],
+    "optionsJapanese": [
+      "ミツバチ",
+      "アリ",
+      "チョウ",
+      "ガ"
+    ],
+    "answer": "Honeybee",
+    "explanation": "Honeybees share food via waggle dance.",
+    "explanationJapanese": "ミツバチは8の字ダンスで餌を伝えます。",
+    "vocabulary": [
+      {
+        "word": "waggle dance",
+        "meaning": "8の字ダンス",
+        "partOfSpeech": "general",
+        "example": "Use 'waggle dance' in context: waggle dance relates to this topic."
+      }
+    ],
+    "knowledgeInsight": "Key takeaway: Honeybees share food via waggle dance.",
+    "englishExpression": "Choose \"Honeybee\" because Honeybees share food via waggle dance.; other options do not match this question.",
+    "knowledgeLevel": "General biology"
+  }
+]
