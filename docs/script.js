@@ -1,4 +1,70 @@
 document.addEventListener('DOMContentLoaded', () => {
+    // --- Loading Screen ---
+    const loadingScreen = document.getElementById('loading-screen');
+
+    window.addEventListener('load', () => {
+        setTimeout(() => {
+            loadingScreen.classList.add('hidden');
+        }, 800); // Delay for effect
+    });
+
+    // Fallback: hide after 3 seconds max
+    setTimeout(() => {
+        loadingScreen.classList.add('hidden');
+    }, 3000);
+
+    // --- Scroll Progress Bar ---
+    const scrollProgress = document.getElementById('scroll-progress');
+
+    window.addEventListener('scroll', () => {
+        const scrollTop = window.scrollY;
+        const docHeight = document.documentElement.scrollHeight - window.innerHeight;
+        const scrollPercent = (scrollTop / docHeight) * 100;
+        scrollProgress.style.width = scrollPercent + '%';
+    });
+
+    // --- Hamburger Menu ---
+    const hamburger = document.getElementById('hamburger');
+    const navLinks = document.getElementById('nav-links');
+
+    hamburger.addEventListener('click', () => {
+        hamburger.classList.toggle('active');
+        navLinks.classList.toggle('active');
+    });
+
+    // Close menu when clicking a link
+    navLinks.querySelectorAll('a').forEach(link => {
+        link.addEventListener('click', () => {
+            hamburger.classList.remove('active');
+            navLinks.classList.remove('active');
+        });
+    });
+
+    // --- Typewriter Effect ---
+    const typewriterElement = document.getElementById('typewriter');
+    const text = '知性を磨く、\n英語の旅へ。';
+    let charIndex = 0;
+
+    function typeWriter() {
+        if (charIndex < text.length) {
+            const char = text[charIndex];
+            if (char === '\n') {
+                typewriterElement.innerHTML += '<br>';
+            } else {
+                typewriterElement.innerHTML += char;
+            }
+            charIndex++;
+            setTimeout(typeWriter, 100);
+        } else {
+            setTimeout(() => {
+                typewriterElement.classList.add('done');
+            }, 1000);
+        }
+    }
+
+    // Start typewriter after loading screen
+    setTimeout(typeWriter, 1200);
+
     // Smooth scrolling for anchor links
     document.querySelectorAll('a[href^="#"]').forEach(anchor => {
         anchor.addEventListener('click', function (e) {

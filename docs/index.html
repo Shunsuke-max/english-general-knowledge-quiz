@@ -15,10 +15,29 @@
 </head>
 
 <body>
+    <!-- Loading Screen -->
+    <div class="loading-screen" id="loading-screen">
+        <div class="loader">
+            <div class="loader-ring"></div>
+            <div class="loader-text">WorldWise English</div>
+        </div>
+    </div>
+
+    <!-- Scroll Progress Bar -->
+    <div class="scroll-progress" id="scroll-progress"></div>
+
     <header class="header">
         <nav class="nav container">
             <div class="logo">WorldWise English</div>
-            <ul class="nav-links">
+
+            <!-- Hamburger Menu Button -->
+            <button class="hamburger" id="hamburger" aria-label="メニューを開く">
+                <span class="hamburger-line"></span>
+                <span class="hamburger-line"></span>
+                <span class="hamburger-line"></span>
+            </button>
+
+            <ul class="nav-links" id="nav-links">
                 <li><a href="#features">特徴</a></li>
                 <li><a href="#how-it-works">使い方</a></li>
                 <li><a href="#download" class="btn btn-small">ダウンロード</a></li>
@@ -31,7 +50,9 @@
             <canvas id="particles-canvas"></canvas>
             <div class="container hero-content">
                 <div class="hero-text">
-                    <h1 class="fade-in text-gradient">知性を磨く、<br>英語の旅へ。</h1>
+                    <h1 class="fade-in text-gradient">
+                        <span class="typewriter" id="typewriter"></span>
+                    </h1>
                     <p class="fade-in delay-1">歴史、科学、芸術...<br>世界の教養を英語で学ぶ、<br>大人のためのクイズアプリ。</p>
 
                     <div class="hero-badge fade-in delay-2">
